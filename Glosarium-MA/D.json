@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Debitor'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 37 Tahun 2004",
+    "response": "Debitor adalah orang yang mempunyai utang karena perjanjian atau undang-undang yang pelunasannya dapat ditagih di muka pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Debitor Pailit'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 37 Tahun 2004",
+    "response": "Debitor pailit adalah debitor yang sudah dinyatakan pailit dengan putusan Pengadilan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Diskresi' dalam hukum administrasi pemerintahan?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 30 Tahun 2014",
+    "response": "Diskresi adalah Keputusan dan/atau Tindakan yang ditetapkan dan/atau dilakukan oleh Pejabat Pemerintahan untuk mengatasi persoalan konkret yang dihadapi dalam penyelenggaraan pemerintahan dalam hal peraturan perundang-undangan yang memberikan pilihan, tidak mengatur, tidak lengkap atau tidak jelas, dan/atau adanya stagnasi pemerintahan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Diversi'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2012",
+    "response": "Diversi adalah pengalihan penyelesaian perkara Anak dari proses peradilan pidana ke proses di luar peradilan pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Dokumen'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 10 Tahun 2020",
+    "response": "Dokumen adalah sesuatu yang ditulis atau tulisan, dalam bentuk tulisan tangan, cetakan, atau elektronik, yang dapat dipakai sebagai alat bukti atau keterangan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Dokumen Elektronik'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2008",
+    "response": "Dokumen Elektronik adalah setiap Informasi Elektronik yang dibuat, diteruskan, dikirimkan, diterima, atau disimpan dalam bentuk analog, digital, elektromagnetik, optikal, atau sejenisnya, yang dapat dilihat, ditampilkan, dan/atau didengar melalui Komputer atau Sistem Elektronik, termasuk tetapi tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto atau sejenisnya, huruf, tanda, angka, Kode Akses, simbol atau perforasi yang memiliki makna atau arti atau dapat dipahami oleh orang yang mampu memahaminya."
+  }
+]

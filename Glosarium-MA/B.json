@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan atau Pejabat Tata Usaha Negara'.",
+    "context": "Glosarium Hukum / UU Nomor 51 Tahun 2009",
+    "response": "Badan atau Pejabat Tata Usaha Negara adalah badan atau pejabat yang melaksanakan urusan pemerintahan berdasarkan peraturan perundang-undangan yang berlaku."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Badan Bank Tanah'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 18 Tahun 2021",
+    "response": "Badan Bank Tanah adalah badan khusus (sui generis) yang merupakan badan hukum Indonesia yang dibentuk oleh Pemerintah Pusat yang diberi kewenangan khusus untuk mengelola Tanah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan Peradilan'.",
+    "context": "Glosarium Hukum / UU Nomor 18 Tahun 2011",
+    "response": "Badan Peradilan adalah penyelenggara peradilan di bawah Mahkamah Agung dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, dan lingkungan peradilan tata usaha negara, serta pengadilan khusus yang berada dalam lingkungan peradilan tersebut."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan Publik'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 14 Tahun 2008",
+    "response": "Badan Publik adalah lembaga eksekutif, legislatif, yudikatif, dan badan lain yang fungsi dan tugas pokoknya berkaitan dengan penyelenggaraan negara, yang sebagian atau seluruh dananya bersumber dari Anggaran Pendapatan dan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Daerah, atau organisasi nonpemerintah sepanjang sebagian atau seluruh dananya bersumber dari Anggaran Pendapatan dan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Daerah, sumbangan masyarakat, dan/atau luar negeri."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan Usaha'.",
+    "context": "Glosarium Hukum / UU Cipta Kerja",
+    "response": "Badan Usaha adalah perusahan berbentuk badan hukum yang menjalankan jenis usaha yang bersifat tetap, terus menerus dan didirikan sesuai dengan peraturan perundang-undangan yang berlaku serta bekerja dan berkedudukan dalam wilayah Negara Kesatuan Republik Indonesia."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Bantuan Hukum'?",
+    "context": "Glosarium Hukum / UU 48 Tahun 2009",
+    "response": "Bantuan hukum adalah pemberian jasa hukum (secara cuma-cuma) yang meliputi pemberian konsultasi hukum, menjalankan kuasa, mewakili, mendampingi, membela, melakukan tindakan hukum lain untuk kepentingan pencari keadilan (yang tidak mampu)."
+  }
+]
