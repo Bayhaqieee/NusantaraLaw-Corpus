@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Ekonomi Syariah'.",
+    "context": "Glosarium Hukum / Perma Nomor 14 Tahun 2016",
+    "response": "Ekonomi Syariah adalah usaha atau kegiatan yang dilakukan oleh orang perorang, kelompok orang, badan usaha yang berbadan hukum atau tidak berbadan hukum dalam rangka memenuhi kebutuhan yang bersifat komersial dan tidak komersial menurut prinsip syariah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksploitasi'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 21 Tahun 2007",
+    "response": "Eksploitasi adalah tindakan dengan atau tanpa persetujuan korban yang meliputi tetapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa perbudakan, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Eksploitasi Seksual'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 21 Tahun 2007",
+    "response": "Eksploitasi Seksual adalah segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran dan percabulan."
+  }
+]
