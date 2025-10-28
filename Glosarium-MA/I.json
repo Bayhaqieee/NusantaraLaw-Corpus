@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ikhtilath'.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "Ikhtilath adalah perbuatan bermesraan seperti bercumbu, bersentuh-sentuhan, berpelukan dan berciuman antara laki - laki dan perempuan yang bukan suami istri dengan kerelaan kedua belah pihak, baik pada tempat tertutup atau terbuka."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Imbal Jasa Kafalah (IJK)'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Imbal Jasa Kafalah, yang selanjutnya disingkat IJK, adalah sejumlah uang yang diterima oleh Perusahaan Penjaminan Syariah dan UUS dari Terjamin dalam rangka kegiatan Penjaminan Syariah."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Imbal Jasa Kafalah Ulang (IJKU)'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Imbal Jasa Kafalah Ulang, yang selanjutnya disingkat IJKU, adalah sejumlah uang yang diterima oleh Perusahaan Penjaminan Ulang Syariah dari Perusahaan Penjaminan Syariah dan UUS dalam rangka kegiatan Penjaminan Ulang Syariah."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Imbal Jasa Penjamin (IJP)'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Imbal Jasa Penjaminan, yang selanjutnya disingkat IJP, adalah sejumlah uang yang diterima oleh Perusahaan Penjaminan dari Terjamin dalam rangka kegiatan Penjaminan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Imbal Jasa Penjamin Ulang (IJPU)'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Imbal Jasa Penjaminan Ulang, yang selanjutnya disingkat IJPU, adalah sejumlah uang yang diterima oleh Perusahaan Penjaminan Ulang dari Perusahaan Penjaminan dalam rangka kegiatan Penjaminan Ulang."
+  }
+]
