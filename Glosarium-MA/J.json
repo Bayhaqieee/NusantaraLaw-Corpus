@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Jabatan Karier'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 43 Tahun 1999",
+    "response": "Jabatan Karier adalah jabatan struktural dan fungsional yang hanya diduduki Pegawai Negeri Sipil setelah memenuhi syarat yang ditentukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Jabatan Negeri'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 43 Tahun 1999",
+    "response": "Jabatan Negeri adalah jabatan dalam bidang eksekutif yang ditetapkan berdasarkan peraturan perundang-undangan, termasuk di dalamnya jabatan dalam kesekretariatan lembaga tertinggi atau tinggi negara dan kepaniteraan pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Jabatan Organik'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 43 Tahun 1999",
+    "response": "Jabatan organik adalah jabatan negeri yang menjadi tugas pokok pada suatu satuan organisasi pemerintah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Jaksa'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 8 Tahun 1981",
+    "response": "Jaksa adalah pejabat yang diberi wewenang oleh undang-undang untuk bertindak sebagai penuntut umum serta melaksanakan putusan pengadilan yang telah memperoleh kekuatan hukum tetap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Jaminan Fidusia'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 42 Tahun 1999",
+    "response": "Hak jaminan atas benda bergerak baik yang berwujud maupun yang tidak berwujud dan benda tidak bergerak khususnya bangunan yang tidak dapat dibebani hak tanggungan sebagaimana dimaksud dalam Undang-undang Nomor 4 Tahun 1996 tentang Hak Tanggungan yang tetap berada dalam penguasaan Pemberi Fidusia, sebagai agunan bagi pelunasan utang tertentu, yang memberikan kedudukan yang diutamakan kepada Penerima Fidusia terhadap kreditor lainnya."
+  },
+  {
+    "instruction": "Jelaskan ruang lingkup 'Jangkauan Keberlakuan Administrasi dan Persidangan Perkara Kasasi dan Peninjauan Kembali secara Elektronik di Mahkamah Agung'.",
+    "context": "Glosarium Hukum / Perma Nomor 6 Tahun 2022",
+    "response": "Pengaturan administrasi dan persidangan perkara kasasi dan peninjauan kembali secara elektronik di Mahkamah Agung berlaku untuk: a) kasasi atau peninjauan kembali perkara perdata umum, perdata khusus, perdata agama, tata usaha negara dan banding arbitrase; b) kasasi atau peninjauan kembali perkara pidana umum, pidana khusus, jinayat, dan pidana militer; c) kasasi demi kepentingan hukum untuk perkara pidana, jinayat, dan pidana militer; d) peninjauan kembali atas putusan pengadilan pajak."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Jarimah'.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "Jarimah adalah perbuatan yang dilarang oleh Syariat Islam yang dalam Qanun ini diancam dengan ‘Uqubat Hudud dan/atau Ta’zir."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Justice Collaborator' (Saksi Pelaku)?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 31 Tahun 2014",
+    "response": "Justice Collaborator (Saksi Pelaku) adalah tersangka, terdakwa, atau terpidana yang bekerja sama dengan penegak hukum untuk mengungkap suatu tindak pidana dalam kasus yang sama."
+  }
+]
