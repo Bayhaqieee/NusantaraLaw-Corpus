@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "Apa yang dimaksud dengan 'Legalisasi Apostille'?",
+    "context": "Glosarium Hukum / Hukum Internasional",
+    "response": "Legalisasi apostille adalah tindakan untuk mengesahkan tanda tangan Pejabat, pengesahan cap, dan/atau segel resmi dalam dokumen yang dimohonkan berdasarkan verifikasi."
+  },
+  {
+    "instruction": "Apa fungsi dari 'Lembaga Kerja Sama Bipartit'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Lembaga kerja sama bipartit adalah forum komunikasi dan konsultasi mengenai hal-hal yang berkaitan dengan hubungan industrial di satu perusahaan yang anggotanya terdiri dari pengusaha dan serikat pekerja/serikat buruh yang sudah tercatat instansi yang bertanggung jawab di bidang ketenagakerjaan atau unsur pekerja/buruh."
+  },
+  {
+    "instruction": "Apa fungsi dari 'Lembaga Kerja Sama Tripartit'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Lembaga kerja sama tripartit adalah forum komunikasi, konsultasi dan musyawarah tentang masalah ketenagakerjaan yang anggotanya terdiri dari unsur organisasi pengusaha, serikat pekerja/serikat buruh, dan pemerintah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Lembaga Penjamin'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Lembaga Penjamin adalah Perusahaan Penjaminan, Perusahaan Penjaminan Syariah, Perusahaan Penjaminan Ulang, dan Perusahaan Penjaminan Ulang Syariah yang menjalankan kegiatan penjaminan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Lembaga Penyelenggaraan Kesejahteraan Sosial (LPKS)'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 65 Tahun 2015",
+    "response": "Lembaga Penyelenggaraan Kesejahteraan Sosial (LPKS) adalah lembaga atau tempat pelayanan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial bagi Anak."
+  },
+  {
+    "instruction": "Jelaskan konsep 'Lex Arbitri' dalam arbitrase internasional.",
+    "context": "Glosarium Hukum / Arbitrase",
+    "response": "Lex arbitri adalah hukum yang berlaku untuk arbitrase, mencakup isu internal maupun eksternal yang terkait prosedural suatu proses arbitrase. Berdasarkan New York Convention 1958, lex arbitri dapat diartikan sebagai kompetensi absolut untuk membatalkan suatu putusan arbitrase yang terletak pada pengadilan tempat kedudukan arbitrase (arbitral seat). Artinya, pengadilan negara selain arbitral seat tidak dapat mengadili pembatalan putusan arbitrase."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Liwath'.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "Liwath adalah perbuatan seorang laki-laki dengan cara memasukkan zakarnya kedalam dubur laki-laki yang lain dengan kerelaan kedua belah pihak."
+  }
+]
