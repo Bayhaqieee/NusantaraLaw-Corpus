@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Maisir'.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "Maisir adalah perbuatan yang mengandung unsur taruhan dan/atau unsur untung-untungan yang dilakukan antara 2 (dua) pihak atau lebih, disertai kesepakatan bahwa pihak yang menang akan mendapat bayaran/keuntungan tertentu dari pihak yang kalah baik secara langsung atau tidak langsung."
+  },
+  {
+    "instruction": "Apa tugas dari 'Majelis Kehormatan Hakim'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 18 Tahun 2011",
+    "response": "Majelis Kehormatan Hakim adalah perangkat yang dibentuk oleh Mahkamah Agung dan Komisi Yudisial yang bertugas memeriksa dan memutus adanya dugaan pelanggaran Kode Etik dan/atau Pedoman Perilaku Hakim."
+  },
+  {
+    "instruction": "Jelaskan definisi dari tindak pidana 'Makar'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2023",
+    "response": "Makar adalah niat untuk melakukan serangan yang telah diwujudkan dengan persiapan perbuatan tersebut."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Mediasi' di pengadilan?",
+    "context": "Glosarium Hukum / Peraturan Mahkamah Agung Nomor 1 Tahun 2016",
+    "response": "Mediasi adalah cara penyelesaian sengketa melalui proses perundingan untuk memperoleh kesepakatan Para Pihak dengan dibantu oleh Mediator."
+  },
+  {
+    "instruction": "Jelaskan larangan 'Merangkap Jabatan' bagi seorang Hakim.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 48 Tahun 2009",
+    "response": "Hakim dilarang merangkap jabatan sebagai wali, pengampu, pejabat yang berkaitan dengan suatu perkara yang diperiksa olehnya, pengusaha, dan advokat, kecuali Undang-Undang menentukan lain. Rangkap jabatan sebagai pengusaha misalnya menjadi direktur perusahaan atau pemegang saham."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Meterai'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 10 Tahun 2020",
+    "response": "Meterai adalah label atau carik dalam bentuk tempel, elektronik, atau bentuk lainnya yang memiliki ciri dan mengandung unsur pengaman yang dikeluarkan oleh Pemerintah Republik Indonesia, yang digunakan untuk membayar pajak atas Dokumen yang dibuat sebagai alat untuk menerangkan kejadian perdata atau sebagai alat bukti di pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Mogok Kerja'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara bersama-sama dan/atau oleh serikat pekerja/serikat buruh untuk menghentikan atau memperlambat pekerjaan."
+  }
+]
