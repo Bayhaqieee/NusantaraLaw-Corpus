@@ -193,5 +193,130 @@
     "instruction": "Apa yang dimaksud dengan 'Peraturan Daerah Kabupaten/Kota'?",
     "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
     "response": "Peraturan Daerah Kabupaten/Kota adalah Peraturan Perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat Daerah Kabupaten/Kota dengan persetujuan bersama Bupati/Walikota."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Peraturan Daerah Provinsi'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Peraturan Daerah Provinsi adalah Peraturan Perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat Daerah Provinsi dengan persetujuan bersama Gubernur."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Peraturan Pemerintah' dalam hierarki peraturan perundang-undangan.",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Peraturan Pemerintah adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden untuk menjalankan Undang-Undang sebagaimana mestinya."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Peraturan Pemerintah Pengganti Undang-Undang' (Perppu)?",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Peraturan Pemerintah Pengganti Undang-Undang adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden dalam hal ihwal kegentingan yang memaksa."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Peraturan Perundang-undangan'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Peraturan Perundang-undangan adalah peraturan tertulis yang memuat norma hukum yang mengikat secara umum dan dibentuk atau ditetapkan oleh lembaga negara atau pejabat yang berwenang melalui prosedur yang ditetapkan dalam Peraturan Perundang-undangan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Peraturan Perusahaan'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang memuat syarat syarat kerja dan tata tertib perusahaan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Peraturan Presiden'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Peraturan Presiden adalah Peraturan Perundangundangan yang ditetapkan oleh Presiden untuk menjalankan perintah Peraturan Perundangundangan yang lebih tinggi atau dalam menyelenggarakan kekuasaan pemerintahan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Perdagangan Luar Negeri'?",
+    "context": "Glosarium Hukum / UU No. 7 Tahun 2014",
+    "response": "Perdagangan Luar Negeri adalah perdagangan yang mencakup kegiatan ekspor dan/atau impor atas barang dan/atau jasa yang melampaui batas wilayah negara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari tindak pidana 'Perdagangan Orang'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 21 Tahun 2007",
+    "response": "Perdagangan Orang adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Perjanjian Perdagangan Internasional' (PPI)?",
+    "context": "Glosarium Hukum / Peraturan Menteri Perdagangan RI No. 7 Tahun 2021",
+    "response": "Perjanjian Perdagangan Internasional (PPI) merupakan perjanjian dalam bentuk dan nama tertentu, yang diatur dalam hukum internasional yang dibuat secara tertulis serta menimbulkan hak dan kewajiban di bidang hukum publik untuk meningkatkan akses pasar serta dalam rangka melindungi dan mengamankan kepentingan nasional."
+  },
+  {
+    "instruction": "Apa saja yang termasuk dalam 'Perkara Ekonomi Syariah'?",
+    "context": "Glosarium Hukum / Peraturan Mahkamah Agung Nomor 14 Tahun 2016",
+    "response": "Perkara Ekonomi Syariah adalah perkara di bidang ekonomi syariah meliputi bank syariah, lembaga keuangan mikro syariah, asuransi syariah, reasuransi syariah, reksadana syariah, obligasi syariah, surat berharga berjangka syariah, sekuritas syariah, pembiayaan syariah, penggadaian syariah, dana pensiun lembaga keuangan syariah, bisnis syariah, termasuk wakaf, zakat, infaq, dan shadaqah yang bersifat komersial, baik yang bersifat kontensius maupun volunteer."
+  },
+  {
+    "instruction": "Jelaskan definisi 'Perkawinan' menurut Undang-Undang.",
+    "context": "Glosarium Hukum / Undang-Undang No. 1 Tahun 1974",
+    "response": "Perkawinan adalah ikatan lahir batin antara seorang pria dan seorang wanita sebagai suami istri dengan tujuan membentuk keluarga atau rumah tangga yang bahagia dan kekal berdasarkan Ketuhanan Yang Maha Esa."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Persangkaan Palsu'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2023",
+    "response": "Persangkaan Palsu adalah Tindakan seseorang dengan suatu perbuatan menimbulkan persangkaan bahwa orang lain melakukan Tindak Pidana, sedangkan persangkaan tersebut tidak benar."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Perselisihan antar Serikat Pekerja/Serikat Buruh'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 2 Tahun 2004",
+    "response": "Perselisihan antar serikat pekerja/serikat buruh adalah perselisihan antara serikat pekerja/serikat buruh dengan serikat pekerja/serikat buruh lain hanya dalam satu perusahaan, karena tidak adanya persesuaian paham mengenai keanggotaan, pelaksanaan hak, dan kewajiban keserikatpekerjaan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Perselisihan Hubungan Industrial'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 2 Tahun 2004",
+    "response": "Perselisihan Hubungan Industrial adalah perbedaan pendapat yang mengakibatkan pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, perselisihan pemutusan hubungan kerja dan perselisihan antar serikat pekerja/serikat buruh dalam satu perusahaan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Perselisihan Kepentingan'?",
+    "context": "Glosarium Hukum / UU No. 2 Tahun 2004",
+    "response": "Perselisihan kepentingan adalah perselisihan yang timbul dalam hubungan kerja karena tidak adanya kesesuaian pendapat mengenai pembuatan, dan/atau perubahan syarat-syarat kerja yang ditetapkan dalam perjanjian kerja, atau peraturan perusahaan, atau perjanjian kerja bersama."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Perselisihan Pemutusan Hubungan Kerja (PHK)'?",
+    "context": "Glosarium Hukum / UU No. 2 Tahun 2004",
+    "response": "Perselisihan PHK adalah perselisihan yang timbul karena tidak adanya kesesuaian pendapat mengenai pengakhiran hubungan kerja yang dilakukan oleh salah satu pihak."
+  },
+  {
+    "instruction": "Jelaskan tentang 'Persidangan Kasasi dan/atau Peninjauan Kembali secara Elektronik'.",
+    "context": "Glosarium Hukum / Perma Nomor 6 Tahun 2022",
+    "response": "Persidangan Kasasi dan/atau Peninjauan Kembali secara Elektronik adalah serangkaian proses memeriksa dan mengadili perkara kasasi dan peninjauan kembali oleh Mahkamah Agung yang dilaksanakan dengan dukungan teknologi informasi dan komunikasi."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Perundingan Bipartit'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 2 Tahun 2004",
+    "response": "Perundingan bipartit adalah perundingan antara pekerja/buruh atau serikat pekerja/serikat buruh dengan pengusaha untuk menyelesaikan perselisihan hubungan industrial."
+  },
+  {
+    "instruction": "Siapakah yang dimaksud dengan 'Petugas Pemasyarakatan'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 39 Tahun 2020",
+    "response": "Petugas Pemasyarakatan adalah pegawai negeri sipil yang melaksanakan tugas di bidang pembinaan, pengamanan, dan pembimbingan warga binaan pemasyarakatan."
+  },
+  {
+    "instruction": "Siapa saja yang termasuk dalam 'Pimpinan Mahkamah Agung'?",
+    "context": "Glosarium Hukum / Undang-Undang Mahkamah Agung",
+    "response": "Pimpinan Mahkamah Agung adalah Ketua, Wakil Ketua MA Bidang Yudisial, Ketua Mahkamah Agung Bidang Non Yudisial, dan para Ketua Muda (Ketua Kamar)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Politik Luar Negeri' Indonesia.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 37 Tahun 1999",
+    "response": "Politik Luar Negeri adalah kebijakan, sikap, dan langkah Pemerintah Republik Indonesia yang diambil dalam melakukan hubungan dengan negara lain, organisasi international, dan subyek hukum internasional lainnya dalam rangka menghadapi masalah internasional guna mencapai tujuan nasional."
+  },
+  {
+    "instruction": "Jelaskan konsep 'Prejudicieel Geschil' dalam hukum acara.",
+    "context": "Glosarium Hukum / SEMA Nomor 04 Tahun 1980",
+    "response": "Prejudicieel Geschil adalah masalah (biasanya perdata) yang harus dipecahkan terlebih dahulu sebelum dapat mulai mengadili pokok perkara. Mahkamah Agung membedakan antara 'question prejudicielles a l'action' (menyangkut perbuatan pidana tertentu dimana ketentuan perdata harus diputuskan dulu sebelum tuntutan pidana, seperti pasal 284 KUHP) dan 'question prejudicielles au judgement' (permasalahan di pasal 81 KUHP yang memberi kewenangan hakim pidana menangguhkan pemeriksaan menunggu putusan perdata)."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Program Legislasi Daerah (Prolegda)'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Program Legislasi Daerah yang selanjutnya disebut Prolegda adalah instrumen perencanaan program pembentukan Peraturan Daerah Provinsi atau Peraturan Daerah Kabupaten/Kota yang disusun secara terencana, terpadu, dan sistematis."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Program Legislasi Nasional (Prolegnas)'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Program Legislasi Nasional (Prolegnas) adalah instrumen perencanaan program pembentukan Undang-Undang yang disusun secara terencana, terpadu, dan sistematis."
+  },
+  {
+    "instruction": "Kapan suatu putusan pengadilan dinyatakan sebagai 'Putusan Berkekuatan Hukum Tetap'?",
+    "context": "Glosarium Hukum / UU No 5 Tahun 2020",
+    "response": "Putusan pengadilan yang telah memperoleh kekuatan hukum tetap adalah: 1. putusan pengadilan tingkat pertama yang tidak diajukan banding atau kasasi dalam waktu yang ditentukan; 2. putusan pengadilan tingkat banding yang tidak diajukan kasasi dalam waktu yang ditentukan; atau 3. putusan kasasi."
   }
 ]
