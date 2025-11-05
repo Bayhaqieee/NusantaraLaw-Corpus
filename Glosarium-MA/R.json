@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "Siapakah yang dimaksud dengan 'Rakyat Pencari Keadilan'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 8 Tahun 2004",
+    "response": "Rakyat pencari keadilan adalah setiap orang baik warga negara Indonesia maupun orang asing yang mencari keadilan pada pengadilan di Indonesia."
+  },
+  {
+    "instruction": "Jelaskan asas 'Rebus sic stantibus' dalam hukum internasional.",
+    "context": "Glosarium Hukum / Konvensi Wina 1969",
+    "response": "Rebus sic stantibus adalah asas yang menyatakan bahwa suatu perjanjian sah berlaku jika kondisinya masih sama seperti saat perjanjian itu dibuat. Jika terjadi perubahan keadaan yang mendasar, perjanjian tersebut menjadi tidak lagi sah atau dapat diakhiri. Asas ini merupakan pengecualian dari asas pacta sunt servanda."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Rehabilitasi' dalam konteks hukum?",
+    "context": "Glosarium Hukum / UU 48 Tahun 2009",
+    "response": "Rehabilitasi adalah pemulihan hak seseorang berdasarkan putusan pengadilan pada kedudukan semula yang menyangkut kehormatan, nama baik, atau hak-hak lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Restitusi'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 21 Tahun 2007",
+    "response": "Restitusi adalah pembayaran ganti kerugian yang dibebankan kepada pelaku berdasarkan putusan pengadilan yang berkekuatan hukum tetap atas kerugian materiil dan/atau immateriil yang diderita korban atau ahli warisnya."
+  },
+  {
+    "instruction": "Apa fungsi dari 'Rumah Penyimpanan Benda Sitaan Negara (RUPBASAN)'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 58 Tahun 2010",
+    "response": "Rumah Penyimpanan Benda Sitaan Negara (RUPBASAN) adalah tempat benda yang disita oleh Negara untuk keperluan proses peradilan."
+  },
+  {
+    "instruction": "Apa fungsi dari 'Rumah Tahanan Negara (RUTAN)'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 58 Tahun 2010",
+    "response": "Rumah Tahanan Negara (RUTAN) adalah tempat tersangka atau terdakwa ditahan selama proses penyidikan, penuntutan, dan pemeriksaan di sidang pengadilan."
+  }
+]

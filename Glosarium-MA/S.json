@@ -1,0 +1,57 @@
+[
+  {
+    "instruction": "Jelaskan asas 'Sederhana' dalam peradilan.",
+    "context": "Glosarium Hukum / UU 48 Tahun 2009",
+    "response": "Asas sederhana berarti pemeriksaan dan penyelesaian perkara dilakukan dengan cara yang efesien dan efektif."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Sengketa Kewenangan' dalam administrasi pemerintahan?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 30 Tahun 2014",
+    "response": "Sengketa Kewenangan adalah klaim penggunaan Wewenang yang dilakukan oleh 2 (dua) Pejabat Pemerintahan atau lebih yang disebabkan oleh tumpang tindih atau tidak jelasnya Pejabat Pemerintahan yang berwenang menangani suatu urusan pemerintahan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Sengketa Tata Usaha Negara'.",
+    "context": "Glosarium Hukum / UU Nomor 51 Tahun 2009",
+    "response": "Sengketa Tata Usaha Negara adalah sengketa yang timbul dalam bidang tata usaha negara antara orang atau badan hukum perdata dengan badan atau pejabat tata usaha negara, baik di pusat maupun di daerah, sebagai akibat dikeluarkannya keputusan tata usaha negara, termasuk sengketa kepegawaian berdasarkan peraturan perundang-undangan yang berlaku."
+  },
+  {
+    "instruction": "Apa fungsi dari 'Serikat Pekerja/Serikat Buruh'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 2 Tahun 2004",
+    "response": "Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka, mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan keluarganya."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Sertifikat Elektronik'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2008",
+    "response": "Sertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik yang dikeluarkan oleh Penyelenggara Sertifikasi Elektronik."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Sertifikat Kafalah'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Sertifikat Kafalah adalah bukti persetujuan Penjaminan Syariah dari Perusahaan Penjaminan Syariah dan UUS kepada Penerima Jaminan atas kewajiban finansial Terjamin."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Sertifikat Penjamin'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 1 Tahun 2016",
+    "response": "Sertifikat Penjaminan adalah bukti persetujuan Penjaminan dari Perusahaan Penjaminan kepada Penerima Jaminan atas kewajiban finansial Terjamin."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Sistem Informasi Pengadilan (SIP)'?",
+    "context": "Glosarium Hukum / Perma 6 Tahun 2022",
+    "response": "Sistem Informasi Pengadilan (SIP) adalah seluruh sistem informasi yang disediakan oleh Mahkamah Agung untuk memberikan pelayanan terhadap pencari keadilan yang meliputi administrasi, pelayanan perkara, dan persidangan secara elektronik."
+  },
+  {
+    "instruction": "Jelaskan tentang 'Sistem Peradilan Pidana Anak'.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2012",
+    "response": "Sistem Peradilan Pidana Anak adalah keseluruhan proses penyelesaian perkara Anak yang berhadapan dengan hukum, mulai tahap penyelidikan sampai dengan tahap pembimbingan setelah menjalani pidana."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Subrogasi'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 4 Tahun 1996",
+    "response": "Subrogasi adalah penggantian kreditor oleh pihak ketiga yang melunasi utang debitor."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Surat Tercatat'?",
+    "context": "Glosarium Hukum / Definisi Umum",
+    "response": "Surat Tercatat adalah surat yang dialamatkan kepada penerima dan dapat dibuktikan dengan tanda terima dari penerima dengan menyebutkan tanggal penerimaan."
+  }
+]
