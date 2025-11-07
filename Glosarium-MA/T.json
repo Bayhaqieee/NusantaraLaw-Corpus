@@ -1,0 +1,77 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah 'Ta'zir' dalam Qanun Aceh.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "Ta’zir adalah jenis ‘Uqubat yang telah ditentukan dalam qanun yang bentuknya bersifat pilihan dan besarannya dalam batas tertinggi dan/atau terendah."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Tanah Negara'?",
+    "context": "Glosarium Hukum / Peraturan Pemerintah Nomor 18 Tahun 2021",
+    "response": "Tanah Negara atau tanah yang dikuasai langsung oleh negara adalah tanah yang tidak dilekati dengan sesuatu hak atas tanah, bukan tanah wakaf, bukan tanah ulayat dan/atau bukan merupakan aset barang milik negara/barang milik daerah. Tanah yang termasuk dalam kualifikasi tanah negara adalah: tanah yang ditetapkan oleh undang-undang atau penetapan pemerintah, tanah reklamasi, tanah timbul, tanah yang berasal dari pelepasan/penyerahan hak, tanah yang berasal dari pelepasan kawasan hutan, tanah terlantar, tanah yang berakhir jangka waktunya serta tidak dimohon perpanjangan dan/atau pembaruan, tanah hak yang jangka waktunya berakhir karena kebijakan pemerintah pusat tidak dapat diperpanjang dan tanah yang semula berstatus sebagai tanah negara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Tanda Tangan' menurut Undang-Undang Bea Meterai.",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 10 Tahun 2020",
+    "response": "Tanda Tangan adalah tanda sebagai lambang nama sebagaimana lazimnya dipergunakan, termasuk paraf, teraan atau cap tanda tangan atau cap paraf, teraan atau cap nama, atau tanda lainnya sebagai pengganti tanda tangan, atau tanda tangan elektronik sebagaimana dimaksud dalam undang-undang di bidang informasi dan transaksi elektronik."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Tanda Tangan Elektronik'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2008",
+    "response": "Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Tanggal Penerimaan' dalam hukum Paten.",
+    "context": "Glosarium Hukum / UU Nomor 65 Tahun 2024",
+    "response": "Tanggal Penerimaan adalah tanggal diterimanya Permohonan yang telah memenuhi persyaratan minimum."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Tanggal Sertifikat Paten'?",
+    "context": "Glosarium Hukum / UU Nomor 65 Tahun 2024",
+    "response": "Yang dimaksud dengan “tanggal sertifikat Paten” adalah tanggal pemberian Paten."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Tata Usaha Negara'.",
+    "context": "Glosarium Hukum / Administrasi Negara",
+    "response": "Tata Usaha Negara adalah administrasi negara yang melaksanakan fungsi untuk menyelenggarakan urusan pemerintahan baik di pusat maupun di daerah."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Teknologi Informasi'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2008",
+    "response": "Teknologi Informasi adalah suatu teknik untuk mengumpulkan, menyiapkan, menyimpan, memproses, mengumumkan, menganalisis, dan/atau menyebarkan informasi."
+  },
+  {
+    "instruction": "Apa makna frasa 'Telah mempunyai kekuatan hukum tetap' dalam UU Paten?",
+    "context": "Glosarium Hukum / UU Nomor 65 Tahun 2024",
+    "response": "Yang dimaksud dengan “telah mempunyai kekuatan hukum tetap” adalah sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Tenaga Kerja'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Tenaga kerja adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat."
+  },
+  {
+    "instruction": "Siapakah yang dimaksud dengan 'Terdakwa'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 8 Tahun 1981",
+    "response": "Terdakwa adalah seorang tersangka yang dituntut, diperiksa, dan diadili di sidang pengadilan."
+  },
+  {
+    "instruction": "Siapakah yang dimaksud dengan 'Terpidana'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 8 Tahun 1981",
+    "response": "Terpidana adalah seorang yang dipidana berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap."
+  },
+  {
+    "instruction": "Siapakah yang dimaksud dengan 'Tersangka'?",
+    "context": "Glosarium Hukum / Undang-Undang No. 8 Tahun 1981",
+    "response": "Tersangka adalah seorang yang karena perbuatannya atau keadaannya, berdasarkan bukti permulaan, patut diduga sebagai pelaku tindak pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari keadaan 'Tertangkap Tangan'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 8 Tahun 1981",
+    "response": "Tertangkap tangan adalah keadaan tertangkapnya seseorang pada waktu sedang melakukan tindak pidana atau segera sesudahnya, atau diserukan khalayak ramai sebagai pelaku, atau ditemukan padanya benda yang menunjukkan keterlibatannya dalam tindak pidana itu."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Transaksi Elektronik'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 11 Tahun 2008",
+    "response": "Transaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan Komputer, jaringan Komputer, dan/atau media elektronik lainnya."
+  }
+]

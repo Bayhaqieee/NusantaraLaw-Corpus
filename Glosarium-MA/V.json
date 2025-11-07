@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari 'Validasi Dokumen Elektronik' di pengadilan.",
+    "context": "Glosarium Hukum / Perma Nomor 6 Tahun 2022",
+    "response": "Validasi adalah proses mencocokkan, menjamin, dan menyatakan Dokumen Elektronik telah sesuai dengan dokumen asli yang dibuat dan diajukan oleh para pihak ke pengadilan, atau yang dibuat oleh Hakim atau pejabat pengadilan yang berwenang, sehingga berlaku dan memiliki kekuatan hukum dalam proses administrasi dan persidangan perkara."
+  },
+  {
+    "instruction": "Jelaskan doktrin 'Vicarious liability' dalam sistem hukum Indonesia.",
+    "context": "Glosarium Hukum / Doktrin Hukum",
+    "response": "Doktrin Vicarious liability dalam sistem hukum Indonesia lebih dikenal sebagai pertanggungjawaban pengganti atau pertanggungjawaban korporasi, yang merupakan pengecualian dari asas tiada pidana tanpa kesalahan. Doktrin ini menetapkan apabila seseorang agen atau pekerja korporasi bertindak dalam lingkup pekerjaannya dan dengan maksud untuk menguntungkan korporasi, melakukan suatu kejahatan, maka tanggung jawab pidananya dapat dibebankan kepada perusahaan dengan tidak perlu mempertimbangkan apakah perusahaan tersebut secara nyata memperoleh keuntungan atau tidak, atau apakah aktivitas tersebut telah dilarang oleh perusahaan atau tidak."
+  }
+]

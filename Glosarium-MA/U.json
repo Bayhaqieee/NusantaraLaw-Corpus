@@ -1,0 +1,37 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari 'Undang-Undang' menurut sistem hukum Indonesia.",
+    "context": "Glosarium Hukum / Undang-Undang No. 12 Tahun 2011",
+    "response": "Undang-Undang adalah Peraturan Perundangundangan yang dibentuk oleh Dewan Perwakilan Rakyat dengan persetujuan bersama Presiden."
+  },
+  {
+    "instruction": "Sebutkan 'Unsur-Unsur Perbuatan Melawan Hukum'.",
+    "context": "Glosarium Hukum / Pasal 1365 KUH Perdata",
+    "response": "Unsur-unsur perbuatan melawan hukum terdiri dari: 1) Perbuatan melawan hukum; 2) Kerugian; 3) Kesalahan; dan 4) Hubungan kausal antara perbuatan melawan hukum tersebut dengan kerugian."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Upah'.",
+    "context": "Glosarium Hukum / Undang-Undang No. 13 Tahun 2003",
+    "response": "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang undangan, termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa yang telah atau akan dilakukan."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Upaya Administratif'?",
+    "context": "Glosarium Hukum / Undang-Undang Nomor 30 Tahun 2014",
+    "response": "Upaya Administratif adalah proses penyelesaian sengketa yang dilakukan dalam lingkungan Administrasi Pemerintahan sebagai akibat dikeluarkannya Keputusan dan/atau Tindakan yang merugikan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Uqubat'.",
+    "context": "Glosarium Hukum / Qanun Aceh Nomor 6 Tahun 2014",
+    "response": "‘Uqubat adalah hukuman yang dapat dijatuhkan oleh hakim terhadap pelaku Jarimah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari 'Utang' dalam hukum kepailitan.",
+    "context": "Glosarium Hukum / Undang-Undang Kepailitan",
+    "response": "Utang adalah kewajiban yang dinyatakan atau dapat dinyatakan dalam jumlah uang baik dalam mata uang Indonesia maupun mata uang asing, baik secara langsung maupun yang akan timbul di kemudian hari atau kontinjen, yang timbul karena perjanjian atau undang-undang dan yang wajib dipenuhi oleh Debitor dan bila tidak dipenuhi memberi hak kepada Kreditor untuk mendapat pemenuhannya dari harta kekayaan Debitor."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Utang yang telah jatuh waktu dan dapat ditagih'?",
+    "context": "Glosarium Hukum / Undang-Undang 37 Tahun 2004",
+    "response": "Yang dimaksud dengan \"utang yang telah jatuh waktu dan dapat ditagih\" adalah kewajiban untuk membayar utang yang telah jatuh waktu, baik karena telah diperjanjikan, karena percepatan waktu penagihannya sebagaimana diperjanjikan, karena pengenaan sanksi atau denda oleh instansi yang berwenang, maupun karena putusan pengadilan, arbiter, atau majelis arbitrase."
+  }
+]
