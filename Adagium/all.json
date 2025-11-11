@@ -1,0 +1,447 @@
+[
+  {
+    "instruction": "Apa arti dari dalil hukum 'Absolute sentienfia expositore non indiget'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Sebuah dalil yang sederhana tidak membutuhkan penjelasan lebih lanjut."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Accipere quid ut justitiam focias non est team accipere quam exiorquere'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Menerima sesuatu sebagai imbalan untuk menegakkan keadilan lebih condong ke tindakan pemerasan, bukan hadiah."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Actory in cumbit probatio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Siapa yang menggugat dialah yang wajib membuktikan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Adaequatio intellectus et rei'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Adanya kesesuaian pikiran dengan objek. Prinsip ini pada dasarnya merupakan rambu-rambu dalam merumuskan materi hukum yang telah diterima secara universal."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Afgirmantis est probare'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Orang yang menyiyakan harus membuktikan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Affirmanti, non neganti, incumbit probatio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Pembuktian bersifat wajib bagi yang mengajukan, bukan bagi penyangkal."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Audi et alteram partem atau audiatur et altera pars'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Para pihak harus didengar. Apabila persidangan dimulai, hakim harus mendengar dari kedua belah pihak yang bersengketa, bukan hanya dari satu pihak saja."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Bis de eadem re ne sit actio atau ne bis in idem'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Perkara sama dan sejenis tidak boleh disidangkan untuk yang kedua kalinya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Clausula rebus sic stantibus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Perjanjian antarnegara masih tetap berlaku, apabila situasi dan kondisinya tetap sama."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cogitationis poenam nemo patitur'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Tidak ada seorang pun dapat dihukum atas apa yang dipikirkannya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cujus est commodum, ejus debet esse inc ommodum'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seseorang yang mendapatkan suatu keuntungan juga akan mendapatkan kerugian."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cujus est dominium, ejus est periculum'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Risiko atas suatu kepemilikkan ditanggung oleh pemilik."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Culpae poena par esto'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukuman harus setimpal dengan kejahatannya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cum adsunt testimonia rerum, quid opus est verbist'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Saat ada bukti dari fakta-fakta, apa gunanya kata-kata?"
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cum aliquis renunciaverit sociatati, solvitur societas'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Saat rekan telah meninggalkan persekutuannya, maka persekutuan tersebut dinyatakan bubar."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Cum letitimae nuptiae factae sunt, patrem liberi sequuntur'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Anak yang lahir dalam perkawinan yang sah mengikuti kondisi ayahnya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Da tua sunt, post mortem tune tua sunt'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Berikanlah benda-benda kepunyaanmu saat kau masih memilikinya; setelah meninggal benda-benda tersebut bukan kepunyaanmu lagi."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'De gustibus non est disputandum'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Perihal selera tidak dapat disengketakan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Debet quis juri subjacere rrbi delinquit'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seseorang penggugat harus tunduk pada hukum yang berlaku di tempat dia mengajukan gugatan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Dormiunt aliquando leges, nunquam moriuntur'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum terkadang tidur, tetapi hukum tidak pernah mati."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Droil ne done, pluis que soit demaunde'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum memberi tidak lebih dari yang dibutuhkan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ei incumbit probatio quidicit, nonqui negat'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Beban pembuktian diberikan pada orang yang menggugat, bukan tergugat."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Equality before the law'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Semua orang sama di depan hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Equum et bonum est lex legum'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Apa yang adil dan baik adalah hukumnya hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Facta sunt potentiora verbis'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Perbuatan atau fakta lebih kuat dari kata-kata."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Fiat justitia ruat coelum atau fiat justitia pereat mundus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Sekalipun esok langit akan runtuh, meski dunia akan musnah, atau walaupun harus mengorbankan kebaikan, keadilan harus tetap ditegakkan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Frustra legis auxilium quaerit qui in legem committit'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Adalah sia-sia bagi seseorang yang menentang hukum namun ia sendiri meminya bantuan hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Geen straf zonder schuld'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Tiada hukum tanpa kesalahan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Gouverner c'est prevoi'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Menjalankan pemerintahan berarti melihat ke depan dan menjalankan apa yang harus dilakukan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Heares est cadem persona cum antecessore'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Ahli waris sama kedudukannya dengan pendahulunya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Het recht hinkt achter de feiten aan'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum senantiasa tertatih-tatih mengejar perubahan zaman."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Het vermoeden van rechtmatigheid'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Kebijakan pemerintah harus dianggap benar dan memiliki kekuatan hukum mengikat sampai dibuktikan sebaliknya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Id perfectum est quad ex omnibus suis partibus constant'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Sesuatu dinyatakan sempurna apabila setiap bagiannya lengkap."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ignorantia excusatur non juris sed facti'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Ketidaktahuan akan fakta-fakta dapat dimaafkan, tapi tidak demikian halnya ketidaktahuan akan hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ignorantia judicis est calanaitax innocentis'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Ketidaktahuan hakim ialah suatu kerugian bagi pihak yang tidak bersalah."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ignorantia juris non excusat'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Ketidaktahuan akan hukum tidak dimaafkan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Inde datae leges be fortior omnia posset'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum dibuat, jika tidak orang yang kuat akan mempunyai kekuasaan tidak terbatas."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Index animi sermo'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Cara seseorang berbicara menunjukkan pikirannya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Iniquum est aliquem rei sui esse judicem'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Adalah tidak adil bagi seseorang untuk diadili pada perkaranya sendiri."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Interpretatio cessat in claris, interpretation est perversio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Jika teks atau redaksi UU telah jelas, maka tidak diperkenankan lagi menafsirkannya. Sebab, penafsiran terhadap kata-kata yang jelas berarti penghancuran."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Interset reipublicae res judicatoas non rescindi'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Adalah kepentingan negara bahwa suatu keputusan tidak dapat diganggu gugat."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Iudex ne procedat ex officio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hakim bersifat pasif menunggu datangnya tuntutan hak yang diajukan kepadanya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Iudex non ultra petita atau ultra petita non cognoscitur'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hakim hanya menimbang hal-hal yang diajukan para pihak dan tuntutan hukum yang didasarkan kepadanya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ius curia novit'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seorang hakim dianggap tahu akan hukumnya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judex debet judicare secundum allegata et probata'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seorang hakim harus memberikan penilaian berdasarkan fakta-fakta dan pernyataan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judex herbere debet duos sales, salem sapientiae, ne sit insipidus, et salem conscientiae, ne sit diabolus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seorang hakim harus mempunyai dua hal: suatu kebijakan, kecuali dia bodoh; dan hati nurani, kecuali dia mempunyai sifat yang kejam."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judex non potest esse testis in propria causa'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seorang hakim tidak dapat menjadi seorang saksi dalam perkaranya sendiri."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judex non reddit plus quam quod petens ipsse requirit means'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Seorang hakim tidak memberikan permintaan lebih banyak dari si penuntut."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judex set lex laguens'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hakim ialah hukum yang berbicara."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judicandum est legibus non exemplis'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Putusan hakim harus berdasarkan hukum, bukan berdasarkan contoh. Seorang hakim tidak dibatasi untuk menjelaskan penilaian atau putusannya sendiri."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Judicia poxteriora sunt in lege fortiora'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Keputusan terakhir ialah yang terkuat di mata hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Juramentum est indivisinle, et non est admittendum in partly true and partly falsum'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Sebuah sumpah tidak dapat dibagi; sumpah tersebut tidak dapat diterima jika sebagiannya benar dan sebagian lagi salah."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Jurare eat deum in testem vocare et est actus divini cultus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Memberikan sumpah ialah sama halnya dengan memanggil Tuhan sebagai saksi, bagian dari keagamaan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Juris quidem ignorantium cuique nocere, facti verum ignorantiam non nocere'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Pengabaian terhadap hukum akan merugikan semua orang; tetapi pengabaian terhadap fakta tidak."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Justitiae non est neganda, non differenda'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Keadilan tidak dapat disangkal atau ditunda."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex dura sed ita scripta'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum adalah keras tetapi harus ditegakkan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex dura, sed tamen scripta'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum memang kejam, tetapi begitulah yang tertulis."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex neminem cigit ad impossibilia'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum tidak memaksakan seseorang untuk melakukan sesuatu yang tidak mungkin."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex nemini operatur iniquum, neminini facit injuriam'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum tidak memberikan ketidakadilan kepada siapa pun dan tidak melakukan kesalahan kepada siapa pun."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex posterior derogat legi priori atau lex posteriori derogat legi anteriori'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum (undang-undang) yang baru menyampingkan undang-undang yang lama."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex prospicit, non respicit'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum melihat ke depan, bukan ke belakang."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex rejicit superflua, pugnantia, incongrua'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum menolak hal yang bertentangan dan tidak layak."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex semper dabit remedium'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum selalu memberikan solusi."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex specialis derogat lex generali'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum yang spesifik harus didahulukan daripada hukum yang umum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Lex superior derogat legi inferiori'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum yang lebih tinggi menyampingkan undang-undang yang lebih rendah tingkatannya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Moneat lex, priusquam feriat'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Undang-undang harus disosialisasikan terlebih dahulu sebelum digunakan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Nemo judex in causa sua'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hakim tidak boleh mengatur atau mengadili dirinya sendiri."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Nemo plus juris transferre potest quam ipse habet'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Tidak seorang pun dapat mengalihkan lebih banyak haknya daripada yang ia miliki)."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Nullum delictum noela poena sine praevia lege poenali'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Suatu aturan hukum tidak bisa diterapkan terhadap suatu peristiwa yang timbul sebelum aturan hukum yang mengatur tentang peristiwa itu dibuat."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Opinio necessitatis'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Keyakinan atas sesuatu menurut hukum adalah perlu sebagai syarat untuk timbulnya hukum kebiasaan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Pacta sunt servanda'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Setiap perjanjian itu mengikat para pihak dan harus ditaati dengan iktikad baik."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Politiae legius non leges politii adoptandae'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Politik harus tunduk pada hukum, bukan sebaliknya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Presumptio iures de iure'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Semua orang dianggap tahu hukum. Dikenal juga sebagai asas fiksi hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Presumpito iustae causa'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Suatu keputusan pemerintahan dianggap absah sampai ada putusan hakim berkekuatan hukum mengikat yang menyatakan sebaliknya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Presumption of innocence'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Asas praduga tidak bersalah: seseorang dianggap tidak bersalah sebelum ada putusan hakim yang menyatakan ia bersalah dan putusan hakim tersebut telah mempunyai kekuatan tetap."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Quiquid est in territorio, etiam est de territorio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Asas dalam hukum internasional yang menyatakan bahwa apa yang berada dalam batas-batas wilayah negara tunduk kepada hukum negara itu."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Reo negate actori incumbit probatio'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Jika tergugat tidak mengakui gugatan, maka penggugat harus membuktikan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Res nullius credit occupanti'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Benda yang ditelantarkan oleh pemiliknya bisa diambil atau dimiliki."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Salus populi suprema lex'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Kemakmuran dan kesejahteraan rakyat adalah hukum yang tertinggi dalam suatu negara."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Similia similibus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Dalam perkara yang sama, harus diputus dengan hal yang sama pula, tidak pilih kasih."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Spreekhuis van de wet'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Apa kata undang-undang itulah hukumnya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Summum ius summa injuria, summa lex, summa crux'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Hukum yang keras dapat melukai, kecuali keadilan yang dapat menolongnya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Testimonium de auditu'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Kesaksian yang didengar dari orang lain."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ubi jus ibi remedium'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Di mana ada hak, di sana ada kemungkinan menuntut, memperolehnya, atau memperbaikinya jika hak tersebut dilanggar."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ubi societas, ibi jus'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Di mana ada masyarakat, di situ ada hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Ut sementem faceris ita metes'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Siapa yang menanam sesuatu dia yang akan memetik hasilnya."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Van rechtswege nieting; null and void'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Suatu proses peradilan yang dilakukan tidak menurut hukum adalah batal demi hukum."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Volenti non fit iniuria; nulla iniuria est, quae in volentem fiat'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Tidak ada ketidakadilan yang dilakukan kepada seseorang yang menginginkan hal itu dilakukan."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'Vox populi vox dei'?",
+    "context": "Istilah Hukum / Adagium",
+    "response": "Suara rakyat adalah suara Tuhan."
+  }
+]
