@@ -1,0 +1,722 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Abolisi'.",
+    "context": "Istilah Hukum",
+    "response": "Penghapusan terhadap seluruh akibat penjatuhan putusan pengadilan pidana kepada seseorang terpidana, terdakwa yang bersalah melakukan delik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Acara pemeriksaan singkat'.",
+    "context": "Istilah Hukum",
+    "response": "Pemeriksaan terhadap perkara yang diancam dengan pidana penjara atau kurungan paling lama tiga bulan dan atau denda sebanyak-banyaknya tujuh ribu lima ratus rupiah dan penghinaan ringan, kecuali perkara pelanggaran lalu lintas."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Acara pemeriksaan tindak pidana ringan'.",
+    "context": "Istilah Hukum",
+    "response": "Tindak pidana yang diancam dengan pidana penjara atau kurungan paling lama tiga bulan dan atau denda sebanyak-banyaknya tujuh ribu lima ratus rupiah, dan penghinaan ringan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Actio in pauliana'.",
+    "context": "Istilah Hukum",
+    "response": "Tuntutan hukum untuk pernyataan batal segala perbuatan yang tidak diwajibkan yang dilakukan oleh pihak yang berhutang, yang menyebabkan penagih hutang dirugikan (pasal 1341 KUHPerdata)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Actor rei forum sequitur'.",
+    "context": "Istilah Hukum",
+    "response": "Penggugat harus menggugat tergugat di pengadilan di tempat tergugat tinggal."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Actor sequitur forum rei'.",
+    "context": "Istilah Hukum",
+    "response": "Pengadilan negeri di tempat tergugat tinggal (mempunyai alamat, berdomisili) yang berwenang memeriksa gugatan atau tuntutan hak."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Administrasi pengadilan'.",
+    "context": "Istilah Hukum",
+    "response": "Rangkaian kegiatan yang dilakukan oleh pengadilan untuk menciptakan efisiensi, akurasi dan konsistensi dalam sistim peradilan. Suatu struktur administrasi pengadilan dilakukan dalam rangka menunjang kerja hakim dan untuk meningkatkan pelayanan kepada masyarakat pencari keadilan. Administrasi pengadilan diantaranya meliputi pengawasan terhadap anggaran, penunjukan hakim dalam suatu perkara, menciptakan jadwal persidangan dan mengawasi pekerjaan yang bersifat non-perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Administrasi perkara'.",
+    "context": "Istilah Hukum",
+    "response": "Rangkaian kegiatan yang dibutuhkan dalam menangani perkara dalam rangka penertiban dokumen data perkara semenjak pendaftaran perkara, persidangan, pengajuan upaya hukum sampai dengan pelaksanaan putusan pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Advokasi'.",
+    "context": "Istilah Hukum",
+    "response": "Tindakan untuk mempermasalahkan suatu hal/ide/topik tertentu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Advokat'.",
+    "context": "Istilah Hukum",
+    "response": "Orang yang berprofesi memberi jasa hukum, baik di dalam maupun di luar yang memenuhi persyaratan berdasarkan ketentuan undang-undang nomor 18 tahun 2003 ttg advokat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Advokat / pengacara asing'.",
+    "context": "Istilah Hukum",
+    "response": "Advokat berkewarganegaraan asing yang menjalankan profesinya di wilayah negara Republik Indonesia berdasarkan persyaratan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Aequo et bono'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu istilah yang terdapat pada akhir dokumen hukum dalam peradilan, baik perdata maupun pidana yang prinsipnya menyerahkan kepada kebijaksanaan hakim pemeriksa perkara. Arti harfiahnya : apabila hakim berpendapat lain mohon putusan yang seadil-adilnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ajudikasi/ adjudication'.",
+    "context": "Istilah Hukum",
+    "response": "Penyelesaian perkara atau sengketa di pengadilan; pengambilan keputusan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Akta'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu tulisan yang dibuat dengan sengaja untuk dijadikan bukti tentang sesuatu peristiwa dan ditandatangani oleh pembuatnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Akta autentik'.",
+    "context": "Istilah Hukum",
+    "response": "Akta yang dibuat oleh/dihadapan pejabat yang diberi wewenang untuk itu oleh penguasa, menurut ketentuan-ketentuan yang telah ditetapkan baik dengan ataupun tanpa bantuan yang berkepentingan untuk dicatat di dalamnya; surat yang sejak semula dengan sengaja secara resmi dibuat untuk pembuktian jika terjadi sengketa di kemudian hari."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Akta di bawah tangan'.",
+    "context": "Istilah Hukum",
+    "response": "Akta yang sengaja dibuat untuk pembuktian oleh para pihak tanpa bantuan dari seorang pejabat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Akta notariil'.",
+    "context": "Istilah Hukum",
+    "response": "Akta yang dibuat di hadapan dan di muka pejabat yang berwenang untuk itu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Alat bukti'.",
+    "context": "Istilah Hukum",
+    "response": "Alat yang sudah ditentukan didalam hukum formal, yang dapat digunakan sebagai pembuktian didalam acara persidangan, hal ini berarti bahwa diluar dari ketentuan tersebut tidak apat dipergunakan sebagai alat bukti yang sah. contoh : didalam hukum pidana, secara formal diatur dalam pasal 184 kuhap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Alat bukti surat'.",
+    "context": "Istilah Hukum",
+    "response": "Surat yang dibuat atas kekuatan sumpah jabatan atau dikuatkan dengan sumpah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Alibi'.",
+    "context": "Istilah Hukum",
+    "response": "Bukti bahwa tersangka berada ditempat lain pada saat perbuatan hukum terjadi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Amnestie'.",
+    "context": "Istilah Hukum",
+    "response": "Pernyataan umum (diterbitkan melalui atau dengan undang-undang) yang memuat pencabutan semua akibat pemidanaan dari suatu perbuatan pidana (delik) tertentu atau satu kelompok perbuatan pidana (delik) tertentu, bagi terpidana, terdakwa yang dinyatakan bersalah melakukan delik-delik tersebut."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Aparatur hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Mereka yang memiliki tugas dan fungsi: penyuluhan hukum, penerapan hukum, penegakan hukum, dan pelayanan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas audie et alteram partem'.",
+    "context": "Istilah Hukum",
+    "response": "Kedua belah pihak harus didengar."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas domisili'.",
+    "context": "Istilah Hukum",
+    "response": "Status dan kewenangan personal seseorang ditentukan berdasarkan hukum domicile (hukum tempat kediaman permanen) orang itu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas droit de suite'.",
+    "context": "Istilah Hukum",
+    "response": "Asas berdasarkan hak suatu kebendaan seseorang yang berhak terhadap benda itu mempunyai kekuasaan/wewenang untuk mempertahankan atau menggugat bendanya dari tangan siapapun juga atau dimanapun benda itu berada."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas exceptio non adimpleti contractus'.",
+    "context": "Istilah Hukum",
+    "response": "Tangkisan bahwa pihak lawan dalam keadaan lalai juga, maka dengan demikian tidak dapat menuntut pemenuhan prestasi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas in dubio pro reo'.",
+    "context": "Istilah Hukum",
+    "response": "Dalam keadaan yang meragukan, hakim harus mengambil keputusan yang menguntungkan terdakwa."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas kebebasan berkontrak'.",
+    "context": "Istilah Hukum",
+    "response": "Para pihak bebas membuat kontrak dan mengatur sendiri isi kontrak tersebut, sepanjang memenuhi ketentuan sebagai berikut : 1. memenuhi syarat sebagai suatu kontrak; 2. tidak dilarang oleh undang-undang; 3. sesuai dengan kebiasaan yang berlaku; 4. dilaksanakan dengan itikad baik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas kebenaran materiil'.",
+    "context": "Istilah Hukum",
+    "response": "Asas untuk mencari kebenaran hakiki berdasarkan fakta-fakta hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas kepastian hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Asas dalam negara hukum yang menggunakan landasan peraturan perundang-undangan, kepatutan, dan keadilan dalam setiap kebijakan penyelenggara negara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas lex specialis derogat legi generali'.",
+    "context": "Istilah Hukum",
+    "response": "Kalau terjadi konflik/pertentangan antara undang-undang yang khusus dengan yang umum maka yang khusus yang berlaku."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas lex superior derogat legi inferiori'.",
+    "context": "Istilah Hukum",
+    "response": "Kalau terjadi konflik/pertentangan antara peraturan perundang-undangan yang tinggi dengan yang rendah maka yang tinggilah yang harus didahulukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas ne bis in idem'.",
+    "context": "Istilah Hukum",
+    "response": "Asas yang melarang seseorang untuk diadili dan dihukum untuk kedua kalinya bagi kejahatan yang sama."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Asas pacta sunt servanda'.",
+    "context": "Istilah Hukum",
+    "response": "Bahwa perjanjian yang sudah disepakati berlaku sebagai undang-undang bagi para pihak yang bersangkutan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu badan yang dapat mempunyai harta kekayaan, hak serta kewajiban seperti orang-orang pribadi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Badan usaha'.",
+    "context": "Istilah Hukum",
+    "response": "Perusahaan berbentuk badan hukum yang menjalankan jenis usaha bersifat tetap, terus-menerus dan didirikan sesuai dengan peraturan perundang-undangan yang berlaku serta bekerja dan berkedudukan dalam wilayah negara kesatuan Republik Indonesia."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Berita Acara Pemeriksaan tersangka/saksi'.",
+    "context": "Istilah Hukum",
+    "response": "Catatan atau tulisan yang bersifat otentik, dibuat dalam bentuk tertentu oleh penyidik/penyidik pembantu atas kekuatan sumpah jabatan, diberi tanggal dan ditandatangani oleh penyidik/penyidik pembantu dan tersangka serta saksi/saksi ahli, memuat uraian tindak pidana yang mencakup/memenuhi unsur-unsur tindak pidana yang dipersangkakan dengan menyebut waktu, tempat dan keadaan pada waktu tindak pidana dilakukan, identitas pemeriksa dan yang diperiksa, keterangan yang diperiksa, catatan mengenai akta dan /atau benda serta segala sesuatu yang dianggap perlu untuk kepentingan penyelesaian perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Barang bukti/corpus delicti'.",
+    "context": "Istilah Hukum",
+    "response": "Barang yang digunakan untuk melakukan suatu kejahatan atau hasil dari suatu kejahatan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Batal demi hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Kebatalan yang terjadi berdasarkan undang-undang, berakibat perbuatan hukum yang bersangkutan dianggap tidak pernah terjadi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Beban pembuktian terbalik'.",
+    "context": "Istilah Hukum",
+    "response": "Beban yang menjadi tanggung jawab pelaku untuk membuktikan ada tidaknya unsur kesalahan dalam kasus pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Bebas dari segala dakwaan / Vrijspraak'.",
+    "context": "Istilah Hukum",
+    "response": "Putusan yang dijatuhkan oleh majelis hakim karena dari hasil pemeriksaan di sidang kesalahan terdakwa atas perbuatan yang didakwakan kepadanya tidak terbukti secara sah dan meyakinkan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Benda sitaan'.",
+    "context": "Istilah Hukum",
+    "response": "Benda yang disita oleh negara untuk keperluan proses peradilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Benturan kepentingan'.",
+    "context": "Istilah Hukum",
+    "response": "Benturan yang timbul ketika kepentingan seseorang memungkinkan orang lain melakukan tindakan yang bertentangan dengan pihak tertentu, yang kepentingannya seharusnya dipenuhi oleh orang lain tersebut."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Berita Acara Persidangan (BAP)'.",
+    "context": "Istilah Hukum",
+    "response": "Catatan yang berisi mengenai segala kejadian di sidang yang berhubungan dengan pemeriksaan saksi, hal yang penting dari keterangan saksi, terdakwa dan ahli."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Contempt of Court'.",
+    "context": "Istilah Hukum",
+    "response": "Setiap tindakan dan/perbuatan, baik aktif maupun pasif, tingkah laku, sikap dan/ucapan, baik di dalam maupun di luar pengadilan, yang bermaksud merendahkan dan merongrong kewibawaan, martabat dan kehormatan instirusi peradilan yang dilakukan oleh seseorang atau sekelompok orang sehingga mengganggu dan merintangi sistem serta proses peradilan yang seharusnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kadaluarsa (verjaring)'.",
+    "context": "Istilah Hukum",
+    "response": "Lampaunya tenggang waktu yang ditetapkan undang-undang, sehingga mengakibatkan orang yang menguasai barang memperoleh hak milik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'De auditu testimonium de auditu'.",
+    "context": "Istilah Hukum",
+    "response": "Keterangan saksi yang disampaikan di muka sidang pengadilan yang merupakan hasil pemikiran saja atau hasil rekaan yang diperoleh dari orang lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu tindakan melanggar hukum yang telah dilakukan dengan sengaja ataupun tidak sengaja oleh seseorang yang tindakannya tersebut dapat dipertanggungjawabkan dan oleh undang-undang telah dinyatakan sebagai suatu perbuatan yang dapat dihukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik aduan'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang hanya dapat dituntut karena adanya pengaduan dari pihak yang dirugikan (korban)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik berlanjut'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu perbuatan yang dilakukan sebagian demi sebagian hingga merupakan perbuatan pidana yang utuh."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik commissionis'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang berupa pelanggaran terhadap larangan-larangan di dalam undang-undang."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik commissionis per ommissionis commissa'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang berupa pelanggaran terhadap larangan dalam undang-undang (delik commissionis) tetapi dilakukannya dengan cara tidak berbuat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik culpa'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang memuat kealpaan sebagai salah satu unsurnya atau delik-delik yang cukup terjadi \"dengan tidak sengaja\" agar pelakunya dapat dihukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik dengan pemberatan'.",
+    "context": "Istilah Hukum",
+    "response": "Delik-delik dalam bentuk yang pokok, yang karena di dalamnya terdapat keadaan-keadaan yang memberatkan maka hukuman yang diancamkan menjadi lebih berat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik dolus'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang memuat unsur-unsur kesengajaan atau delik-delik yang oleh pembentuk undang-undang dipersyaratkan bahwa delik-delik tersebut harus dilakukan \"dengan sengaja\"."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik hukum/ rechts delict'.",
+    "context": "Istilah Hukum",
+    "response": "Perbuatan yang bertentangan dengan keadilan, terlepas apakah perbuatan itu diancam dengan pidana dalam satu undang-undang atau tidak, jadi benar-benar dirasakan oleh masyarakat sebagai bertentangan dengan keadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik ommissionis'.",
+    "context": "Istilah Hukum",
+    "response": "Delik yang berupa pelanggaran terhadap perintah (keharusan-keharusan) menurut undang-undang."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik materiil'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu perbuatan pidana yang dilarang, yaitu akibat yang timbul dari perbuatan itu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Delik undang undang/ wet delict'.",
+    "context": "Istilah Hukum",
+    "response": "Perbuatan yang oleh umum baru disadari bahwa dapat dipidana karena undang-undang menyebutnya sebagai delik, jadi karena undang-undang mengancamnya dengan pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Deposisi'.",
+    "context": "Istilah Hukum",
+    "response": "Bukti saksi atau ahli yang didasarkan atas sumpah yang dilakukan diluar pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Derdenverzet / perlawanan pihak ketiga'.",
+    "context": "Istilah Hukum",
+    "response": "Perlawanan yang dilakukan oleh pihak ketiga yang hak-haknya dirugikan kepada hakim yang menjatuhkan putusan yang dilawan itu dengan menggugat para pihak yang bersangkutan dengan cara biasa."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Diktum/pemidanaan'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu kesimpulan dari kegiatan penafsiran terhadap kaedah hukum (in abstracto) yang dilakukan oleh hakim terhadap fakta-fakta hukum yang telah diuji di pengadilan (in concretto)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Doktrin ultra vires'.",
+    "context": "Istilah Hukum",
+    "response": "Doktrin yang mengajarkan bahwa perseroan tidak dapat melakukan kegiatan di luar dari kekuasaan perseroan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Domisili'.",
+    "context": "Istilah Hukum",
+    "response": "Tempat kediaman tetap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Droit de preference'.",
+    "context": "Istilah Hukum",
+    "response": "Keistimewaan yang bersangkutan dengan hasil penjualan tanah yang dijadikan jaminan, dalam hubungannya dengan kreditur-kreditur lain yang tidak mempunyai hak yang lebih mendahulu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Duplik'.",
+    "context": "Istilah Hukum",
+    "response": "Jawaban tergugat terhadap replik yang diajukan penggugat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eigenrichting / tindakan main hakim sendiri'.",
+    "context": "Istilah Hukum",
+    "response": "Tindakan untuk melaksanakan hak menurut kehendak sendiri tidak lain merupakan tindakan untuk melaksanakan hak menurut kehendak sendiri yang bersifat sewenang-wenang, tanpa persetujuan pihak lain yang berkepentingan, hal ini merupakan pelaksanaan sanksi oleh perorangan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksaminasi'.",
+    "context": "Istilah Hukum",
+    "response": "Ujian atau pemeriksaan terhadap putusan pengadilan/hakim."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksaminasi publik terhadap suatu putusan pengadilan'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu penilaian atau kontrol oleh masyarakat terhadap putusan hukum yang menjadi bagian dari publik atau menjadi milik publik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksekusi'.",
+    "context": "Istilah Hukum",
+    "response": "Pelaksanaan terhadap suatu putusan yang telah berkekuatan hukum tetap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksepsi'.",
+    "context": "Istilah Hukum",
+    "response": "Surat jawaban yang yang mengemukakan tangkisan di luar pokok perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksepsi materiil'.",
+    "context": "Istilah Hukum",
+    "response": "Bantahan yang didasarkan atas ketentuan hukum materiil."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Eksepsi prosesuil'.",
+    "context": "Istilah Hukum",
+    "response": "Upaya yang menuju kepada tuntutan tidak diterimanya gugatan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Events of defaults/wanprestasi/ cidera janji/trigger clausel opeisbaar clause'.",
+    "context": "Istilah Hukum",
+    "response": "Tindakan-tindakan bank sewaktu-waktu dapat mengakhiri perjanjian kredit dan untuk seketika akan menagih semua utang beserta bunga dan biaya lainnya yang timbul."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Fakta hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Uraian mengenai hal-hal yang menyebabkan timbulnya sengketa."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Forum rei sitae'.",
+    "context": "Istilah Hukum",
+    "response": "Pengadilan di tempat benda tetap terletak (pasal 118 ayat 3 hir)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti kerugian'.",
+    "context": "Istilah Hukum",
+    "response": "Hak seorang untuk mendapat pemenuhan atas tuntutannya yang berupa imbalan sejumlah uang karena ditangkap, ditahan, dituntut ataupun diadili tanpa alasan yang berdasarkan undang-undang atau karena kekeliruan mengenai orangnya atau hukum yang diterapkan menurut cara yang diatur dalam undang-undang ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti rugi aktual / actual damages'.",
+    "context": "Istilah Hukum",
+    "response": "Kerugian yang benar-benar diderita secara aktual dan dapat dihitung dengan mudah sampai ke nilai rupiah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti rugi karena perbuatan melawan hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu bentuk ganti rugi yang dibebankan kepada orang yang telah menimbulkan kesalahan kepada pihak yang dirugikannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti rugi karena wanprestasi'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu bentuk ganti rugi yang dibebankan kepada debitur yang tidak memenuhi isi perjanjian yang telah dibuat antara kreditur dengan debitur."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti rugi nomimal'.",
+    "context": "Istilah Hukum",
+    "response": "Ganti rugi berupa pemberian sejumlah uang, meskipun kerugian sebenarnya tidak bisa dihitung dengan uang, bahkan bisa jadi tidak ada kerugian material sama sekali."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ganti rugi penghukuman / punitive damages'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu ganti rugi dalam jumlah besar yang melebihi dari jumlah kerugian yang sebenarnya, ganti rugi itu dimaksudkan sebagai hukuman bagi si pelaku."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Grasi'.",
+    "context": "Istilah Hukum",
+    "response": "Pengampunan berupa perubahan, peringanan, pengurangan, atau penghapusan pelaksanaan pidana kepada yang diberikan oleh presiden."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Gratifikasi'.",
+    "context": "Istilah Hukum",
+    "response": "Pemberian dalam arti luas yakni meliputi pemberian uang, barang, rabat (discount), komisi, pinjaman, tanpa bunga, tiket perjalanan, fasilitas penginapan, perjalanan wisata, pengobatan cuma-cuma dan fasilitas lainnya yang diberikan kepada pegawai negeri sipil dan dilakukan baik didalam negeri maupun diluar negeri dan dilakukan dengan menggunakan sarana elektronik atau tanpa sarana elektronik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Gugatan perwakilan / Class Action'.",
+    "context": "Istilah Hukum",
+    "response": "Gugatan yang berupa hak kelompok kecil masyarakat untuk bertindak mewakili masyarakat dalam jumlah besar dalam upaya mengajukan tuntutan berdasarkan kesamaan permasalahan, fakta hukum, dan tuntutan ganti kerugian."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Gugatan perwakilan kelompok'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu tata cara pengajuan gugatan, dalam mana satu orang atau lebih yang mewakili kelompok mengajukan gugatan untuk diri atau diri-diri meraka sendiri, dan sekaligus mewakili sekelompok orang banyak yang jumlahnya banyak, yan mewakili kesamaan fakta atas dasar hukum ntara wakil kelompok dan anggota kelompok yang dimaksud."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Gugatan provisional'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu gugatan untuk memperoleh tindakan sementara selama proses perkara masih berlangsung."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Hakim'.",
+    "context": "Istilah Hukum",
+    "response": "Seseorang yang mempunyai fungsi memeriksa dan memutus (mengadili) suatu perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Hakim ad hoc'.",
+    "context": "Istilah Hukum",
+    "response": "Hakim yang diangkat dari luar hakim karier yang memenuhi persyaratan profesional, berdedikasi dan berintegritas tinggi, menghayati cita-cita negara hukum dan negara kesejahteraan yang berintikan keadilan, memahami dan menghormati hak asasi manusia dan kewajiban dasar manusia."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Hakim bersifat menunggu/ judex ne procedat ex officio'.",
+    "context": "Istilah Hukum",
+    "response": "Inisiatif untuk mengajukan tuntutan hak diserahkan sepenuhnya kepada yang berkepentingan/ hakim bersifat menunggu datangnya tuntutan hak diajukan kepadanya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Harta pailit'.",
+    "context": "Istilah Hukum",
+    "response": "Harta milik debitur yang dinyatakan pailit berdasarkan keputusan pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Hukum yurisprudensi'.",
+    "context": "Istilah Hukum",
+    "response": "Hukum yang terbentuk karena keputusan hakim."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Ilegal (logging)'.",
+    "context": "Istilah Hukum",
+    "response": "Kegiatan di bidang kehutanan atau yang merupakan rangkaian kegiatan yang mencakup penebangan, pengangkutan, pengolahan hingga kegiatan jual beli (ekspor-impor) kayu yang tidak sah atau bertentangan dengan aturan hukum yang berlaku, atau perbuatan yang dapat menimbulkan kerusakan hutan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'In casu'.",
+    "context": "Istilah Hukum",
+    "response": "Dalam perkara ini, dalam hal ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Jaksa'.",
+    "context": "Istilah Hukum",
+    "response": "Pejabat fungsional yang diberi wewenag oleh undang-undang untuk bertindak sebagai penuntut umum dan pelaksanaan putusan pengadilan yang telah memperoleh kekuatan hukum tetap serta wewenang lain berdasarkan undang-undang."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Jatuh tempo'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu ketetapan waktu yang ditentukan undang-undang dalam jangka waktu mana debitur wajib memenuhi perikatan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Judex'.",
+    "context": "Istilah Hukum",
+    "response": "Hakim."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Judex facti (dalam hukum perdata)'.",
+    "context": "Istilah Hukum",
+    "response": "Hakim yang berwenang memeriksa fakta dan bukti, dalam hal ini hakim-hakim pengadilan negeri dan pengadilan tinggi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Judicatum'.",
+    "context": "Istilah Hukum",
+    "response": "Keputusan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Juncto'.",
+    "context": "Istilah Hukum",
+    "response": "\"dihubungankan/dikaitkan\" dapat berupa undang-undang, pasal, ketentuan-ketentuan yang satu dengan undang-undang, pasal, ketentuan-ketentuan yang lainnya dan biasanya disingkat dengan \"jo\". misalnya : undang-undang nomor 6 tahun 1982 tentang hak cipta sebagaimana telah diubah dengan undang-undang nomor 7 tahun 1987 tentang perubahan atas undang-undang nomor 6 tahun 1982 tentang hak cipta sebagaimana telah diubah dengan undang-undang nomor 12 tahun 1997 tentang perubahan atas undang-undang nomor 6 tahun 1982 tentang hak cipta, dalam hal ini dapat disingkat undang-undang nomor 6 tahun 1982 jo undang-undang nomor 7 tahun 1987 jo undang-undang nomor 12 tahun 1997."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kaidah hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Peraturan yang dibuat secara resmi oleh penguasa masyarakat atau penguasa negara, mengikat setiap orang dan berlakunya dapat dipaksakan oleh aparat masyarakat atau aparat negara, sehingga berlakunya kaidah hukum dapat dipertahankan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kasasi'.",
+    "context": "Istilah Hukum",
+    "response": "Pembatalan putusan atas penetapan pengadilan-pengadilan dari semua lingkungan peradilan dalam tungkat peradilan terakhir."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keadaan kahar; keadaan memaksa/force majeure / overmacht'.",
+    "context": "Istilah Hukum",
+    "response": "Keadaan di mana seorang debitur terhalang untuk melaksanakan prestasinya karena keadaan atau peristiwa yang tidak terduga pada saat dibuatnya kontrak,keadaan atau peristiwa tersebut tidak dapat dipertanggungjawabkan kepada debitur, sementara si debitur tersebut tidak dalam keadaan beritikad buruk."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kegiatan eksaminasi publik'.",
+    "context": "Istilah Hukum",
+    "response": "Melakukan pengujian terhadap suatu putusan pengadilan atau putusan hukum yang terkait dengan kepentingan hukum, penegakan hukum dan keadilan dan masyarakat secara luas, oleh sebab itu dalam melakukan eksaminasi perlu dilakukan secara hati-hati, cermat dan tidak melanggar hukum atau bertentangan dengan asas-asas hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kekuatan pembuktian formil'.",
+    "context": "Istilah Hukum",
+    "response": "Didasarkan atas benar tidaknya ada pernyataan oleh yang bertanda tangan di bawah akta itu. kekuatan ini memberi kepastian tentang peristiwa bahwa pejabat dan para pihak menyatakan dan melakukan apa yang dimuat dalam akta."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kelalaian/negligence'.",
+    "context": "Istilah Hukum",
+    "response": "Melakukan sesuatu yang seharusnya tidak dilakukan atau tidak melakukan sesuatu yang seharusnya dilakukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kepailitan'.",
+    "context": "Istilah Hukum",
+    "response": "Sita umum atas semua kekayaan debitor pailit yang pengurusan dan pemberesannya dilakukan oleh kurator di bawah pengawasan hakim pengawas sebagaimana diatur dalam undang-undang ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keputusan declaratoir'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu keputusan yang menimbulkan suatu keadaan hukum baru."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keterangan ahli'.",
+    "context": "Istilah Hukum",
+    "response": "Keterangan yang diberikan oleh seorang yang memiliki keahlian khusus tentang hal yang diperlukan untuk membuat terang suatu perkara pidana guna kepentingan pemeriksaan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keterangan anak'.",
+    "context": "Istilah Hukum",
+    "response": "Keterangan yang diberikan oleh seorang anak tentang hal yang diperlukan untuk membuat terang suatu perkara pidana guna kepentingan pemeriksaan dalam hal serta menurut cara yang diatur dalam undang-undang ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keterangan saksi'.",
+    "context": "Istilah Hukum",
+    "response": "Salah satu alat bukti dalam perkara pidana yang berupa keterangan dari mengenai suatu peristiwa pidana yang ia dengar sendiri, ia lihat sendiri dan ia alami sendiri dengan menyebut alasan dari pengetahuannya itu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Keterangan terdakwa'.",
+    "context": "Istilah Hukum",
+    "response": "Apa yang terdakwa nyatakan di sidang tentang perbuatan yang ia lakukan atau yang ia ketahui sendiri atau alami sendiri (pasal 189 ayat (1) KUHAP)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kewajiban'.",
+    "context": "Istilah Hukum",
+    "response": "Beban yang diberikan oleh hukum kepada orang ataupun badan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kompetensi absolut (kewenangan mutlak)'.",
+    "context": "Istilah Hukum",
+    "response": "Kewenangan badan pengadilan didalam memeriksa jenis perkara tertentu dan secara mutlak tidak dapat diperiksa oleh badan pengadilan lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kompetensi relatif'.",
+    "context": "Istilah Hukum",
+    "response": "Wewenang hakim berkaitan dengan wilayah hukum suatu pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kreditur konkuren'.",
+    "context": "Istilah Hukum",
+    "response": "Kreditur yang piutangnya tidak dijamin dengan suatu hak kebendaan tertentu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kreditur separatis'.",
+    "context": "Istilah Hukum",
+    "response": "Kreditur yang piutangnya dijamin dengan hak kebendaan tertentu, misalnya hipotik, fiducia, gadai atau hak tanggungan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kreditur preferen'.",
+    "context": "Istilah Hukum",
+    "response": "Kreditur yang tagihannya didahulukan atau diistimewakan daripada tagihan-tagihan kreditu lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kualifikasi gugatan'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu perumusan mengenai perbuatan materiil maupun formal dari tergugat, yang dapat berupa perbuatan melawan hukum, wanprestasi dan lain-lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'KUHAP'.",
+    "context": "Istilah Hukum",
+    "response": "Undang-undang nomor 8 tahun 1981 tentang Kitab Undang-undang Hukum Acara Pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Kurator Kepailitan'.",
+    "context": "Istilah Hukum",
+    "response": "Balai harta peninggalan atau orang perseorangan yang diangkat oleh pengadilan untuk mengurus dan membereskan harta debitor pailit di bawah pengawasan hakim pengawas sesuai dengan undang-undang ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Lembaga perlindungan saksi dan korban'.",
+    "context": "Istilah Hukum",
+    "response": "Lembaga yang bertugas dan berwenang untuk memberikan perlindungan dan hak-hak lain kepada saksi dan/atau korban sebagaimana diatur dalam undang-undang nomor 13 tahun 2006 tentang perlindungan saksi dan korban."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Locus delictie'.",
+    "context": "Istilah Hukum",
+    "response": "Tempat kejadian perkara: a) Tempat dimana suatu tindak pidana dilakukan/terjadi, atau akibat yang ditimbulkannya; b) Tempat-tempat lain dimana barang-barang bukti atau korban yang berhubungan dengan tindak pidana tersebut dapat diketemukan; tempat dimana pembuat melakukan sesuatu adalah tempat dimana ia seharusnya melakukan sesuatu, atau tempat terjadinya akibat yang dimaksud dalam perumusan peraturan perundang-undangan atau tempat yang menurut perkiraan pembuat akan terjadi akibat ini."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Masa percobaan'.",
+    "context": "Istilah Hukum",
+    "response": "Masa tertentu yang diberikan oleh hakim melalui putusannya kepada seorang terpidana untuk memperbaiki perbuatannya dengan syarat tidak mengulangi perbuatannya atau melakukan perbuatan lain yang dapat dipidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Menejemen alur perkara'.",
+    "context": "Istilah Hukum",
+    "response": "Mengkoordinasikan proses dan sumber daya pengadilan agar perkara berjalan secara tepat waktu mulai dari pendaftaran sampai dengan penyelesaian dengan tanpa memperhatikan jenis penyelesaiannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Minutasi perkara'.",
+    "context": "Istilah Hukum",
+    "response": "Proses yang dilakukan panitera pengadilan dalam menyelesaikan proses administrasi meliputi pengetikan, pembendelan serta pengesahan suatu perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Nebis in idem'.",
+    "context": "Istilah Hukum",
+    "response": "Asas yang menyebutkan bahwa terhadap perkara yang sama tidak dapat diadili untuk kedua kalinya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Nullum delictum nulla poena sine praevia lege poenali'.",
+    "context": "Istilah Hukum",
+    "response": "Tidak ada perbuatan yang dapat dipidana kecuali atas kekuatan aturan pidana dalam perundang-undangan yang telah ada sebelum perbuatan dilakukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Onrechtmatigedaad(tort/perbuatan melawan hukum)'.",
+    "context": "Istilah Hukum",
+    "response": "Perbuatan yang bertentangan dengan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Organisasi advokat'.",
+    "context": "Istilah Hukum",
+    "response": "Organisasi profesi yang didirikan berdasarkan undang-undang nomor 18 tahun 2003 tentang advokat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pailit'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu keadaan di mana seseorang sudah tidak mampu lagi membayar hutang-hutangnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Panitera'.",
+    "context": "Istilah Hukum",
+    "response": "Pejabat pengadilan yang salah satu tugasnya adalah membantu hakim dalam membuat berita acara pemeriksaan dalam proses persidangan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Panitera pengadilan/ clerk of the court'.",
+    "context": "Istilah Hukum",
+    "response": "Pejabat atau petugas yang berfungsi memelihara atau menjaga segala dokumen atau melaksanakan pekerjaan umum kantor pengadilan (to perform general office work)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pembantaran penahanan'.",
+    "context": "Istilah Hukum",
+    "response": "Penahanan yang dilakukan kepada tersangka yang sakit dan perlu dirawat inap di rumah sakit, dengan ketentuan jangka waktu tertentu menjalani rawat inap tersebut tidak dihitung sebagai masa penahanan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pembebasan bersyarat'.",
+    "context": "Istilah Hukum",
+    "response": "Bebasnya narapidana setelah menjalani sekurang-kurangnya dua pertiga masa pidananya dengan ketentuan dua pertiga tersebut tidak kurang dari 9 (sembilan) bulan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pembuatan berita acara pemeriksaan tersangka dan saksi'.",
+    "context": "Istilah Hukum",
+    "response": "Catatan/ tulisan yang bersifat otentik, dibuat dalam bentuk tertentu oleh penyidik atau penyidik pembantu (pemeriksa atas) atas kekuatan sumpah jabatan, diberi tanggal dan ditandatangani oleh penyidik atau penyidik pembantu dan tersangka serta saksi/ ahli (yang diperiksa), memuat uraian tindak pidana yang mencakup/ memenuhi unsur-unsur tindak pidana yang dipersangkakan dengan waktu, tempat dan keadaan pada waktu tindak pidana dilakukan, identitas pemeriksa dan yang diperiksa, keterangan yang diperiksa, catatan mengenai akta dan/ atau benda serta segala sesuatu yang dianggap perlu untuk kepentingan penyelesaian perkara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pembuktian'.",
+    "context": "Istilah Hukum",
+    "response": "Penyajian alat-alat bukti yang sah menurut hukum kepada hakim yang memeriksa suatu perkara guna memberikan kepastian tentang kebenaran peristiwa yang dikemukakan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pembuktian terbalik/pidana'.",
+    "context": "Istilah Hukum",
+    "response": "Pembuktian terhadap ada tidaknya unsur kesalahan dalam kasus pidana, merupakan beban dan tanggung jawab pelaku usaha."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Pemeriksaan tindak pidana ringan/ pemeriksaan cepat/summir'.",
+    "context": "Istilah Hukum",
+    "response": "Pemeriksaan terhadap perkara yang diancam dengan pidana penjara atau kurungan paling lama tiga bulan dan denda sebanyak-banyaknya tujuh ribu lima ratus rupiah dan penghinaan ringan kecuali yang ditentukan dalam acara pemeriksaan perkara pelanggaran lalu lintas jalan (pasal 211 s/d 216 KUHAP)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Penahanan'.",
+    "context": "Istilah Hukum",
+    "response": "Penempatan tersangka atau terdakwa di tempat tertentu oleh penyidik, atau penuntut umum atau hakim dengan penetapannya, dalam hal serta menurut cara yang diatur dalam KUHAP."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Penangguhan penahanan'.",
+    "context": "Istilah Hukum",
+    "response": "Mengeluarkan tersangka/ terdakwa dari penahanan sebelum batas waktu penahanannya berakhir."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Penangkapan'.",
+    "context": "Istilah Hukum",
+    "response": "Suatu tindakan penyidik berupa pengekangan sementara waktu kebebasan tersangka atau terdakwa apabila terdapat cukup bukti guna kepentingan penyidikan atau penuntutan dan atau peradilan dalam hal serta menurut cara yang diatur dalam KUHAP."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Penasehat hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Seseorang yang memenuhi syarat yang ditentukan oleh atau berdasar undang-undang untuk memberi bantuan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum 'Penegakan hukum'.",
+    "context": "Istilah Hukum",
+    "response": "Kegiatan menyerasikan hubungan nilai-nilai yang terjabarkan dalam kaidah-kaidah, pandangan-pandangan yang mantap dan mengejawantahkannya dalam sikap, tindak sebagai serangakaian penjabaran nilai tahap akhir untuk menciptakan kedamaian pergaulan hidup."
+  }
+]
