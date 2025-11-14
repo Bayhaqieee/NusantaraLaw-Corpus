@@ -1,0 +1,492 @@
+[
+  {
+    "instruction": "Apa gelar Sarjana Hukum (Bachelor of Laws)?",
+    "context": "Gelar akademik di bidang hukum, sering disingkat LLB atau JD di sistem modern.",
+    "response": "N. Gelar dalam bidang hukum dari sekolah hukum. Ini berarti penerima telah berhasil menyelesaikan tiga tahun studi hukum di samping setidaknya tiga tahun sarjana pada mata kuliah apa pun. Sejak awal 1960-an, sebagian besar sekolah hukum terakreditasi (di AS) memberikan gelar Juris Doctor (JD) sebagai gantinya."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan Hukuman Seumur Hidup Berturut-turut (Back-to-back life sentences)?",
+    "context": "Istilah slang untuk vonis ganda dalam kasus kejahatan berat.",
+    "response": "N. Slang untuk hukuman seumur hidup berturut-turut yang dijatuhkan oleh hakim ketika ada dua kejahatan yang dilakukan oleh terdakwa, yang keduanya dapat mengakibatkan hukuman seumur hidup, seperti dua pembunuhan, atau pembunuhan dan pemerkosaan yang melibatkan penganiayaan berat."
+  },
+  {
+    "instruction": "Apa definisi Utang Tak Tertagih (Bad Debt)?",
+    "context": "Kondisi keuangan di mana utang dianggap hangus atau macet.",
+    "response": "N. Utang yang tidak dapat ditagih. Masalahnya adalah menentukan kapan utang tersebut secara realistis dianggap mati, yang berarti harus ada bukti ketidaktertagihan atau berlalunya waktu yang lama. Pemicunya bisa berupa kepailitan, lewatnya batas waktu kedaluwarsa penuntutan, atau hilangnya debitur."
+  },
+  {
+    "instruction": "Apa arti Itikad Buruk (Bad Faith) dalam hukum?",
+    "context": "Tindakan tidak jujur atau melanggar kewajiban kontrak secara sengaja.",
+    "response": "N. Tindakan tidak jujur yang disengaja dengan tidak memenuhi kewajiban hukum atau kontrak, menyesatkan orang lain, membuat perjanjian tanpa niat atau sarana untuk memenuhinya, atau melanggar standar dasar kejujuran dalam berurusan dengan orang lain."
+  },
+  {
+    "instruction": "Apa itu Uang Jaminan (Bail)?",
+    "context": "Uang yang diserahkan ke pengadilan agar terdakwa bisa bebas sementara menunggu sidang.",
+    "response": "N. Uang atau obligasi yang diserahkan untuk menjamin pembebasan seseorang yang telah didakwa melakukan kejahatan. Untuk kejahatan ringan, jaminan biasanya ditetapkan berdasarkan jadwal tarif. Untuk kejahatan yang lebih serius, jumlah jaminan ditetapkan oleh hakim."
+  },
+  {
+    "instruction": "Apa itu Obligasi Jaminan (Bail Bond)?",
+    "context": "Jaminan yang disediakan oleh perusahaan asuransi melalui agen untuk membebaskan terdakwa.",
+    "response": "N. Obligasi yang disediakan oleh perusahaan asuransi melalui penjamin (bail bondsman) yang bertindak sebagai agen perusahaan, untuk mengamankan pembebasan terdakwa dari penjara sambil menunggu persidangan. Biasanya ada biaya 10 persen dari jumlah obligasi (misalnya Rp 1 juta untuk obligasi Rp 10 juta)."
+  },
+  {
+    "instruction": "Siapa itu Agen Penjamin (Bail Bondsman)?",
+    "context": "Profesional yang menyediakan jasa penjaminan bagi terdakwa kriminal.",
+    "response": "N. Agen profesional untuk perusahaan asuransi yang mengkhususkan diri dalam menyediakan obligasi jaminan bagi orang-orang yang didakwa melakukan kejahatan dan menunggu persidangan agar mereka dibebaskan. Kantor mereka biasanya ditemukan dekat dengan gedung pengadilan dan penjara setempat."
+  },
+  {
+    "instruction": "Siapa itu Penerima Titipan (Bailee)?",
+    "context": "Pihak yang bertanggung jawab memegang barang milik orang lain untuk sementara waktu.",
+    "response": "N. Seseorang, juga disebut kustodian, yang dititipi suatu barang, biasanya sesuai dengan kontrak (disebut \"kontrak penitipan\"), yang bertanggung jawab atas pengembalian barang yang aman kepada pemiliknya ketika kontrak dipenuhi. Ini bisa termasuk bank yang memegang surat berharga atau perusahaan penyimpanan."
+  },
+  {
+    "instruction": "Apa tugas seorang Jurusita (Bailiff)?",
+    "context": "Pejabat pengadilan yang menjaga ketertiban dan membantu hakim.",
+    "response": "N. 1) Pejabat pengadilan, biasanya deputi sheriff, yang menjaga ketertiban di ruang sidang dan menangani berbagai tugas untuk hakim dan panitera. 2) Di beberapa yurisdiksi, orang yang ditunjuk pengadilan untuk mengurus urusan orang yang tidak kompeten atau menjadi \"penjaga\" barang/uang."
+  },
+  {
+    "instruction": "Apa itu Penitipan Barang (Bailment)?",
+    "context": "Tindakan hukum menyerahkan penguasaan barang ke orang lain untuk sementara.",
+    "response": "N. Tindakan menempatkan properti dalam pengawasan dan kendali orang lain, biasanya melalui perjanjian di mana pemegang (bailee) bertanggung jawab atas penyimpanan dan pengembalian properti tersebut. Contoh: mobil diparkir di garasi, atau hewan dititipkan di kennel."
+  },
+  {
+    "instruction": "Siapa itu Pemberi Titipan (Bailor)?",
+    "context": "Orang yang menyerahkan barangnya untuk disimpan oleh pihak lain.",
+    "response": "N. Seseorang yang meninggalkan barang dalam pengawasan orang lain, biasanya di bawah \"kontrak penitipan,\" di mana kustodian (\"bailee\") bertanggung jawab atas penyimpanan yang aman. Kadang-kadang bailor bukan pemilik asli, tetapi pelayan pemilik atau penemu barang."
+  },
+  {
+    "instruction": "Apa praktik Umpan dan Alih (Bait and Switch)?",
+    "context": "Strategi penjualan tidak jujur dengan mengiklankan barang murah yang sebenarnya tidak tersedia.",
+    "response": "N. Praktik penjualan yang tidak jujur di mana bisnis mengiklankan harga murah untuk suatu barang guna menarik pelanggan ke toko, kemudian memberi tahu calon pembeli bahwa barang yang diiklankan berkualitas buruk atau tidak tersedia, lalu mencoba mengalihkan pelanggan ke produk yang lebih mahal."
+  },
+  {
+    "instruction": "Apa itu Saldo Terutang (Balance Due)?",
+    "context": "Sisa jumlah utang yang masih harus dibayar.",
+    "response": "N. Jumlah utang yang masih terutang pada suatu akun atau pokok yang terutang pada surat sanggup bayar. Dalam hal surat sanggup bayar, saldo terutang mungkin adalah pokok yang jatuh tempo tanpa bunga lebih lanjut."
+  },
+  {
+    "instruction": "Apa definisi Neraca Keuangan (Balance Sheet)?",
+    "context": "Laporan akuntansi yang menunjukkan aset dan kewajiban perusahaan.",
+    "response": "N. Pernyataan aset dan kewajiban (jumlah terutang) dari suatu bisnis pada waktu tertentu, biasanya disiapkan setiap bulan, kuartal, tahunan, atau saat penjualan bisnis. Ini dimaksudkan untuk menunjukkan kondisi keseluruhan bisnis."
+  },
+  {
+    "instruction": "Apa definisi hukum dari Bank?",
+    "context": "Lembaga keuangan resmi yang menerima simpanan dan menyalurkan pinjaman.",
+    "response": "N. Lembaga resmi yang diberi wewenang untuk menerima simpanan, memberikan pinjaman, dan menyediakan layanan rekening giro dan tabungan, semuanya untuk mendapatkan keuntungan. Bank diatur di bawah persyaratan ketat pemerintah."
+  },
+  {
+    "instruction": "Apa itu Kepailitan (Bankruptcy)?",
+    "context": "Sistem hukum federal bagi individu atau bisnis yang tidak mampu membayar utang.",
+    "response": "N. Sistem undang-undang dan pengadilan federal yang mengizinkan orang dan bisnis yang insolven (debitur) atau menghadapi potensi insolvensi, untuk menempatkan urusan keuangannya di bawah kendali pengadilan kepailitan. Prosedur ini terjadi ketika utang debitur melebihi asetnya."
+  },
+  {
+    "instruction": "Apa fungsi Pengadilan Kepailitan (Bankruptcy Court)?",
+    "context": "Pengadilan khusus yang menangani kasus kebangkrutan dan insolvensi.",
+    "response": "N. Pengadilan federal khusus di mana masalah kebangkrutan dilakukan. Di Indonesia, fungsinya mirip dengan Pengadilan Niaga."
+  },
+  {
+    "instruction": "Bagaimana Proses Kepailitan (Bankruptcy Proceedings) berjalan?",
+    "context": "Tahapan hukum dari pengajuan petisi hingga reorganisasi atau likuidasi.",
+    "response": "N. Prosedur kebangkrutan meliputi: mengajukan petisi (sukarela atau tidak sukarela) untuk menyatakan seseorang atau bisnis bangkrut, untuk memungkinkan reorganisasi atau pembiayaan kembali di bawah rencana untuk memenuhi utang pihak yang tidak mampu memenuhi kewajibannya."
+  },
+  {
+    "instruction": "Apa arti kata Bar dalam konteks hukum?",
+    "context": "Merujuk pada kumpulan pengacara atau pembatas fisik di ruang sidang.",
+    "response": "N. Secara kolektif merujuk pada semua pengacara, sebagai \"the bar,\" yang berasal dari palang atau pagar yang memisahkan area penonton umum ruang sidang dari area yang disediakan untuk hakim, pengacara, dan pejabat pengadilan."
+  },
+  {
+    "instruction": "Apa itu Asosiasi Pengacara (Bar Association)?",
+    "context": "Organisasi profesi bagi para advokat.",
+    "response": "N. Organisasi pengacara. Ada dua jenis, salah satunya resmi (seperti PERADI di Indonesia) yang berwenang menetapkan aturan penerimaan dan perilaku. Ada juga asosiasi pengacara lokal yang bersifat tidak resmi."
+  },
+  {
+    "instruction": "Apa itu Ujian Profesi (Bar Examination)?",
+    "context": "Tes kualifikasi untuk mendapatkan izin praktik sebagai pengacara.",
+    "response": "N. Ujian yang diberikan di setiap wilayah hukum (negara bagian) untuk penerimaan sebagai pengacara. Ujian ini bervariasi tingkat kesulitannya, tetapi sebagian besar mencakup pertanyaan esai dan pilihan ganda tentang hukum."
+  },
+  {
+    "instruction": "Apa arti Bargain dalam hukum kontrak?",
+    "context": "Kesepakatan timbal balik antara dua pihak.",
+    "response": "N. 1) Perjanjian atau kontrak timbal balik antara dua pihak yang bersifat sukarela dan melibatkan pertukaran pertimbangan (uang, barang, jasa, atau janji untuk janji). 2) Kesepakatan yang dianggap menguntungkan."
+  },
+  {
+    "instruction": "Apa itu Barratry?",
+    "context": "Tindakan ilegal pengacara yang menghasut perselisihan demi keuntungan biaya.",
+    "response": "N. Menciptakan bisnis hukum dengan mengaduk-aduk perselisihan dan pertengkaran, umumnya untuk keuntungan pengacara yang melihat potensi biaya dalam masalah tersebut. Barratry adalah ilegal dan dapat dikenakan hukuman pidana atau disiplin profesi."
+  },
+  {
+    "instruction": "Apa perbedaan Barrister dengan pengacara biasa?",
+    "context": "Istilah Inggris untuk pengacara yang khusus tampil di pengadilan.",
+    "response": "N. Di Amerika Serikat, ini nama mewah untuk pengacara. Di Inggris Raya, ada sistem dua tingkat: solicitor (melakukan tugas hukum non-sidang) dan barrister (yang menyidangkan kasus di pengadilan)."
+  },
+  {
+    "instruction": "Apa itu Basis (Basis) dalam perpajakan aset?",
+    "context": "Biaya awal aset yang digunakan untuk menghitung pajak keuntungan modal.",
+    "response": "N. Biaya asli aset yang digunakan untuk menentukan jumlah pajak keuntungan modal (capital gain) saat penjualannya. \"Basis yang disesuaikan\" mencakup perbaikan dan biaya antara waktu harga asli ditetapkan dan pengalihan aset."
+  },
+  {
+    "instruction": "Apa definisi Kekerasan Fisik (Battery)?",
+    "context": "Kontak fisik yang disengaja dan berbahaya terhadap orang lain.",
+    "response": "N. Pemukulan atau kontak fisik yang disengaja terhadap seseorang, dengan niat untuk menyakiti, atau dengan cara yang \"kasar dan kurang ajar\" meskipun cederanya ringan. Kontak yang tidak disengaja karena kelalaian bukanlah battery."
+  },
+  {
+    "instruction": "Apa itu Ketentuan Amanat 'Beach Bum'?",
+    "context": "Syarat dalam trust fund agar penerima manfaat tetap bekerja.",
+    "response": "N. Persyaratan dalam perwalian (trust) bahwa penerima manfaat hanya dapat menerima keuntungan dari perwalian sejumlah yang dia hasilkan sendiri (gajinya). Ketentuan ini dimaksudkan untuk mendorong penerima manfaat agar bekerja, dan tidak hanya bersantai di pantai dan hidup dari uang warisan."
+  },
+  {
+    "instruction": "Siapa itu Pembawa (Bearer) dalam instrumen keuangan?",
+    "context": "Orang yang memegang dokumen berharga yang dapat dicairkan oleh siapa saja yang memegangnya.",
+    "response": "N. Siapa pun yang memegang sesuatu, seperti cek, surat sanggup bayar, wesel bank, atau obligasi. Ini menjadi penting ketika dokumen menyatakan \"dibayarkan kepada pembawa\" (payable to bearer), yang berarti siapa pun yang memegang kertas ini dapat menerima dana tersebut."
+  },
+  {
+    "instruction": "Apa itu Surat Atas Unjuk (Bearer Paper)?",
+    "context": "Instrumen negosiasi yang dibayarkan kepada pemegangnya.",
+    "response": "N. Instrumen yang dapat dinegosiasikan (misalnya obligasi) yang dibayarkan kepada siapa pun yang memilikinya (si pembawa)."
+  },
+  {
+    "instruction": "Apa arti Keyakinan (Belief) dalam pernyataan hukum?",
+    "context": "Tingkat kepastian seseorang terhadap suatu fakta, seringkali berdasarkan informasi yang belum dikonfirmasi.",
+    "response": "N. Yakin akan kebenaran suatu pernyataan atau tuduhan. Dalam frasa umum \"berdasarkan informasi dan keyakinan,\" apa yang disebut keyakinan hanya didasarkan pada informasi yang belum dikonfirmasi."
+  },
+  {
+    "instruction": "Apa arti Bench dalam ruang sidang?",
+    "context": "Istilah untuk hakim atau tempat duduk hakim.",
+    "response": "N. 1) Istilah umum untuk semua hakim, atau untuk hakim tertentu. 2) Meja besar, biasanya panjang dan lebar, yang ditinggikan di atas level ruang sidang lainnya, tempat hakim duduk."
+  },
+  {
+    "instruction": "Apa itu Surat Perintah Hakim (Bench Warrant)?",
+    "context": "Perintah penangkapan yang dikeluarkan langsung oleh hakim karena ketidakhadiran di sidang.",
+    "response": "N. Surat perintah yang dikeluarkan oleh hakim, sering kali untuk memerintahkan seseorang menghadap hakim, dengan penetapan jumlah jaminan yang harus disetor. Sering digunakan dalam masalah yang lebih ringan untuk mendorong pihak tersebut hadir di pengadilan."
+  },
+  {
+    "instruction": "Apa definisi Kepentingan Manfaat (Beneficial Interest)?",
+    "context": "Hak untuk menerima keuntungan dari suatu kontrak atau perwalian.",
+    "response": "N. Hak suatu pihak atas keuntungan, distribusi, atau manfaat dari kontrak atau perwalian (trust). Ini dibedakan dari hak seseorang seperti wali amanat yang memiliki tanggung jawab untuk melakukan tugas tetapi tidak mendapat bagian dari keuntungan aset tersebut."
+  },
+  {
+    "instruction": "Apa itu Hak Guna Manfaat (Beneficial Use)?",
+    "context": "Hak untuk menikmati properti tanpa harus memilikinya secara hukum.",
+    "response": "N. Hak untuk menikmati penggunaan sesuatu (terutama kualitas yang menyenangkan seperti cahaya, udara, pemandangan, akses, air di sungai) meskipun hak milik atas properti tempat penggunaan itu ada dipegang oleh orang lain."
+  },
+  {
+    "instruction": "Siapa itu Penerima Manfaat (Beneficiary)?",
+    "context": "Orang atau entitas yang menerima aset atau keuntungan dari wasiat, asuransi, atau trust.",
+    "response": "N. Definisi luas untuk setiap orang atau entitas (seperti badan amal) yang akan menerima aset atau keuntungan dari warisan, perwalian, polis asuransi, atau instrumen apa pun di mana ada pembagian."
+  },
+  {
+    "instruction": "Apa arti Manfaat (Benefit) dalam konteks kompensasi pekerja?",
+    "context": "Pembayaran asuransi atau keuntungan yang diperoleh dari kontrak.",
+    "response": "N. 1) Keuntungan atau hak istimewa yang diperoleh, terutama melalui kontrak. 2) Dalam kompensasi pekerja, istilah \"manfaat\" adalah pembayaran asuransi akibat kecelakaan fatal di tempat kerja. 3) Dalam perpajakan penghasilan, segala sesuatu yang membawa keuntungan ekonomi."
+  },
+  {
+    "instruction": "Apa hak Bantuan Penasihat Hukum (Benefit of Counsel)?",
+    "context": "Hak untuk didampingi pengacara selama proses hukum.",
+    "response": "N. Memiliki kesempatan untuk memiliki pengacara dan nasihat hukum dalam masalah hukum apa pun, terutama saat tampil di pengadilan. Jika seseorang menyetujui kontrak tanpa bantuan penasihat hukum saat pengacara sangat dibutuhkan, dia dapat menantang validitas kontrak tersebut."
+  },
+  {
+    "instruction": "Apa arti Mewariskan (Bequeath)?",
+    "context": "Memberikan harta pribadi (bukan tanah) melalui wasiat.",
+    "response": "V. Memberikan properti pribadi berdasarkan ketentuan wasiat (berbeda dengan \"devise,\" yaitu memberikan real estat). 2) Tindakan memberikan aset apa pun berdasarkan ketentuan wasiat."
+  },
+  {
+    "instruction": "Apa itu Warisan Barang Bergerak (Bequest)?",
+    "context": "Hadiah properti pribadi yang diberikan lewat wasiat.",
+    "response": "N. Pemberian properti pribadi berdasarkan ketentuan wasiat. Warisan tidak selalu langsung, tetapi mungkin \"bersyarat\" pada kejadian tertentu (seperti pernikahan)."
+  },
+  {
+    "instruction": "Apa itu Aturan Bukti Terbaik (Best Evidence Rule)?",
+    "context": "Doktrin hukum yang mengutamakan dokumen asli daripada salinan.",
+    "response": "N. Doktrin hukum bahwa bukti asli, khususnya dokumen, lebih unggul daripada salinan. Jika yang asli tersedia, salinan tidak akan diizinkan sebagai bukti dalam persidangan."
+  },
+  {
+    "instruction": "Apa itu Bestialitas (Bestiality)?",
+    "context": "Hubungan seksual manusia dengan hewan.",
+    "response": "N. Kopulasi oleh manusia dengan hewan, yang merupakan kejahatan di semua negara bagian sebagai \"kejahatan terhadap alam.\""
+  },
+  {
+    "instruction": "Apa standar Melampaui Keraguan yang Wajar (Beyond a Reasonable Doubt)?",
+    "context": "Standar pembuktian tertinggi yang diperlukan dalam pengadilan pidana.",
+    "response": "Adj. Bagian dari instruksi juri dalam semua pengadilan pidana, di mana juri diberitahu bahwa mereka hanya dapat menyatakan terdakwa bersalah jika mereka yakin akan kesalahannya \"melampaui keraguan yang wajar\"."
+  },
+  {
+    "instruction": "Apa singkatan dari BFP?",
+    "context": "Singkatan hukum untuk pembeli yang tidak tahu adanya masalah hukum pada barang yang dibeli.",
+    "response": "N. Slang untuk *bona fide purchaser* (pembeli beritikad baik), yang berarti seseorang yang membeli sesuatu dengan nilai wajar tanpa alasan untuk curiga bahwa barang itu curian atau milik orang lain."
+  },
+  {
+    "instruction": "Apa itu Bias dalam keputusan hukum?",
+    "context": "Kecenderungan hakim atau juri yang tidak adil memihak satu sisi.",
+    "response": "N. Kecenderungan hakim, arbiter, calon juri, atau siapa pun yang membuat keputusan yudisial, untuk menentang atau memihak salah satu pihak. Ini dapat ditunjukkan oleh ucapan atau keputusan yang bertentangan dengan fakta."
+  },
+  {
+    "instruction": "Apa itu Penawaran (Bid)?",
+    "context": "Harga yang diajukan untuk membeli sesuatu dalam lelang atau kontrak.",
+    "response": "N. Tawaran untuk membeli dengan harga tertentu yang dinyatakan. Ini termasuk penawaran selama lelang di mana orang bersaing dengan menaikkan tawaran, atau kontraktor menawarkan kontrak untuk membangun proyek dengan harga tertentu."
+  },
+  {
+    "instruction": "Apa arti Memecah (Bifurcate) dalam persidangan?",
+    "context": "Perintah hakim untuk memisahkan satu masalah hukum untuk diputuskan terlebih dahulu.",
+    "response": "V. Perintah atau putusan hakim bahwa satu masalah dalam suatu kasus dapat diadili hingga kesimpulan atau putusan diberikan pada satu fase kasus tanpa mengadili semua aspek masalah tersebut. Contoh: hakim memberikan putusan cerai tanpa menunggu putusan pembagian harta."
+  },
+  {
+    "instruction": "Apa itu Bifurkasi (Bifurcation)?",
+    "context": "Tindakan membagi isu persidangan menjadi beberapa bagian.",
+    "response": "N. Tindakan hakim dalam membagi masalah sebelum persidangan sehingga satu masalah akan diputuskan sebelum mendengar bukti tentang masalah lainnya."
+  },
+  {
+    "instruction": "Apa kejahatan Bigami?",
+    "context": "Kondisi memiliki dua pasangan sah (suami/istri) pada saat bersamaan.",
+    "response": "N. Kondisi memiliki dua istri atau dua suami pada waktu yang sama. Pernikahan di mana salah satu pihak sudah menikah secara sah adalah bigami, batal demi hukum, dan alasan untuk pembatalan."
+  },
+  {
+    "instruction": "Apa itu Kontrak Bilateral?",
+    "context": "Perjanjian di mana kedua pihak saling bertukar janji.",
+    "response": "N. Perjanjian di mana para pihak bertukar janji untuk masing-masing melakukan sesuatu di masa depan. Contoh: \"Penjual berjanji menjual rumahnya ke Pembeli, dan Pembeli berjanji membayar Penjual Rp 1 miliar.\" Ini berbeda dengan kontrak unilateral."
+  },
+  {
+    "instruction": "Apa saja arti kata Bill?",
+    "context": "Bisa berarti cek, tagihan, uang kertas, atau rancangan undang-undang.",
+    "response": "N. 1) Apa yang biasa disebut \"cek\". 2) Pernyataan tentang apa yang terutang (tagihan). 3) Uang kertas apa pun. 4) Proposal legislatif untuk pengesahan undang-undang (RUU)."
+  },
+  {
+    "instruction": "Apa itu Bill of Attainder?",
+    "context": "Undang-undang yang menyatakan seseorang bersalah tanpa pengadilan (dilarang konstitusi AS).",
+    "response": "N. Tindakan legislatif yang menyatakan orang bernama tertentu bersalah atas kejahatan, khususnya pengkhianatan, tanpa pengadilan. RUU semacam itu dilarang oleh Konstitusi."
+  },
+  {
+    "instruction": "Apa itu Wesel (Bill of Exchange)?",
+    "context": "Perintah tertulis untuk membayar sejumlah uang ke pihak ketiga.",
+    "response": "N. Tulisan oleh suatu pihak (pembuat) yang memerintahkan pihak lain (pembayar) untuk membayar jumlah tertentu kepada pihak ketiga (penerima). Wesel yang ditarik dari rekening bank adalah sebuah \"cek\"."
+  },
+  {
+    "instruction": "Apa fungsi Bill of Lading?",
+    "context": "Tanda terima pengiriman barang yang juga berfungsi sebagai kontrak pengangkutan.",
+    "response": "N. Tanda terima yang diperoleh pengirim barang dari pengangkut (perusahaan truk, kereta api, kapal, atau kargo udara) untuk pengiriman ke pembeli tertentu. Ini adalah kontrak yang melindungi pengirim dengan menjamin pembayaran dan bukti hak atas barang."
+  },
+  {
+    "instruction": "Apa itu Rincian Tuntutan (Bill of Particulars)?",
+    "context": "Daftar rinci klaim yang diminta terdakwa dari penggugat.",
+    "response": "N. Perincian tertulis dari klaim yang dapat diminta oleh terdakwa dalam gugatan dari penggugat untuk mengetahui detail klaim tersebut. Jadi, terdakwa bisa memahami dan membela diri."
+  },
+  {
+    "instruction": "Apa itu Bill of Rights?",
+    "context": "Sepuluh amandemen pertama Konstitusi AS yang menjamin hak-hak individu.",
+    "response": "N. Sepuluh amandemen pertama Konstitusi federal (AS) yang dituntut oleh beberapa negara bagian sebagai imbalan untuk meratifikasi Konstitusi, karena kegagalan melindungi hak-hak ini adalah kelalaian yang mencolok."
+  },
+  {
+    "instruction": "Apa itu Nota Penjualan (Bill of Sale)?",
+    "context": "Dokumen bukti transfer kepemilikan barang atau bisnis.",
+    "response": "N. Pernyataan tertulis yang membuktikan pengalihan (penjualan) barang, harta benda, atau bisnis kepada pembeli. Ini berguna untuk menunjukkan bahwa pembeli sekarang memiliki kepemilikan."
+  },
+  {
+    "instruction": "Apa itu Binder dalam asuransi?",
+    "context": "Pernyataan sementara tentang cakupan asuransi sebelum polis resmi keluar.",
+    "response": "N. Pernyataan tertulis dari persyaratan utama suatu perjanjian, khususnya polis asuransi, sehingga tertanggung serta pemberi pinjaman dapat yakin ada cakupan asuransi yang sah dan memadai."
+  },
+  {
+    "instruction": "Apa definisi Pemerasan (Blackmail)?",
+    "context": "Mengancam akan membuka aib seseorang jika tidak diberi uang.",
+    "response": "N. Kejahatan mengancam untuk mengungkapkan fakta memalukan, tercela, atau merusak tentang seseorang kepada publik atau keluarga kecuali dibayar. Ini adalah salah satu bentuk ekstorsi."
+  },
+  {
+    "instruction": "Apa itu Endosemen Kosong (Blank Endorsement)?",
+    "context": "Tanda tangan pada cek tanpa menyebut nama penerima, membuatnya bisa dicairkan siapa saja.",
+    "response": "N. Pengesahan (endosemen) cek atau surat berharga lainnya tanpa menyebutkan nama orang yang akan dibayar."
+  },
+  {
+    "instruction": "Apa itu Blue Laws?",
+    "context": "Undang-undang kuno yang melarang aktivitas tertentu di hari Minggu.",
+    "response": "N. Undang-undang negara bagian atau lokal yang melarang kegiatan tertentu, khususnya hiburan, olahraga, atau minum alkohol pada hari Minggu, untuk menghormati Sabat Kristen."
+  },
+  {
+    "instruction": "Apa itu Juri Blue Ribbon?",
+    "context": "Juri yang dipilih dari warga berpendidikan tinggi untuk kasus khusus.",
+    "response": "N. Juri yang dipilih dari warga terkemuka dan berpendidikan baik, kadang-kadang untuk menyelidiki masalah khusus seperti korupsi sipil. Penggunaan juri ini dalam kasus pidana melanggar hak untuk memiliki juri dari rekan sebaya."
+  },
+  {
+    "instruction": "Apa tujuan Blue Sky Laws?",
+    "context": "Hukum yang melindungi investor dari penipuan saham perusahaan bodong.",
+    "response": "N. Undang-undang yang dimaksudkan untuk melindungi publik dari pembelian saham di perusahaan curang yang tidak memiliki substansi, seperti mereka yang menjual tanah rawa atau sumur minyak kering. Hukum ini mewajibkan pengungkapan aset yang jujur."
+  },
+  {
+    "instruction": "Apa fungsi Dewan Direksi (Board of Directors)?",
+    "context": "Grup yang dipilih pemegang saham untuk mengelola kebijakan perusahaan.",
+    "response": "N. Manajer kebijakan perusahaan atau organisasi yang dipilih oleh pemegang saham atau anggota. Dewan pada gilirannya memilih pejabat perusahaan, menetapkan kebijakan dasar, dan bertanggung jawab kepada pemegang saham."
+  },
+  {
+    "instruction": "Apa itu Boiler Room dalam penipuan?",
+    "context": "Operasi telemarketing agresif untuk menjual investasi bodong.",
+    "response": "N. Operasi telepon di mana telemarketer berbicara cepat mencoba menjual saham, layanan, atau barang dan bertindak seolah-olah mereka menelepon dari perusahaan mapan. Seringkali telemarketer ini benar-benar curang."
+  },
+  {
+    "instruction": "Apa arti Boilerplate dalam kontrak?",
+    "context": "Klausul standar atau baku yang sering dicopy-paste dalam dokumen hukum.",
+    "response": "N., Adj. Slang untuk ketentuan dalam kontrak, formulir, atau pembelaan hukum yang tampaknya rutin dan sering dicetak sebelumnya. Hari ini \"boilerplate\" biasanya disimpan di memori komputer untuk diambil dan disalin bila diperlukan."
+  },
+  {
+    "instruction": "Apa arti istilah Latin bona fide?",
+    "context": "Berarti 'itikad baik' atau asli.",
+    "response": "Adj. Bahasa Latin untuk \"itikad baik,\" itu menandakan kejujuran, \"hal yang nyata\" dan, dalam kasus pihak yang mengklaim hak sebagai pembeli bona fide, itu menunjukkan ketidaktahuan akan fakta apa pun yang akan meragukan hak untuk memegang gelar."
+  },
+  {
+    "instruction": "Apa itu Pembeli Beritikad Baik (Bona Fide Purchaser)?",
+    "context": "Seseorang yang membeli aset tanpa mengetahui adanya cacat hukum.",
+    "response": "N. Biasa disebut BFP; seseorang yang telah membeli aset (termasuk surat sanggup bayar atau obligasi) dengan nilai yang dinyatakan, tidak mengetahui fakta apa pun yang akan meragukan hak penjual untuk menjualnya dengan itikad baik."
+  },
+  {
+    "instruction": "Apa definisi Obligasi (Bond)?",
+    "context": "Surat utang yang diterbitkan perusahaan dengan jadwal pembayaran tetap.",
+    "response": "N. 1) Bukti tertulis utang yang diterbitkan oleh perusahaan dengan syarat pembayaran yang dieja. Obligasi berbeda dari saham perusahaan karena pembayaran obligasi telah ditentukan sebelumnya dan memberikan tanggal pelunasan akhir."
+  },
+  {
+    "instruction": "Siapa itu Penjamin (Bondsman)?",
+    "context": "Orang atau perusahaan yang menjual jaminan.",
+    "response": "N. 1) Seseorang yang menjual obligasi jaminan. 2) Penanggung (penjamin atau perusahaan asuransi) yang menyediakan obligasi untuk kinerja."
+  },
+  {
+    "instruction": "Apa hukumnya memasang Jebakan (Booby Trap)?",
+    "context": "Alat berbahaya yang dipasang untuk melukai penyusup, yang bisa menyebabkan pemilik properti dituntut.",
+    "response": "N. Perangkat yang disiapkan untuk dipicu guna melukai atau membunuh siapa pun yang memasuki perangkap, seperti senapan yang akan meledak jika ruangan dimasuki. Jika seseorang memasang perangkap seperti itu untuk melindungi propertinya, dia akan bertanggung jawab atas cedera apa pun."
+  },
+  {
+    "instruction": "Apa itu Akun Buku (Book Account)?",
+    "context": "Catatan debit dan kredit pelanggan dalam pembukuan bisnis.",
+    "response": "N. Akun pelanggan yang disimpan dalam buku besar bisnis debit dan kredit (biaya dan pembayaran), yang menunjukkan jumlah yang jatuh tempo pada waktu tertentu. Ini dapat memberikan dasar yang jelas untuk menuntut utang."
+  },
+  {
+    "instruction": "Apa itu Nilai Buku (Book Value)?",
+    "context": "Nilai saham berdasarkan aset dikurangi kewajiban dalam catatan akuntansi.",
+    "response": "N. Penentuan nilai saham perusahaan dengan menjumlahkan nilai aset perusahaan sebagaimana ditunjukkan pada buku (catatan) perusahaan dan mengurangi semua kewajiban (utang). Ini mungkin bukan nilai sebenarnya dari perusahaan karena aset mungkin dinilai rendah atau tinggi."
+  },
+  {
+    "instruction": "Apa itu Bottomry?",
+    "context": "Kontrak gadai kapal untuk mendanai perbaikan atau pelayaran.",
+    "response": "N. Kontrak hipotek di mana kapal dan/atau muatannya digadaikan sebagai jaminan pinjaman untuk peralatan, perbaikan, atau penggunaan kapal. Jika pinjaman tidak dibayar kembali, pemberi pinjaman dapat menjual kapal tersebut."
+  },
+  {
+    "instruction": "Apa definisi Boikot?",
+    "context": "Penolakan terorganisir untuk membeli produk demi tujuan protes.",
+    "response": "N. Penolakan terorganisir untuk membeli produk atau mengunjungi toko guna merusak produsen secara moneter, memengaruhi kebijakannya, dan/atau menarik perhatian pada tujuan sosial."
+  },
+  {
+    "instruction": "Apa arti Pelanggaran (Breach)?",
+    "context": "Kegagalan melakukan tugas atau memecah ketertiban.",
+    "response": "N. Secara harfiah, pemutusan/pelanggaran. Pelanggaran bisa berupa kegagalan untuk melaksanakan kontrak, kegagalan melakukan tugas (pelanggaran kepercayaan), atau tindakan kekerasan yang memecah ketenangan publik (pelanggaran perdamaian)."
+  },
+  {
+    "instruction": "Apa itu Wanprestasi (Breach of Contract)?",
+    "context": "Kegagalan memenuhi isi kontrak tanpa alasan hukum yang sah.",
+    "response": "N. Gagal melaksanakan ketentuan kontrak apa pun, tertulis atau lisan, tanpa alasan hukum yang sah. Ini mungkin termasuk tidak menyelesaikan pekerjaan, tidak membayar penuh atau tepat waktu, atau kegagalan mengirimkan semua barang."
+  },
+  {
+    "instruction": "Apa itu Ingkar Janji Menikah (Breach of Promise)?",
+    "context": "Gugatan kuno akibat pembatalan pertunangan.",
+    "response": "N. Secara historis, pembuangan tunangan wanita oleh calon suaminya setelah dia melamar pernikahan dan wanita itu menerimanya. Wanita itu berhak mengajukan gugatan ganti rugi atas rasa malu dari pertunangan yang rusak. Gugatan semacam ini sudah jarang ada."
+  },
+  {
+    "instruction": "Apa itu Gangguan Ketertiban (Breach of the Peace)?",
+    "context": "Tindakan yang mengganggu ketenangan publik atau mengintimidasi.",
+    "response": "N. Tindakan apa pun yang mengganggu publik atau bahkan satu orang. Ini dapat mencakup hampir semua tindakan kriminal yang menyebabkan ketakutan atau mencoba intimidasi, seperti memamerkan pistol atau berteriak secara tidak pantas."
+  },
+  {
+    "instruction": "Apa itu Pelanggaran Kepercayaan (Breach of Trust)?",
+    "context": "Melanggar tugas sebagai wali amanat atau membocorkan rahasia.",
+    "response": "N. 1) Tindakan apa pun yang melanggar tugas seorang wali amanat (trustee) atau ketentuan perwalian. Pelanggaran semacam itu tidak harus disengaja, tetapi bisa karena kelalaian. 2) Melanggar janji atau kerahasiaan."
+  },
+  {
+    "instruction": "Apa itu Pelanggaran Jaminan (Breach of Warranty)?",
+    "context": "Ketika pernyataan kualitas atau kepemilikan barang terbukti tidak benar.",
+    "response": "N. Penentuan bahwa pernyataan mengenai hak milik properti atau barang terbukti tidak benar, baik dimaksudkan sebagai kepalsuan atau tidak. Ini juga berlaku untuk jaminan kualitas produk yang dijual."
+  },
+  {
+    "instruction": "Apa definisi Membongkar dan Masuk (Breaking and Entering)?",
+    "context": "Masuk paksa ke properti orang lain tanpa izin, seringkali untuk mencuri.",
+    "response": "N. 1) Tindakan kriminal memasuki kediaman atau properti tertutup lainnya melalui sedikit paksaan (bahkan mendorong pintu terbuka), tanpa otorisasi. Jika ada niat untuk melakukan kejahatan, ini adalah perampokan (burglary)."
+  },
+  {
+    "instruction": "Apa itu Penyuapan (Bribery)?",
+    "context": "Memberi uang pelicin kepada pejabat publik untuk mempengaruhi tugasnya.",
+    "response": "N. Kejahatan memberi atau mengambil uang atau barang berharga lainnya untuk memengaruhi pejabat publik (pegawai pemerintah mana pun) dalam pelaksanaan tugasnya. Penyuapan termasuk membayar untuk mendapatkan kontrak pemerintah."
+  },
+  {
+    "instruction": "Apa itu Brief dalam pengadilan?",
+    "context": "Dokumen tertulis berisi argumen hukum yang diserahkan ke pengadilan.",
+    "response": "N. Argumen hukum tertulis, biasanya dalam format yang ditentukan oleh pengadilan, menyatakan alasan hukum untuk gugatan berdasarkan undang-undang, preseden kasus, dan penalaran yang diterapkan pada fakta."
+  },
+  {
+    "instruction": "Apa fungsi seorang Broker?",
+    "context": "Perantara yang mengatur kontrak jual-beli demi komisi.",
+    "response": "N. Secara umum, seseorang yang mengatur kontrak antara pembeli dan penjual untuk komisi (persentase dari harga penjualan). Ini termasuk broker real estat dan broker asuransi."
+  },
+  {
+    "instruction": "Apa arti Brought to Trial?",
+    "context": "Saat persidangan benar-benar dimulai, ditandai dengan sumpah saksi pertama.",
+    "response": "V. Tindakan benar-benar memulai persidangan, biasanya ditandai dengan pengambilan sumpah saksi pertama (bukan pemilihan juri atau pernyataan pembukaan)."
+  },
+  {
+    "instruction": "Apa itu Bucket Shop?",
+    "context": "Tempat judi saham ilegal di mana tidak ada saham yang benar-benar dibeli.",
+    "response": "N. Operasi taruhan tidak resmi dan biasanya ilegal di mana harga saham dan komoditas dipasang dan pelanggan bertaruh pada kenaikan dan penurunan harga tanpa benar-benar membeli saham tersebut."
+  },
+  {
+    "instruction": "Apa itu Building and Loan?",
+    "context": "Nama lama untuk asosiasi simpan pinjam perumahan.",
+    "response": "N. Nama lain untuk asosiasi simpan pinjam. Seperti namanya, awalnya lembaga ini dimaksudkan untuk memberikan pinjaman untuk membangun rumah setelah penabung menabung cukup untuk uang muka."
+  },
+  {
+    "instruction": "Apa itu Penjualan Borongan (Bulk Sale)?",
+    "context": "Penjualan sebagian besar stok barang dagangan sekaligus.",
+    "response": "N. Penjualan semua atau sebagian besar stok pedagang serta peralatannya. Ini umumnya berlaku untuk pengecer, restoran, dan bisnis lain dengan inventaris."
+  },
+  {
+    "instruction": "Apa itu UU Penjualan Borongan (Bulk Sales Acts)?",
+    "context": "Undang-undang yang mewajibkan pemberitahuan kepada kreditur sebelum menjual bisnis.",
+    "response": "N. Undang-undang negara bagian yang mengharuskan penjual bisnis termasuk inventarisnya untuk a) mempublikasikan pemberitahuan penjualan, b) memberikan pemberitahuan tertulis kepada semua kreditur, agar kreditur tidak dirugikan."
+  },
+  {
+    "instruction": "Apa itu Bulk Transfer?",
+    "context": "Istilah lain untuk penjualan borongan (bulk sale).",
+    "response": "Sama dengan Bulk Sale."
+  },
+  {
+    "instruction": "Apa arti Beban (Burden) dalam hukum?",
+    "context": "Batasan atau kewajiban yang memberatkan, baik pada perdagangan atau tanah.",
+    "response": "N. Segala sesuatu yang menghasilkan beban restriktif pada sesuatu. Ini mencakup \"beban\" pada perdagangan antar negara bagian (seperti lisensi atau biaya lintas), dan \"beban\" pada tanah seperti pembatasan zonasi."
+  },
+  {
+    "instruction": "Apa itu Beban Pembuktian (Burden of Proof)?",
+    "context": "Kewajiban pihak penuntut untuk membuktikan klaim mereka benar.",
+    "response": "N. Persyaratan bahwa penggugat (dalam perdata) menunjukkan dengan \"bukti yang lebih kuat\" bahwa fakta-fakta benar. Dalam pengadilan pidana, beban pembuktian jaksa adalah membuktikan kesalahan terdakwa \"melampaui keraguan yang wajar.\""
+  },
+  {
+    "instruction": "Apa definisi Burglary (Pencurian dengan Pemberatan)?",
+    "context": "Masuk ke bangunan tanpa izin dengan niat melakukan kejahatan.",
+    "response": "N. Kejahatan membongkar dan memasuki struktur untuk tujuan melakukan kejahatan. Tidak diperlukan kekuatan besar (mendorong pintu yang tidak terkunci sudah cukup) jika entri tersebut tidak sah."
+  },
+  {
+    "instruction": "Apa definisi Bisnis?",
+    "context": "Aktivitas apa pun yang dilakukan untuk mencari keuntungan.",
+    "response": "N. Setiap kegiatan atau perusahaan yang dimasuki untuk mendapatkan keuntungan. Ini tidak berarti harus berupa perusahaan formal, tetapi bisa berkisar dari pedagang kaki lima hingga General Motors."
+  },
+  {
+    "instruction": "Siapa itu Tamu Bisnis (Business Invitee)?",
+    "context": "Orang yang masuk ke tempat komersial untuk berbisnis, yang harus dilindungi keselamatannya.",
+    "response": "N. Seseorang yang memasuki tempat komersial untuk tujuan melakukan bisnis. Ini penting karena bisnis bertanggung jawab kepada tamu bisnis atas cedera yang disebabkan oleh kondisi berbahaya seperti lantai rusak."
+  },
+  {
+    "instruction": "Apa itu Aturan 'But For'?",
+    "context": "Tes sebab-akibat: apakah kejadian itu akan terjadi jika bukan karena tindakan terdakwa?",
+    "response": "N. Salah satu dari beberapa tes untuk menentukan apakah terdakwa bertanggung jawab atas kejadian tertentu. Dalam tes ini, ditanya: apakah akan terjadi \"jika bukan karena\" tindakan terdakwa? Contoh: \"Jika bukan karena\" Tuan X mengebut, mobil tidak akan hilang kendali."
+  },
+  {
+    "instruction": "Apa itu Perjanjian Beli-Jual (Buy-Sell Agreement)?",
+    "context": "Kontrak antar pemilik bisnis untuk membeli saham mitra yang keluar.",
+    "response": "N. Kontrak di antara pemilik bisnis yang memberikan ketentuan untuk pembelian kepentingan mitra atau pemegang saham yang menarik diri dari perusahaan."
+  },
+  {
+    "instruction": "Apa itu Anggaran Rumah Tangga (Bylaws)?",
+    "context": "Aturan tertulis yang mengatur tata kelola organisasi atau perusahaan.",
+    "response": "N. Aturan tertulis untuk perilaku korporasi, asosiasi, kemitraan, atau organisasi apa pun. Jangan bingung dengan anggaran dasar (articles of incorporation). Bylaws umumnya mengatur rapat, pemilihan dewan direksi, dan tugas pejabat."
+  }
+]
