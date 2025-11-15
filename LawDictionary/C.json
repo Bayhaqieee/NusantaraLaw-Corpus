@@ -1,0 +1,1532 @@
+[
+  {
+    "instruction": "Apa itu C.I.F.?",
+    "context": "Istilah perdagangan internasional terkait biaya pengiriman.",
+    "response": "N. Singkatan dari Cost, Insurance, and Freight (Biaya, Asuransi, dan Pengangkutan). Ini adalah total biaya barang, asuransi, dan ongkos kirim yang harus dibayar pembeli."
+  },
+  {
+    "instruction": "Apa arti Calendar dalam pengadilan?",
+    "context": "Daftar jadwal atau tindakan menjadwalkan kasus.",
+    "response": "1) N. Daftar kasus yang akan disidangkan di pengadilan tertentu. 2) V. Menetapkan tanggal dan waktu untuk kasus, petisi, atau mosi untuk disidangkan oleh pengadilan."
+  },
+  {
+    "instruction": "Apa itu Calendar Call?",
+    "context": "Sidang prosedural untuk menetapkan jadwal.",
+    "response": "N. Sidang di mana sebuah kasus ditetapkan tanggal persidangannya."
+  },
+  {
+    "instruction": "Apa arti Call dalam konteks saham?",
+    "context": "Permintaan perusahaan kepada pemegang saham untuk menyetor modal.",
+    "response": "N. Permintaan oleh korporasi agar pemegang saham membayar angsuran atau penilaian atas saham yang sudah dimiliki."
+  },
+  {
+    "instruction": "Apa definisi Calumny?",
+    "context": "Tuduhan palsu yang merusak reputasi.",
+    "response": "N. Fitnah; tuduhan palsu yang disengaja dan umumnya keji tentang kejahatan atau pelanggaran lain yang dirancang untuk merusak reputasi seseorang."
+  },
+  {
+    "instruction": "Apa arti Cancel dalam dokumen hukum?",
+    "context": "Tindakan membatalkan atau menghancurkan validitas dokumen.",
+    "response": "V. Mencoret, membatalkan, menghancurkan, menyatakan tidak sah, dan/atau mencabut dokumen. Membatalkan dapat dilakukan dengan beberapa cara: merobek dokumen atau menandai di mukanya bahwa itu dibatalkan, tidak sah, atau diakhiri."
+  },
+  {
+    "instruction": "Apa itu Cancellation?",
+    "context": "Kata benda untuk tindakan membatalkan.",
+    "response": "N. Pembatalan (lihat definisi 'cancel')."
+  },
+  {
+    "instruction": "Apa itu Caning?",
+    "context": "Hukuman fisik menggunakan rotan, umum di beberapa negara Asia.",
+    "response": "N. Hukuman cambuk untuk kejahatan yang digunakan di negara-negara Asia tertentu (terutama Singapura, dan di Indonesia berlaku di Aceh) bahkan untuk pelanggaran ringan, di mana terdakwa yang dihukum menerima beberapa cambukan dengan \"rotan\" fleksibel."
+  },
+  {
+    "instruction": "Apa definisi Canon Law?",
+    "context": "Hukum yang mengatur urusan gereja.",
+    "response": "N. Hukum Kanonik; hukum dan peraturan tentang masalah gerejawi (gereja) yang dikembangkan antara sekitar tahun 1100 dan 1500 dan digunakan oleh Gereja Katolik Roma terkait moralitas pribadi, status klerus, dan disiplin gereja."
+  },
+  {
+    "instruction": "Apa arti Cap dalam keuangan?",
+    "context": "Istilah slang untuk batas maksimum.",
+    "response": "N. Slang untuk batas atas (maksimum), seperti bunga terbanyak yang dapat dibebankan pada surat sanggup bayar dengan \"suku bunga yang dapat disesuaikan\"."
+  },
+  {
+    "instruction": "Apa definisi Capital?",
+    "context": "Bisa berarti modal bisnis atau sesuatu yang utama/mematikan.",
+    "response": "1) N. Dari bahasa Latin 'caput' (kepala), aset dasar bisnis (khususnya korporasi) atau individu, termasuk dana aktual, peralatan, dan properti. 2) Adj. Terkait dengan aset dasar atau sesuatu yang serius (seperti hukuman mati)."
+  },
+  {
+    "instruction": "Apa itu Capital Account?",
+    "context": "Catatan akuntansi aset dasar bisnis.",
+    "response": "N. Akun modal; catatan yang mencantumkan semua aset dasar bisnis, tidak termasuk inventaris atau nilai goodwill."
+  },
+  {
+    "instruction": "Apa itu Capital Assets?",
+    "context": "Harta benda jangka panjang milik perusahaan.",
+    "response": "N. Aset modal; peralatan, properti, dan dana yang dimiliki oleh suatu bisnis."
+  },
+  {
+    "instruction": "Apa itu Capital Expenditure?",
+    "context": "Pengeluaran besar untuk aset jangka panjang (Capex).",
+    "response": "N. Pengeluaran modal; pembayaran oleh bisnis untuk aset dasar seperti properti, perlengkapan tetap, atau mesin, tetapi bukan untuk operasional sehari-hari seperti gaji atau inventaris."
+  },
+  {
+    "instruction": "Apa definisi Capital Gains?",
+    "context": "Keuntungan dari penjualan aset modal.",
+    "response": "N. Keuntungan modal (Capital gain); selisih antara harga jual dan biaya asli (ditambah perbaikan) dari properti. Pajak keuntungan modal bisa menjadi kejutan finansial bagi individu yang membeli properti bertahun-tahun lalu dengan harga murah dan sekarang nilainya tinggi."
+  },
+  {
+    "instruction": "Apa itu Capital Investment?",
+    "context": "Istilah lain untuk pengeluaran modal.",
+    "response": "Lihat Capital Expenditure."
+  },
+  {
+    "instruction": "Apa itu Capital Offense?",
+    "context": "Kejahatan yang diancam hukuman mati.",
+    "response": "N. Kejahatan berat; setiap tuduhan pidana yang dapat dihukum dengan hukuman mati. Di AS dan beberapa negara lain, ini bisa termasuk pembunuhan tingkat pertama."
+  },
+  {
+    "instruction": "Apa definisi Capital Punishment?",
+    "context": "Eksekusi mati.",
+    "response": "N. Hukuman mati; eksekusi untuk kejahatan berat."
+  },
+  {
+    "instruction": "Apa itu Capital Stock?",
+    "context": "Jumlah investasi awal pemegang saham.",
+    "response": "N. Saham modal; jumlah asli yang dibayarkan oleh investor ke dalam korporasi untuk saham yang diterbitkan. Ini tidak memiliki hubungan langsung dengan nilai saham saat ini."
+  },
+  {
+    "instruction": "Apa arti Capitalization?",
+    "context": "Proses akuntansi mengubah biaya menjadi aset modal.",
+    "response": "N. Kapitalisasi; 1) tindakan menghitung pendapatan dan pengeluaran yang diantisipasi sebagai aset modal untuk tujuan akuntansi. 2) jumlah pendapatan bersih yang diantisipasi yang secara hipotetis dapat digunakan untuk konversi menjadi aset modal."
+  },
+  {
+    "instruction": "Apa itu Capitalized Value?",
+    "context": "Nilai pendapatan masa depan yang didiskon ke nilai sekarang.",
+    "response": "N. Nilai terkapitalisasi; pendapatan yang diantisipasi yang didiskon (diberi nilai lebih rendah) sehingga mewakili nilai saat ini yang lebih realistis."
+  },
+  {
+    "instruction": "Apa arti Capricious dalam keputusan hukum?",
+    "context": "Sifat keputusan yang berubah-ubah tanpa dasar logis.",
+    "response": "Adv., Adj. Berubah-ubah; tidak dapat diprediksi dan tunduk pada keinginan sesaat, sering digunakan untuk merujuk pada hakim dan keputusan yudisial yang tidak mengikuti hukum, logika, atau prosedur persidangan yang tepat."
+  },
+  {
+    "instruction": "Apa itu Caption dalam dokumen hukum?",
+    "context": "Bagian kepala surat dari dokumen pengadilan.",
+    "response": "N. Judul/Kepala surat; bagian pertama dari setiap pembelaan hukum tertulis (berkas) yang akan diajukan, berisi nama, alamat, nomor telepon pengacara, pihak yang diwakili, nama pengadilan, judul kasus, nomor kasus, dan judul dokumen."
+  },
+  {
+    "instruction": "Apa definisi Care dalam hukum?",
+    "context": "Tingkat kehati-hatian yang wajib dilakukan untuk mencegah kerugian.",
+    "response": "N. Kehati-hatian; penuh perhatian, bijaksana, dan waspada. Pada dasarnya, kehati-hatian berarti seseorang melakukan segala sesuatu yang seharusnya dia lakukan (untuk mencegah kecelakaan). Ini adalah kebalikan dari kelalaian (negligence)."
+  },
+  {
+    "instruction": "Apa arti Careless?",
+    "context": "Sikap lalai yang bisa menyebabkan tanggung jawab hukum.",
+    "response": "Adj., Adv. Ceroboh; 1) lalai. 2) kebalikan dari hati-hati. Tindakan ceroboh dapat mengakibatkan kewajiban ganti rugi kepada orang lain."
+  },
+  {
+    "instruction": "Apa istilah hukum untuk hubungan seksual (Carnal Knowledge)?",
+    "context": "Istilah lama atau formal untuk penetrasi seksual.",
+    "response": "N. Pengetahuan karnal (persetubuhan); dari bahasa Latin 'carnalis' untuk \"daging\": hubungan seksual antara laki-laki dan perempuan di mana setidaknya ada sedikit penetrasi vagina wanita oleh penis pria. Penting secara hukum dalam kasus pemerkosaan atau pencabulan."
+  },
+  {
+    "instruction": "Apa itu Carrier?",
+    "context": "Pihak yang menyediakan jasa transportasi.",
+    "response": "N. Pengangkut; secara umum, setiap orang atau bisnis yang mengangkut properti atau orang dengan alat angkut apa pun (truk, mobil, taksi, bus, pesawat terbang, kereta api, kapal), hampir selalu dengan bayaran."
+  },
+  {
+    "instruction": "Apa itu Carryback dalam pajak?",
+    "context": "Menggunakan kerugian tahun ini untuk mengurangi pajak tahun lalu.",
+    "response": "N. Kompensasi kerugian ke belakang; dalam akuntansi perpajakan, menggunakan pengurangan, kerugian bisnis, atau kredit tahun pajak saat ini untuk menghitung ulang dan mengubah pengembalian pajak yang diajukan sebelumnya guna mengurangi kewajiban pajak."
+  },
+  {
+    "instruction": "Apa arti Carrying for Hire?",
+    "context": "Jasa transportasi berbayar.",
+    "response": "N. Pengangkutan sewaan; tindakan mengangkut barang atau individu dengan biaya. Penting untuk menentukan apakah pengangkut memiliki kewajiban pengiriman aman atau tunduk pada regulasi."
+  },
+  {
+    "instruction": "Apa definisi Carrying on Business?",
+    "context": "Melakukan aktivitas bisnis secara berkelanjutan.",
+    "response": "V. Menjalankan bisnis; menekuni pekerjaan tertentu secara terus-menerus dan substansial. Tidak harus ada \"entitas\" bisnis fisik atau terlihat."
+  },
+  {
+    "instruction": "Apa itu Carryover dalam pajak?",
+    "context": "Menggunakan kerugian tahun ini untuk mengurangi pajak tahun depan.",
+    "response": "N. Kompensasi kerugian ke depan; dalam akuntansi perpajakan, menggunakan pengurangan, kerugian bisnis, atau kredit tahun pajak untuk diterapkan pada pengembalian pajak tahun berikutnya guna mengurangi kewajiban pajak."
+  },
+  {
+    "instruction": "Apa itu Cartel?",
+    "context": "Kesepakatan antar perusahaan untuk membatasi persaingan.",
+    "response": "N. Kartel; pengaturan di antara perusahaan independen atau monopoli nasional di bidang yang sama untuk mengontrol distribusi, menetapkan harga, mengurangi persaingan, dan kadang berbagi keahlian teknis."
+  },
+  {
+    "instruction": "Apa arti Case dalam hukum?",
+    "context": "Bisa berarti gugatan, hak menuntut, atau keputusan pengadilan.",
+    "response": "N. Kasus/Perkara; singkatan dari dasar gugatan, tuntutan hukum, atau hak untuk menuntut. Ini juga singkatan untuk keputusan yang dilaporkan yang dapat dikutip sebagai preseden."
+  },
+  {
+    "instruction": "Apa definisi Case Law?",
+    "context": "Hukum yang bersumber dari putusan pengadilan (Yurisprudensi).",
+    "response": "N. Yurisprudensi (Hukum kasus); keputusan pengadilan banding dan pengadilan lain yang membuat interpretasi baru terhadap hukum dan, oleh karena itu, dapat dikutip sebagai preseden."
+  },
+  {
+    "instruction": "Apa itu Case of First Impression?",
+    "context": "Kasus baru yang belum pernah ada presedennya sebelumnya.",
+    "response": "N. Kasus preseden baru; kasus di mana pertanyaan interpretasi hukum disajikan yang belum pernah muncul sebelumnya dalam kasus yang dilaporkan."
+  },
+  {
+    "instruction": "Apa itu Case System di sekolah hukum?",
+    "context": "Metode belajar hukum dengan menganalisis kasus-kasus nyata.",
+    "response": "N. Sistem studi kasus; metode belajar hukum yang umumnya digunakan di sekolah hukum Amerika, di mana siswa membaca, merangkum, mendiskusikan, dan mendengar kuliah tentang kasus-kasus."
+  },
+  {
+    "instruction": "Apa itu Cashier's Check?",
+    "context": "Cek yang diterbitkan dan dijamin oleh bank.",
+    "response": "N. Cek kasir; cek yang diterbitkan oleh bank atas rekeningnya sendiri untuk jumlah yang dibayarkan ke bank oleh pembeli dengan penerima pembayaran yang disebutkan. Cek ini diterima seperti uang tunai karena dijamin oleh bank."
+  },
+  {
+    "instruction": "Apa arti Casual?",
+    "context": "Sesuatu yang kebetulan atau tenaga kerja lepas.",
+    "response": "Adj. Kasual; mendefinisikan sesuatu yang terjadi secara kebetulan, tanpa diduga, atau secara informal. Ini termasuk \"tenaga kerja kasual\" (pekerja lepas) yang dipekerjakan hanya karena dia tersedia saat itu."
+  },
+  {
+    "instruction": "Apa definisi Casualty?",
+    "context": "Kecelakaan tak terduga atau korban jiwa.",
+    "response": "N. 1) Kecelakaan yang tidak dapat diduga atau dijaga, seperti kapal karam karena badai. 2) Kerugian, seperti hilangnya nyawa, dari kecelakaan yang tidak dapat dihindari tersebut."
+  },
+  {
+    "instruction": "Apa itu Casualty Loss dalam pajak?",
+    "context": "Kerugian harta akibat bencana mendadak yang bisa mengurangi pajak.",
+    "response": "N. Kerugian akibat bencana; dalam perpajakan, kerugian karena kerusakan yang memenuhi syarat untuk pengurangan pajak. Harus disebabkan oleh kejadian mendadak, tidak terduga, atau tidak biasa seperti badai, banjir, atau gempa bumi."
+  },
+  {
+    "instruction": "Apa arti Cause?",
+    "context": "Menyebabkan sesuatu atau alasan terjadinya sesuatu.",
+    "response": "Dari bahasa Latin 'causa'. 1) V. Membuat sesuatu terjadi. 2) N. Alasan sesuatu terjadi. Sebuah penyebab menyiratkan apa yang disebut \"hubungan sebab akibat\"."
+  },
+  {
+    "instruction": "Apa itu Cause of Action?",
+    "context": "Dasar hukum untuk mengajukan gugatan.",
+    "response": "N. Dasar gugatan; dasar tuntutan hukum yang didasarkan pada alasan hukum dan fakta yang dituduhkan yang, jika terbukti, akan memenuhi semua \"unsur\" yang dipersyaratkan oleh undang-undang."
+  },
+  {
+    "instruction": "Apa arti Caveat?",
+    "context": "Bahasa Latin untuk peringatan.",
+    "response": "N. (baca: kah-vee-ott) Dari bahasa Latin 'caveat' untuk \"biarkan dia waspada\". 1) Peringatan atau kehati-hatian. 2) Istilah populer yang digunakan pengacara untuk menunjukkan adanya masalah tersembunyi."
+  },
+  {
+    "instruction": "Apa arti Caveat Emptor?",
+    "context": "Prinsip hukum bahwa pembeli menanggung risiko kualitas barang.",
+    "response": "Latin untuk \"biarkan pembeli waspada\". Premis dasar bahwa pembeli membeli dengan risikonya sendiri dan karenanya harus memeriksa dan menguji produk itu sendiri untuk cacat yang jelas."
+  },
+  {
+    "instruction": "Apa itu Cease and Desist Order?",
+    "context": "Perintah resmi untuk menghentikan aktivitas ilegal.",
+    "response": "N. Perintah penghentian; perintah pengadilan atau badan pemerintah kepada seseorang atau bisnis untuk berhenti melakukan sesuatu karena aktivitas tersebut berbahaya dan/atau bertentangan dengan hukum."
+  },
+  {
+    "instruction": "Apa itu Certificate of Deposit (CD)?",
+    "context": "Simpanan berjangka di bank dengan bunga tetap.",
+    "response": "N. Sertifikat Deposito (Deposito Berjangka); dokumen yang diterbitkan oleh bank sebagai imbalan atas setoran uang yang membayar suku bunga tetap untuk periode tertentu."
+  },
+  {
+    "instruction": "Apa itu Certificate of Incorporation?",
+    "context": "Dokumen bukti sah berdirinya perusahaan.",
+    "response": "N. Sertifikat pendirian perusahaan; dokumen yang diterbitkan beberapa negara bagian untuk membuktikan keberadaan korporasi setelah pengajuan anggaran dasar. Di Indonesia mirip dengan SK Pengesahan Badan Hukum."
+  },
+  {
+    "instruction": "Apa itu Certificate of Title?",
+    "context": "Dokumen bukti kepemilikan kendaraan.",
+    "response": "N. Sertifikat hak milik; umumnya, dokumen kepemilikan untuk kendaraan bermotor yang diterbitkan oleh negara (seperti BPKB di Indonesia), yang menjelaskan kendaraan serta nama pemilik terdaftar."
+  },
+  {
+    "instruction": "Apa itu Certified Check?",
+    "context": "Cek pribadi yang dananya sudah diamankan oleh bank.",
+    "response": "N. Cek tersertifikasi; cek yang diterbitkan oleh bank yang menyatakan bahwa pembuat cek memiliki cukup uang di rekeningnya untuk menutupi jumlah yang harus dibayar. Bank menyisihkan dana tersebut agar cek tetap bisa cair."
+  },
+  {
+    "instruction": "Apa arti Certiorari?",
+    "context": "Perintah pengadilan tinggi meminta berkas dari pengadilan rendah untuk ditinjau.",
+    "response": "N. (baca: sersh-oh-rare-ee) Surat perintah dari pengadilan yang lebih tinggi ke pengadilan yang lebih rendah untuk mengirimkan semua dokumen dalam suatu kasus untuk ditinjau."
+  },
+  {
+    "instruction": "Apa itu Cestui Que Trust?",
+    "context": "Istilah kuno untuk penerima manfaat trust.",
+    "response": "N. (baca: ses-tee kay) Dari bahasa Prancis kuno. Istilah kuno untuk penerima manfaat (beneficiary) dari sebuah perwalian (trust)."
+  },
+  {
+    "instruction": "Apa itu Cestui Que Use?",
+    "context": "Istilah kuno untuk orang yang menikmati manfaat aset.",
+    "response": "N. Istilah kuno untuk orang yang mendapat manfaat dari aset yang dipegang dalam perwalian untuk penggunaan penerima manfaat tersebut."
+  },
+  {
+    "instruction": "Apa itu Chain of Title?",
+    "context": "Sejarah urutan kepemilikan properti.",
+    "response": "N. Rantai hak milik (Riwayat kepemilikan); urutan kepemilikan hak atas properti nyata (tanah) dari pemilik saat ini kembali ke pemilik asli di masa lampau."
+  },
+  {
+    "instruction": "Apa arti Challenge dalam pemilihan juri?",
+    "context": "Hak pengacara untuk menolak calon juri.",
+    "response": "N. Penolakan/Tantangan; hak setiap pengacara dalam pengadilan juri untuk meminta agar seorang juri dibebastugaskan/ditolak."
+  },
+  {
+    "instruction": "Apa itu Challenge for Cause?",
+    "context": "Menolak juri karena alasan spesifik seperti bias.",
+    "response": "N. Penolakan dengan alasan; permintaan agar calon juri diberhentikan karena ada alasan spesifik dan kuat untuk meyakini orang tersebut tidak bisa adil atau bias (misalnya kenal dengan terdakwa)."
+  },
+  {
+    "instruction": "Apa itu Chambers?",
+    "context": "Kantor pribadi hakim di gedung pengadilan.",
+    "response": "N. Ruang hakim; kantor pribadi hakim, biasanya dekat dengan ruang sidang, tempat hakim mendengar beberapa mosi atau mendiskusikan masalah hukum formal."
+  },
+  {
+    "instruction": "Apa itu Champerty?",
+    "context": "Pihak ketiga membiayai gugatan demi bagi hasil (ilegal di banyak tempat).",
+    "response": "N. Perjanjian antara pihak yang menuntut (penggugat) dan orang lain (biasanya pengacara) untuk membiayai gugatan dengan imbalan persentase dari uang yang dimenangkan. Dalam common law ini ilegal."
+  },
+  {
+    "instruction": "Siapa itu Chancellor?",
+    "context": "Hakim yang memimpin pengadilan ekuitas.",
+    "response": "N. Kanselir; dari sistem hukum Inggris kuno, seorang hakim yang duduk di pengadilan chancery (ekuitas) dengan kekuasaan untuk memerintahkan sesuatu dilakukan (bukan hanya ganti rugi uang)."
+  },
+  {
+    "instruction": "Apa itu Chancery?",
+    "context": "Pengadilan yang menangani keadilan/ekuitas, bukan sekadar hukum kaku.",
+    "response": "N. Pengadilan ekuitas; pengadilan yang dapat memerintahkan tindakan dilakukan. Saat ini pengadilan chancery digabungkan dengan pengadilan hukum di sebagian besar negara bagian."
+  },
+  {
+    "instruction": "Apa itu Change of Circumstances?",
+    "context": "Alasan hukum mengubah putusan tunjangan anak/istri karena perubahan kondisi ekonomi.",
+    "response": "N. Perubahan keadaan; alasan utama bagi pengadilan untuk memodifikasi (mengubah) perintah yang ada untuk pembayaran tunjangan istri dan/atau tunjangan anak (misalnya karena PHK atau sakit)."
+  },
+  {
+    "instruction": "Siapa itu Character Witness?",
+    "context": "Saksi yang bersaksi tentang sifat baik terdakwa.",
+    "response": "N. Saksi karakter (Saksi yang meringankan); orang yang bersaksi dalam persidangan atas nama seseorang (biasanya terdakwa kriminal) mengenai kualitas etika dan moralitas orang tersebut."
+  },
+  {
+    "instruction": "Apa arti Charge dalam hukum?",
+    "context": "Bisa berarti dakwaan atau instruksi hakim kepada juri.",
+    "response": "N. 1) Dalam kasus pidana, dakwaan spesifik kejahatan. 2) Dalam pengadilan juri, instruksi lisan oleh hakim kepada juri sebelum juri memulai musyawarah."
+  },
+  {
+    "instruction": "Apa itu Charitable Contribution?",
+    "context": "Sumbangan amal yang bisa mengurangi pajak.",
+    "response": "N. Sumbangan amal; kontribusi kepada organisasi yang secara resmi dibentuk untuk amal, agama, pendidikan, dll. Sumbangan semacam itu dapat mengurangi pajak penghasilan."
+  },
+  {
+    "instruction": "Apa itu Charitable Remainder Trust?",
+    "context": "Trust di mana sisa aset disumbangkan ke amal setelah donor meninggal.",
+    "response": "N. Bentuk perwalian (trust) di mana donor menempatkan dana substansial ke dalam trust yang tidak dapat dibatalkan, di mana aset tersebut akan disumbangkan untuk amal pada saat kematian donor."
+  },
+  {
+    "instruction": "Apa definisi Charity?",
+    "context": "Organisasi atau tindakan beramal.",
+    "response": "N. 1) Sentimen kebajikan dan filantropi. 2) Organisasi yang ada untuk membantu mereka yang membutuhkan atau memberikan bantuan pendidikan, agama, dan seni kepada masyarakat."
+  },
+  {
+    "instruction": "Apa itu Charter?",
+    "context": "Dokumen dasar pendirian perusahaan.",
+    "response": "N. Piagam; nama untuk anggaran dasar perusahaan (articles of incorporation) di beberapa negara bagian."
+  },
+  {
+    "instruction": "Apa itu Chattel?",
+    "context": "Barang bergerak (bukan tanah/bangunan).",
+    "response": "N. Harta benda bergerak; item properti pribadi yang dapat dipindahkan, dibedakan dari properti nyata (tanah dan bangunan)."
+  },
+  {
+    "instruction": "Apa itu Chattel Mortgage?",
+    "context": "Jaminan utang menggunakan barang bergerak.",
+    "response": "N. Hipotek barang bergerak; dokumen tertulis kuno yang menjadikan chattel (aset pribadi berwujud) sebagai jaminan pinjaman. Di Indonesia mirip dengan Fidusia."
+  },
+  {
+    "instruction": "Apa definisi Check?",
+    "context": "Surat perintah bayar kepada bank.",
+    "response": "N. Cek; wesel atas rekening tertentu di bank, di mana pembuat (orang yang memiliki rekening) mengarahkan bank untuk membayar jumlah tertentu kepada penerima pembayaran."
+  },
+  {
+    "instruction": "Siapa itu Chief Justice?",
+    "context": "Hakim ketua di Mahkamah Agung.",
+    "response": "N. Ketua Mahkamah Agung; hakim ketua dari Mahkamah Agung Negara Bagian atau Mahkamah Agung AS."
+  },
+  {
+    "instruction": "Apa definisi hukum Child?",
+    "context": "Anak kandung atau orang di bawah umur tertentu.",
+    "response": "N. Anak; 1) Keturunan alami seseorang. 2) Seseorang yang berusia 14 tahun ke bawah. Harus dibedakan dari \"anak di bawah umur\" (minor) yang biasanya di bawah 18 tahun."
+  },
+  {
+    "instruction": "Apa itu Child Custody?",
+    "context": "Hak dan tanggung jawab mengasuh anak.",
+    "response": "N. Hak asuh anak; penentuan pengadilan tentang orang tua, kerabat, atau orang dewasa lain yang harus memiliki kendali fisik dan/atau hukum serta tanggung jawab atas anak di bawah umur."
+  },
+  {
+    "instruction": "Apa itu Child Support?",
+    "context": "Uang nafkah anak dari orang tua yang tidak memegang hak asuh.",
+    "response": "N. Tunjangan anak (nafkah anak); dana yang diperintahkan pengadilan untuk dibayarkan oleh satu orang tua kepada orang tua pemegang hak asuh anak di bawah umur setelah perceraian."
+  },
+  {
+    "instruction": "Apa itu Churning dalam saham?",
+    "context": "Praktik broker nakal yang sering jual-beli saham demi komisi.",
+    "response": "N. Praktik tidak etis dan biasanya ilegal berupa pembelian dan penjualan saham yang berlebihan untuk pelanggan oleh pialang saham demi mendapatkan komisi penjualan tinggi."
+  },
+  {
+    "instruction": "Apa itu Circuit Courts?",
+    "context": "Pengadilan yang hakimnya berkeliling ke berbagai lokasi.",
+    "response": "N. Pengadilan sirkuit (keliling); pengadilan bergerak di mana hakim mengadakan sesi pengadilan di beberapa lokasi berbeda untuk periode waktu tertentu."
+  },
+  {
+    "instruction": "Apa itu Circumstantial Evidence?",
+    "context": "Bukti tidak langsung yang membutuhkan penalaran untuk membuktikan fakta.",
+    "response": "N. Bukti sirkumstansial (tidak langsung); bukti dalam persidangan yang tidak langsung dari saksi mata, yang membutuhkan penalaran untuk membuktikan suatu fakta (misalnya: jalanan basah membuktikan baru saja hujan)."
+  },
+  {
+    "instruction": "Apa itu Citation?",
+    "context": "Surat panggilan untuk pelanggaran ringan atau kutipan hukum.",
+    "response": "N. 1) Surat tilang/panggilan untuk muncul di pengadilan karena kemungkinan melakukan kejahatan ringan (seperti pelanggaran lalu lintas). 2) Kutipan referensi hukum."
+  },
+  {
+    "instruction": "Apa arti Cite?",
+    "context": "Mengutip kasus hukum atau memberikan surat panggilan.",
+    "response": "V. 1) Mengutip keputusan dalam kasus lain untuk membuat poin hukum. 2) Memberikan pemberitahuan tuduhan kejahatan ringan dan tanggal untuk muncul di pengadilan (menilang)."
+  },
+  {
+    "instruction": "Siapa itu Citizen?",
+    "context": "Anggota sah suatu negara.",
+    "response": "N. Warga negara; orang yang berdasarkan tempat lahir, kebangsaan orang tua, atau naturalisasi telah bersumpah setia kepada suatu bangsa."
+  },
+  {
+    "instruction": "Apa arti Civil dalam hukum?",
+    "context": "Hukum yang mengatur hubungan antar individu (perdata), bukan pidana.",
+    "response": "Adj. Perdata/Sipil; bagian dari hukum yang mencakup bisnis, kontrak, warisan, hubungan keluarga, kecelakaan, dll., yang bukan hukum pidana."
+  },
+  {
+    "instruction": "Apa itu Civil Action?",
+    "context": "Gugatan hukum non-pidana.",
+    "response": "N. Gugatan perdata; setiap tuntutan hukum yang berkaitan dengan masalah perdata dan bukan penuntutan pidana."
+  },
+  {
+    "instruction": "Apa itu Civil Calendar?",
+    "context": "Jadwal sidang untuk kasus perdata.",
+    "response": "N. Daftar tuntutan hukum (kasus) perdata yang mendekati masa persidangan di pengadilan mana pun."
+  },
+  {
+    "instruction": "Apa itu Civil Code?",
+    "context": "Kumpulan undang-undang hukum perdata.",
+    "response": "N. Kitab Undang-Undang Hukum Perdata (KUHPerdata); kumpulan undang-undang yang menangani gugatan dan praktik bisnis serta kelalaian."
+  },
+  {
+    "instruction": "Apa itu Civil Law?",
+    "context": "Sistem hukum yang berasal dari Romawi, berbeda dengan Common Law.",
+    "response": "N. Hukum Sipil (Eropa Kontinental); tubuh hukum dan konsep hukum yang berasal dari hukum Romawi kuno, yang berbeda dari common law Inggris."
+  },
+  {
+    "instruction": "Apa itu Civil Liability?",
+    "context": "Tanggung jawab membayar ganti rugi, bukan hukuman penjara.",
+    "response": "N. Tanggung jawab perdata; potensi tanggung jawab untuk pembayaran ganti rugi dalam gugatan, dibedakan dari tanggung jawab pidana."
+  },
+  {
+    "instruction": "Apa itu Civil Liberties?",
+    "context": "Hak-hak dasar kebebasan individu.",
+    "response": "N. Kebebasan sipil; hak atau kebebasan yang diberikan kepada rakyat (seperti kebebasan berbicara, berpikir, berkumpul) tanpa campur tangan pemerintah."
+  },
+  {
+    "instruction": "Apa itu Civil Penalties?",
+    "context": "Denda administratif dari pemerintah.",
+    "response": "N. Denda perdata/sanksi administratif; denda yang dikenakan oleh badan pemerintah untuk menegakkan peraturan seperti keterlambatan pembayaran pajak."
+  },
+  {
+    "instruction": "Apa itu Civil Procedure?",
+    "context": "Aturan teknis tentang cara menjalankan gugatan perdata.",
+    "response": "N. Hukum Acara Perdata; kumpulan aturan dan peraturan yang menetapkan format di mana tuntutan hukum perdata diajukan, dikejar, dan diadili."
+  },
+  {
+    "instruction": "Apa itu Civil Rights?",
+    "context": "Hak untuk diperlakukan setara dan bebas diskriminasi.",
+    "response": "N. Hak sipil; hak-hak yang dijamin oleh Konstitusi, termasuk hak atas proses hukum yang adil, perlakuan setara, dan perlindungan dari diskriminasi."
+  },
+  {
+    "instruction": "Apa arti Claim?",
+    "context": "Tuntutan hak atau uang.",
+    "response": "1) V. Membuat permintaan uang atau hak. 2) N. Pembuatan permintaan (mengajukan klaim) untuk uang yang jatuh tempo, properti, atau ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Claim against a governmental agency?",
+    "context": "Prosedur menuntut ganti rugi dari pemerintah.",
+    "response": "N. Klaim terhadap badan pemerintah; prosedur mengajukan tuntutan ganti rugi atau kontrak yang belum dibayar dari pemerintah."
+  },
+  {
+    "instruction": "Apa itu Claim against an estate?",
+    "context": "Menagih utang dari harta orang yang sudah meninggal.",
+    "response": "N. Klaim terhadap harta warisan; saat seseorang meninggal, orang yang merasa dihutangi harus mengajukan klaim tertulis segera kepada eksekutor harta warisan."
+  },
+  {
+    "instruction": "Apa itu Claim in Bankruptcy?",
+    "context": "Tagihan kreditur dalam proses kepailitan.",
+    "response": "N. Klaim kepailitan; klaim tertulis yang diajukan oleh orang atau bisnis yang dihutangi uang (kreditur) oleh pihak yang bangkrut."
+  },
+  {
+    "instruction": "Apa arti Class dalam hukum?",
+    "context": "Kelompok orang dengan kategori hak atau kerugian yang sama.",
+    "response": "N. Golongan/Kelas; dalam istilah hukum, semua orang dalam kategori yang sama, tingkat hak yang sama, atau yang menderita akibat insiden yang sama."
+  },
+  {
+    "instruction": "Apa itu Class Action?",
+    "context": "Gugatan perwakilan kelompok.",
+    "response": "N. Gugatan *class action* (perwakilan kelompok); gugatan yang diajukan oleh satu orang atau lebih atas nama diri mereka sendiri dan kelompok orang yang lebih besar yang \"situasinya serupa.\""
+  },
+  {
+    "instruction": "Apa itu Clean Hands Doctrine?",
+    "context": "Prinsip bahwa penggugat tidak boleh berbuat curang dalam perkara yang sama.",
+    "response": "N. Doktrin tangan bersih; aturan hukum bahwa seseorang yang datang ke pengadilan dengan gugatan harus bebas dari perilaku tidak adil (memiliki \"tangan bersih\") terkait dengan pokok klaimnya."
+  },
+  {
+    "instruction": "Apa standar Clear and Convincing Evidence?",
+    "context": "Standar pembuktian di tengah-tengah perdata dan pidana.",
+    "response": "N. Bukti yang jelas dan meyakinkan; bukti yang membuktikan suatu masalah lebih kuat dari sekadar \"preponderance\" (dominasi bukti) di perdata tapi belum sampai \"beyond reasonable doubt\" (tanpa keraguan) di pidana."
+  },
+  {
+    "instruction": "Apa doktrin Clear and Present Danger?",
+    "context": "Alasan pembatasan kebebasan bicara jika membahayakan publik.",
+    "response": "N. Bahaya yang jelas dan nyata; doktrin yang digunakan untuk menentukan apakah suatu situasi menciptakan ancaman bagi publik atau negara, yang membenarkan pembatasan kebebasan berbicara."
+  },
+  {
+    "instruction": "Apa itu Clear Title?",
+    "context": "Hak milik yang bersih dari sengketa.",
+    "response": "N. Hak milik bersih; memegang kepemilikan properti nyata tanpa klaim oleh orang lain dan tidak ada riwayat klaim masa lalu yang dapat memengaruhi kepemilikan."
+  },
+  {
+    "instruction": "Siapa itu Clerk di pengadilan?",
+    "context": "Pegawai yang mengurus administrasi pengadilan.",
+    "response": "N. Panitera/Staf administrasi; pejabat atau karyawan yang menangani urusan pengadilan, memelihara berkas setiap kasus, dan menerbitkan dokumen rutin."
+  },
+  {
+    "instruction": "Apa itu Close Corporation?",
+    "context": "Perusahaan dengan jumlah pemegang saham terbatas dan operasional informal.",
+    "response": "N. Perusahaan tertutup; korporasi yang diizinkan beroperasi lebih informal daripada kebanyakan korporasi dan hanya memiliki jumlah pemegang saham yang terbatas."
+  },
+  {
+    "instruction": "Apa itu Closed Shop?",
+    "context": "Tempat kerja yang mewajibkan karyawan masuk serikat pekerja (biasanya dilarang).",
+    "response": "N. Bisnis yang hanya akan mempekerjakan anggota serikat pekerja, meskipun undang-undang sering melarang praktik ini."
+  },
+  {
+    "instruction": "Apa itu Closing dalam properti?",
+    "context": "Tahap akhir transaksi jual beli rumah.",
+    "response": "N. Penutupan transaksi (Akad); langkah terakhir dalam penjualan dan pembelian real estat di mana akta hak milik, dokumen pembiayaan, dan dana dipertukarkan."
+  },
+  {
+    "instruction": "Apa itu Closing Argument?",
+    "context": "Pernyataan terakhir pengacara sebelum putusan.",
+    "response": "N. Argumen penutup; argumen terakhir oleh seorang pengacara atas nama kliennya setelah semua bukti diajukan."
+  },
+  {
+    "instruction": "Apa itu Cloud on Title?",
+    "context": "Cacat atau klaim tersembunyi pada sertifikat tanah.",
+    "response": "N. Awan pada hak milik (cacat hak); klaim yang beredar nyata atau tampak pada hak atas properti nyata (tanah), seperti hipotek lama yang belum dicatat pelunasannya."
+  },
+  {
+    "instruction": "Siapa itu Co-trustee?",
+    "context": "Salah satu dari beberapa wali amanat yang bertugas bersama.",
+    "response": "N. Wali amanat bersama; wali amanat dari suatu perwalian (trust) ketika ada lebih dari satu wali amanat yang melayani pada waktu yang sama."
+  },
+  {
+    "instruction": "Apa itu Code?",
+    "context": "Kumpulan undang-undang tertulis.",
+    "response": "N. Kitab Undang-Undang/Kode; kumpulan hukum tertulis yang dikumpulkan bersama, biasanya mencakup materi pelajaran tertentu (contoh: KUHP, KUHPerdata)."
+  },
+  {
+    "instruction": "Apa itu Code of Professional Responsibility?",
+    "context": "Aturan etika untuk pengacara.",
+    "response": "N. Kode Etik Profesi; seperangkat aturan yang mengatur perilaku etis pengacara dalam praktik hukum."
+  },
+  {
+    "instruction": "Siapa itu Codefendant?",
+    "context": "Terdakwa atau tergugat lain dalam kasus yang sama.",
+    "response": "N. Tergugat/Terdakwa bersama; ketika lebih dari satu orang atau entitas digugat dalam satu gugatan."
+  },
+  {
+    "instruction": "Apa itu Codicil?",
+    "context": "Dokumen tambahan untuk mengubah wasiat.",
+    "response": "N. Kodisil; amandemen tertulis terhadap wasiat seseorang, yang harus diberi tanggal, ditandatangani, dan disaksikan sama seperti wasiat."
+  },
+  {
+    "instruction": "Apa arti Codify?",
+    "context": "Menyusun hukum menjadi kitab undang-undang.",
+    "response": "V. Mengkodifikasi; mengatur dan melabeli sistem hukum."
+  },
+  {
+    "instruction": "Apa itu Cohabitation?",
+    "context": "Hidup bersama seperti suami istri tanpa menikah.",
+    "response": "N. Kohabitasi (Kumpul kebo); hidup bersama di kediaman yang sama, umumnya sebagai suami dan istri tanpa formalitas hukum."
+  },
+  {
+    "instruction": "Apa itu Coinsurance?",
+    "context": "Berbagi risiko antara pemilik dan perusahaan asuransi.",
+    "response": "N. Ko-asuransi; polis asuransi di mana perusahaan asuransi hanya mengasuransikan sebagian nilai properti. Pada dasarnya pemilik dan perusahaan asuransi berbagi risiko."
+  },
+  {
+    "instruction": "Apa arti Collateral?",
+    "context": "Jaminan utang atau sesuatu yang bersifat sampingan.",
+    "response": "1) N. Agunan/Jaminan; properti yang digadaikan untuk menjamin pinjaman. 2) Adj. Mengacu pada sesuatu yang terjadi bersamaan atau paralel dengan masalah utama."
+  },
+  {
+    "instruction": "Apa itu Collateral Attack?",
+    "context": "Menyerang putusan pengadilan melalui kasus terpisah, bukan banding.",
+    "response": "N. Serangan kolateral; tindakan hukum untuk menantang putusan dalam kasus lain melalui gugatan baru, bukan banding langsung."
+  },
+  {
+    "instruction": "Siapa itu Collateral Descendant?",
+    "context": "Kerabat dari garis samping (sepupu, paman), bukan garis lurus.",
+    "response": "N. Keturunan kolateral; kerabat yang merupakan keturunan dari saudara laki-laki atau perempuan leluhur (sepupu, keponakan, paman)."
+  },
+  {
+    "instruction": "Apa itu Collateral Estoppel?",
+    "context": "Larangan mengadili ulang fakta yang sudah diputus di kasus lain.",
+    "response": "N. Situasi di mana putusan dalam satu kasus mencegah (estops) suatu pihak untuk mencoba meligitasi (memperkarakan) ulang masalah tersebut dalam tindakan hukum lain."
+  },
+  {
+    "instruction": "Apa definisi Collusion?",
+    "context": "Kesepakatan rahasia untuk menipu.",
+    "response": "N. Persekongkolan (Kolusi); di mana dua orang atau lebih membuat perjanjian curang, biasanya rahasia, untuk menipu dan/atau mendapatkan keuntungan tidak adil atas pihak ketiga."
+  },
+  {
+    "instruction": "Apa itu Collusive Action?",
+    "context": "Gugatan pura-pura untuk mendapatkan opini pengadilan.",
+    "response": "N. Gugatan yang diajukan oleh pihak-pihak yang berpura-pura menjadi musuh untuk mendapatkan pendapat penasehat atau keputusan preseden dari pengadilan."
+  },
+  {
+    "instruction": "Apa arti Color of Law?",
+    "context": "Tindakan aparat yang seolah-olah resmi padahal ilegal.",
+    "response": "N. Penampakan suatu tindakan yang dilakukan berdasarkan hak hukum, padahal sebenarnya hak tersebut tidak ada. Sering digunakan dalam kasus penyalahgunaan wewenang polisi."
+  },
+  {
+    "instruction": "Apa itu Color of Title?",
+    "context": "Bukti kepemilikan yang tampak sah tapi sebenarnya cacat.",
+    "response": "N. Penampakan memiliki hak atas properti berdasarkan beberapa bukti, tetapi pada kenyataannya tidak ada hak atau ada cacat fatal dalam hak tersebut."
+  },
+  {
+    "instruction": "Siapa itu Comaker?",
+    "context": "Orang yang ikut menandatangani utang dan ikut bertanggung jawab.",
+    "response": "N. Ketika dua orang atau lebih menandatangani cek atau surat sanggup bayar, masing-masing adalah comaker (penandatangan bersama), dan masing-masing bertanggung jawab atas seluruh jumlah."
+  },
+  {
+    "instruction": "Apa itu Comity dalam hukum?",
+    "context": "Sikap saling menghormati yurisdiksi antar pengadilan.",
+    "response": "N. Komitas; ketika satu pengadilan tunduk pada yurisdiksi pengadilan lain dalam kasus di mana keduanya memiliki hak untuk menangani kasus tersebut."
+  },
+  {
+    "instruction": "Apa itu Commencement of Action?",
+    "context": "Saat dimulainya gugatan secara resmi.",
+    "response": "N. Permulaan gugatan; sebuah tindakan hukum dimulai secara resmi ketika pihak yang menuntut mengajukan keluhan tertulis ke panitera pengadilan."
+  },
+  {
+    "instruction": "Apa arti Comment dalam sidang?",
+    "context": "Pernyataan opini hakim/pengacara yang bukan bukti.",
+    "response": "N. Pernyataan yang dibuat oleh hakim atau pengacara selama persidangan yang didasarkan pada dugaan fakta, bukan fakta yang terbukti. Jika dilakukan depan juri, ini bukan bukti."
+  },
+  {
+    "instruction": "Apa itu Commercial Frustration?",
+    "context": "Kejadian tak terduga yang membuat kontrak mustahil bisnisnya.",
+    "response": "N. Frustrasi komersial; peristiwa tak terduga yang terjadi setelah kontrak dibuat, yang membuatnya mustahil bagi salah satu pihak untuk memenuhi tugasnya. Ini memungkinkan pembatalan kontrak tanpa penalti."
+  },
+  {
+    "instruction": "Apa itu Commercial Law?",
+    "context": "Hukum yang mengatur perdagangan.",
+    "response": "N. Hukum dagang; semua hukum yang berlaku untuk hak, hubungan, dan perilaku orang dan bisnis yang terlibat dalam perdagangan dan penjualan."
+  },
+  {
+    "instruction": "Apa itu Commingling?",
+    "context": "Mencampur dana pribadi dengan dana klien atau dana bersama.",
+    "response": "N. Pencampuran dana; tindakan mencampur dana milik satu pihak dengan pihak lain, atau yang paling penting dengan dana yang dipegang dalam perwalian (trust) untuk orang lain."
+  },
+  {
+    "instruction": "Apa arti Commission?",
+    "context": "Imbalan penjualan atau badan pemerintah.",
+    "response": "N. 1) Komisi (fee) yang dibayarkan berdasarkan persentase penjualan. 2) Komisi (badan) yang ditunjuk menurut hukum untuk melakukan urusan pemerintah tertentu (contoh: Komisi Pemilihan Umum)."
+  },
+  {
+    "instruction": "Apa itu Commitment dalam hukum pidana?",
+    "context": "Perintah hakim memenjarakan seseorang.",
+    "response": "N. Perintah hakim mengirim seseorang ke penjara, atau mengarahkan orang yang tidak stabil secara mental untuk dikurung di rumah sakit jiwa."
+  },
+  {
+    "instruction": "Apa itu Common Area?",
+    "context": "Fasilitas umum di apartemen/perumahan.",
+    "response": "N. Area bersama; di kondominium atau perumahan, area yang tidak dimiliki secara individu tetapi dibagi oleh semua pemilik (taman, kolam renang)."
+  },
+  {
+    "instruction": "Apa itu Common Carrier?",
+    "context": "Perusahaan transportasi umum.",
+    "response": "N. Pengangkut umum; individu atau perusahaan (seperti bus kota) yang berada dalam bisnis reguler mengangkut orang dan/atau barang."
+  },
+  {
+    "instruction": "Apa itu Common Counts?",
+    "context": "Daftar klaim utang standar dalam gugatan.",
+    "response": "N. Klaim utang yang dituduhkan dalam gugatan yang bersifat umum dan dituduhkan bersama-sama sehingga terdakwa tidak dapat lari dari kewajiban karena alasan teknis."
+  },
+  {
+    "instruction": "Apa itu Common Law?",
+    "context": "Sistem hukum adat Inggris yang berdasarkan putusan hakim.",
+    "response": "N. Hukum adat Inggris yang tidak tertulis, berdasarkan kebiasaan dan penggunaan, yang menjadi dasar sistem hukum di banyak negara berbahasa Inggris."
+  },
+  {
+    "instruction": "Apa itu Common Property?",
+    "context": "Tanah atau fasilitas yang dimiliki bersama.",
+    "response": "N. Properti bersama; 1) Properti nyata yang dimiliki oleh \"penyewa bersama\". 2) Properti yang dikelola oleh asosiasi pemilik rumah."
+  },
+  {
+    "instruction": "Apa itu Common Stock?",
+    "context": "Saham biasa yang punya hak suara.",
+    "response": "N. Saham biasa; saham di korporasi di mana dividen dihitung berdasarkan persentase laba bersih. Biasanya pemegang saham biasa memiliki hak suara."
+  },
+  {
+    "instruction": "Apa itu Common-law Marriage?",
+    "context": "Pernikahan yang diakui karena lama hidup bersama, tanpa nikah resmi.",
+    "response": "N. Perjanjian antara pria dan wanita untuk hidup bersama sebagai suami istri tanpa formalitas hukum (nikah siri/kumpul kebo yang diakui hukum di beberapa negara bagian AS)."
+  },
+  {
+    "instruction": "Apa itu Community Property?",
+    "context": "Harta gono-gini (harta bersama suami-istri).",
+    "response": "N. Harta bersama; properti dan keuntungan yang diterima oleh suami dan istri selama pernikahan, kecuali warisan atau hadiah khusus."
+  },
+  {
+    "instruction": "Apa itu Commutation?",
+    "context": "Pengurangan hukuman pidana oleh eksekutif.",
+    "response": "N. Komutasi; tindakan mengurangi hukuman pidana akibat putusan pidana oleh grasi Gubernur atau Presiden."
+  },
+  {
+    "instruction": "Apa arti Commute a Sentence?",
+    "context": "Mengurangi masa hukuman.",
+    "response": "V. Mengurangi hukuman."
+  },
+  {
+    "instruction": "Apa definisi Company?",
+    "context": "Entitas bisnis formal.",
+    "response": "N. Perusahaan; entitas bisnis formal untuk keuntungan, yang bisa berupa korporasi, kemitraan, asosiasi, atau kepemilikan perorangan."
+  },
+  {
+    "instruction": "Apa itu Comparative Negligence?",
+    "context": "Membagi tanggung jawab kecelakaan berdasarkan persentase kesalahan masing-masing.",
+    "response": "N. Kelalaian komparatif; aturan hukum dalam kasus kecelakaan untuk menentukan tanggung jawab dan ganti rugi berdasarkan persentase kelalaian setiap pihak."
+  },
+  {
+    "instruction": "Apa arti Compensation?",
+    "context": "Bayaran kerja atau ganti rugi kecelakaan.",
+    "response": "N. Kompensasi; 1) Pembayaran untuk pekerjaan (gaji, upah). 2) Jumlah yang diterima untuk memulihkan kondisi setelah cedera atau kerugian."
+  },
+  {
+    "instruction": "Apa itu Compensatory Damages?",
+    "context": "Ganti rugi uang untuk kerugian nyata.",
+    "response": "N. Ganti rugi aktual; ganti rugi yang dipulihkan sebagai pembayaran untuk cedera nyata atau kerugian ekonomi."
+  },
+  {
+    "instruction": "Apa arti Competent dalam hukum?",
+    "context": "Mampu secara mental dan hukum untuk bertindak.",
+    "response": "Adj. Kompeten/Cakap; mampu bertindak dalam keadaan tertentu, termasuk kemampuan mental untuk memahami dan mengeksekusi dokumen seperti wasiat."
+  },
+  {
+    "instruction": "Siapa itu Complainant?",
+    "context": "Pihak yang mengajukan gugatan atau pengaduan.",
+    "response": "N. Pengadu/Penggugat; orang atau entitas yang memulai gugatan dengan mengajukan keluhan."
+  },
+  {
+    "instruction": "Apa itu Complaint?",
+    "context": "Dokumen awal gugatan perdata.",
+    "response": "N. Gugatan/Pengaduan; dokumen pertama yang diajukan ke pengadilan oleh orang yang mengklaim hak hukum terhadap orang lain."
+  },
+  {
+    "instruction": "Apa arti Compos Mentis?",
+    "context": "Bahasa Latin untuk waras.",
+    "response": "N. (baca: com-pose-men-tis) Bahasa Latin untuk \"memiliki pikiran yang sehat\" (waras)."
+  },
+  {
+    "instruction": "Apa itu Compound Interest?",
+    "context": "Bunga berbunga.",
+    "response": "N. Bunga majemuk; pembayaran bunga atas pokok dan bunga yang terakumulasi sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Compound Question?",
+    "context": "Pertanyaan ganda yang membingungkan saksi.",
+    "response": "N. Pertanyaan majemuk; kombinasi lebih dari satu pertanyaan menjadi apa yang tampak sebagai satu pertanyaan selama persidangan, yang bisa ditolak karena membingungkan."
+  },
+  {
+    "instruction": "Apa itu Compounding a Felony?",
+    "context": "Kejahatan menerima uang untuk tidak melaporkan kejahatan berat.",
+    "response": "N. Ketika korban kejahatan berat setuju dengan pelaku untuk tidak menuntut (melapor ke polisi) dengan imbalan pembayaran uang."
+  },
+  {
+    "instruction": "Apa arti Compromise dalam sengketa?",
+    "context": "Penyelesaian damai dengan saling mengalah.",
+    "response": "1) N. Kompromi; perjanjian antara pihak yang berlawanan untuk menyelesaikan perselisihan di mana masing-masing memberikan sedikit kelonggaran."
+  },
+  {
+    "instruction": "Apa itu Compromise Verdict?",
+    "context": "Putusan juri yang diambil dari nilai tengah karena tidak sepakat.",
+    "response": "N. Putusan kompromi; keputusan juri di mana para juri membagi perbedaan antara jumlah ganti rugi tinggi dan rendah, bukan berdasarkan perhitungan yang cermat."
+  },
+  {
+    "instruction": "Apa itu Concealed Weapon?",
+    "context": "Membawa senjata tersembunyi secara ilegal.",
+    "response": "N. Senjata tersembunyi; senjata (biasanya pistol) yang disembunyikan di badan seseorang atau di bawah kendalinya (seperti di laci mobil). Ini biasanya merupakan kejahatan."
+  },
+  {
+    "instruction": "Apa itu Concealment?",
+    "context": "Menyembunyikan fakta penting dalam kontrak.",
+    "response": "N. Penyembunyian; kegagalan curang untuk mengungkapkan informasi yang diketahui seseorang dan seharusnya dikomunikasikan dengan itikad baik (contoh: menyembunyikan cacat mobil yang dijual)."
+  },
+  {
+    "instruction": "Apa arti Conclusion dalam sidang?",
+    "context": "Akhir persidangan atau kesimpulan fakta/hukum.",
+    "response": "N. Kesimpulan; 1) Akhir. 2) Dalam persidangan, penentuan akhir fakta oleh pencari fakta."
+  },
+  {
+    "instruction": "Apa itu Conclusion of Fact?",
+    "context": "Keputusan hakim tentang apa yang sebenarnya terjadi berdasarkan bukti.",
+    "response": "N. Kesimpulan fakta; hasil akhir analisis fakta yang disajikan dalam bukti, dibuat oleh juri atau hakim."
+  },
+  {
+    "instruction": "Apa itu Conclusion of Law?",
+    "context": "Keputusan hakim tentang bagaimana hukum diterapkan pada kasus.",
+    "response": "N. Kesimpulan hukum; keputusan akhir hakim tentang pertanyaan hukum yang diajukan dalam persidangan."
+  },
+  {
+    "instruction": "Apa itu Concurrent Sentences?",
+    "context": "Menjalani beberapa hukuman penjara secara bersamaan.",
+    "response": "N. Hukuman konkuren (bersamaan); hukuman untuk lebih dari satu kejahatan yang dijalani pada waktu yang sama (contoh: divonis 5 tahun dan 3 tahun, total dipenjara 5 tahun)."
+  },
+  {
+    "instruction": "Apa arti Condemn?",
+    "context": "Bisa berarti menyatakan gedung tidak layak atau menyita tanah negara.",
+    "response": "V. 1) Menyatakan bangunan tidak aman. 2) Mengambil properti pribadi untuk penggunaan umum (pengadaan tanah)."
+  },
+  {
+    "instruction": "Apa itu Condemnation?",
+    "context": "Proses pencabutan hak milik tanah oleh negara.",
+    "response": "N. Proses hukum di mana badan pemerintah menggunakan hak \"eminent domain\" untuk memperoleh properti pribadi demi kepentingan umum (seperti jalan raya)."
+  },
+  {
+    "instruction": "Apa itu Condemnation Action?",
+    "context": "Gugatan pemerintah untuk mengambil alih tanah warga.",
+    "response": "N. Gugatan yang diajukan oleh badan publik untuk memperoleh properti pribadi untuk tujuan publik dan penentuan nilai ganti rugi."
+  },
+  {
+    "instruction": "Apa arti Condition dalam kontrak?",
+    "context": "Syarat yang harus dipenuhi.",
+    "response": "N. Syarat; ketentuan atau persyaratan yang dinyatakan dalam kontrak, yang harus dipenuhi agar pihak lain memiliki kewajiban untuk memenuhi tugasnya."
+  },
+  {
+    "instruction": "Apa itu Condition Precedent?",
+    "context": "Syarat yang harus terjadi sebelum kewajiban muncul (Syarat Tangguh).",
+    "response": "N. Syarat tangguh (precedent); peristiwa yang harus terjadi sebelum pihak dalam kontrak harus melakukan bagian mereka."
+  },
+  {
+    "instruction": "Apa itu Condition Subsequent?",
+    "context": "Syarat yang mengakhiri kewajiban jika terjadi (Syarat Batal).",
+    "response": "N. Syarat batal (subsequent); kejadian yang mengakhiri tugas suatu pihak untuk melakukan bagiannya."
+  },
+  {
+    "instruction": "Apa itu Conditional Bequest?",
+    "context": "Warisan yang hanya diberikan jika syarat terpenuhi.",
+    "response": "N. Warisan bersyarat; hadiah dalam wasiat yang hanya akan terjadi jika peristiwa tertentu telah terjadi pada saat pembuat wasiat meninggal."
+  },
+  {
+    "instruction": "Apa itu Conditional Sale?",
+    "context": "Jual beli yang sah hanya jika syarat terpenuhi.",
+    "response": "N. Penjualan bersyarat; penjualan properti atau barang yang akan diselesaikan jika kondisi tertentu dipenuhi."
+  },
+  {
+    "instruction": "Apa itu Condominium?",
+    "context": "Hak milik atas unit apartemen/ruang udara.",
+    "response": "N. Kondominium; hak atas unit properti nyata yang, pada kenyataannya, adalah ruang udara yang ditempati apartemen, kantor, atau toko."
+  },
+  {
+    "instruction": "Apa arti Condone?",
+    "context": "Membiarkan atau memaafkan kesalahan.",
+    "response": "V. Memaafkan/Membiarkan; mengabaikan kegagalan moral atau hukum orang lain tanpa protes, sehingga tampak bahwa pelanggaran tersebut dapat diterima."
+  },
+  {
+    "instruction": "Apa arti Confess?",
+    "context": "Mengaku bersalah.",
+    "response": "V. Mengaku; dalam hukum pidana, secara sukarela menyatakan bahwa seseorang bersalah melakukan tindak pidana."
+  },
+  {
+    "instruction": "Apa itu Confession?",
+    "context": "Pernyataan tertulis pengakuan kejahatan.",
+    "response": "N. Pengakuan; pernyataan orang yang dituduh melakukan kejahatan bahwa dia melakukan kejahatan tersebut."
+  },
+  {
+    "instruction": "Apa itu Confession and Avoidance?",
+    "context": "Strategi hukum: mengaku melakukan perbuatan tapi punya alasan pembenar.",
+    "response": "N. Pengakuan dan penghindaran; ketika terdakwa mengakui tuduhan tetapi menuduh fakta lain untuk menunjukkan bahwa tuduhan asli tidak membuktikan kasus terhadapnya (misalnya: \"Saya memukulnya, tapi karena membela diri\")."
+  },
+  {
+    "instruction": "Apa itu Confession of Judgment?",
+    "context": "Persetujuan tertulis debitur untuk menerima putusan kalah jika gagal bayar.",
+    "response": "N. Pengakuan putusan; perjanjian tertulis di mana terdakwa mengakui tanggung jawab dan setuju bahwa pernyataan tersebut dapat diajukan sebagai putusan pengadilan terhadapnya jika dia tidak membayar."
+  },
+  {
+    "instruction": "Apa itu Confidence Game?",
+    "context": "Penipuan dengan cara mengambil kepercayaan korban.",
+    "response": "N. Penipuan kepercayaan (Gendam/Swindle); mendapatkan uang dari orang lain melalui tipuan, umumnya dengan mendapatkan kepercayaan korban."
+  },
+  {
+    "instruction": "Apa itu Confidential Communication?",
+    "context": "Komunikasi rahasia (seperti dengan pengacara) yang dilindungi hukum.",
+    "response": "N. Komunikasi tertentu yang dapat dijaga kerahasiaannya dan tidak perlu diungkapkan di pengadilan (misalnya antara pengacara dan klien)."
+  },
+  {
+    "instruction": "Apa itu Confidential Relation?",
+    "context": "Hubungan saling percaya (misal: dokter-pasien).",
+    "response": "N. Hubungan kepercayaan; hubungan di mana satu orang memiliki kepercayaan pada orang lain karena sejarah kepercayaan, keluarga, atau keahlian."
+  },
+  {
+    "instruction": "Apa arti Confiscate?",
+    "context": "Penyitaan barang oleh otoritas.",
+    "response": "V. Menyita (Konfiskasi); mengambil barang atau properti seseorang tanpa hak hukum, atau penyitaan legal oleh pemerintah."
+  },
+  {
+    "instruction": "Apa itu Conflict of Interest?",
+    "context": "Situasi di mana kepentingan pribadi berbenturan dengan tugas profesional.",
+    "response": "N. Konflik kepentingan; situasi di mana seseorang memiliki kewajiban kepada lebih dari satu orang atau organisasi, tetapi tidak dapat melayani kepentingan kedua belah pihak dengan adil."
+  },
+  {
+    "instruction": "Apa itu Conflict of Law?",
+    "context": "Hukum perdata internasional (sengketa hukum antar yurisdiksi).",
+    "response": "N. Hukum perselisihan; situasi di mana hukum dari lebih dari satu negara bagian atau negara berlaku untuk potensi gugatan dan tampak tidak konsisten."
+  },
+  {
+    "instruction": "Apa arti Confrontation dalam sidang?",
+    "context": "Hak terdakwa untuk berhadapan dengan saksi yang memberatkannya.",
+    "response": "N. Konfrontasi; hak terdakwa kriminal \"untuk dikonfrontasi dengan saksi-saksi yang melawannya\" (Hak untuk menanyai saksi lawan)."
+  },
+  {
+    "instruction": "Apa arti Confusingly Similar?",
+    "context": "Kemiripan merek yang bisa mengecoh konsumen.",
+    "response": "Adj. Mirip yang membingungkan; dalam hukum merek dagang, ketika logo atau nama begitu dekat dengan yang sudah ada sehingga publik mungkin salah mengidentifikasinya."
+  },
+  {
+    "instruction": "Apa itu Conjugal Rights?",
+    "context": "Hak berhubungan intim suami-istri.",
+    "response": "N. Hak konjugal (nafkah batin); \"hak\" pasangan untuk kenyamanan dan persahabatan dari pasangannya, yang berarti hubungan seksual."
+  },
+  {
+    "instruction": "Siapa itu Conscientious Objector?",
+    "context": "Orang yang menolak wajib militer karena alasan agama/moral.",
+    "response": "N. Penolak karena hati nurani; orang yang menolak bertugas di militer karena pandangan agama atau filosofis yang kuat menentang perang."
+  },
+  {
+    "instruction": "Apa itu Conscious Parallelism?",
+    "context": "Pesaing bisnis meniru harga tanpa janjian resmi (isu anti-monopoli).",
+    "response": "N. Paralelisme sadar; peniruan tak terucapkan oleh bisnis terhadap tindakan pesaing, seperti mengubah harga, tanpa konspirasi aktif."
+  },
+  {
+    "instruction": "Apa arti Consent?",
+    "context": "Persetujuan sukarela.",
+    "response": "1) N. Persetujuan sukarela atas usulan orang lain. 2) V. Secara sukarela menyetujui tindakan atau proposal orang lain."
+  },
+  {
+    "instruction": "Apa itu Consent Decree?",
+    "context": "Perintah pengadilan berdasarkan kesepakatan damai kedua pihak.",
+    "response": "N. Dekrit persetujuan; perintah hakim berdasarkan perjanjian tertulis antara pihak-pihak yang berperkara sebagai pengganti melanjutkan kasus melalui persidangan."
+  },
+  {
+    "instruction": "Apa itu Consent Judgment?",
+    "context": "Putusan hakim yang mengesahkan perdamaian.",
+    "response": "N. Putusan persetujuan; putusan yang dikeluarkan oleh hakim berdasarkan kesepakatan antara para pihak untuk menyelesaikan masalah."
+  },
+  {
+    "instruction": "Apa itu Consequential Damages?",
+    "context": "Ganti rugi untuk dampak tidak langsung dari pelanggaran.",
+    "response": "N. Kerugian konsekuensial; ganti rugi yang diklaim dalam gugatan yang disebabkan sebagai hasil langsung yang dapat diduga dari kesalahan."
+  },
+  {
+    "instruction": "Siapa itu Conservatee?",
+    "context": "Orang yang hartanya dikelola pengampu karena tidak mampu.",
+    "response": "N. Orang di bawah pengampuan; orang yang ditentukan pengadilan membutuhkan pengampu (conservator) untuk menangani urusan keuangannya karena keterbatasan fisik/mental."
+  },
+  {
+    "instruction": "Siapa itu Conservator?",
+    "context": "Wali pengampu yang mengurus harta orang tidak mampu.",
+    "response": "N. Pengampu; wali dan pelindung yang ditunjuk hakim untuk melindungi dan mengelola urusan keuangan dan/atau kehidupan sehari-hari orang yang tidak mampu."
+  },
+  {
+    "instruction": "Apa itu Consideration dalam kontrak?",
+    "context": "Sesuatu yang bernilai yang dipertukarkan agar kontrak sah (Prestasi).",
+    "response": "N. Pertimbangan (Prestasi/Kontra-prestasi); elemen vital dalam hukum kontrak, yaitu manfaat yang harus ditawar di antara para pihak, dan merupakan alasan penting bagi pihak untuk memasuki kontrak (uang, barang, jasa)."
+  },
+  {
+    "instruction": "Apa arti Consign?",
+    "context": "Menitipkan barang untuk dijualkan (Konsinyasi).",
+    "response": "V. Menitipkan (Konsinyasi); mengirimkan barang ke pedagang untuk dijual atas nama pihak yang mengirimkan barang."
+  },
+  {
+    "instruction": "Siapa itu Consignee?",
+    "context": "Pihak yang menerima barang titipan.",
+    "response": "N. Penerima konsinyasi; orang atau bisnis yang memegang barang orang lain untuk dijual."
+  },
+  {
+    "instruction": "Apa itu Consignment?",
+    "context": "Sistem titip jual.",
+    "response": "N. Konsinyasi; tindakan menitipkan barang kepada orang yang akan menjualnya untuk pemilik."
+  },
+  {
+    "instruction": "Apa itu Consortium?",
+    "context": "Gabungan perusahaan untuk proyek besar.",
+    "response": "N. Konsorsium; sekelompok bisnis terpisah yang bergabung dan bekerja sama untuk menyelesaikan proyek atau melakukan kontrak."
+  },
+  {
+    "instruction": "Apa definisi Conspiracy?",
+    "context": "Rencana jahat bersama.",
+    "response": "N. Persekongkolan (Konspirasi); ketika orang bekerja sama dengan perjanjian untuk melakukan tindakan ilegal."
+  },
+  {
+    "instruction": "Siapa itu Conspirator?",
+    "context": "Pelaku konspirasi.",
+    "response": "N. Konspirator; orang atau entitas yang masuk ke dalam plot dengan satu atau lebih orang lain untuk melakukan tindakan ilegal."
+  },
+  {
+    "instruction": "Siapa itu Constable?",
+    "context": "Petugas keamanan wilayah (mirip polisi desa).",
+    "response": "N. Petugas hukum untuk area tertentu seperti kota praja pedesaan, mirip dengan sheriff."
+  },
+  {
+    "instruction": "Apa itu Constitution?",
+    "context": "Hukum dasar negara.",
+    "response": "N. Konstitusi (UUD); dokumen mendasar yang mendasari pembentukan pemerintahan suatu bangsa atau negara bagian."
+  },
+  {
+    "instruction": "Apa itu Constitutional Rights?",
+    "context": "Hak yang dijamin oleh UUD.",
+    "response": "N. Hak konstitusional; hak yang diberikan atau dilindungi bagi rakyat oleh Konstitusi (seperti Bill of Rights di AS)."
+  },
+  {
+    "instruction": "Apa arti Construction dalam hukum?",
+    "context": "Penafsiran makna undang-undang atau kontrak.",
+    "response": "N. Konstruksi hukum (Penafsiran); tindakan pengacara atau pengadilan dalam menafsirkan dan memberi makna pada undang-undang atau bahasa dokumen."
+  },
+  {
+    "instruction": "Apa arti Constructive dalam istilah hukum?",
+    "context": "Sesuatu yang dianggap ada oleh hukum meski fisiknya tidak.",
+    "response": "Adj. Konstruktif; fiksi hukum untuk memperlakukan situasi seolah-olah itu benar-benar terjadi (contoh: dianggap tahu, dianggap memiliki)."
+  },
+  {
+    "instruction": "Apa itu Constructive Eviction?",
+    "context": "Mengusir penyewa secara halus (mematikan air/listrik) agar pergi sendiri.",
+    "response": "N. Pengusiran konstruktif; ketika tuan tanah tidak melakukan pengusiran legal tetapi mengambil langkah-langkah yang membuat penyewa tidak betah (seperti mematikan air)."
+  },
+  {
+    "instruction": "Apa itu Constructive Fraud?",
+    "context": "Tindakan yang dianggap menipu karena tidak adil, meski tanpa niat jahat.",
+    "response": "N. Penipuan konstruktif; ketika keadaan menunjukkan bahwa tindakan seseorang memberinya keuntungan tidak adil atas orang lain dengan cara yang tidak adil."
+  },
+  {
+    "instruction": "Apa itu Constructive Notice?",
+    "context": "Hukum menganggap Anda tahu karena info sudah publik.",
+    "response": "N. Pemberitahuan konstruktif; fiksi bahwa seseorang mendapat pemberitahuan meskipun tidak dikirim secara pribadi (misalnya pengumuman di papan pengadilan)."
+  },
+  {
+    "instruction": "Apa itu Constructive Possession?",
+    "context": "Memiliki kendali atas barang (kunci brankas) meski tidak memegang barangnya.",
+    "response": "N. Penguasaan konstruktif; ketika seseorang tidak memiliki penguasaan fisik, tetapi memiliki kekuatan untuk mengendalikan aset (misal: memegang kunci brankas)."
+  },
+  {
+    "instruction": "Apa itu Constructive Trust?",
+    "context": "Pengadilan menetapkan aset sebagai trust karena didapat secara tidak adil.",
+    "response": "N. Trust konstruktif; ketika pengadilan memutuskan bahwa pemegang hak milik sebenarnya memegangnya sebagai wali amanat untuk keuntungan orang lain karena situasi yang tidak adil."
+  },
+  {
+    "instruction": "Apa arti Construe?",
+    "context": "Menafsirkan kata-kata dalam dokumen hukum.",
+    "response": "V. Menafsirkan; menentukan makna kata-kata dari dokumen tertulis, undang-undang, atau keputusan hukum."
+  },
+  {
+    "instruction": "Apa itu Consumer Protection Laws?",
+    "context": "Hukum yang melindungi pembeli dari produk buruk atau penipuan.",
+    "response": "N. Hukum perlindungan konsumen; undang-undang yang melindungi pembeli eceran barang dan jasa dari produk inferior, berbahaya, atau iklan yang menipu."
+  },
+  {
+    "instruction": "Apa arti Contemplation of Death?",
+    "context": "Tindakan hukum (hibah/wasiat) yang dilakukan karena merasa ajal dekat.",
+    "response": "N. Antisipasi kematian dalam waktu yang relatif singkat karena usia atau penyakit, yang menyebabkan seseorang memberikan hadiah atau mentransfer properti."
+  },
+  {
+    "instruction": "Apa itu Contempt of Court?",
+    "context": "Tindakan tidak menghormati pengadilan atau melanggar perintah hakim.",
+    "response": "N. Penghinaan terhadap pengadilan; bersikap kasar kepada hakim atau kegagalan yang disengaja untuk mematuhi perintah pengadilan."
+  },
+  {
+    "instruction": "Apa arti Contiguous?",
+    "context": "Tanah yang saling berbatasan.",
+    "response": "Adj. Berbatasan; terhubung atau \"di sebelah\", biasanya berarti sebidang real estat yang berdampingan."
+  },
+  {
+    "instruction": "Apa arti Contingency?",
+    "context": "Kejadian yang mungkin terjadi tapi belum pasti.",
+    "response": "N. Kontingensi; peristiwa yang mungkin tidak terjadi."
+  },
+  {
+    "instruction": "Apa arti Contingent?",
+    "context": "Bergantung pada keadaan lain.",
+    "response": "Adj. Mungkin, tetapi tidak pasti."
+  },
+  {
+    "instruction": "Siapa itu Contingent Beneficiary?",
+    "context": "Penerima warisan cadangan jika penerima utama meninggal.",
+    "response": "N. Penerima manfaat bersyarat; orang yang ditunjuk untuk menerima hadiah berdasarkan wasiat atau asuransi hanya jika peristiwa tertentu terjadi."
+  },
+  {
+    "instruction": "Apa itu Contingent Fee?",
+    "context": "Bayaran pengacara yang hanya diberikan jika menang (Success Fee).",
+    "response": "N. Biaya kontingen (Success fee); biaya untuk pengacara yang hanya akan dibayarkan jika pekerjaan hukum berhasil (biasanya persentase dari uang yang dimenangkan)."
+  },
+  {
+    "instruction": "Apa itu Contingent Interest?",
+    "context": "Hak atas properti yang belum pasti sampai syarat terpenuhi.",
+    "response": "N. Kepentingan bersyarat; kepentingan dalam properti nyata yang akan diterima pihak hanya jika peristiwa tertentu terjadi (misalnya: bertahan hidup lebih lama dari pemilik saat ini)."
+  },
+  {
+    "instruction": "Apa itu Contingent Remainder?",
+    "context": "Hak sisa properti yang bergantung pada kondisi masa depan.",
+    "response": "N. Kepentingan, khususnya dalam real estat, yang akan diberikan kepada seseorang hanya pada serangkaian keadaan tertentu yang ada pada saat pemegang hak milik meninggal."
+  },
+  {
+    "instruction": "Apa itu Continuance dalam sidang?",
+    "context": "Penundaan jadwal sidang.",
+    "response": "N. Penundaan; penundaan tanggal persidangan atau penampilan pengadilan lainnya ke tanggal tetap yang lebih baru atas perintah pengadilan."
+  },
+  {
+    "instruction": "Apa itu Continuing Objection?",
+    "context": "Keberatan pengacara yang berlaku untuk seluruh topik, tidak perlu diulang-ulang.",
+    "response": "N. Keberatan berkelanjutan; keberatan terhadap kesaksian yang telah ditolak oleh hakim, tetapi pengacara mengumumkan dia \"melanjutkan\" keberatan untuk semua pertanyaan lain tentang topik yang sama."
+  },
+  {
+    "instruction": "Apa itu Continuing Trespass?",
+    "context": "Pelanggaran batas tanah yang terus-menerus.",
+    "response": "N. Penggunaan tidak sah yang berulang atas properti nyata orang lain."
+  },
+  {
+    "instruction": "Apa arti Contra dalam argumen hukum?",
+    "context": "Berlawanan dengan.",
+    "response": "Adj. Bahasa Latin untuk \"melawan\" atau \"berlawanan dengan\". Digunakan dalam penulisan hukum untuk membandingkan putusan yang berbeda."
+  },
+  {
+    "instruction": "Apa definisi Contract?",
+    "context": "Perjanjian mengikat antara dua pihak.",
+    "response": "1) N. Kontrak/Perjanjian; kesepakatan dengan syarat-syarat tertentu antara dua orang atau lebih di mana ada janji untuk melakukan sesuatu dengan imbalan manfaat berharga (pertimbangan)."
+  },
+  {
+    "instruction": "Apa itu Contract of Adhesion?",
+    "context": "Kontrak baku yang berat sebelah, konsumen tidak bisa menawar.",
+    "response": "N. Kontrak adhesi (Kontrak baku); kontrak yang sangat tidak seimbang sehingga satu pihak tidak punya pilihan tawar-menawar."
+  },
+  {
+    "instruction": "Siapa itu Contractor?",
+    "context": "Pihak yang mengikat kontrak, biasanya konstruksi.",
+    "response": "N. Kontraktor; 1) Orang yang masuk ke dalam kontrak. 2) Orang yang setuju untuk membangun bangunan."
+  },
+  {
+    "instruction": "Apa arti Contribution dalam hukum kerugian?",
+    "context": "Pembagian tanggung jawab ganti rugi antar pelaku.",
+    "response": "N. Kontribusi; pembagian kerugian oleh masing-masing dari beberapa orang yang mungkin bertanggung jawab bersama atas cedera pada pihak ketiga."
+  },
+  {
+    "instruction": "Apa itu Contributory Negligence?",
+    "context": "Korban tidak dapat ganti rugi karena ikut andil dalam kecelakaan.",
+    "response": "N. Kelalaian kontributif; doktrin hukum umum bahwa jika seseorang terluka sebagian karena kelalaiannya sendiri, pihak yang terluka tidak berhak menagih ganti rugi dari pihak lain."
+  },
+  {
+    "instruction": "Apa arti Control?",
+    "context": "Kekuasaan untuk mengelola.",
+    "response": "1) N. Kekuatan untuk mengarahkan, mengelola, mengawasi dan/atau membatasi urusan. 2) V. Menjalankan kekuatan kendali."
+  },
+  {
+    "instruction": "Apa itu Controlled Substance?",
+    "context": "Obat-obatan terlarang (Narkoba).",
+    "response": "N. Zat terkendali (Narkotika/Psikotropika); obat yang dinyatakan ilegal oleh hukum untuk dijual atau digunakan, tetapi mungkin diberikan dengan resep dokter."
+  },
+  {
+    "instruction": "Apa itu Controlling Law?",
+    "context": "Hukum negara mana yang dipakai dalam kontrak.",
+    "response": "N. Hukum yang mengatur; hukum negara bagian yang akan diandalkan dalam menafsirkan sengketa kontrak."
+  },
+  {
+    "instruction": "Apa itu Controversy?",
+    "context": "Sengketa nyata yang bisa diadili.",
+    "response": "N. Kontroversi/Sengketa; perselisihan yang harus merupakan masalah nyata yang diperebutkan antara pihak-pihak agar dapat didengar oleh pengadilan."
+  },
+  {
+    "instruction": "Apa definisi Conversion dalam hukum perdata?",
+    "context": "Mengambil properti orang lain (pencurian versi perdata).",
+    "response": "N. Konversi; kesalahan perdata (tort) di mana seseorang mengubah properti orang lain untuk penggunaannya sendiri (mencuri/menggelapkan)."
+  },
+  {
+    "instruction": "Apa arti Convey?",
+    "context": "Memindahkan hak milik tanah.",
+    "response": "V. Mengalihkan; mentransfer hak (kepemilikan resmi) atas properti nyata dari satu pihak ke pihak lain dengan akta tertulis."
+  },
+  {
+    "instruction": "Apa itu Conveyance?",
+    "context": "Dokumen pemindahan hak tanah.",
+    "response": "N. Dokumen tertulis apa pun yang mentransfer (mengalihkan) properti nyata atau kepentingan properti nyata dari satu pihak ke pihak lain."
+  },
+  {
+    "instruction": "Apa arti Convict?",
+    "context": "Memvonis bersalah atau narapidana.",
+    "response": "1) V. Menyatakan bersalah atas kejahatan setelah persidangan. 2) N. Narapidana; orang yang telah dihukum karena kejahatan berat dan dikirim ke penjara."
+  },
+  {
+    "instruction": "Apa itu Conviction?",
+    "context": "Putusan bersalah dalam kasus pidana.",
+    "response": "N. Pemidanaan (Vonis bersalah); hasil dari pengadilan pidana di mana terdakwa dinyatakan bersalah atas kejahatan."
+  },
+  {
+    "instruction": "Apa definisi Cooperative?",
+    "context": "Badan usaha bersama (Koperasi).",
+    "response": "N. Koperasi; asosiasi bisnis individu atau petani dengan kepentingan serupa, bermaksud untuk bekerja sama dalam pemasaran dan berbagi keuntungan."
+  },
+  {
+    "instruction": "Apa itu Cooperative Housing?",
+    "context": "Perumahan milik bersama (asosiasi).",
+    "response": "N. Perumahan koperasi; pengaturan di mana asosiasi memiliki sekelompok unit perumahan dan area umum. Peserta memiliki saham di koperasi yang memberi mereka hak menempati unit."
+  },
+  {
+    "instruction": "Apa itu Cop a Plea?",
+    "context": "Istilah slang untuk negosiasi hukuman (Plea Bargain).",
+    "response": "N. Slang untuk \"plea bargain\" di mana terdakwa setuju untuk mengaku bersalah dengan imbalan janji rekomendasi hukuman ringan."
+  },
+  {
+    "instruction": "Siapa itu Copartner?",
+    "context": "Mitra dalam persekutuan bisnis.",
+    "response": "N. Seseorang yang merupakan anggota kemitraan (redundansi dari kata partner)."
+  },
+  {
+    "instruction": "Apa itu Copyright?",
+    "context": "Hak eksklusif pencipta karya seni/sastra.",
+    "response": "N. Hak Cipta; hak eksklusif pencipta karya sastra atau seni (buku, film, musik) untuk mencetak, menyalin, menjual, atau melisensikannya."
+  },
+  {
+    "instruction": "Siapa itu Coroner?",
+    "context": "Pejabat yang menyelidiki kematian tidak wajar.",
+    "response": "N. Koroner (Pemeriksa jenazah); pejabat daerah yang bertanggung jawab untuk menentukan penyebab kematian siapa pun yang meninggal secara kejam, mendadak, atau mencurigakan."
+  },
+  {
+    "instruction": "Apa itu Corporate Opportunity?",
+    "context": "Peluang bisnis yang seharusnya milik perusahaan, bukan direkturnya.",
+    "response": "N. Peluang perusahaan; peluang bisnis yang diketahui oleh pejabat perusahaan karena posisinya. Peluang ini milik perusahaan, dan pejabat tidak boleh menggunakannya untuk keuntungan pribadi."
+  },
+  {
+    "instruction": "Apa definisi Corporation?",
+    "context": "Badan hukum terpisah dari pemiliknya (Perseroan Terbatas).",
+    "response": "N. Korporasi (Perseroan Terbatas); organisasi yang dibentuk dengan persetujuan pemerintah untuk bertindak sebagai \"orang buatan\" untuk menjalankan bisnis, yang dapat menuntut atau dituntut."
+  },
+  {
+    "instruction": "Apa arti Corpus?",
+    "context": "Pokok dana atau tubuh.",
+    "response": "N. 1) Bahasa Latin untuk tubuh. 2) Pokok (biasanya uang dan aset) dari suatu perwalian (trust) atau harta warisan, dibedakan dari bunga atau keuntungan."
+  },
+  {
+    "instruction": "Apa itu Corpus Delicti?",
+    "context": "Bukti bahwa kejahatan benar-benar terjadi (sering disalahartikan sebagai mayat).",
+    "response": "N. (baca: corpus dee-lick-tie) Bahasa Latin untuk fakta substansial bahwa kejahatan telah dilakukan (bukti pokok), dan dalam jargon kejahatan populer berarti tubuh korban pembunuhan."
+  },
+  {
+    "instruction": "Apa itu Corpus Juris?",
+    "context": "Kumpulan hukum.",
+    "response": "N. Badan hukum; ringkasan dari semua hukum, kasus, dan interpretasinya."
+  },
+  {
+    "instruction": "Apa arti Corroborate?",
+    "context": "Mendukung kesaksian dengan bukti tambahan.",
+    "response": "V. Menguatkan; mengonfirmasi dan terkadang menambahkan kesaksian yang memperkuat kesaksian saksi lain."
+  },
+  {
+    "instruction": "Apa itu Corroborating Evidence?",
+    "context": "Bukti pendukung.",
+    "response": "N. Bukti penguat; bukti yang memperkuat, menambah, atau mengonfirmasi bukti yang sudah ada."
+  },
+  {
+    "instruction": "Apa arti Cosign?",
+    "context": "Ikut tanda tangan utang sebagai penjamin.",
+    "response": "V. Menandatangani bersama; menandatangani surat sanggup bayar untuk berbagi tanggung jawab atas kewajiban tersebut."
+  },
+  {
+    "instruction": "Apa itu Cost Bill?",
+    "context": "Daftar biaya pengadilan yang diklaim pihak pemenang.",
+    "response": "N. Tagihan biaya; daftar biaya pengadilan yang diklaim oleh pihak yang menang dalam gugatan."
+  },
+  {
+    "instruction": "Apa itu Cost of Completion?",
+    "context": "Biaya menyelesaikan proyek yang ditinggalkan kontraktor.",
+    "response": "N. Biaya penyelesaian; jumlah uang (ganti rugi) yang diperlukan untuk menyelesaikan kinerja ketika kontrak telah dilanggar (misalnya kontraktor kabur)."
+  },
+  {
+    "instruction": "Apa arti Costs dalam pengadilan?",
+    "context": "Biaya perkara.",
+    "response": "N. Singkatan untuk biaya pengadilan (court costs)."
+  },
+  {
+    "instruction": "Apa itu Cotenancy?",
+    "context": "Kepemilikan properti oleh lebih dari satu orang.",
+    "response": "N. Situasi ketika lebih dari satu orang memiliki kepentingan dalam properti nyata pada waktu yang sama."
+  },
+  {
+    "instruction": "Siapa itu Cotenant?",
+    "context": "Salah satu pemilik bersama.",
+    "response": "N. Seseorang yang memegang kepentingan dalam properti nyata bersama dengan satu atau lebih orang lain."
+  },
+  {
+    "instruction": "Apa definisi Counsel?",
+    "context": "Pengacara atau nasihat hukum.",
+    "response": "1) N. Pengacara/Penasihat hukum. 2) V. Memberikan nasihat hukum."
+  },
+  {
+    "instruction": "Siapa itu Counsellor?",
+    "context": "Istilah lain untuk pengacara.",
+    "response": "N. Pengacara berlisensi."
+  },
+  {
+    "instruction": "Apa arti Count dalam dakwaan?",
+    "context": "Setiap butir tuduhan dalam dokumen hukum.",
+    "response": "N. Setiap pernyataan terpisah dalam keluhan yang menyatakan dasar gugatan, atau setiap tuduhan terpisah dalam tindakan kriminal."
+  },
+  {
+    "instruction": "Apa itu Counter Offer?",
+    "context": "Menolak tawaran lama dengan mengajukan tawaran baru.",
+    "response": "N. Penawaran balasan; tawaran yang dibuat sebagai tanggapan terhadap tawaran sebelumnya oleh pihak lain. Membuat penawaran balasan secara otomatis menolak tawaran sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Counterclaim?",
+    "context": "Gugatan balik dari tergugat kepada penggugat.",
+    "response": "N. Gugatan balik (Rekonvensi); klaim balasan oleh terdakwa terhadap penggugat dalam gugatan yang disertakan dalam jawaban terdakwa."
+  },
+  {
+    "instruction": "Apa arti Counterfeit?",
+    "context": "Uang atau dokumen palsu.",
+    "response": "1) Adj. Palsu (tentang uang/dokumen). 2) V. Memalsukan uang/obligasi. 3) N. Uang palsu."
+  },
+  {
+    "instruction": "Apa itu Counterpart dalam kontrak?",
+    "context": "Salinan kontrak yang sama tapi ditandatangani pihak berbeda.",
+    "response": "N. Salinan rangkap; kertas tertulis yang merupakan salah satu dari beberapa dokumen yang membentuk kontrak, seringkali ditandatangani oleh pihak yang berbeda."
+  },
+  {
+    "instruction": "Apa arti Course dalam frasa hukum?",
+    "context": "Sedang berlangsung.",
+    "response": "N. Di tengah-tengah atau terlibat aktif pada waktu itu, seperti \"dalam kegiatan bisnis\" (course of business)."
+  },
+  {
+    "instruction": "Apa itu Course of Employment?",
+    "context": "Kondisi sedang bekerja saat kecelakaan terjadi.",
+    "response": "Adj. Terlibat aktif dalam pekerjaan seseorang pada waktu tertentu, yang diperlukan untuk mengajukan klaim cedera kerja."
+  },
+  {
+    "instruction": "Apa arti Court?",
+    "context": "Pengadilan atau hakim itu sendiri.",
+    "response": "N. 1) Hakim. 2) Pengadilan resmi mana pun yang dipimpin oleh hakim."
+  },
+  {
+    "instruction": "Apa itu Court Calendar?",
+    "context": "Jadwal perkara.",
+    "response": "N. Jadwal sidang; daftar masalah yang akan didengar atau ditetapkan untuk diadili."
+  },
+  {
+    "instruction": "Apa saja Court Costs?",
+    "context": "Biaya resmi pengadilan (bukan biaya pengacara).",
+    "response": "N. Biaya pengadilan; biaya untuk pengeluaran yang diteruskan pengadilan kepada pengacara (biaya pendaftaran, biaya pemanggilan, dll)."
+  },
+  {
+    "instruction": "Apa itu Court Docket?",
+    "context": "Daftar register perkara.",
+    "response": "N. Daftar perkara."
+  },
+  {
+    "instruction": "Apa fungsi Court of Appeals?",
+    "context": "Pengadilan tingkat banding.",
+    "response": "N. Pengadilan Banding (Pengadilan Tinggi); pengadilan apa pun yang mendengar banding dari putusan pengadilan tingkat pertama."
+  },
+  {
+    "instruction": "Apa itu Court of Customs and Patent Appeals?",
+    "context": "Pengadilan khusus AS untuk bea cukai dan paten.",
+    "response": "N. Pengadilan federal yang didirikan untuk mendengar banding dari keputusan Kantor Paten AS dan Pengadilan Bea Cukai AS."
+  },
+  {
+    "instruction": "Apa itu Court of Equity?",
+    "context": "Pengadilan yang memberikan keadilan di luar ganti rugi uang.",
+    "response": "N. Pengadilan Ekuitas; pengadilan yang menangani gugatan yang meminta pemulihan selain ganti rugi, seperti perintah (injunction)."
+  },
+  {
+    "instruction": "Apa itu Court of Law?",
+    "context": "Pengadilan umum.",
+    "response": "N. Pengadilan hukum; pengadilan yang mendengar tuntutan hukum di mana ganti rugi dicari."
+  },
+  {
+    "instruction": "Apa itu Court Trial?",
+    "context": "Sidang hanya dengan hakim, tanpa juri.",
+    "response": "Sidang pengadilan (tanpa juri); persidangan dengan hakim tetapi tanpa juri."
+  },
+  {
+    "instruction": "Apa itu Court-martial?",
+    "context": "Pengadilan militer.",
+    "response": "1) N. Mahkamah Militer; pengadilan militer untuk mengadili pelanggaran aturan angkatan bersenjata."
+  },
+  {
+    "instruction": "Apa arti Covenant?",
+    "context": "Janji mengikat dalam akta tanah atau kontrak.",
+    "response": "1) N. Perjanjian/Klausul; janji dalam kontrak tertulis atau akta properti nyata (misalnya janji menjamin hak milik)."
+  },
+  {
+    "instruction": "Apa itu Covenant Not to Compete?",
+    "context": "Janji tidak akan membuka bisnis saingan.",
+    "response": "N. Perjanjian non-kompetisi; ketentuan umum dalam kontrak penjualan bisnis di mana penjual setuju untuk tidak bersaing dalam bisnis yang sama untuk periode tertentu."
+  },
+  {
+    "instruction": "Apa itu Covenant that Runs with the Land?",
+    "context": "Perjanjian yang melekat pada tanah, siapapun pemiliknya.",
+    "response": "N. Janji yang terkandung dalam akta tanah yang mengikat pemilik saat ini dan semua pemilik masa depan."
+  },
+  {
+    "instruction": "Apa itu Covenants, Conditions and Restrictions (CC&Rs)?",
+    "context": "Aturan kompleks perumahan (cat rumah, hewan peliharaan, dll).",
+    "response": "N. Aturan tertulis, batasan, dan restriksi penggunaan yang disetujui bersama oleh semua pemilik rumah di sebuah perumahan atau kondominium."
+  },
+  {
+    "instruction": "Apa itu Credibility?",
+    "context": "Tingkat kepercayaan terhadap saksi.",
+    "response": "N. Kredibilitas; apakah kesaksian layak dipercaya, berdasarkan kompetensi saksi dan kemungkinan kebenarannya."
+  },
+  {
+    "instruction": "Siapa itu Credible Witness?",
+    "context": "Saksi yang dapat dipercaya.",
+    "response": "N. Saksi yang kredibel; saksi yang kesaksiannya lebih dari mungkin benar berdasarkan pengalamannya dan kejujurannya."
+  },
+  {
+    "instruction": "Siapa itu Creditor?",
+    "context": "Pihak yang meminjamkan uang.",
+    "response": "N. Kreditur; orang atau entitas yang dihutangi."
+  },
+  {
+    "instruction": "Apa itu Creditor's Claim?",
+    "context": "Dokumen tagihan kreditur ke pihak bangkrut atau warisan.",
+    "response": "N. Tagihan kreditur; klaim yang harus diajukan secara tertulis oleh orang yang dihutangi uang oleh pihak yang bangkrut atau orang yang telah meninggal."
+  },
+  {
+    "instruction": "Apa itu Creditor's Rights?",
+    "context": "Hukum tentang penagihan utang.",
+    "response": "N. Hak kreditur; bidang hukum yang menangani cara dan prosedur hukum untuk menagih utang."
+  },
+  {
+    "instruction": "Apa definisi Crime?",
+    "context": "Tindak pidana.",
+    "response": "N. Kejahatan/Tindak pidana; pelanggaran hukum yang merugikan publik dengan kemungkinan hukuman penjara atau denda."
+  },
+  {
+    "instruction": "Apa itu Crime Against Nature?",
+    "context": "Istilah hukum lama untuk perilaku seksual menyimpang.",
+    "response": "N. Istilah kuno untuk sodomi (hubungan seksual anal), yang pernah menjadi kejahatan di sebagian besar negara bagian."
+  },
+  {
+    "instruction": "Apa itu Crime of Passion?",
+    "context": "Kejahatan akibat emosi mendadak (bukan berencana).",
+    "response": "N. Kejahatan karena gairah/emosi; alasan terdakwa melakukan kejahatan karena kemarahan mendadak atau sakit hati, untuk menghilangkan unsur \"perencanaan\"."
+  },
+  {
+    "instruction": "Siapa itu Criminal?",
+    "context": "Orang yang dihukum karena kejahatan.",
+    "response": "1) N. Kriminal/Penjahat; istilah populer untuk siapa saja yang telah melakukan kejahatan. 2) Adj. Pidana; menggambarkan tindakan atau orang yang terkait dengan kejahatan."
+  },
+  {
+    "instruction": "Siapa itu Criminal Attorney?",
+    "context": "Pengacara kasus pidana.",
+    "response": "N. Pengacara pidana; istilah populer untuk pengacara yang berspesialisasi dalam membela orang yang didakwa melakukan kejahatan."
+  },
+  {
+    "instruction": "Apa itu Criminal Calendar?",
+    "context": "Jadwal sidang kasus pidana.",
+    "response": "N. Daftar kasus pidana yang akan dipanggil di pengadilan pada waktu dan tanggal tertentu."
+  },
+  {
+    "instruction": "Apa itu Criminal Justice?",
+    "context": "Sistem penegakan hukum pidana.",
+    "response": "N. Peradilan pidana; istilah umum untuk prosedur di mana perilaku kriminal diselidiki, bukti dikumpulkan, penangkapan dilakukan, dan pengadilan dilakukan."
+  },
+  {
+    "instruction": "Apa itu Criminal Law?",
+    "context": "Hukum tentang kejahatan dan hukuman.",
+    "response": "N. Hukum Pidana; undang-undang yang menangani kejahatan terhadap publik dengan hukuman dan prosedur terkait."
+  },
+  {
+    "instruction": "Apa itu Cross-complaint?",
+    "context": "Gugatan balasan terdakwa kepada penggugat atau pihak ketiga.",
+    "response": "N. Gugatan silang; setelah gugatan diajukan, terdakwa dapat mengajukan gugatan tertulis terhadap pihak yang menuntutnya atau terhadap pihak ketiga."
+  },
+  {
+    "instruction": "Apa itu Cross-examination?",
+    "context": "Tanya jawab pengacara terhadap saksi lawan.",
+    "response": "N. Pemeriksaan silang; kesempatan bagi pengacara untuk mengajukan pertanyaan di pengadilan kepada saksi yang telah bersaksi atas nama pihak lawan."
+  },
+  {
+    "instruction": "Apa itu Cruel and Unusual Punishment?",
+    "context": "Hukuman barbar yang dilarang konstitusi.",
+    "response": "N. Hukuman kejam dan tidak wajar; hukuman pemerintah yang biadab, melibatkan penyiksaan, atau mengejutkan moralitas publik (dilarang oleh Amandemen Kedelapan Konstitusi AS)."
+  },
+  {
+    "instruction": "Apa arti Cruelty dalam perceraian?",
+    "context": "Perlakuan menyakitkan fisik/mental terhadap pasangan.",
+    "response": "N. Kekejaman; penderitaan fisik atau psikologis yang disengaja pada orang lain. Dulu sering menjadi alasan perceraian."
+  },
+  {
+    "instruction": "Apa itu Cruelty to Animals?",
+    "context": "Penyiksaan hewan.",
+    "response": "N. Kejahatan menimbulkan rasa sakit fisik, penderitaan, atau kematian pada hewan di luar kebutuhan untuk disiplin normal."
+  },
+  {
+    "instruction": "Apa arti Culpability?",
+    "context": "Derajat kesalahan seseorang.",
+    "response": "N. Kesalahan/Kewajiban; cukup bertanggung jawab atas tindakan kriminal atau kelalaian sehingga bersalah dan bertanggung jawab atas perilaku tersebut."
+  },
+  {
+    "instruction": "Apa arti Culpable?",
+    "context": "Bersalah.",
+    "response": "Adj. Patut disalahkan."
+  },
+  {
+    "instruction": "Apa itu Cumis Counsel?",
+    "context": "Pengacara independen untuk tertanggung saat ada konflik dengan asuransi.",
+    "response": "N. Pengacara yang dipekerjakan oleh terdakwa dalam gugatan ketika ada polis asuransi, tetapi ada konflik kepentingan antara perusahaan asuransi dan terdakwa yang diasuransikan."
+  },
+  {
+    "instruction": "Apa itu Cumulative Sentence?",
+    "context": "Hukuman beruntun (dijumlahkan).",
+    "response": "N. Hukuman kumulatif; ketika terdakwa dihukum penjara berturut-turut untuk setiap kejahatan (misal: 5 tahun + 3 tahun = 8 tahun)."
+  },
+  {
+    "instruction": "Apa itu Cumulative Voting?",
+    "context": "Sistem voting pemegang saham untuk melindungi minoritas.",
+    "response": "N. Pemungutan suara kumulatif; sistem pemungutan suara oleh pemegang saham untuk direktur di mana pemegang saham dapat mengalikan saham suaranya dengan jumlah kandidat dan memberikan semuanya untuk satu orang."
+  },
+  {
+    "instruction": "Apa itu Curtesy?",
+    "context": "Hak waris kuno untuk duda.",
+    "response": "N. Dalam common law kuno, hak suami yang masih hidup atas tanah mendiang istrinya."
+  },
+  {
+    "instruction": "Apa arti Custody?",
+    "context": "Bisa berarti penahanan polisi atau hak asuh anak.",
+    "response": "N. 1) Memegang properti di bawah kendali seseorang. 2) Penahanan orang yang dituduh oleh polisi. 3) Hak asuh anak dalam perceraian."
+  },
+  {
+    "instruction": "Apa fungsi Customs Court?",
+    "context": "Pengadilan masalah kepabeanan.",
+    "response": "N. Pengadilan Bea Cukai; pengadilan federal yang didirikan untuk mendengar banding dari keputusan pejabat bea cukai."
+  },
+  {
+    "instruction": "Apa arti Cut a Check?",
+    "context": "Menulis dan mengeluarkan cek.",
+    "response": "V. Menulis (menyiapkan) dan menandatangani cek."
+  },
+  {
+    "instruction": "Apa itu Cy Pres Doctrine?",
+    "context": "Prinsip mengalihkan dana amal ke tujuan yang mirip jika tujuan asli gagal.",
+    "response": "N. Doktrin Cy Pres; dari bahasa Prancis, yang berarti \"sedekat mungkin.\" Ketika tujuan asli hadiah amal tidak mungkin dilaksanakan, pengadilan dapat mengarahkannya ke tujuan amal yang serupa."
+  }
+]
