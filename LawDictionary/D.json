@@ -1,0 +1,897 @@
+[
+  {
+    "instruction": "Apa singkatan dari D.A.?",
+    "context": "Istilah slang di Amerika Serikat untuk pejabat penuntut umum.",
+    "response": "N. Singkatan slang untuk District Attorney (Jaksa Wilayah)."
+  },
+  {
+    "instruction": "Apa arti singkatan d.b.a.?",
+    "context": "Digunakan ketika bisnis beroperasi menggunakan nama yang berbeda dari nama resmi pemiliknya.",
+    "response": "N. Singkatan untuk \"doing business as\" (berbisnis sebagai), ketika seseorang atau entitas menggunakan nama bisnis alih-alih namanya sendiri."
+  },
+  {
+    "instruction": "Apa itu D.U.I.?",
+    "context": "Pelanggaran lalu lintas terkait konsumsi alkohol.",
+    "response": "N. Singkatan untuk driving under the influence (mengemudi di bawah pengaruh alkohol)."
+  },
+  {
+    "instruction": "Apa itu D.W.I.?",
+    "context": "Bisa berarti pelanggaran lalu lintas atau istilah hukum waris.",
+    "response": "N. 1) Singkatan untuk driving while intoxicated (mengemudi saat mabuk). 2) Singkatan untuk dying without issue (meninggal tanpa memiliki anak/keturunan)."
+  },
+  {
+    "instruction": "Apa definisi Damages dalam gugatan?",
+    "context": "Uang yang diberikan pengadilan kepada penggugat sebagai kompensasi.",
+    "response": "N. Ganti rugi; jumlah uang yang dapat diberikan kepada penggugat (orang yang menuntut) dalam suatu gugatan."
+  },
+  {
+    "instruction": "Apa arti Dangerous dalam hukum?",
+    "context": "Kondisi tidak aman yang dapat menimbulkan tanggung jawab hukum jika menyebabkan cedera.",
+    "response": "Adj. Berbahaya; tidak aman, berisiko, penuh dengan risiko. Bisa menjadi kelalaian jika kerusakan diakibatkan oleh menciptakan atau membiarkan kondisi berbahaya tanpa penjagaan."
+  },
+  {
+    "instruction": "Apa itu Dangerous Weapon?",
+    "context": "Benda yang dapat menyebabkan cedera fisik, termasuk alat olahraga jika disalahgunakan.",
+    "response": "N. Senjata berbahaya; pistol, pisau, pedang, panah, ketapel, atau senjata lain yang dapat menyebabkan cedera tubuh pada orang."
+  },
+  {
+    "instruction": "Apa itu Date Rape?",
+    "context": "Kekerasan seksual yang terjadi dalam situasi sosial atau kencan.",
+    "response": "N. Perkosaan dalam kencan (pacaran); hubungan seksual paksa oleh kenalan laki-laki terhadap seorang wanita, selama keterlibatan sosial sukarela di mana wanita itu tidak berniat tunduk pada ajakan seksual."
+  },
+  {
+    "instruction": "Apa maksud ungkapan 'Day in Court'?",
+    "context": "Kesempatan setiap orang untuk mencari keadilan melalui sistem hukum.",
+    "response": "N. Hari di pengadilan; istilah populer untuk kesempatan setiap orang mengajukan gugatan atau menggunakan sistem pengadilan jika dia merasa memiliki keluhan yang dapat diselesaikan di pengadilan."
+  },
+  {
+    "instruction": "Apa arti De Facto?",
+    "context": "Bahasa Latin yang berarti 'pada kenyataannya', sering dilawankan dengan 'de jure'.",
+    "response": "Adj. De facto (Pada kenyataannya); Bahasa Latin untuk \"in fact.\" Sering digunakan untuk menunjukkan bahwa pengadilan akan memperlakukan suatu otoritas sebagai fakta meskipun persyaratan hukum belum dipenuhi."
+  },
+  {
+    "instruction": "Apa itu De Facto Corporation?",
+    "context": "Perusahaan yang beroperasi seperti korporasi meski belum melengkapi syarat legalitas.",
+    "response": "N. Perusahaan de facto; perusahaan yang beroperasi seolah-olah sebuah korporasi meskipun belum menyelesaikan langkah-langkah hukum untuk menjadi badan hukum."
+  },
+  {
+    "instruction": "Apa arti De Jure?",
+    "context": "Bahasa Latin yang berarti 'menurut hukum'.",
+    "response": "Adj. De jure (Secara hukum); Bahasa Latin untuk \"sah secara hukum,\" dibedakan dari de facto."
+  },
+  {
+    "instruction": "Apa itu De Jure Corporation?",
+    "context": "Perusahaan yang sah dan memenuhi semua persyaratan hukum.",
+    "response": "N. Perusahaan de jure; korporasi dalam keadaan baik di bawah hukum, dibandingkan dengan korporasi de facto."
+  },
+  {
+    "instruction": "Apa arti De Minimis?",
+    "context": "Hal yang terlalu sepele untuk dipermasalahkan oleh hukum.",
+    "response": "Adj. (baca: dee-minnie-miss) Bahasa Latin untuk \"kepentingan minimum\" atau \"sepele.\" Pada dasarnya merujuk pada sesuatu atau perbedaan yang begitu kecil sehingga hukum tidak menganggapnya."
+  },
+  {
+    "instruction": "Apa arti De Novo?",
+    "context": "Memulai sesuatu dari awal lagi, seperti persidangan ulang.",
+    "response": "Adj. De novo (Dari awal); Bahasa Latin untuk \"baru,\" yang berarti memulai dari awal, seperti dalam pengadilan de novo."
+  },
+  {
+    "instruction": "Apa definisi Deadly Weapon?",
+    "context": "Segala benda yang dapat mematikan, termasuk mobil atau pentungan.",
+    "response": "N. Senjata mematikan; senjata apa pun yang bisa membunuh. Ini termasuk bukan hanya senjata yang dimaksudkan untuk menyakiti seperti pistol, tetapi juga instrumen tumpul atau mobil."
+  },
+  {
+    "instruction": "Siapa itu Dealer dalam hukum bisnis?",
+    "context": "Orang yang membeli barang untuk dijual kembali sebagai bisnis utama.",
+    "response": "N. Dealer (Pedagang); siapa pun yang membeli barang atau properti untuk tujuan dijual sebagai bisnis. Penting untuk membedakan dealer dari seseorang yang hanya sesekali membeli dan menjual."
+  },
+  {
+    "instruction": "Apa itu Death Penalty?",
+    "context": "Hukuman maksimal untuk kejahatan berat.",
+    "response": "N. Hukuman mati; vonis eksekusi untuk pembunuhan dan beberapa kejahatan berat lainnya."
+  },
+  {
+    "instruction": "Apa itu Death Row?",
+    "context": "Bagian penjara khusus untuk terpidana mati.",
+    "response": "N. Blok terpidana mati (Nusakambangan); julukan untuk bagian penjara tempat para tahanan ditempatkan yang berada di bawah hukuman mati dan sedang menunggu banding atau eksekusi."
+  },
+  {
+    "instruction": "Apa itu Debenture?",
+    "context": "Surat utang perusahaan yang dijamin oleh aset umum, bukan aset spesifik.",
+    "response": "N. Surat utang (Debentur); bentuk sertifikat obligasi yang diterbitkan oleh korporasi untuk menunjukkan dana yang diinvestasikan, yang pembayarannya dijamin oleh nilai modal keseluruhan perusahaan."
+  },
+  {
+    "instruction": "Apa definisi Debt?",
+    "context": "Kewajiban membayar uang atau melakukan sesuatu.",
+    "response": "N. Utang; 1) Sejumlah uang yang terutang kepada orang lain. 2) Kewajiban untuk menyerahkan barang tertentu atau melakukan tindakan tertentu."
+  },
+  {
+    "instruction": "Siapa itu Debtor?",
+    "context": "Pihak yang memiliki utang.",
+    "response": "N. Debitur (Penghutang); 1) Seseorang atau entitas yang berhutang sejumlah uang atau bantuan kepada orang lain. 2) Dalam kebangkrutan, pihak yang urusannya menjadi subjek proses."
+  },
+  {
+    "instruction": "Apa itu Debtor in Possession?",
+    "context": "Debitur bangkrut yang masih diizinkan mengelola bisnisnya sendiri.",
+    "response": "N. Debitur dalam penguasaan; dalam proses kebangkrutan ketika debitur mengajukan hak reorganisasi dan diizinkan untuk terus mengelola bisnisnya tanpa wali amanat yang ditunjuk."
+  },
+  {
+    "instruction": "Apa arti Deceased?",
+    "context": "Orang yang telah meninggal dunia.",
+    "response": "1) Adj. Meninggal. 2) N. Almarhum; orang yang telah meninggal, sebagaimana digunakan dalam penanganan harta warisannya."
+  },
+  {
+    "instruction": "Apa itu Decedent?",
+    "context": "Istilah formal hukum waris untuk orang yang meninggal.",
+    "response": "N. Pewaris (Almarhum); orang yang telah meninggal."
+  },
+  {
+    "instruction": "Apa definisi Deceit?",
+    "context": "Tindakan tidak jujur yang disengaja untuk menyesatkan orang lain.",
+    "response": "N. Penipuan/Kecurangan; ketidakjujuran, perilaku curang, pernyataan palsu yang dibuat dengan mengetahui bahwa itu tidak benar, di mana pembohong bermaksud menipu pihak lain."
+  },
+  {
+    "instruction": "Apa itu Deception?",
+    "context": "Tindakan menyesatkan lewat kata atau perbuatan.",
+    "response": "N. Pengelabuan; tindakan menyesatkan orang lain melalui pernyataan yang sengaja salah atau tindakan curang."
+  },
+  {
+    "instruction": "Apa arti Decide dalam konteks pengadilan?",
+    "context": "Proses hakim mencapai kesimpulan hukum.",
+    "response": "V. Memutuskan; bagi hakim, arbiter, atau pengadilan untuk mencapai penentuan (keputusan) dengan memilih apa yang benar dan salah menurut hukum."
+  },
+  {
+    "instruction": "Apa itu Decision?",
+    "context": "Hasil akhir dari pertimbangan hukum.",
+    "response": "N. Putusan/Keputusan; penghakiman, dekrit, atau penentuan temuan fakta dan/atau hukum oleh hakim atau pengadilan."
+  },
+  {
+    "instruction": "Siapa itu Declarant?",
+    "context": "Orang yang membuat pernyataan tertulis di bawah sumpah.",
+    "response": "N. Deklaran; orang yang membuat pernyataan, biasanya tertulis dan ditandatangani oleh orang itu, di bawah \"ancaman hukuman sumpah palsu.\""
+  },
+  {
+    "instruction": "Apa itu Declaration?",
+    "context": "Pernyataan tertulis di bawah sumpah, pengganti afidavit.",
+    "response": "N. Deklarasi/Pernyataan; 2) Pernyataan tertulis yang dibuat \"di bawah ancaman hukuman sumpah palsu\" dan ditandatangani oleh deklaran, yang merupakan pengganti modern untuk afidavit."
+  },
+  {
+    "instruction": "Apa itu Declaration of Mailing?",
+    "context": "Bukti hukum bahwa dokumen telah dikirimkan.",
+    "response": "N. Pernyataan pengiriman; formulir yang menyatakan bahwa dokumen tertentu telah dikirimkan kepada orang tertentu dan menyatakan kebenaran fakta itu di bawah sumpah."
+  },
+  {
+    "instruction": "Apa itu Declaration of Trust?",
+    "context": "Dokumen pembentukan sebuah trust (perwalian).",
+    "response": "N. Pernyataan amanat (Trust); dokumen yang ditandatangani oleh pemberi amanat (trustor) yang menciptakan perwalian ke mana aset ditempatkan."
+  },
+  {
+    "instruction": "Apa itu Declaratory Judgment?",
+    "context": "Putusan hakim yang menetapkan status hukum tanpa memerintahkan tindakan.",
+    "response": "N. Putusan deklaratoir; putusan pengadilan yang menentukan hak-hak para pihak tanpa memerintahkan apa pun dilakukan atau memberikan ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Declaratory Relief?",
+    "context": "Permintaan agar hakim memperjelas hak para pihak dalam kontrak.",
+    "response": "N. Putusan sela/deklaratif; penentuan hakim atas hak-hak para pihak berdasarkan kontrak atau undang-undang yang sering diminta dalam gugatan."
+  },
+  {
+    "instruction": "Apa arti Decree?",
+    "context": "Istilah lain untuk putusan pengadilan, umum di kasus perceraian.",
+    "response": "N. Dekrit/Putusan; secara umum sinonim dengan penghakiman (judgment). Namun, lebih umum digunakan dalam pengesahan wasiat, perceraian, dan hukum ekuitas."
+  },
+  {
+    "instruction": "Apa itu Decriminalization?",
+    "context": "Penghapusan sifat pidana dari suatu perbuatan.",
+    "response": "N. Dekriminalisasi; pencabutan atau amandemen undang-undang yang menjadikan tindakan tertentu sebagai kejahatan, sehingga tindakan tersebut tidak lagi dapat dituntut."
+  },
+  {
+    "instruction": "Apa arti Dedication dalam properti?",
+    "context": "Penyerahan tanah swasta ke pemerintah untuk fasilitas umum.",
+    "response": "N. Dedikasi (Penyerahan); pemberian tanah oleh orang pribadi atau entitas kepada pemerintah, biasanya untuk jalan, taman, atau lokasi sekolah, sebagai bagian dari syarat pengembangan real estat."
+  },
+  {
+    "instruction": "Apa itu Deduction dalam pajak?",
+    "context": "Pengeluaran yang mengurangi pendapatan kena pajak.",
+    "response": "N. Pengurangan (Deduksi); pengeluaran yang dapat dikurangkan oleh pembayar pajak penghasilan dari pendapatan kotor untuk menentukan pendapatan kena pajak."
+  },
+  {
+    "instruction": "Apa definisi Deed?",
+    "context": "Dokumen resmi pemindahan hak milik tanah.",
+    "response": "1) N. Akta (Tanah); dokumen tertulis yang mengalihkan hak (kepemilikan) atau kepentingan dalam properti nyata kepada orang lain."
+  },
+  {
+    "instruction": "Apa itu Deed of Trust?",
+    "context": "Dokumen jaminan properti yang melibatkan pihak ketiga (trustee).",
+    "response": "N. Akta kepercayaan; dokumen yang menggadaikan properti nyata untuk menjamin pinjaman, digunakan sebagai pengganti hipotek di beberapa negara bagian AS."
+  },
+  {
+    "instruction": "Apa arti Defalcation?",
+    "context": "Penggelapan dana oleh pejabat publik.",
+    "response": "V. Penggelapan; menahan atau menyalahgunakan dana yang dipegang untuk orang lain, khususnya oleh pejabat publik."
+  },
+  {
+    "instruction": "Apa itu Defamation?",
+    "context": "Pernyataan palsu yang merusak reputasi (fitnah/pencemaran nama baik).",
+    "response": "N. Pencemaran nama baik (Defamasi); tindakan membuat pernyataan tidak benar tentang orang lain yang merusak reputasinya. Jika tertulis disebut libel, jika lisan disebut slander."
+  },
+  {
+    "instruction": "Apa arti Default dalam hukum?",
+    "context": "Kegagalan merespons gugatan atau memenuhi kewajiban.",
+    "response": "1) N. Wanprestasi/Kelalaian; kegagalan untuk menanggapi panggilan dan keluhan yang disampaikan kepada suatu pihak dalam waktu yang disyaratkan oleh hukum."
+  },
+  {
+    "instruction": "Apa itu Default Judgment?",
+    "context": "Putusan kemenangan bagi penggugat karena tergugat tidak hadir/merespons.",
+    "response": "N. Putusan verstek (Putusan default); jika terdakwa dalam gugatan gagal menanggapi keluhan dalam waktu yang ditetapkan, penggugat dapat meminta agar kegagalan tersebut dicatat untuk mendapatkan putusan kemenangan."
+  },
+  {
+    "instruction": "Apa itu Defeasance?",
+    "context": "Istilah kuno untuk pembatalan dokumen.",
+    "response": "N. Pembatalan; kata kuno untuk dokumen yang mengakhiri efek dari tulisan yang ada seperti akta, obligasi, atau kontrak jika suatu peristiwa terjadi."
+  },
+  {
+    "instruction": "Apa arti Defect?",
+    "context": "Ketidaksempurnaan atau kerusakan pada barang/dokumen.",
+    "response": "N. Cacat; ketidaksempurnaan, seringkali begitu besar sehingga mesin atau dokumen tertulis tidak dapat digunakan."
+  },
+  {
+    "instruction": "Apa arti Defective?",
+    "context": "Kondisi tidak berfungsi atau cacat.",
+    "response": "Adj. Cacat/Rusak; tidak mampu memenuhi fungsinya, mulai dari akta tanah hingga peralatan."
+  },
+  {
+    "instruction": "Apa itu Defective Title?",
+    "context": "Hak milik yang tidak sah karena kesalahan dokumen atau sejarah kepemilikan.",
+    "response": "N. Hak milik cacat; hak atas properti nyata yang gagal karena pemegang hak sebelumnya tidak memiliki hak, atau ada deskripsi properti yang salah."
+  },
+  {
+    "instruction": "Siapa itu Defendant?",
+    "context": "Pihak yang dituntut atau didakwa.",
+    "response": "N. Terdakwa (Pidana) / Tergugat (Perdata); 1) Pihak yang digugat dalam gugatan perdata atau pihak yang didakwa melakukan kejahatan dalam penuntutan pidana."
+  },
+  {
+    "instruction": "Apa itu Defense?",
+    "context": "Upaya hukum untuk membantah tuntutan.",
+    "response": "N. Pembelaan (Eksepsi); 1) Istilah umum untuk upaya pengacara mewakili terdakwa untuk mengalahkan pihak yang menuntut. 2) Jawaban atas keluhan."
+  },
+  {
+    "instruction": "Siapa itu Defense Attorney?",
+    "context": "Pengacara yang mewakili pihak yang dituntut.",
+    "response": "N. Pengacara pembela; pengacara yang mewakili terdakwa dalam gugatan atau penuntutan pidana."
+  },
+  {
+    "instruction": "Apa itu Deficiency Judgment?",
+    "context": "Putusan penagihan sisa utang jika hasil lelang jaminan tidak cukup.",
+    "response": "N. Putusan defisiensi; putusan untuk jumlah yang tidak tertutup oleh nilai jaminan yang dipasang untuk pinjaman."
+  },
+  {
+    "instruction": "Apa arti Deficit?",
+    "context": "Kekurangan dana atau pengeluaran lebih besar dari pendapatan.",
+    "response": "N. Defisit; kekurangan, kurang dari yang seharusnya, atau dalam kasus anggaran bisnis atau pemerintah, pengeluaran lebih banyak daripada pendapatan."
+  },
+  {
+    "instruction": "Apa arti Defraud?",
+    "context": "Mengambil hak orang lain dengan tipu muslihat.",
+    "response": "V. Menipu; menggunakan penipuan, kepalsuan, atau tipu muslihat untuk mendapatkan uang, objek, hak, atau apa pun yang berharga milik orang lain."
+  },
+  {
+    "instruction": "Apa itu Degree of Kinship?",
+    "context": "Tingkat hubungan darah antar keluarga.",
+    "response": "N. Derajat kekerabatan; tingkat hubungan antara dua orang yang memiliki hubungan darah, dihitung sebagai satu derajat untuk setiap langkah dari leluhur yang sama."
+  },
+  {
+    "instruction": "Apa itu Delayed Exchange?",
+    "context": "Mekanisme penundaan pajak properti (Starker exchange).",
+    "response": "N. Pertukaran tertunda; pertukaran properti untuk menunda pajak keuntungan modal, di mana dana ditempatkan dalam trust yang mengikat hingga 180 hari sementara penjual memperoleh properti lain."
+  },
+  {
+    "instruction": "Apa arti Delegate?",
+    "context": "Melimpahkan wewenang atau orang yang mewakili kelompok.",
+    "response": "1) V. Mendelegasikan; menugaskan wewenang kepada orang lain. 2) N. Delegasi; orang yang dipilih untuk menghadiri konvensi atau pertemuan atas nama organisasi."
+  },
+  {
+    "instruction": "Apa arti Deleterious?",
+    "context": "Sesuatu yang merugikan atau berbahaya.",
+    "response": "Adj. Berbahaya/Merugikan."
+  },
+  {
+    "instruction": "Apa arti Deliberate?",
+    "context": "Sengaja atau proses mempertimbangkan dengan hati-hati.",
+    "response": "1) Adj. Disengaja/Berencana; dilakukan dengan hati-hati dan niat. 2) V. Berunding (Deliberasi); mempertimbangkan fakta dan hukum, khususnya oleh anggota juri."
+  },
+  {
+    "instruction": "Apa itu Deliberation?",
+    "context": "Proses musyawarah juri untuk mencapai putusan.",
+    "response": "N. Musyawarah (Deliberasi); tindakan mempertimbangkan, mendiskusikan, dan mencapai kesimpulan, seperti diskusi juri."
+  },
+  {
+    "instruction": "Apa arti Delinquent?",
+    "context": "Bisa berarti menunggak utang atau pelaku kenakalan remaja.",
+    "response": "1) Adj. Menunggak; tidak dibayar penuh atau tepat waktu. 2) N. Pelaku kenakalan; singkatan untuk pelanggar hukum di bawah umur (juvenile delinquent)."
+  },
+  {
+    "instruction": "Apa arti Deliver?",
+    "context": "Menyerahkan barang secara fisik.",
+    "response": "V. Menyerahkan; benar-benar menyerahkan objek, uang, atau dokumen kepada orang lain."
+  },
+  {
+    "instruction": "Apa itu Delivery dalam hukum kontrak?",
+    "context": "Penyerahan fisik yang menandakan sahnya transaksi.",
+    "response": "N. Penyerahan; penyerahan aktual objek, uang, atau dokumen (seperti akta) kepada orang lain untuk menyelesaikan transaksi."
+  },
+  {
+    "instruction": "Apa arti Demand?",
+    "context": "Tuntutan resmi untuk pembayaran atau kinerja.",
+    "response": "1) V. Menuntut; mengklaim sebagai kebutuhan atau hak. 2) N. Tuntutan; klaim, seperti permintaan pembayaran tanpa syarat."
+  },
+  {
+    "instruction": "Apa itu Demand Note?",
+    "context": "Surat utang yang harus dibayar kapan saja saat diminta.",
+    "response": "N. Surat sanggup bayar atas unjuk; surat sanggup bayar yang dapat dibayarkan kapan saja pemegang surat mengajukan permintaan."
+  },
+  {
+    "instruction": "Apa arti Demise?",
+    "context": "Kata kuno untuk menyewakan, kematian, atau kegagalan.",
+    "response": "1) V. Menyewakan atau mengalihkan properti nyata untuk jangka waktu tertentu. 2) N. Akta yang mengalihkan properti. 3) N. Kematian. 4) N. Kegagalan."
+  },
+  {
+    "instruction": "Apa itu Demonstrative Evidence?",
+    "context": "Bukti visual (foto, model) untuk memperjelas fakta di sidang.",
+    "response": "N. Bukti demonstratif; objek nyata, gambar, model, dan perangkat lain yang dimaksudkan untuk memperjelas fakta bagi hakim dan juri."
+  },
+  {
+    "instruction": "Apa itu Demurrer?",
+    "context": "Bantahan hukum bahwa gugatan tidak memiliki dasar meski faktanya benar.",
+    "response": "N. Eksepsi (Demurrer); tanggapan tertulis terhadap keluhan yang memohon penolakan dengan alasan bahwa meskipun fakta yang dituduhkan benar, tidak ada dasar hukum untuk gugatan."
+  },
+  {
+    "instruction": "Apa itu Denial?",
+    "context": "Penyangkalan terdakwa terhadap tuduhan.",
+    "response": "N. Penyangkalan/Bantahan; pernyataan dalam jawaban terdakwa bahwa tuduhan (klaim fakta) tidak benar."
+  },
+  {
+    "instruction": "Apa arti Dependent?",
+    "context": "Orang yang ditanggung hidupnya atau kondisi yang bergantung pada hal lain.",
+    "response": "1) N. Tanggungan; orang yang menerima dukungan dari orang lain (seperti orang tua). 2) Adj. Bergantung; membutuhkan peristiwa lain untuk terjadi."
+  },
+  {
+    "instruction": "Apa itu Depletion?",
+    "context": "Habisnya sumber daya alam yang bisa jadi pengurang pajak.",
+    "response": "N. Deplesi (Pengurangan); ketika sumber daya alam (khususnya minyak) sedang habis digunakan. Jumlah deplesi tahunan dapat memberikan pengurangan pajak."
+  },
+  {
+    "instruction": "Siapa itu Deponent?",
+    "context": "Saksi yang memberikan keterangan dalam deposisi.",
+    "response": "N. Saksi deposisi; orang yang bersaksi (menyatakan jawaban atas pertanyaan) pada sebuah deposisi."
+  },
+  {
+    "instruction": "Apa itu Deportation?",
+    "context": "Pengusiran orang asing dari suatu negara.",
+    "response": "N. Deportasi; tindakan mengusir orang asing dari suatu negara, biasanya karena memiliki catatan kriminal atau berada di negara tersebut secara ilegal."
+  },
+  {
+    "instruction": "Apa arti Depose?",
+    "context": "Menanyai saksi atau bersaksi di luar sidang.",
+    "response": "V. 1) Mengajukan pertanyaan kepada saksi atau pihak dalam gugatan pada deposisi. 2) Bersaksi pada deposisi."
+  },
+  {
+    "instruction": "Apa itu Deposition?",
+    "context": "Kesaksian saksi di luar pengadilan yang direkam untuk bukti.",
+    "response": "N. Deposisi; pengambilan dan perekaman kesaksian saksi di bawah sumpah di tempat yang jauh dari ruang sidang sebelum persidangan."
+  },
+  {
+    "instruction": "Apa arti Depreciate?",
+    "context": "Mengurangi nilai aset dalam pembukuan.",
+    "response": "V. Menyusutkan (Depresiasi); dalam akuntansi, mengurangi nilai aset setiap tahun secara teoritis atas dasar bahwa aset akan menjadi usang."
+  },
+  {
+    "instruction": "Apa itu Depreciation?",
+    "context": "Penurunan nilai aset karena usia atau pemakaian.",
+    "response": "N. Penyusutan (Depresiasi); hilangnya nilai aset secara bertahap (khususnya peralatan bisnis atau bangunan) melalui bertambahnya usia, keausan alami, atau kerusakan."
+  },
+  {
+    "instruction": "Apa itu Depreciation Reserve?",
+    "context": "Dana cadangan untuk mengganti aset yang rusak.",
+    "response": "N. Cadangan penyusutan; dana bisnis di mana perkiraan biaya penggantian peralatan diakumulasikan setiap tahun."
+  },
+  {
+    "instruction": "Apa arti Derelict?",
+    "context": "Sesuatu yang ditinggalkan atau orang terlantar.",
+    "response": "N. Terlantar; sesuatu atau seseorang yang ditinggalkan, seperti kapal yang dibiarkan hanyut di laut atau tunawisma."
+  },
+  {
+    "instruction": "Apa itu Dereliction?",
+    "context": "Penelantaran tugas atau properti.",
+    "response": "N. Penelantaran; 1) Meninggalkan kepemilikan, terkadang digunakan dalam frasa \"penelantaran tugas.\""
+  },
+  {
+    "instruction": "Apa itu Derivative Action?",
+    "context": "Gugatan pemegang saham mewakili perusahaan melawan direksi.",
+    "response": "N. Gugatan turunan; gugatan yang diajukan oleh pemegang saham korporasi terhadap direktur atau manajemen atas kegagalan manajemen, bertindak atas nama korporasi."
+  },
+  {
+    "instruction": "Apa itu Descent?",
+    "context": "Aturan pewarisan tanpa wasiat berdasarkan garis keturunan.",
+    "response": "N. Pewarisan/Keturunan; aturan warisan yang ditetapkan oleh hukum dalam kasus di mana tidak ada wasiat."
+  },
+  {
+    "instruction": "Apa itu Descent and Distribution?",
+    "context": "Sistem hukum pembagian warisan bagi yang meninggal tanpa wasiat.",
+    "response": "N. Pewarisan dan pembagian; sistem hukum yang menentukan siapa yang akan mewarisi dan membagi harta benda orang yang meninggal tanpa wasiat (intestate)."
+  },
+  {
+    "instruction": "Apa arti Desert?",
+    "context": "Meninggalkan atau membolos (desersi).",
+    "response": "V. Meninggalkan (Desersi); secara sengaja meninggalkan seseorang atau sesuatu."
+  },
+  {
+    "instruction": "Apa itu Desertion?",
+    "context": "Tindakan meninggalkan keluarga tanpa niat kembali.",
+    "response": "N. Penelantaran; tindakan meninggalkan, khususnya meninggalkan pasangan dan/atau anak-anak tanpa niat untuk kembali."
+  },
+  {
+    "instruction": "Apa arti Determinable?",
+    "context": "Sesuatu yang bisa diakhiri jika kondisi tertentu terjadi.",
+    "response": "Adj. Dapat ditentukan/diakhiri; mendefinisikan sesuatu yang dapat dihentikan setelah terjadinya peristiwa tertentu (biasanya properti)."
+  },
+  {
+    "instruction": "Apa arti Deuce dalam hukum lalu lintas?",
+    "context": "Slang California untuk kasus mabuk saat mengemudi.",
+    "response": "N. Slang untuk vonis mengemudi dalam keadaan mabuk (berasal dari California)."
+  },
+  {
+    "instruction": "Apa arti Devise?",
+    "context": "Mewariskan properti tanah/bangunan.",
+    "response": "1) V. Mewariskan properti nyata (real estat) melalui wasiat. 2) N. Pemberian properti nyata melalui wasiat."
+  },
+  {
+    "instruction": "Siapa itu Devisee?",
+    "context": "Penerima warisan tanah/bangunan.",
+    "response": "N. Penerima warisan (real estat); orang yang menerima hadiah properti nyata melalui wasiat."
+  },
+  {
+    "instruction": "Apa itu Devolution?",
+    "context": "Peralihan hak atau kekuasaan secara otomatis.",
+    "response": "N. Pelimpahan/Peralihan; 1) Pengalihan hak atas properti nyata melalui operasi hukum otomatis. 2) Pengalihan hak, kekuasaan, atau jabatan."
+  },
+  {
+    "instruction": "Apa arti Devolve?",
+    "context": "Beralihnya hak atau aset secara hukum.",
+    "response": "V. Melimpah/Beralih; ketika properti secara otomatis dialihkan dari satu pihak ke pihak lain melalui operasi hukum, tanpa tindakan apa pun yang diperlukan (misal: warisan otomatis)."
+  },
+  {
+    "instruction": "Apa itu Dicta?",
+    "context": "Bentuk jamak dari dictum.",
+    "response": "N. Bentuk jamak dari dictum."
+  },
+  {
+    "instruction": "Apa itu Dictum?",
+    "context": "Komentar hakim yang bukan bagian inti dari putusan (tidak mengikat).",
+    "response": "N. Bahasa Latin untuk \"komentar,\" komentar oleh hakim dalam putusan yang tidak diharuskan untuk mencapai keputusan (opini tambahan)."
+  },
+  {
+    "instruction": "Apa itu Diligence?",
+    "context": "Tingkat perhatian yang wajar untuk menghindari kelalaian.",
+    "response": "N. Ketekunan/Kehati-hatian; perhatian yang wajar terhadap suatu masalah, yang cukup baik untuk menghindari klaim kelalaian."
+  },
+  {
+    "instruction": "Apa itu Diminished Capacity?",
+    "context": "Pembelaan bahwa terdakwa tidak sepenuhnya memahami kejahatannya karena kondisi mental.",
+    "response": "N. Kapasitas yang berkurang; istilah di pengadilan pidana yang berarti meskipun terdakwa tidak gila, karena tekanan emosional atau kondisi lain, dia tidak dapat sepenuhnya memahami sifat tindakan kriminalnya."
+  },
+  {
+    "instruction": "Apa itu Diminution in Value?",
+    "context": "Penurunan nilai properti akibat pelanggaran kontrak.",
+    "response": "N. Penurunan nilai; dalam hal pelanggaran kontrak, penurunan nilai properti karena kegagalan membangun sesuatu persis seperti yang ditentukan."
+  },
+  {
+    "instruction": "Apa itu Direct and Proximate Cause?",
+    "context": "Penyebab langsung kerugian tanpa intervensi pihak lain.",
+    "response": "N. Penyebab langsung dan terdekat; alasan langsung kerusakan disebabkan oleh tindakan atau kelalaian; kelalaian harus menyebabkan kerusakan tanpa intervensi pihak lain."
+  },
+  {
+    "instruction": "Apa itu Direct Evidence?",
+    "context": "Bukti nyata yang tidak butuh penalaran tambahan.",
+    "response": "N. Bukti langsung; bukti nyata, berwujud, atau jelas dari suatu fakta yang tidak memerlukan pemikiran atau pertimbangan untuk membuktikan keberadaannya."
+  },
+  {
+    "instruction": "Apa itu Direct Examination?",
+    "context": "Tanya jawab pertama antara pengacara dan saksi pihaknya sendiri.",
+    "response": "N. Pemeriksaan langsung; pertanyaan pertama terhadap saksi selama persidangan atau deposisi, dibedakan dari pemeriksaan silang (cross-examination)."
+  },
+  {
+    "instruction": "Apa itu Directed Verdict?",
+    "context": "Hakim memerintahkan juri memutus kasus karena kurang bukti dari salah satu pihak.",
+    "response": "N. Putusan yang diarahkan; putusan oleh juri berdasarkan arahan khusus oleh hakim pengadilan karena salah satu pihak gagal membuktikan kasusnya secara hukum."
+  },
+  {
+    "instruction": "Siapa itu Director dalam perusahaan?",
+    "context": "Anggota dewan yang menentukan kebijakan perusahaan.",
+    "response": "N. Direktur/Komisaris (tergantung sistem hukum); anggota dewan pengatur korporasi yang dipilih pada rapat tahunan pemegang saham. Bertanggung jawab atas pembuatan kebijakan."
+  },
+  {
+    "instruction": "Apa itu Disability?",
+    "context": "Kondisi fisik/mental yang membatasi fungsi.",
+    "response": "N. Disabilitas (Ketidakmampuan); kondisi yang mencegah seseorang melakukan semua fungsi fisik atau mental yang biasa."
+  },
+  {
+    "instruction": "Apa arti Disbar?",
+    "context": "Mencabut izin praktik pengacara.",
+    "response": "V. Memecat/Mencabut izin; menghapus pengacara dari daftar pengacara yang berpraktik karena perilaku tidak pantas."
+  },
+  {
+    "instruction": "Apa itu Disbarment?",
+    "context": "Hukuman pencabutan lisensi pengacara.",
+    "response": "N. Pencabutan izin pengacara; disiplin tertinggi seorang pengacara, yaitu mengambil lisensinya untuk mempraktikkan hukum."
+  },
+  {
+    "instruction": "Apa arti Discharge?",
+    "context": "Bisa berarti melaksanakan tugas, memecat, melunasi utang, atau bebas dari pailit.",
+    "response": "V. 1) Melaksanakan tugas. 2) Memberhentikan seseorang dari pekerjaan. 3) Membayar utang. 4) Dalam kebangkrutan, perintah pengadilan bahwa semua utang dimaafkan."
+  },
+  {
+    "instruction": "Apa itu Discharge in Bankruptcy?",
+    "context": "Perintah pengadilan yang menghapus sisa utang orang pailit.",
+    "response": "N. Pembebasan dalam kepailitan; perintah yang diberikan oleh hakim kepailitan yang memaafkan utang tersisa yang tidak dapat dibayar."
+  },
+  {
+    "instruction": "Apa itu Disclaimer?",
+    "context": "Penyangkalan tanggung jawab atau hak.",
+    "response": "N. Penafian/Penyangkalan; 1) Penyangkalan hak atas properti. 2) Penolakan tanggung jawab atas klaim orang lain. 3) Pernyataan tidak bertanggung jawab."
+  },
+  {
+    "instruction": "Apa itu Discount dalam keuangan?",
+    "context": "Pembayaran kurang dari jumlah penuh.",
+    "response": "N. Diskon/Potongan; pembayaran kurang dari jumlah penuh yang jatuh tempo pada surat sanggup bayar atau harga barang."
+  },
+  {
+    "instruction": "Apa itu Discovery dalam hukum?",
+    "context": "Proses saling buka bukti sebelum sidang.",
+    "response": "N. Penemuan bukti (Discovery); seluruh upaya pihak dalam gugatan untuk mendapatkan informasi sebelum persidangan melalui permintaan dokumen, deposisi, dan interogasi tertulis."
+  },
+  {
+    "instruction": "Apa itu Discretion?",
+    "context": "Wewenang hakim untuk memutuskan berdasarkan kebijaksanaan.",
+    "response": "N. Diskresi (Kebijaksanaan); kekuasaan hakim atau pejabat publik untuk membuat keputusan berdasarkan pendapatnya dalam pedoman hukum umum."
+  },
+  {
+    "instruction": "Apa definisi Discrimination?",
+    "context": "Perlakuan tidak setara berdasarkan ras, agama, dll.",
+    "response": "N. Diskriminasi; perlakuan tidak setara terhadap orang karena alasan yang tidak ada hubungannya dengan hak hukum atau kemampuan (seperti ras, jenis kelamin, dll)."
+  },
+  {
+    "instruction": "Apa arti Disfigure?",
+    "context": "Merusak penampilan fisik seseorang secara permanen.",
+    "response": "V. Merusak wajah/tubuh; menyebabkan perubahan permanen pada tubuh seseorang, terutama dengan meninggalkan bekas luka yang terlihat."
+  },
+  {
+    "instruction": "Apa arti Dishonor dalam perbankan?",
+    "context": "Menolak membayar cek.",
+    "response": "V. Menolak bayar; menolak membayar jumlah nominal cek atau jumlah yang jatuh tempo pada surat sanggup bayar."
+  },
+  {
+    "instruction": "Apa arti Disinherit?",
+    "context": "Sengaja tidak memberi warisan.",
+    "response": "V. Mencabut hak waris; secara sengaja mengambil tindakan untuk menjamin bahwa orang yang biasanya mewarisi (istri, anak) tidak mendapatkan apa-apa."
+  },
+  {
+    "instruction": "Apa itu Disinheritance?",
+    "context": "Tindakan mencabut hak waris.",
+    "response": "N. Pencabutan hak waris; tindakan mencabut hak waris."
+  },
+  {
+    "instruction": "Apa itu Disjunctive Allegations?",
+    "context": "Tuduhan yang menggunakan kata 'atau', yang sering ditolak pengadilan.",
+    "response": "N. Tuduhan disjungtif; upaya untuk mengklaim dalam gugatan bahwa satu hal \"atau\" hal lain terjadi. Tuduhan semacam ini biasanya ditolak karena terdakwa berhak tahu pasti apa yang harus dia bela."
+  },
+  {
+    "instruction": "Apa arti Dismiss dalam pengadilan?",
+    "context": "Hakim menghentikan kasus.",
+    "response": "V. Menolak/Menggugurkan; putusan hakim bahwa seluruh atau sebagian gugatan penggugat dihentikan."
+  },
+  {
+    "instruction": "Apa itu Dismissal?",
+    "context": "Penghentian kasus secara resmi.",
+    "response": "N. Pemberhentian/Penolakan gugatan; tindakan mengakhiri penuntutan pidana atau gugatan."
+  },
+  {
+    "instruction": "Apa itu Dismissal with Prejudice?",
+    "context": "Kasus ditutup dan tidak boleh diajukan lagi.",
+    "response": "N. Penolakan dengan prasangka (tidak dapat digugat ulang)."
+  },
+  {
+    "instruction": "Apa itu Dismissal without Prejudice?",
+    "context": "Kasus ditutup tapi boleh diajukan ulang di masa depan.",
+    "response": "N. Penolakan tanpa prasangka (dapat digugat ulang)."
+  },
+  {
+    "instruction": "Apa itu Disorderly Conduct?",
+    "context": "Perilaku yang mengganggu ketertiban umum.",
+    "response": "N. Perilaku tidak tertib; tindakan yang mengganggu orang lain atau pelanggaran pidana ringan seperti mabuk di tempat umum."
+  },
+  {
+    "instruction": "Apa itu Disorderly House?",
+    "context": "Istilah halus untuk tempat prostitusi atau judi.",
+    "response": "N. Rumah bordil/Tempat maksiat; istilah sopan untuk rumah prostitusi atau tempat perjudian ilegal."
+  },
+  {
+    "instruction": "Apa itu Disposing Mind and Memory?",
+    "context": "Kondisi mental sehat yang diperlukan untuk membuat wasiat.",
+    "response": "N. Pikiran dan ingatan yang sehat; kemampuan mental untuk memahami apa yang dimilikinya dan siapa ahli warisnya pada saat membuat wasiat."
+  },
+  {
+    "instruction": "Apa itu Disposition?",
+    "context": "Hasil akhir dari kasus pengadilan.",
+    "response": "N. Disposisi/Penyelesaian; penentuan akhir pengadilan atas gugatan atau tuduhan pidana."
+  },
+  {
+    "instruction": "Apa arti Dispossess?",
+    "context": "Mengusir orang dari properti.",
+    "response": "V. Mengusir; mengeluarkan seseorang dari properti nyata."
+  },
+  {
+    "instruction": "Apa itu Dissent?",
+    "context": "Pendapat hakim yang tidak setuju dengan mayoritas.",
+    "response": "N. Pendapat berbeda (Dissent); pendapat hakim pengadilan banding yang tidak setuju dengan pendapat mayoritas."
+  },
+  {
+    "instruction": "Apa itu Dissenting Opinion?",
+    "context": "Dokumen pendapat hakim yang tidak setuju.",
+    "response": "N. Pendapat berbeda (Dissenting opinion)."
+  },
+  {
+    "instruction": "Apa itu Dissolution?",
+    "context": "Istilah modern untuk perceraian atau pembubaran perusahaan.",
+    "response": "N. Pembubaran; istilah modern yang terdengar lebih lembut untuk perceraian, atau pengakhiran perusahaan."
+  },
+  {
+    "instruction": "Apa itu Dissolution of Corporation?",
+    "context": "Proses mengakhiri keberadaan perusahaan.",
+    "response": "N. Pembubaran perusahaan; pengakhiran korporasi, baik secara sukarela atau oleh negara."
+  },
+  {
+    "instruction": "Apa arti Distinguish dalam argumentasi hukum?",
+    "context": "Menunjukkan perbedaan kasus ini dengan kasus preseden.",
+    "response": "V. Membedakan; berargumen bahwa aturan dalam satu keputusan pengadilan banding tidak berlaku untuk kasus tertentu meskipun ada kemiripan yang nyata."
+  },
+  {
+    "instruction": "Apa arti Distress dalam penagihan utang?",
+    "context": "Mengambil barang orang lain secara paksa untuk bayar utang (biasanya ilegal).",
+    "response": "1) N. Penyitaan paksa; pengambilan harta milik orang lain untuk memaksa pembayaran klaim, yang umumnya ilegal tanpa perintah pengadilan."
+  },
+  {
+    "instruction": "Apa arti Distribute?",
+    "context": "Membagi aset warisan atau laba.",
+    "response": "V. Membagikan; membagi aset harta warisan atau keuntungan perusahaan."
+  },
+  {
+    "instruction": "Apa itu Distribution?",
+    "context": "Tindakan pembagian aset.",
+    "response": "N. Pembagian (Distribusi); tindakan membagi aset harta warisan atau membayarkan keuntungan perusahaan."
+  },
+  {
+    "instruction": "Siapa itu District Attorney (D.A.)?",
+    "context": "Jaksa penuntut umum di tingkat wilayah/kabupaten (AS).",
+    "response": "N. Jaksa Wilayah; pejabat terpilih dari suatu kabupaten (county) yang bertanggung jawab untuk menuntut kejahatan."
+  },
+  {
+    "instruction": "Apa itu District Court?",
+    "context": "Pengadilan tingkat pertama (Negeri) atau wilayah.",
+    "response": "N. Pengadilan Negeri/Wilayah; 1) Dalam sistem federal AS, pengadilan tingkat pertama. 2) Pengadilan lokal di beberapa negara bagian."
+  },
+  {
+    "instruction": "Apa itu Disturbing the Peace?",
+    "context": "Tindak pidana ringan mengganggu ketenangan umum.",
+    "response": "N. Mengganggu ketertiban umum; mengganggu ketenangan melalui suara keras, perkelahian, atau perilaku antisosial lainnya."
+  },
+  {
+    "instruction": "Apa itu Diversion?",
+    "context": "Pengalihan hukuman pidana ke layanan masyarakat/rehab.",
+    "response": "N. Diversi (Pengalihan); sistem untuk memberikan kesempatan bagi terdakwa kriminal pertama kali dalam kejahatan ringan untuk melakukan layanan masyarakat atau rehabilitasi alih-alih penjara."
+  },
+  {
+    "instruction": "Apa itu Diversity of Citizenship?",
+    "context": "Dasar yurisdiksi federal AS ketika pihak lawan beda negara bagian.",
+    "response": "N. Keberagaman kewarganegaraan; ketika pihak yang berlawanan dalam gugatan adalah warga negara dari negara bagian yang berbeda, yang menempatkan kasus di bawah yurisdiksi pengadilan federal."
+  },
+  {
+    "instruction": "Apa itu Divestiture?",
+    "context": "Pelepasan aset secara paksa (biasanya anti-monopoli).",
+    "response": "N. Divestasi; penyerahan kepemilikan atau hak yang diperintahkan pengadilan atau sukarela, hasil umum dalam tindakan anti-monopoli."
+  },
+  {
+    "instruction": "Apa itu Divestment?",
+    "context": "Menarik investasi.",
+    "response": "N. Divestasi; tindakan menarik investasi seseorang dari suatu entitas."
+  },
+  {
+    "instruction": "Apa itu Dividend?",
+    "context": "Pembagian keuntungan saham.",
+    "response": "N. Dividen; bagian dari keuntungan yang dibayarkan kepada pemegang saham untuk setiap saham yang mereka miliki."
+  },
+  {
+    "instruction": "Apa itu Divorce?",
+    "context": "Pengakhiran pernikahan secara hukum.",
+    "response": "1) N. Perceraian; pengakhiran pernikahan dengan tindakan hukum."
+  },
+  {
+    "instruction": "Apa itu DNA dalam hukum?",
+    "context": "Bukti genetik untuk identifikasi.",
+    "response": "N. DNA (Asam deoksiribonukleat); rantai ganda kromosom yang menentukan karakteristik keturunan. Dalam hukum, penting karena DNA setiap orang berbeda dan digunakan untuk bukti identifikasi."
+  },
+  {
+    "instruction": "Apa itu Docket?",
+    "context": "Daftar perkara atau catatan tindakan pengadilan.",
+    "response": "1) N. Daftar perkara di kalender pengadilan. 2) N. Catatan singkat tindakan di pengadilan. 3) V. Mencatat nama kasus."
+  },
+  {
+    "instruction": "Apa definisi Document?",
+    "context": "Kertas apa pun yang ada tulisannya.",
+    "response": "N. Dokumen; kata umum di antara pengacara untuk kertas apa pun dengan tulisan di atasnya."
+  },
+  {
+    "instruction": "Apa itu Documentary Evidence?",
+    "context": "Bukti berupa surat/dokumen.",
+    "response": "N. Bukti dokumenter (surat); dokumen apa pun yang disajikan dan diizinkan sebagai bukti dalam persidangan, dibedakan dari kesaksian lisan."
+  },
+  {
+    "instruction": "Apa arti Doing Business?",
+    "context": "Melakukan aktivitas komersial reguler di suatu wilayah.",
+    "response": "V. Melakukan bisnis; menjalankan aktivitas normal perusahaan secara teratur. Penting untuk menentukan yurisdiksi hukum dan pajak."
+  },
+  {
+    "instruction": "Siapa itu Domestic Partners?",
+    "context": "Pasangan yang hidup bersama tanpa nikah (termasuk sesama jenis di beberapa yurisdiksi).",
+    "response": "N. Pasangan domestik; pasangan yang belum menikah yang hidup bersama dalam hubungan jangka panjang, yang mungkin berhak atas beberapa tunjangan yang sama dengan orang yang sudah menikah."
+  },
+  {
+    "instruction": "Apa itu Domestic Relations?",
+    "context": "Bidang hukum keluarga.",
+    "response": "N. Hubungan domestik; istilah sopan untuk bidang hukum perceraian, hak asuh anak, dan tunjangan."
+  },
+  {
+    "instruction": "Apa itu Domestic Violence?",
+    "context": "Kekerasan dalam rumah tangga (KDRT).",
+    "response": "N. Kekerasan Dalam Rumah Tangga (KDRT); kejahatan pemukulan fisik terhadap istri, pacar, atau anak-anak."
+  },
+  {
+    "instruction": "Apa itu Domicile?",
+    "context": "Tempat tinggal hukum yang permanen.",
+    "response": "N. Domisili; tempat di mana seseorang memiliki rumah utama permanennya."
+  },
+  {
+    "instruction": "Apa itu Dominant Estate?",
+    "context": "Properti yang mendapat manfaat akses dari properti lain.",
+    "response": "N. Properti dominan; dalam hukum real estat, properti yang memiliki hak (seperti jalan masuk) di atas properti orang lain (yang disebut properti pelayan/servient estate)."
+  },
+  {
+    "instruction": "Apa itu Dominant Tenement?",
+    "context": "Sama dengan Dominant Estate.",
+    "response": "N. (Lihat dominant estate)."
+  },
+  {
+    "instruction": "Apa itu Donation?",
+    "context": "Pemberian sukarela.",
+    "response": "N. Donasi/Hibah; hadiah. Jika dibuat untuk organisasi nirlaba yang memenuhi syarat, dapat dikurangkan dari pajak."
+  },
+  {
+    "instruction": "Apa itu Donative Intent?",
+    "context": "Niat sadar untuk memberi hadiah.",
+    "response": "N. Niat menghibahkan; keinginan sadar untuk memberikan hadiah, dibedakan dari memberikan sesuatu karena kesalahan atau tekanan."
+  },
+  {
+    "instruction": "Siapa itu Donee?",
+    "context": "Penerima hibah.",
+    "response": "N. Penerima hibah; orang atau entitas yang menerima hadiah atau donasi langsung."
+  },
+  {
+    "instruction": "Siapa itu Donor?",
+    "context": "Pemberi hibah.",
+    "response": "N. Donor (Pemberi hibah); orang atau entitas yang memberikan hadiah atau donasi."
+  },
+  {
+    "instruction": "Apa itu Double Jeopardy?",
+    "context": "Prinsip melarang orang diadili dua kali untuk kejahatan yang sama (Ne bis in idem).",
+    "response": "N. Bahaya ganda (Ne bis in idem); menempatkan seseorang di pengadilan untuk kedua kalinya atas pelanggaran yang sebelumnya telah membebaskannya, yang dilarang oleh Konstitusi."
+  },
+  {
+    "instruction": "Apa itu Double Taxation?",
+    "context": "Pengenaan pajak dua kali pada objek yang sama.",
+    "response": "N. Pajak ganda; pemajakan properti yang sama untuk tujuan yang sama dua kali dalam satu tahun."
+  },
+  {
+    "instruction": "Apa itu Dower?",
+    "context": "Hak waris janda dalam hukum Inggris kuno.",
+    "response": "N. Hak janda; hak hukum adat Inggris kuno bagi seorang janda atas sepertiga dari harta mendiang suaminya."
+  },
+  {
+    "instruction": "Apa itu Dowry?",
+    "context": "Harta yang dibawa pengantin wanita (Mahar/Mas kawin).",
+    "response": "N. Mahar/Mas kawin; uang dan harta benda pribadi yang dibawa pengantin wanita untuk suami barunya."
+  },
+  {
+    "instruction": "Apa arti Draft dalam perbankan?",
+    "context": "Wesel atau perintah bayar.",
+    "response": "1) N. Wesel/Cek; perintah bayar di mana satu pihak diarahkan untuk mengambil uang dari rekening penarik dan membayarnya ke orang lain. 2) V. Menyiapkan dokumen."
+  },
+  {
+    "instruction": "Apa itu Dram Shop Rule?",
+    "context": "Hukum yang membuat penjual alkohol bertanggung jawab atas tindakan pemabuk.",
+    "response": "N. Aturan toko minuman keras; undang-undang yang membuat bisnis penjual alkohol bertanggung jawab secara ketat kepada siapa pun yang terluka oleh pelanggan mabuk."
+  },
+  {
+    "instruction": "Apa arti Draw?",
+    "context": "Menyiapkan dokumen atau mencairkan cek.",
+    "response": "V. 1) Menyiapkan dokumen. 2) Secara khusus menyiapkan dan menandatangani wesel atau cek."
+  },
+  {
+    "instruction": "Siapa itu Drawee?",
+    "context": "Pihak yang diperintahkan membayar (biasanya bank).",
+    "response": "N. Tertarik; pihak yang harus membayar pada wesel atau cek (biasanya bank)."
+  },
+  {
+    "instruction": "Siapa itu Drawer?",
+    "context": "Orang yang menandatangani cek.",
+    "response": "N. Penarik; orang yang menandatangani wesel atau cek."
+  },
+  {
+    "instruction": "Apa itu Driving Under the Influence (DUI)?",
+    "context": "Mengemudi mabuk.",
+    "response": "N. Mengemudi di bawah pengaruh (alkohol); mengoperasikan kendaraan bermotor saat kadar alkohol dalam darah di atas batas legal."
+  },
+  {
+    "instruction": "Apa itu Driving While Intoxicated?",
+    "context": "Sama dengan DUI.",
+    "response": "N. (Lihat DUI)."
+  },
+  {
+    "instruction": "Apa itu Drop Dead Date?",
+    "context": "Tenggat waktu mutlak terakhir.",
+    "response": "N. Tanggal mati (Tenggat mutlak); ketentuan dalam kontrak atau perintah pengadilan yang menetapkan tanggal terakhir suatu peristiwa harus terjadi, jika tidak konsekuensi otomatis akan menyusul."
+  },
+  {
+    "instruction": "Apa arti Due?",
+    "context": "Jatuh tempo.",
+    "response": "N. dan Adj. Jatuh tempo; terutang pada tanggal tertentu."
+  },
+  {
+    "instruction": "Apa arti Due and Owing?",
+    "context": "Harus dibayar sekarang.",
+    "response": "Adj. Jatuh tempo dan terutang."
+  },
+  {
+    "instruction": "Apa itu Due Care?",
+    "context": "Standar kehati-hatian orang wajar.",
+    "response": "N. Kehati-hatian yang wajar; perilaku yang akan dilakukan oleh pria atau wanita yang wajar dalam situasi tertentu untuk menjaga keselamatan orang lain."
+  },
+  {
+    "instruction": "Apa itu Due Process of Law?",
+    "context": "Prinsip keadilan dalam proses hukum.",
+    "response": "N. Proses hukum yang adil/wajar; prinsip dasar keadilan dalam semua masalah hukum, bahwa semua prosedur hukum harus diikuti agar tidak terjadi perlakuan yang tidak setara."
+  },
+  {
+    "instruction": "Apa arti Due, Owing and Unpaid?",
+    "context": "Status utang yang lengkap.",
+    "response": "Adj. Jatuh tempo, terutang, dan belum dibayar."
+  },
+  {
+    "instruction": "Apa itu Duress?",
+    "context": "Paksaan atau ancaman untuk membuat orang bertindak.",
+    "response": "N. Paksaan (Duress); penggunaan kekuatan, penahanan palsu, atau ancaman untuk memaksa seseorang bertindak bertentangan dengan keinginannya (misal: tanda tangan kontrak di bawah ancaman)."
+  },
+  {
+    "instruction": "Apa arti Duty?",
+    "context": "Kewajiban hukum atau pajak impor.",
+    "response": "N. 1) Kewajiban hukum, yang pelanggarannya dapat mengakibatkan tanggung jawab. 2) Pajak atas impor (Bea)."
+  },
+  {
+    "instruction": "Apa itu Duty of Care?",
+    "context": "Kewajiban hukum untuk berhati-hati agar tidak merugikan orang lain.",
+    "response": "N. Kewajiban berhati-hati; persyaratan bahwa seseorang bertindak terhadap orang lain dengan kewaspadaan dan kehati-hatian yang akan digunakan oleh orang yang wajar."
+  },
+  {
+    "instruction": "Apa itu Dying Declaration?",
+    "context": "Pernyataan korban sebelum mati tentang pembunuhnya.",
+    "response": "N. Pernyataan jelang ajal; pernyataan orang yang terluka parah yang sadar dia akan mati, memberi tahu siapa yang menyebabkan cedera tersebut. Dapat diterima sebagai bukti meskipun hearsay."
+  }
+]
