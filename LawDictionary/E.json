@@ -1,0 +1,572 @@
+[
+  {
+    "instruction": "Apa itu Earnest Payment?",
+    "context": "Uang muka tanda jadi sebagai bukti keseriusan dalam transaksi.",
+    "response": "N. Uang tanda jadi (Panjar); deposit yang dibayarkan untuk menunjukkan komitmen dan mengikat kontrak. Jika kontrak dilanggar karena kegagalan membayar, uang ini biasanya hangus."
+  },
+  {
+    "instruction": "Apa itu Easement?",
+    "context": "Hak menggunakan tanah orang lain untuk tujuan tertentu (misalnya jalan akses).",
+    "response": "N. Hak lintas (Easement); hak untuk menggunakan properti nyata orang lain untuk tujuan tertentu, seperti akses jalan, meski hak milik tanah tetap pada pemilik asli."
+  },
+  {
+    "instruction": "Apa arti Egress?",
+    "context": "Jalan keluar dari suatu properti.",
+    "response": "N. Jalan keluar; cara keberangkatan. Kata yang biasanya digunakan bersama dengan \"akses\" atau \"masuk\" (ingress)."
+  },
+  {
+    "instruction": "Apa singkatan dari EIR?",
+    "context": "Laporan dampak lingkungan untuk proyek pembangunan.",
+    "response": "N. Singkatan populer untuk Environmental Impact Report (Laporan Dampak Lingkungan/AMDAL), yang diperlukan sebagai bagian dari aplikasi persetujuan pengembangan lahan."
+  },
+  {
+    "instruction": "Apa itu Ejectment?",
+    "context": "Gugatan untuk mengusir orang yang mengklaim hak atas tanah secara tidak sah.",
+    "response": "N. Gugatan pengusiran; gugatan yang diajukan untuk memindahkan pihak yang menduduki properti nyata. Ini berbeda dengan pengusiran penyewa biasa, melainkan terhadap seseorang yang mencoba mengklaim hak milik atas properti tersebut."
+  },
+  {
+    "instruction": "Apa arti frasa Latin ejusdem generis?",
+    "context": "Prinsip penafsiran hukum: kata umum mengikuti makna kata khusus sebelumnya.",
+    "response": "V./Adj. (baca: eh-youse-dem generous) Bahasa Latin untuk \"dari jenis yang sama,\" digunakan untuk menafsirkan undang-undang. Jika hukum mencantumkan kelas tertentu lalu merujuk secara umum, pernyataan umum itu hanya berlaku untuk jenis yang sama dengan yang tercantum."
+  },
+  {
+    "instruction": "Apa itu Elder Law?",
+    "context": "Spesialisasi hukum yang menangani masalah orang lanjut usia.",
+    "response": "N. Hukum lansia; spesialisasi dalam praktik hukum yang mencakup perencanaan warisan, wasiat, perwalian, perawatan, jaminan sosial, dan perlindungan terhadap penyalahgunaan lansia."
+  },
+  {
+    "instruction": "Apa itu Election of Remedies?",
+    "context": "Kewajiban penggugat memilih satu jenis ganti rugi jika ada beberapa opsi yang bertentangan.",
+    "response": "N. Pemilihan pemulihan; persyaratan kuno bahwa jika penggugat meminta dua pemulihan yang tidak konsisten, ia harus memutuskan mana yang paling dapat dibuktikan dan ingin dikejar."
+  },
+  {
+    "instruction": "Apa itu Election under the Will?",
+    "context": "Pilihan janda untuk menerima warisan sesuai wasiat atau sesuai hak undang-undang.",
+    "response": "N. Pemilihan di bawah wasiat; di negara bagian tertentu, istri yang masih hidup dapat memilih untuk mengambil persentase tertentu dari harta suami (hak janda) alih-alih jumlah yang lebih kecil dalam wasiat."
+  },
+  {
+    "instruction": "Apa arti Eleemosynary?",
+    "context": "Terkait dengan amal atau kedermawanan.",
+    "response": "Adj. (baca: eh-luh-moss-uh-nary) Bersifat amal (karitatif), sebagaimana diterapkan pada tujuan atau institusi."
+  },
+  {
+    "instruction": "Apa arti Element dalam hukum?",
+    "context": "Syarat-syarat yang harus dipenuhi untuk membuktikan suatu tuntutan.",
+    "response": "N. Unsur; persyaratan penting untuk suatu dasar gugatan (cause of action). Setiap tuduhan pelanggaran hukum terdiri dari serangkaian elemen dasar yang harus dituduhkan dan dibuktikan."
+  },
+  {
+    "instruction": "Apa itu Emancipation anak?",
+    "context": "Pembebasan hukum anak di bawah umur dari kendali orang tua.",
+    "response": "N. Emansipasi; membebaskan anak di bawah umur dari kendali orang tua dan membiarkan anak tersebut hidup sendiri. Ini juga dapat mengakhiri tanggung jawab orang tua atas tindakan anak."
+  },
+  {
+    "instruction": "Apa definisi Embezzlement?",
+    "context": "Kejahatan menggelapkan uang yang dipercayakan (penggelapan).",
+    "response": "N. Penggelapan; kejahatan mencuri dana atau properti majikan, perusahaan, atau pemerintah, atau menyalahgunakan uang yang dipegang dalam kepercayaan."
+  },
+  {
+    "instruction": "Siapa itu Embezzler?",
+    "context": "Pelaku penggelapan.",
+    "response": "N. Penggelap; orang yang melakukan kejahatan penggelapan."
+  },
+  {
+    "instruction": "Apa itu Emblements?",
+    "context": "Tanaman hasil jerih payah penyewa yang berhak dipanen meski sewa berakhir.",
+    "response": "N. Hasil tanaman; tanaman yang berhak dipanen oleh penyewa yang mengolah tanah berdasarkan perjanjian dengan pemilik, bahkan jika penyewa meninggal sebelum panen."
+  },
+  {
+    "instruction": "Apa definisi Emergency?",
+    "context": "Kejadian mendadak yang butuh tindakan segera.",
+    "response": "N. Darurat; kejadian mendadak dan tak terduga yang memerlukan tindakan untuk memperbaiki atau melindungi nyawa dan/atau properti."
+  },
+  {
+    "instruction": "Apa itu Eminent Domain?",
+    "context": "Hak pemerintah mengambil tanah pribadi untuk kepentingan umum.",
+    "response": "N. Hak pengambilalihan paksa (Eminent Domain); kekuasaan entitas pemerintah untuk mengambil real estat pribadi untuk penggunaan umum, dengan atau tanpa izin pemilik (dengan ganti rugi)."
+  },
+  {
+    "instruction": "Apa itu Emolument?",
+    "context": "Gaji atau tunjangan dari jabatan.",
+    "response": "N. Emolumen (Honorarium); gaji, upah, dan tunjangan yang dibayarkan untuk pekerjaan atau jabatan yang dipegang."
+  },
+  {
+    "instruction": "Apa itu Emotional Distress?",
+    "context": "Penderitaan mental akibat perbuatan orang lain yang bisa digugat.",
+    "response": "N. Tekanan emosional (Penderitaan mental); dasar klaim ganti rugi dalam gugatan karena cedera akibat kelalaian atau tindakan sengaja orang lain."
+  },
+  {
+    "instruction": "Apa definisi Employee?",
+    "context": "Orang yang bekerja untuk upah di bawah arahan orang lain.",
+    "response": "N. Karyawan/Pegawai; orang yang dipekerjakan dengan upah untuk melakukan pekerjaan bagi majikan (prinsipal). Status ini penting untuk menentukan hak kompensasi pekerja."
+  },
+  {
+    "instruction": "Siapa itu Employer?",
+    "context": "Pihak yang mempekerjakan orang lain.",
+    "response": "N. Pemberi kerja/Majikan; orang atau entitas yang menyewa jasa orang lain (disebut prinsipal dalam hukum keagenan)."
+  },
+  {
+    "instruction": "Apa itu Employment?",
+    "context": "Hubungan kerja.",
+    "response": "N. Pekerjaan/Ketenagakerjaan; perekrutan seseorang untuk kompensasi. Penting untuk menentukan apakah tindakan terjadi dalam \"lingkup pekerjaan\" untuk menetapkan tanggung jawab majikan."
+  },
+  {
+    "instruction": "Apa arti En Banc?",
+    "context": "Sidang yang dihadiri oleh seluruh hakim pengadilan banding, bukan hanya panel kecil.",
+    "response": "Adj. (baca: on bonk) Bahasa Prancis untuk \"di bangku,\" menandakan keputusan oleh pengadilan penuh dari semua hakim banding, bukan hanya panel kecil."
+  },
+  {
+    "instruction": "Apa itu Enabling Clause?",
+    "context": "Pasal dalam UU yang memberi wewenang pejabat untuk melaksanakannya.",
+    "response": "N. Klausul pengaktifan; ketentuan dalam undang-undang baru yang memberdayakan pejabat publik tertentu untuk memberlakukannya, termasuk melakukan pengeluaran."
+  },
+  {
+    "instruction": "Apa itu Enclosure?",
+    "context": "Tanah yang dibatasi pagar.",
+    "response": "N. Tanah tertutup (Enklosur); tanah yang dibatasi oleh pagar, dinding, parit, atau bukti batas fisik lainnya."
+  },
+  {
+    "instruction": "Apa arti Encroach?",
+    "context": "Membangun melampaui batas tanah orang lain.",
+    "response": "V. Melanggar batas tanah (Menyerobot); membangun struktur yang seluruhnya atau sebagian melintasi garis properti milik orang lain."
+  },
+  {
+    "instruction": "Apa itu Encroachment?",
+    "context": "Bangunan yang melanggar batas tanah tetangga.",
+    "response": "N. Penyerobotan tanah; tindakan membangun struktur yang seluruhnya atau sebagian berada di properti tetangga."
+  },
+  {
+    "instruction": "Apa itu Encumbrance?",
+    "context": "Beban atau klaim yang melekat pada properti (seperti hipotek).",
+    "response": "N. Beban (Encumbrance); istilah umum untuk setiap klaim atau hak tanggungan pada sebidang properti nyata (seperti hipotek, pajak tak terbayar, easement)."
+  },
+  {
+    "instruction": "Apa arti Endorse (Indorse)?",
+    "context": "Menandatangani cek atau mendukung kandidat.",
+    "response": "V. Mengesahkan/Mendukung; 1) Menandatangani nama di belakang cek atau instrumen yang dapat dinegosiasikan agar bisa dicairkan. 2) Menjanjikan dukungan pada program atau kandidat."
+  },
+  {
+    "instruction": "Apa itu Endorsement?",
+    "context": "Tanda tangan di belakang cek untuk pengalihan hak.",
+    "response": "N. Pengesahan (Endosemen); tindakan pemilik atau penerima pembayaran menandatangani namanya di bagian belakang cek agar dapat dibayarkan kepada orang lain."
+  },
+  {
+    "instruction": "Apa itu Endowment?",
+    "context": "Dana abadi untuk institusi publik.",
+    "response": "N. Dana abadi (Endowment); penciptaan dana, seringkali melalui hadiah atau warisan, untuk pemeliharaan lembaga publik, khususnya perguruan tinggi."
+  },
+  {
+    "instruction": "Apa arti Enjoin?",
+    "context": "Perintah pengadilan untuk melakukan atau menghentikan sesuatu.",
+    "response": "V. Memerintahkan/Melarang; bagi pengadilan untuk memerintahkan seseorang melakukan tindakan tertentu, menghentikan perilaku, atau dilarang melakukan tindakan tertentu (melalui injunction)."
+  },
+  {
+    "instruction": "Apa arti Enjoyment dalam properti?",
+    "context": "Hak untuk menggunakan dan menikmati properti.",
+    "response": "N. Penikmatan; 1) Menjalankan hak. 2) Penggunaan dana atau hunian properti. \"Penikmatan yang tenang\" (quiet enjoyment) berarti berhak bebas dari gangguan."
+  },
+  {
+    "instruction": "Apa arti Enter a Judgment?",
+    "context": "Mencatat putusan secara resmi dalam buku pengadilan.",
+    "response": "V. Memasukkan putusan; mencatat putusan secara resmi pada \"daftar putusan,\" yang biasanya dilakukan oleh panitera pengadilan."
+  },
+  {
+    "instruction": "Apa definisi Entity?",
+    "context": "Badan atau organisasi yang terpisah dari individu.",
+    "response": "N. Entitas; istilah umum untuk institusi, perusahaan, korporasi, kemitraan, badan pemerintah, atau organisasi lain yang dibedakan dari individu."
+  },
+  {
+    "instruction": "Apa itu Entrapment?",
+    "context": "Jebakan aparat hukum yang memancing orang melakukan kejahatan.",
+    "response": "N. Jebakan (Entrapment); dalam hukum pidana, tindakan aparat penegak hukum membujuk orang untuk melakukan kejahatan ketika orang tersebut sebenarnya tidak berniat melakukannya."
+  },
+  {
+    "instruction": "Apa itu Entry of Judgment?",
+    "context": "Pencatatan resmi putusan.",
+    "response": "N. Pencatatan putusan; penempatan putusan pada daftar resmi putusan."
+  },
+  {
+    "instruction": "Apa itu Environmental Impact Report?",
+    "context": "Laporan dampak lingkungan (AMDAL).",
+    "response": "N. Laporan Dampak Lingkungan (AMDAL); studi tentang semua faktor yang akan ditimbulkan oleh proyek pembangunan terhadap lingkungan."
+  },
+  {
+    "instruction": "Apa itu Environmental Law?",
+    "context": "Hukum lingkungan hidup.",
+    "response": "N. Hukum lingkungan; kumpulan undang-undang negara bagian dan federal yang dimaksudkan untuk melindungi lingkungan, satwa liar, dan mencegah polusi."
+  },
+  {
+    "instruction": "Apa itu Equal Opportunity?",
+    "context": "Hak kesetaraan kesempatan tanpa diskriminasi.",
+    "response": "N. Kesempatan yang setara; hak yang dijamin hukum terhadap diskriminasi dalam pekerjaan, pendidikan, atau perumahan berdasarkan ras, warna kulit, jenis kelamin, dll."
+  },
+  {
+    "instruction": "Apa itu Equal Protection of the Law?",
+    "context": "Hak perlindungan hukum yang sama bagi setiap orang.",
+    "response": "N. Perlindungan hukum yang setara; hak semua orang untuk memiliki akses yang sama ke hukum dan pengadilan serta diperlakukan secara setara."
+  },
+  {
+    "instruction": "Apa arti Equitable?",
+    "context": "Adil atau berdasarkan prinsip keadilan (equity).",
+    "response": "Adj. Adil/Patut; 1) Berdasarkan keadilan, bukan teknis hukum. 2) Mengacu pada pemulihan positif (perintah melakukan sesuatu) yang digunakan pengadilan."
+  },
+  {
+    "instruction": "Apa itu Equitable Estoppel?",
+    "context": "Larangan hukum bagi pihak yang bertindak tidak jujur untuk menuntut.",
+    "response": "N. Estoppel yang adil; pengadilan tidak akan memberikan bantuan hukum kepada pihak yang tidak bertindak adil (misalnya berbohong), sesuai prinsip \"siapa yang mencari keadilan harus melakukan keadilan.\""
+  },
+  {
+    "instruction": "Apa itu Equitable Lien?",
+    "context": "Hak jaminan yang ditetapkan pengadilan demi keadilan.",
+    "response": "N. Hak gadai yang adil; hak gadai atas properti yang dikenakan oleh pengadilan untuk mencapai keadilan."
+  },
+  {
+    "instruction": "Apa itu Equity?",
+    "context": "Sistem hukum berdasarkan keadilan atau nilai kepemilikan bersih.",
+    "response": "N. Ekuitas/Keadilan; 1) Kumpulan hak dan prosedur untuk memberikan keadilan di luar batasan hukum umum yang kaku. 2) Nilai bersih properti setelah dikurangi utang."
+  },
+  {
+    "instruction": "Apa itu Equity of Redemption?",
+    "context": "Hak pemilik rumah melunasi utang untuk mencegah penyitaan.",
+    "response": "N. Hak tebus ekuitas; hak pemberi hipotek untuk \"menyembuhkan\" kegagalan bayarnya dengan melakukan pembayaran yang menunggak untuk mempertahankan properti."
+  },
+  {
+    "instruction": "Apa arti Equivalent?",
+    "context": "Setara nilainya.",
+    "response": "N., Adj. Setara; sama dalam nilai, kekuatan, atau makna."
+  },
+  {
+    "instruction": "Apa arti Ergo?",
+    "context": "Oleh karena itu (Latin).",
+    "response": "Conj. (baca: air-go) Bahasa Latin untuk \"oleh karena itu\" (therefore)."
+  },
+  {
+    "instruction": "Apa arti Erroneous?",
+    "context": "Salah atau keliru menurut hukum.",
+    "response": "Adj. Keliru; 1) Salah. 2) Tidak sesuai dengan hukum yang ditetapkan."
+  },
+  {
+    "instruction": "Apa itu Error dalam pengadilan?",
+    "context": "Kesalahan prosedur atau hukum oleh hakim.",
+    "response": "N. Kesalahan (Error); kesalahan oleh hakim dalam prosedur atau hukum substantif selama persidangan yang dapat menjadi dasar banding."
+  },
+  {
+    "instruction": "Apa itu Errors and Omissions (E&O)?",
+    "context": "Asuransi malpraktik untuk profesional.",
+    "response": "N. Kesalahan dan kelalaian; singkatan untuk asuransi malpraktik yang memberikan perlindungan bagi profesional atas klaim kesalahan profesional."
+  },
+  {
+    "instruction": "Apa itu Escalator Clause?",
+    "context": "Klausul kenaikan harga/sewa otomatis mengikuti inflasi.",
+    "response": "N. Klausul eskalator; ketentuan dalam kontrak di mana sewa atau pembayaran akan meningkat dari waktu ke waktu ketika indeks biaya hidup naik."
+  },
+  {
+    "instruction": "Apa itu Escape Clause?",
+    "context": "Klausul yang membolehkan pembatalan kontrak jika syarat tertentu terjadi.",
+    "response": "N. Klausul pelarian; ketentuan dalam kontrak yang memungkinkan salah satu pihak dibebaskan dari kewajiban jika peristiwa tertentu terjadi."
+  },
+  {
+    "instruction": "Apa itu Escheat?",
+    "context": "Peralihan harta tak bertuan ke negara.",
+    "response": "N. Pengambilalihan oleh negara (Escheat); penyitaan semua properti ke kas negara jika pemilik meninggal tanpa ahli waris."
+  },
+  {
+    "instruction": "Apa itu Escrow?",
+    "context": "Rekening bersama yang dipegang pihak ketiga sampai transaksi selesai.",
+    "response": "1) N. Escrow (Rekening bersama); bentuk akun yang dipegang oleh \"agen escrow\" (pihak ketiga) tempat dokumen dan dana transaksi real estat disimpan sampai syarat terpenuhi."
+  },
+  {
+    "instruction": "Siapa itu Escrow Agent?",
+    "context": "Pihak ketiga netral yang mengelola escrow.",
+    "response": "N. Agen escrow; orang atau entitas yang memegang dokumen dan dana dalam transfer properti nyata, bertindak untuk kedua belah pihak sesuai instruksi."
+  },
+  {
+    "instruction": "Apa itu Escrow Instructions?",
+    "context": "Instruksi tertulis kepada agen escrow.",
+    "response": "N. Instruksi escrow; instruksi tertulis oleh pembeli dan penjual yang diberikan kepada perusahaan hak milik atau agen escrow untuk menutup transaksi."
+  },
+  {
+    "instruction": "Apa definisi Espionage?",
+    "context": "Mata-mata negara asing (Spionase).",
+    "response": "N. Spionase; kejahatan memata-matai pemerintah federal dan/atau mentransfer rahasia negara atas nama negara asing."
+  },
+  {
+    "instruction": "Apa arti gelar Esquire (Esq.)?",
+    "context": "Gelar kehormatan untuk pengacara di AS.",
+    "response": "N. Bentuk sapaan yang menunjukkan bahwa seseorang adalah pengacara, biasanya ditulis di belakang nama (contoh: Albert Pettifog, Esq.)."
+  },
+  {
+    "instruction": "Apa definisi Estate?",
+    "context": "Total harta kekayaan seseorang, terutama saat meninggal.",
+    "response": "N. Harta warisan (Estate); 1) Semua yang dimiliki seseorang. 2) Umumnya, semua harta milik orang yang telah meninggal yang tunduk pada pengesahan hakim."
+  },
+  {
+    "instruction": "Apa itu Estate by Entirety?",
+    "context": "Kepemilikan properti bersama suami-istri.",
+    "response": "Lihat tenancy by the entirety."
+  },
+  {
+    "instruction": "Apa itu Estate Tax?",
+    "context": "Pajak atas harta warisan.",
+    "response": "N. Pajak warisan; pajak federal atas pengalihan aset orang yang meninggal kepada ahli warisnya."
+  },
+  {
+    "instruction": "Apa arti Estop?",
+    "context": "Mencegah atau menghalangi secara hukum.",
+    "response": "V. Mencegah/Menghalangi (Estop); menghentikan atau mencegah."
+  },
+  {
+    "instruction": "Apa itu Estoppel?",
+    "context": "Larangan hukum menyangkal fakta yang sudah dinyatakan sebelumnya.",
+    "response": "N. Estoppel; hambatan yang mencegah seseorang menegaskan fakta atau hak, atau mencegah seseorang menyangkal fakta, karena tindakan atau pernyataannya sendiri sebelumnya."
+  },
+  {
+    "instruction": "Apa singkatan et al.?",
+    "context": "Dan lain-lain (untuk orang).",
+    "response": "N. Singkatan dari frasa Latin *et alii* yang berarti \"dan orang lain.\" Digunakan untuk menyingkat nama kasus (misal: Budi v. Sari, et al.)."
+  },
+  {
+    "instruction": "Apa singkatan et seq.?",
+    "context": "Dan halaman-halaman berikutnya.",
+    "response": "N. (baca: et seek) Singkatan frasa Latin *et sequentes* yang berarti \"dan yang berikut.\" Digunakan untuk merujuk halaman atau pasal berurutan."
+  },
+  {
+    "instruction": "Apa singkatan et ux.?",
+    "context": "Dan istri.",
+    "response": "N. (baca: et uhks) Singkatan frasa Latin *et uxor* yang berarti \"dan istri.\" Biasanya ditemukan dalam akta tanah."
+  },
+  {
+    "instruction": "Apa itu Evasion of Tax?",
+    "context": "Penggelapan pajak ilegal.",
+    "response": "N. Penggelapan pajak; upaya sengaja untuk menghindari membayar pajak melalui cara curang (ilegal)."
+  },
+  {
+    "instruction": "Apa definisi Eviction?",
+    "context": "Pengusiran penyewa dari properti.",
+    "response": "N. Pengusiran (Eviksi); tindakan mengusir seseorang dari properti nyata baik melalui tindakan hukum atau klaim hak milik."
+  },
+  {
+    "instruction": "Apa itu Evidence?",
+    "context": "Segala jenis pembuktian yang sah di pengadilan.",
+    "response": "N. Bukti; setiap jenis pembuktian yang disajikan secara hukum di persidangan untuk meyakinkan hakim/juri (saksi, dokumen, foto, dll)."
+  },
+  {
+    "instruction": "Apa arti ex delicto?",
+    "context": "Timbul dari kesalahan/perbuatan melawan hukum.",
+    "response": "Adj. (baca: ex dee-lick-toe) Bahasa Latin untuk sesuatu yang timbul dari kesalahan, bukan dari kontrak (torts)."
+  },
+  {
+    "instruction": "Apa arti ex officio?",
+    "context": "Karena jabatan.",
+    "response": "Adj. (baca: ex oh-fish-ee-oh) Bahasa Latin untuk \"dari kantor/jabatan,\" menggambarkan seseorang yang memiliki hak karena jabatan yang dipegangnya."
+  },
+  {
+    "instruction": "Apa arti ex parte?",
+    "context": "Satu pihak saja (tanpa kehadiran pihak lawan).",
+    "response": "Adj. (baca: ex par-tay) Bahasa Latin yang berarti \"untuk satu pihak,\" merujuk pada sidang atau perintah yang diberikan atas permintaan satu pihak saja tanpa kehadiran pihak lain."
+  },
+  {
+    "instruction": "Apa arti ex post facto?",
+    "context": "Berlaku surut (biasanya dilarang dalam hukum pidana).",
+    "response": "Adj. Latin untuk \"setelah fakta,\" merujuk pada undang-undang yang dibuat setelah tindakan dilakukan yang menjadikannya ilegal. Hukum semacam ini dilarang oleh Konstitusi AS."
+  },
+  {
+    "instruction": "Apa arti ex rel.?",
+    "context": "Gugatan pemerintah atas nama individu.",
+    "response": "Conj. Singkatan Latin *ex relatione* (\"atas informasi\"), digunakan dalam judul proses hukum yang diajukan Jaksa Agung atas nama pemerintah atas hasutan orang pribadi."
+  },
+  {
+    "instruction": "Apa itu Examination dalam sidang?",
+    "context": "Penandaan saksi oleh pengacara.",
+    "response": "N. Pemeriksaan; penanyaan saksi oleh pengacara (pemeriksaan langsung oleh pengacara sendiri, pemeriksaan silang oleh lawan)."
+  },
+  {
+    "instruction": "Apa arti Exception dalam sidang?",
+    "context": "Keberatan resmi terhadap keputusan hakim.",
+    "response": "N. Pengecualian/Keberatan; keberatan formal selama persidangan terhadap putusan hakim untuk catatan banding."
+  },
+  {
+    "instruction": "Apa itu Exception in Deed?",
+    "context": "Pengecualian dalam akta tanah (misal: hak mineral tidak ikut dijual).",
+    "response": "N. Pengecualian dalam akta; catatan dalam akta tanah yang menyatakan bahwa kepentingan tertentu tidak termasuk dalam transfer hak milik."
+  },
+  {
+    "instruction": "Apa itu Excessive Bail?",
+    "context": "Jaminan yang terlalu tinggi dan tidak wajar.",
+    "response": "N. Jaminan berlebihan; jumlah jaminan yang jauh lebih banyak dari yang diperlukan, yang dilarang."
+  },
+  {
+    "instruction": "Apa arti Exchange?",
+    "context": "Tukar menukar barang/jasa.",
+    "response": "1) V. Menukar/Barter; memperdagangkan properti atau jasa untuk properti lain. 2) N. Tindakan melakukan perdagangan."
+  },
+  {
+    "instruction": "Apa itu Excise?",
+    "context": "Pajak cukai (atas barang tertentu).",
+    "response": "N. Cukai; pajak atas pembuatan, penjualan, atau lisensi bisnis."
+  },
+  {
+    "instruction": "Apa itu Exclusionary Rule?",
+    "context": "Aturan yang melarang bukti ilegal dipakai di sidang.",
+    "response": "N. Aturan pengecualian; aturan bahwa bukti yang diperoleh dengan cara ilegal tidak dapat diperkenalkan dalam pengadilan pidana."
+  },
+  {
+    "instruction": "Apa arti Exculpatory?",
+    "context": "Bukti yang membebaskan terdakwa dari kesalahan.",
+    "response": "Adj. Membebaskan (Ekskulpatori); diterapkan pada bukti yang dapat membenarkan atau memaafkan tindakan terdakwa dan cenderung menunjukkan dia tidak bersalah."
+  },
+  {
+    "instruction": "Apa itu Excusable Neglect?",
+    "context": "Kelalaian yang bisa dimaafkan (alasan telat lapor).",
+    "response": "N. Kelalaian yang dapat dimaafkan; alasan sah atas kegagalan suatu pihak untuk mengambil tindakan hukum tepat waktu (misalnya sakit)."
+  },
+  {
+    "instruction": "Apa arti Execute?",
+    "context": "Melaksanakan, menandatangani, atau mengeksekusi mati.",
+    "response": "V. 1) Melaksanakan kewajiban. 2) Menandatangani dokumen agar sah. 3) Menyita properti. 4) Menghukum mati."
+  },
+  {
+    "instruction": "Apa arti Executed?",
+    "context": "Sudah selesai atau sudah ditandatangani.",
+    "response": "1) Adj. Telah selesai. 2) V. Telah menyelesaikan. 3) V. Telah menandatangani dokumen."
+  },
+  {
+    "instruction": "Apa itu Execution?",
+    "context": "Pelaksanaan putusan pengadilan (sita eksekusi).",
+    "response": "N. Eksekusi; tindakan petugas pengadilan mengambil kepemilikan properti pihak yang kalah untuk membayar pemenang gugatan."
+  },
+  {
+    "instruction": "Apa itu Executive Clemency?",
+    "context": "Pengampunan oleh eksekutif (Presiden/Gubernur).",
+    "response": "N. Grasi eksekutif; kekuasaan Presiden atau Gubernur untuk mengampuni orang yang dihukum karena kejahatan atau mengurangi hukuman."
+  },
+  {
+    "instruction": "Apa itu Executive Order?",
+    "context": "Perintah presiden yang berkekuatan hukum.",
+    "response": "N. Perintah eksekutif (Keppres); deklarasi Presiden atau Gubernur yang memiliki kekuatan hukum."
+  },
+  {
+    "instruction": "Apa itu Executive Privilege?",
+    "context": "Hak presiden merahasiakan komunikasi pemerintah.",
+    "response": "N. Hak istimewa eksekutif; klaim Presiden bahwa ia tidak perlu menjawab permintaan komunikasi rahasia pemerintah."
+  },
+  {
+    "instruction": "Siapa itu Executor?",
+    "context": "Pelaksana wasiat.",
+    "response": "N. Eksekutor (Pelaksana wasiat); orang yang ditunjuk untuk mengelola harta orang yang meninggal sesuai wasiat."
+  },
+  {
+    "instruction": "Apa arti Executory?",
+    "context": "Belum dilaksanakan sepenuhnya.",
+    "response": "Adj. Eksekutori; sesuatu yang belum dilakukan atau diselesaikan (contoh: kontrak yang belum selesai)."
+  },
+  {
+    "instruction": "Apa itu Executory Interest?",
+    "context": "Hak properti yang baru didapat di masa depan.",
+    "response": "N. Kepentingan yang akan datang; kepentingan dalam properti yang hanya akan beralih ke orang lain di masa depan jika peristiwa tertentu terjadi."
+  },
+  {
+    "instruction": "Siapa itu Executrix?",
+    "context": "Pelaksana wasiat wanita (istilah lama).",
+    "response": "N. Eksekutor wanita (istilah lama, sekarang pakai executor)."
+  },
+  {
+    "instruction": "Apa itu Exemplary Damages?",
+    "context": "Ganti rugi tambahan untuk menghukum perilaku jahat.",
+    "response": "N. Ganti rugi contoh (Punitive damages); ganti rugi yang diberikan ketika tindakan terdakwa berbahaya atau menindas, sebagai hukuman."
+  },
+  {
+    "instruction": "Apa itu Exemption dalam pajak?",
+    "context": "Pengecualian pajak atau hak bebas dari tuntutan.",
+    "response": "N. Pengecualian (Eksempsi); 1) Kredit pajak untuk tanggungan. 2) Hak untuk dikecualikan dari kewajiban tertentu."
+  },
+  {
+    "instruction": "Apa itu Exhibit dalam sidang?",
+    "context": "Barang bukti fisik atau dokumen yang diajukan.",
+    "response": "N. Barang bukti (Exhibit); dokumen atau objek yang diperkenalkan sebagai bukti selama persidangan."
+  },
+  {
+    "instruction": "Apa itu Expectancy?",
+    "context": "Harapan mendapat warisan di masa depan.",
+    "response": "N. Harapan (Ekspektasi); kemungkinan menikmati sesuatu di masa depan, biasanya merujuk pada warisan."
+  },
+  {
+    "instruction": "Apa itu Expense?",
+    "context": "Biaya operasional bisnis.",
+    "response": "N. Beban/Biaya; biaya operasional saat ini dalam akuntansi bisnis."
+  },
+  {
+    "instruction": "Apa itu Expert Testimony?",
+    "context": "Kesaksian ahli.",
+    "response": "N. Kesaksian ahli; pendapat yang dinyatakan oleh spesialis yang memenuhi syarat selama persidangan."
+  },
+  {
+    "instruction": "Siapa itu Expert Witness?",
+    "context": "Saksi ahli.",
+    "response": "N. Saksi ahli; spesialis dalam suatu subjek yang memberikan pendapat ahli tanpa harus menyaksikan kejadian langsung."
+  },
+  {
+    "instruction": "Apa arti Express?",
+    "context": "Dinyatakan secara jelas dan langsung.",
+    "response": "Adj. Tegas/Eksplisit; bahasa langsung dan tidak ambigu."
+  },
+  {
+    "instruction": "Apa itu Express Contract?",
+    "context": "Kontrak yang syaratnya dinyatakan tegas (lisan/tulis).",
+    "response": "N. Kontrak eksplisit; kontrak di mana semua elemen dinyatakan secara khusus."
+  },
+  {
+    "instruction": "Apa itu Expropriation?",
+    "context": "Pengambilalihan paksa oleh pemerintah (misal saat darurat).",
+    "response": "N. Pengambilalihan (Ekspropriasi); pengambilan properti oleh otoritas pemerintah, mungkin termasuk situasi darurat."
+  },
+  {
+    "instruction": "Apa arti Extension?",
+    "context": "Perpanjangan waktu.",
+    "response": "N. Perpanjangan; pemberian waktu tambahan untuk pembayaran atau pengajuan dokumen."
+  },
+  {
+    "instruction": "Apa itu Extenuating Circumstances?",
+    "context": "Keadaan yang meringankan hukuman.",
+    "response": "N. Keadaan yang meringankan; faktor-faktor yang membuat kejahatan tampak kurang serius."
+  },
+  {
+    "instruction": "Apa itu Extinguishment?",
+    "context": "Penghapusan hak atau utang.",
+    "response": "N. Pemadaman/Penghapusan; pembatalan atau penghancuran hak, seringkali karena waktu penegakan telah berlalu."
+  },
+  {
+    "instruction": "Apa definisi Extortion?",
+    "context": "Pemerasan dengan ancaman.",
+    "response": "N. Pemerasan (Ekstorsi); mendapatkan uang atau properti dengan ancaman, intimidasi, atau klaim palsu."
+  },
+  {
+    "instruction": "Apa itu Extradition?",
+    "context": "Penyerahan buronan antar negara/wilayah.",
+    "response": "N. Ekstradisi; penyerahan orang yang dituduh melakukan kejahatan oleh satu negara ke negara lain."
+  },
+  {
+    "instruction": "Apa arti Extrajudicial?",
+    "context": "Di luar pengadilan.",
+    "response": "Adj. Ekstrayudisial (Di luar pengadilan); merujuk pada tindakan di luar sistem peradilan."
+  },
+  {
+    "instruction": "Apa itu Extraordinary Fees?",
+    "context": "Biaya pengacara tambahan untuk kerja ekstra.",
+    "response": "N. Biaya luar biasa; biaya pengacara yang diklaim untuk pekerjaan di luar normal dalam administrasi warisan."
+  },
+  {
+    "instruction": "Apa itu Extreme Cruelty?",
+    "context": "Kekejaman ekstrem (alasan cerai lama).",
+    "response": "N. Kekejaman ekstrem; persyaratan kuno untuk menunjukkan penderitaan fisik atau mental guna mendukung perceraian."
+  },
+  {
+    "instruction": "Apa itu Extrinsic Fraud?",
+    "context": "Penipuan yang mencegah orang membela diri di pengadilan.",
+    "response": "N. Penipuan ekstrinsik; tindakan curang yang mencegah seseorang mendapatkan informasi tentang hak-haknya untuk menuntut atau membela diri."
+  },
+  {
+    "instruction": "Siapa itu Eyewitness?",
+    "context": "Saksi mata.",
+    "response": "N. Saksi mata; orang yang benar-benar melihat suatu peristiwa dan dapat bersaksi di pengadilan."
+  }
+]
