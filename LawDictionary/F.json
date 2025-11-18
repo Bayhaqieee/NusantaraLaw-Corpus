@@ -1,0 +1,432 @@
+[
+  {
+    "instruction": "Apa itu Face Amount?",
+    "context": "Jumlah asli utang atau polis tanpa bunga.",
+    "response": "N. Nilai nominal (pokok); jumlah asli yang terutang pada surat sanggup bayar atau polis asuransi sebagaimana dinyatakan di dalamnya, tanpa menghitung bunga."
+  },
+  {
+    "instruction": "Apa itu Face Value?",
+    "context": "Nilai asli saham yang tertera di sertifikat.",
+    "response": "N. Nilai nominal (Par value); dalam saham, biaya asli saham yang ditunjukkan pada sertifikat, atau \"nilai pari\"."
+  },
+  {
+    "instruction": "Apa definisi Fact?",
+    "context": "Kejadian nyata yang harus dibuktikan di pengadilan.",
+    "response": "N. Fakta; hal atau kejadian nyata, yang harus dibuktikan di persidangan dengan penyajian bukti dan dievaluasi oleh pencari fakta (juri atau hakim)."
+  },
+  {
+    "instruction": "Siapa itu Fact Finder?",
+    "context": "Pihak yang memutuskan kebenaran fakta di pengadilan.",
+    "response": "N. Pencari fakta; dalam persidangan, juri atau hakim (jika tidak ada juri) yang memutuskan apakah fakta-fakta telah terbukti."
+  },
+  {
+    "instruction": "Apa arti Factor?",
+    "context": "Agen penjualan atau elemen penyebab.",
+    "response": "N. Faktor; 1) Seorang penjual yang menjual atas namanya sendiri untuk kepentingan orang lain dengan komisi. 2) Sesuatu yang berkontribusi pada hasil."
+  },
+  {
+    "instruction": "Apa itu Failure of Consideration?",
+    "context": "Kegagalan memberikan barang/jasa yang dijanjikan dalam kontrak.",
+    "response": "N. Kegagalan prestasi (Wanprestasi); tidak menyerahkan barang atau jasa yang dijanjikan dalam kontrak, yang membenarkan pihak lain untuk menahan pembayaran atau menuntut."
+  },
+  {
+    "instruction": "Apa itu Failure of Issue?",
+    "context": "Meninggal tanpa keturunan.",
+    "response": "N. Meninggal tanpa keturunan; ketika seseorang meninggal tanpa meninggalkan anak atau keturunan langsung lainnya."
+  },
+  {
+    "instruction": "Apa itu Fair Comment?",
+    "context": "Opini jujur tentang tokoh publik yang dilindungi hukum.",
+    "response": "N. Komentar wajar; pernyataan opini berdasarkan fakta yang dinyatakan dengan benar dan tidak menuduh motif tidak terhormat, dilindungi sebagai kebebasan berbicara."
+  },
+  {
+    "instruction": "Apa itu Fair Market Value?",
+    "context": "Harga pasar wajar suatu properti.",
+    "response": "N. Nilai pasar wajar; jumlah harga properti jika dijual di pasar terbuka. Penilai real estat menggunakan penjualan \"sebanding\" untuk menentukannya."
+  },
+  {
+    "instruction": "Apa itu Fair Trade Laws?",
+    "context": "Undang-undang lama yang mengizinkan penetapan harga jual kembali minimum.",
+    "response": "N. Hukum perdagangan adil; undang-undang negara bagian yang mengizinkan produsen menetapkan tarif minimum untuk penjualan kembali produk (banyak yang sudah dicabut)."
+  },
+  {
+    "instruction": "Apa itu Fair Use?",
+    "context": "Penggunaan materi berhak cipta tanpa izin untuk tujuan tertentu (pendidikan/berita).",
+    "response": "N. Penggunaan wajar (Fair use); hak non-kompetitif untuk menggunakan materi berhak cipta tanpa izin atau kompensasi, misalnya untuk pendidikan atau kritik."
+  },
+  {
+    "instruction": "Apa itu False Arrest?",
+    "context": "Penahanan fisik tanpa hak hukum yang sah.",
+    "response": "N. Penangkapan palsu (salah tangkap); menahan seseorang secara fisik tanpa hak hukum untuk melakukannya, sering kali oleh keamanan swasta."
+  },
+  {
+    "instruction": "Apa itu False Imprisonment?",
+    "context": "Penyekapan atau pembatasan kebebasan gerak seseorang secara ilegal.",
+    "response": "N. Penjara palsu (Penyekapan); merampas kebebasan bergerak seseorang dengan menahannya di ruang terbatas atau dengan pengekangan fisik secara ilegal."
+  },
+  {
+    "instruction": "Apa itu False Pretenses?",
+    "context": "Mendapatkan uang/barang dengan tipu muslihat.",
+    "response": "N. Dalih palsu (Penipuan); kejahatan secara sadar membuat pernyataan tidak benar untuk tujuan mendapatkan uang atau properti secara curang."
+  },
+  {
+    "instruction": "Apa definisi Family?",
+    "context": "Unit sosial yang terdiri dari hubungan darah atau rumah tangga.",
+    "response": "N. Keluarga; 1) Suami, istri, dan anak. 2) Semua hubungan darah. 3) Semua yang tinggal di rumah tangga yang sama di bawah satu kepemimpinan ekonomi."
+  },
+  {
+    "instruction": "Apa itu Family Purpose Doctrine?",
+    "context": "Pemilik mobil bertanggung jawab atas kecelakaan yang disebabkan anggota keluarga.",
+    "response": "N. Doktrin tujuan keluarga; aturan hukum bahwa pemilik mobil terdaftar bertanggung jawab atas kerusakan jika mobil dikemudikan oleh anggota keluarga."
+  },
+  {
+    "instruction": "Apa itu Federal Courts?",
+    "context": "Sistem pengadilan nasional di AS.",
+    "response": "N. Pengadilan Federal; sistem pengadilan yang menangani kasus perdata dan pidana berdasarkan yurisdiksi Konstitusi dan undang-undang federal."
+  },
+  {
+    "instruction": "Apa itu Federal Question?",
+    "context": "Masalah hukum yang melibatkan Konstitusi atau UU Federal.",
+    "response": "N. Pertanyaan federal; dasar pengajuan gugatan di pengadilan federal karena didasarkan pada subjek dalam Konstitusi AS atau undang-undang federal."
+  },
+  {
+    "instruction": "Apa itu Federal Tort Claims Act?",
+    "context": "UU yang mengizinkan warga menuntut pemerintah federal atas kelalaian pegawainya.",
+    "response": "N. Undang-undang yang menghapus kekebalan pemerintah federal dari tuntutan ganti rugi akibat kelalaian pegawai federal."
+  },
+  {
+    "instruction": "Apa arti Fee dalam properti?",
+    "context": "Hak kepemilikan mutlak atas tanah.",
+    "response": "N. Hak milik mutlak; gelar mutlak dalam tanah, dari bahasa Prancis kuno 'fief'. Sering muncul dalam akta sebagai \"in fee.\""
+  },
+  {
+    "instruction": "Apa itu Fee Simple?",
+    "context": "Kepemilikan tanah paling lengkap dan bebas.",
+    "response": "N. Hak milik mutlak (SHM); gelar mutlak atas tanah, bebas dari klaim lain, yang dapat dijual atau diwariskan."
+  },
+  {
+    "instruction": "Apa itu Fee Tail?",
+    "context": "Hak tanah kuno yang hanya bisa diwariskan ke keturunan darah tertentu.",
+    "response": "N. Hak milik terbatas keturunan; ekspresi feodal kuno untuk hak atas properti nyata yang hanya dapat diwariskan kepada ahli waris darah tertentu."
+  },
+  {
+    "instruction": "Siapa itu Felon?",
+    "context": "Orang yang terpidana kejahatan berat.",
+    "response": "N. Pelaku kejahatan berat (Felon); orang yang telah dihukum karena kejahatan berat (felony)."
+  },
+  {
+    "instruction": "Apa arti Felonious?",
+    "context": "Dilakukan dengan niat jahat kriminal.",
+    "response": "Adj. Jahat/Kriminal; merujuk pada tindakan yang dilakukan dengan niat kriminal, untuk membedakan dari kesalahan yang tidak berbahaya."
+  },
+  {
+    "instruction": "Apa definisi Felony?",
+    "context": "Kejahatan berat dengan hukuman penjara lama atau mati.",
+    "response": "N. Kejahatan berat (Felony); kejahatan yang cukup serius untuk dihukum mati atau penjara negara (biasanya minimal satu tahun), dibedakan dari pelanggaran ringan (misdemeanor)."
+  },
+  {
+    "instruction": "Apa itu Felony Murder Doctrine?",
+    "context": "Aturan bahwa kematian saat kejahatan berat otomatis dianggap pembunuhan tingkat satu.",
+    "response": "N. Doktrin pembunuhan dalam kejahatan berat; aturan bahwa setiap kematian yang terjadi selama pelaksanaan kejahatan berat (seperti perampokan) adalah pembunuhan tingkat pertama bagi semua pelaku."
+  },
+  {
+    "instruction": "Apa konsep Fertile Octogenarian?",
+    "context": "Asumsi hukum kuno bahwa orang tua pun masih bisa punya anak (untuk warisan).",
+    "response": "N. Oktogenarian subur; gagasan hukum (seringkali tidak realistis) bahwa siapa pun mampu memiliki anak tanpa memandang usia atau kondisi fisik, yang mempengaruhi hukum waris."
+  },
+  {
+    "instruction": "Apa itu Fictitious Defendants?",
+    "context": "Terdakwa fiktif (Doe) yang dinamai sementara sampai identitas asli diketahui.",
+    "response": "N. Terdakwa fiktif; penamaan orang yang tidak dikenal dalam gugatan sebagai Doe I, Doe II, dst., dengan tujuan menggantinya dengan nama asli nanti."
+  },
+  {
+    "instruction": "Apa arti Fiduciary?",
+    "context": "Orang yang memegang kepercayaan dan wajib bertindak demi kepentingan orang lain.",
+    "response": "1) N. Fidusia (Wali amanat); orang atau bisnis yang memiliki kekuasaan dan kewajiban untuk bertindak bagi orang lain di bawah situasi yang menuntut kepercayaan total dan kejujuran."
+  },
+  {
+    "instruction": "Apa itu Fiduciary Relationship?",
+    "context": "Hubungan hukum berdasarkan kepercayaan penuh (misal: pengacara-klien).",
+    "response": "N. Hubungan fidusia; hubungan di mana satu orang menaruh kepercayaan penuh pada orang lain, yang menuntut standar moral tinggi."
+  },
+  {
+    "instruction": "Apa itu Fighting Words?",
+    "context": "Kata-kata provokatif yang bisa memicu kekerasan.",
+    "response": "N. Kata-kata provokasi; kata-kata yang sengaja diarahkan untuk menyebabkan tekanan emosional atau memicu balasan fisik, yang tidak dilindungi sebagai kebebasan berbicara."
+  },
+  {
+    "instruction": "Apa arti File dalam pengadilan?",
+    "context": "Menyerahkan dokumen resmi ke pengadilan.",
+    "response": "1) V. Mengajukan/Mendaftarkan; menyerahkan keluhan tertulis atau dokumen lain kepada panitera pengadilan untuk memulai atau melanjutkan kasus."
+  },
+  {
+    "instruction": "Apa itu Final Decree?",
+    "context": "Putusan akhir pengadilan.",
+    "response": "N. Dekrit akhir; nama lain untuk putusan akhir (final judgment), sering digunakan dalam kasus perceraian."
+  },
+  {
+    "instruction": "Apa itu Final Judgment?",
+    "context": "Keputusan hakim yang mengakhiri kasus di tingkat itu.",
+    "response": "N. Putusan akhir; penentuan tertulis oleh hakim yang menyelesaikan semua masalah dalam kasus tersebut kecuali diajukan banding."
+  },
+  {
+    "instruction": "Apa itu Final Settlement?",
+    "context": "Kesepakatan damai yang mengakhiri sengketa.",
+    "response": "N. Penyelesaian akhir; perjanjian yang dicapai oleh para pihak dalam gugatan untuk menyelesaikan semua masalah, biasanya dengan kompromi."
+  },
+  {
+    "instruction": "Apa itu Finding dalam sidang?",
+    "context": "Penentuan fakta oleh hakim atau juri.",
+    "response": "N. Temuan; penentuan pertanyaan faktual yang penting untuk keputusan dalam suatu kasus oleh pencari fakta (juri atau hakim)."
+  },
+  {
+    "instruction": "Apa itu Findings of Fact?",
+    "context": "Daftar fakta yang dianggap terbukti oleh pengadilan.",
+    "response": "N. Temuan fakta (lihat Finding)."
+  },
+  {
+    "instruction": "Apa itu Firm Offer?",
+    "context": "Tawaran kontrak tertulis yang tidak bisa ditarik kembali dalam waktu tertentu.",
+    "response": "N. Penawaran pasti; tawaran (biasanya tertulis) yang menyatakan tidak dapat ditarik kembali untuk periode waktu tertentu."
+  },
+  {
+    "instruction": "Apa definisi First Degree Murder?",
+    "context": "Pembunuhan berencana.",
+    "response": "N. Pembunuhan tingkat pertama; pembunuhan yang disengaja dan direncanakan (premeditated), atau terkait dengan kejahatan berat lainnya."
+  },
+  {
+    "instruction": "Apa itu First Impression?",
+    "context": "Masalah hukum baru yang belum ada presedennya.",
+    "response": "Adj. Kesan pertama (Preseden baru); merujuk pada masalah hukum yang belum pernah diputuskan oleh pengadilan banding sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Fixture?",
+    "context": "Benda yang melekat pada bangunan dan menjadi bagian properti.",
+    "response": "N. Benda tetap (Fixture); peralatan yang telah dipasang pada real estat sedemikian rupa sehingga menjadi bagian dari tempat itu dan pemindahannya akan merusak bangunan."
+  },
+  {
+    "instruction": "Apa arti Flight dalam hukum pidana?",
+    "context": "Melarikan diri untuk menghindari penangkapan.",
+    "response": "N. Melarikan diri; lari atau bersembunyi oleh orang yang dituduh melakukan kejahatan dengan niat menghindari penangkapan."
+  },
+  {
+    "instruction": "Apa itu Floating Easement?",
+    "context": "Hak lintas yang lokasinya belum ditentukan secara spesifik.",
+    "response": "N. Easement mengambang; hak menggunakan properti orang lain untuk akses yang tidak merinci dimensi dan lokasi pastinya."
+  },
+  {
+    "instruction": "Apa arti FOB?",
+    "context": "Free On Board (biaya kirim ditanggung sampai titik tertentu).",
+    "response": "1) Adj. Free on Board (Bebas Ongkos Kirim); dikirim ke tempat tertentu tanpa biaya bagi pembeli."
+  },
+  {
+    "instruction": "Apa arti frasa For Value Received?",
+    "context": "Frasa dalam kontrak yang menyatakan imbalan telah diterima.",
+    "response": "Prep. Untuk nilai yang diterima; frasa dalam surat sanggup bayar atau akta untuk menunjukkan bahwa pertimbangan (nilai) telah diberikan."
+  },
+  {
+    "instruction": "Apa itu Forbearance?",
+    "context": "Sengaja menunda penagihan utang.",
+    "response": "N. Penundaan (Forbearance); penundaan yang disengaja dalam menagih utang atau menuntut kinerja kontrak."
+  },
+  {
+    "instruction": "Apa itu Forced Sale?",
+    "context": "Penjualan paksa aset sitaan.",
+    "response": "N. Penjualan paksa (Lelang eksekusi); penjualan barang yang disita oleh sheriff untuk melunasi putusan pengadilan."
+  },
+  {
+    "instruction": "Apa itu Forcible Entry?",
+    "context": "Mengambil alih properti dengan kekerasan.",
+    "response": "N. Masuk paksa; kejahatan mengambil kepemilikan rumah atau tanah dengan menggunakan kekuatan fisik atau ancaman serius."
+  },
+  {
+    "instruction": "Apa definisi Foreclosure?",
+    "context": "Penyitaan dan penjualan properti jaminan karena gagal bayar utang.",
+    "response": "N. Penyitaan (Foreclosure); sistem di mana pemberi pinjaman menjual properti jaminan untuk memulihkan uang karena debitur gagal membayar."
+  },
+  {
+    "instruction": "Apa itu Foreclosure Sale?",
+    "context": "Lelang publik properti sitaan.",
+    "response": "N. Penjualan penyitaan (Lelang eksekusi); penjualan paksa properti nyata di lelang publik setelah penyitaan."
+  },
+  {
+    "instruction": "Apa itu Foreign Corporation?",
+    "context": "Perusahaan yang didirikan di negara bagian/negara lain.",
+    "response": "N. Perusahaan asing; korporasi yang didirikan di bawah hukum negara bagian atau negara yang berbeda."
+  },
+  {
+    "instruction": "Apa arti Forensic?",
+    "context": "Berkaitan dengan penggunaan ilmu pengetahuan dalam hukum.",
+    "response": "1) Adj. Forensik; berkaitan dengan pengadilan. Digunakan untuk membantu pengadilan dalam masalah hukum (misal: kedokteran forensik)."
+  },
+  {
+    "instruction": "Apa itu Forensic Medicine?",
+    "context": "Ilmu kedokteran untuk kepentingan hukum (visum/otopsi).",
+    "response": "N. Kedokteran forensik; penelitian dan kesaksian medis di pengadilan untuk membantu menentukan pertanyaan hukum (seperti penyebab kematian)."
+  },
+  {
+    "instruction": "Apa itu Forensic Testimony?",
+    "context": "Kesaksian ahli di pengadilan.",
+    "response": "N. Kesaksian forensik; kesaksian ahli ilmiah atau teknis untuk membantu pengadilan."
+  },
+  {
+    "instruction": "Apa arti Forensics?",
+    "context": "Seni debat atau argumentasi publik.",
+    "response": "N. Forensik; berbicara di depan umum atau argumentasi."
+  },
+  {
+    "instruction": "Apa itu Foreseeability?",
+    "context": "Kemampuan memprediksi akibat dari suatu tindakan.",
+    "response": "N. Keterdugaan (Foreseeability); antisipasi yang wajar terhadap kemungkinan hasil dari suatu tindakan, penting dalam kasus kelalaian."
+  },
+  {
+    "instruction": "Apa itu Foreseeable Risk?",
+    "context": "Risiko yang seharusnya bisa diantisipasi.",
+    "response": "N. Risiko yang dapat diduga; bahaya yang seharusnya diantisipasi oleh orang yang wajar sebagai akibat dari tindakannya."
+  },
+  {
+    "instruction": "Apa arti Forfeit?",
+    "context": "Kehilangan hak atau properti karena pelanggaran hukum.",
+    "response": "V. Kehilangan/Disita; kehilangan properti atau hak secara tidak sukarela sebagai hukuman atas pelanggaran hukum."
+  },
+  {
+    "instruction": "Apa itu Forfeiture?",
+    "context": "Penyitaan aset hasil kejahatan.",
+    "response": "N. Perampasan/Penyitaan; hilangnya properti karena pelanggaran hukum."
+  },
+  {
+    "instruction": "Siapa itu Forger?",
+    "context": "Pemalsu dokumen.",
+    "response": "N. Pemalsu; orang yang melakukan kejahatan pemalsuan dokumen atau tanda tangan."
+  },
+  {
+    "instruction": "Apa itu Forgery?",
+    "context": "Kejahatan memalsukan dokumen atau tanda tangan.",
+    "response": "N. Pemalsuan; kejahatan membuat dokumen palsu, mengubah dokumen, atau menulis tanda tangan palsu untuk keuntungan ilegal."
+  },
+  {
+    "instruction": "Apa itu Fornication?",
+    "context": "Hubungan seks di luar nikah.",
+    "response": "N. Zina (Fornikasi); hubungan seksual antara pria dan wanita yang tidak menikah satu sama lain (status hukumnya bervariasi)."
+  },
+  {
+    "instruction": "Apa arti Forthwith?",
+    "context": "Segera.",
+    "response": "Adv. Segera/Seketika itu juga; sesegera mungkin secara wajar, tanpa penundaan."
+  },
+  {
+    "instruction": "Apa arti Forum?",
+    "context": "Pengadilan yang memiliki yurisdiksi.",
+    "response": "N. Forum; pengadilan yang memiliki yurisdiksi untuk mengadakan persidangan."
+  },
+  {
+    "instruction": "Apa prinsip Forum Non Conveniens?",
+    "context": "Pengadilan menolak kasus karena lokasi tidak nyaman bagi saksi/pihak.",
+    "response": "N. Forum yang tidak nyaman; doktrin di mana pengadilan menolak kasus karena tidak nyaman bagi saksi atau menyulitkan terdakwa, dan memindahkannya ke pengadilan lain."
+  },
+  {
+    "instruction": "Apa itu Foster Child?",
+    "context": "Anak asuh (bukan adopsi permanen).",
+    "response": "N. Anak asuh; anak yang ditempatkan dalam perawatan orang atau keluarga lain (bukan adopsi), biasanya oleh dinas sosial."
+  },
+  {
+    "instruction": "Apa arti Four Corners of an Instrument?",
+    "context": "Menafsirkan dokumen hanya dari apa yang tertulis di dalamnya.",
+    "response": "N. Empat sudut dokumen; mempelajari seluruh dokumen untuk memahami maknanya tanpa merujuk pada bukti luar (ekstrinsik)."
+  },
+  {
+    "instruction": "Apa definisi Franchise?",
+    "context": "Hak bisnis dari pemerintah atau perusahaan, atau hak pilih.",
+    "response": "1) N. Waralaba/Izin; hak yang diberikan pemerintah atau perusahaan (seperti izin usaha atau rute bus). 2) N. Hak pilih dalam pemilu."
+  },
+  {
+    "instruction": "Apa itu Franchise Tax?",
+    "context": "Pajak bisnis korporasi.",
+    "response": "N. Pajak waralaba; pajak negara bagian atas perusahaan atau bisnis."
+  },
+  {
+    "instruction": "Apa definisi Fraud?",
+    "context": "Penipuan yang merugikan orang lain.",
+    "response": "N. Penipuan (Fraud); penggunaan tipu daya yang disengaja untuk merampas uang, properti, atau hak hukum orang lain."
+  },
+  {
+    "instruction": "Apa itu Fraud in the Inducement?",
+    "context": "Tipuan yang membujuk orang menandatangani kontrak.",
+    "response": "N. Penipuan dalam bujukan; penggunaan tipu daya untuk menyebabkan seseorang bertindak merugikan dirinya sendiri, seperti menandatangani perjanjian."
+  },
+  {
+    "instruction": "Apa itu Fraudulent Conveyance?",
+    "context": "Memindahkan aset untuk menghindari penyitaan kreditur.",
+    "response": "N. Pengalihan curang; pengalihan hak milik properti dengan tujuan menjauhkannya dari jangkauan kreditur."
+  },
+  {
+    "instruction": "Apa arti Free and Clear?",
+    "context": "Properti yang bebas dari utang atau sengketa.",
+    "response": "Adj. Bebas dan bersih; kepemilikan properti tanpa hak gadai, beban, atau klaim lain."
+  },
+  {
+    "instruction": "Apa arti Free On Board (FOB)?",
+    "context": "Harga barang sudah termasuk ongkos kirim sampai titik tertentu.",
+    "response": "Adj. Bebas Ongkos Kirim (FOB); barang dikirim tanpa biaya transportasi ke tempat tertentu (misal: FOB Jakarta artinya ongkos ke Jakarta gratis)."
+  },
+  {
+    "instruction": "Apa itu Freehold?",
+    "context": "Kepemilikan properti seumur hidup atau tak terbatas.",
+    "response": "N. Hak milik bebas; kepentingan dalam properti nyata yang merupakan hak seumur hidup atau durasi tidak tentu, dibedakan dari sewa (leasehold)."
+  },
+  {
+    "instruction": "Apa itu Fresh Pursuit?",
+    "context": "Pengejaran langsung terhadap tersangka kriminal.",
+    "response": "N. Pengejaran seketika; pengejaran langsung terhadap tersangka kriminal oleh petugas hukum, yang memungkinkan penangkapan tanpa surat perintah atau melintasi yurisdiksi."
+  },
+  {
+    "instruction": "Apa itu Friendly Suit?",
+    "context": "Gugatan yang disepakati kedua pihak untuk mendapatkan kepastian hukum.",
+    "response": "N. Gugatan bersahabat; gugatan yang diajukan untuk mendapatkan perintah pengadilan ketika para pihak setuju pada hasilnya (seringkali untuk kepastian hukum)."
+  },
+  {
+    "instruction": "Apa arti Frisk?",
+    "context": "Penggeledahan badan luar (tepuk badan) oleh polisi.",
+    "response": "V. Geledah badan (Frisk); menepuk pakaian tersangka kriminal dengan cepat untuk menentukan apakah ada senjata tersembunyi."
+  },
+  {
+    "instruction": "Apa arti Frivolous dalam gugatan?",
+    "context": "Gugatan main-main tanpa dasar hukum yang jelas.",
+    "response": "Adj. Sembrono/Main-main; merujuk pada tindakan hukum yang jelas dimaksudkan hanya untuk mengganggu atau menunda, tanpa dasar hukum yang kuat."
+  },
+  {
+    "instruction": "Apa doktrin Fruit of the Poisonous Tree?",
+    "context": "Bukti turunan dari bukti ilegal juga dianggap tidak sah.",
+    "response": "N. Buah dari pohon beracun; doktrin pidana bahwa bukti yang ditemukan berkat informasi dari penggeledahan ilegal (pohon beracun) juga tidak boleh digunakan (buahnya)."
+  },
+  {
+    "instruction": "Apa itu Frustration of Purpose?",
+    "context": "Pembatalan kontrak karena tujuan utamanya mustahil tercapai.",
+    "response": "N. Frustrasi tujuan; ketika kejadian tak terduga membuat kontrak mustahil dilakukan, sehingga pihak yang frustrasi berhak membatalkan kontrak."
+  },
+  {
+    "instruction": "Siapa itu Fugitive from Justice?",
+    "context": "Buronan hukum.",
+    "response": "N. Buronan keadilan; orang yang dituduh atau dihukum karena kejahatan yang bersembunyi atau melarikan diri untuk menghindari penangkapan."
+  },
+  {
+    "instruction": "Apa itu Full Disclosure?",
+    "context": "Kewajiban mengungkapkan semua fakta penting dalam transaksi.",
+    "response": "N. Pengungkapan penuh; kebutuhan dalam transaksi bisnis untuk menceritakan \"kebenaran sepenuhnya\" tentang masalah apa pun yang harus diketahui pihak lain."
+  },
+  {
+    "instruction": "Apa prinsip Full Faith and Credit?",
+    "context": "Negara bagian harus menghormati putusan hukum negara bagian lain (di AS).",
+    "response": "N. Iman dan kredit penuh; ketentuan Konstitusi AS bahwa setiap negara bagian harus mengakui tindakan publik, catatan, dan proses peradilan negara bagian lain."
+  },
+  {
+    "instruction": "Apa itu Fungible Things?",
+    "context": "Barang yang bisa saling menggantikan (seperti uang atau gandum).",
+    "response": "N. Barang fungible (dapat dipertukarkan); barang yang dapat dipertukarkan satu sama lain karena sama bagusnya, seperti biji-bijian atau uang."
+  },
+  {
+    "instruction": "Apa itu Future Interest?",
+    "context": "Hak properti yang baru akan dinikmati di masa depan.",
+    "response": "N. Kepentingan masa depan; hak untuk menerima properti di masa depan, baik pada tanggal tertentu atau saat peristiwa terjadi (seperti kematian pemilik saat ini)."
+  }
+]
