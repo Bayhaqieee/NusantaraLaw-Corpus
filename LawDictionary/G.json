@@ -1,0 +1,232 @@
+[
+  {
+    "instruction": "Apa itu Perintah Pembungkaman (Gag Order)?",
+    "context": "Perintah pengadilan agar pihak yang terlibat kasus tutup mulut kepada media.",
+    "response": "N. Perintah pembungkaman (Gag order); perintah hakim yang melarang pengacara dan pihak-pihak dalam gugatan atau penuntutan pidana yang tertunda untuk berbicara kepada media atau publik tentang kasus tersebut. Tujuannya adalah mencegah prasangka akibat publisitas pra-persidangan."
+  },
+  {
+    "instruction": "Apa arti Menyita (Garnish) dalam konteks upah?",
+    "context": "Mengambil sebagian gaji atau dana debitur atas perintah pengadilan.",
+    "response": "V. Menyita (Garnish); mendapatkan perintah pengadilan yang mengarahkan pihak yang memegang dana (seperti bank) atau pemberi kerja untuk menyisihkan uang debitur sampai pengadilan memutuskan berapa banyak yang harus dibayar kepada kreditur. "
+  },
+  {
+    "instruction": "Siapa itu Pihak Ketiga Tertagih (Garnishee)?",
+    "context": "Pihak (misal bank/bos) yang memegang uang debitur dan diperintahkan menahannya.",
+    "response": "N. Pihak ketiga tertagih (Garnishee); orang atau entitas (seringkali bank atau majikan) yang menerima perintah pengadilan untuk tidak melepaskan dana yang dipegang untuk atau terutang kepada pelanggan/karyawan, sambil menunggu perintah pengadilan lebih lanjut."
+  },
+  {
+    "instruction": "Apa itu Penyitaan Upah (Garnishment)?",
+    "context": "Proses hukum memotong gaji/rekening untuk bayar utang.",
+    "response": "N. Penyitaan upah/rekening (Garnishment); seluruh proses mengajukan petisi dan mendapatkan perintah pengadilan yang mengarahkan garnishee untuk menahan dana yang mereka hutangkan kepada seseorang yang diduga berutang kepada orang lain."
+  },
+  {
+    "instruction": "Apa itu Bias Gender?",
+    "context": "Perlakuan tidak adil berdasarkan jenis kelamin.",
+    "response": "N. Bias gender; perlakuan tidak setara dalam kesempatan kerja dan harapan karena sikap berdasarkan jenis kelamin karyawan. Bias gender dapat menjadi dasar yang sah untuk gugatan di bawah undang-undang anti-diskriminasi."
+  },
+  {
+    "instruction": "Apa itu Kehadiran Umum (General Appearance)?",
+    "context": "Tindakan pengacara mewakili klien secara penuh di pengadilan.",
+    "response": "N. Kehadiran umum; perwakilan pengacara atas klien di pengadilan untuk semua tujuan yang terkait dengan gugatan atau penuntutan yang tertunda. Setelah \"muncul\", pengacara bertanggung jawab atas semua penampilan masa depan kecuali dibebastugaskan secara resmi."
+  },
+  {
+    "instruction": "Siapa itu Penasihat Umum (General Counsel)?",
+    "context": "Kepala pengacara internal perusahaan.",
+    "response": "N. Penasihat umum (General Counsel); kepala pengacara untuk sebuah korporasi, yang biasanya dibayar penuh waktu (in-house). Pengacara yang bekerja hanya untuk satu bisnis disebut \"house counsel.\""
+  },
+  {
+    "instruction": "Apa itu Ganti Rugi Umum (General Damages)?",
+    "context": "Kompensasi untuk kerugian non-materiil seperti rasa sakit.",
+    "response": "N. Ganti rugi umum; pemulihan moneter dalam gugatan untuk cedera yang diderita (seperti rasa sakit, penderitaan, ketidakmampuan fungsi) atau pelanggaran kontrak yang tidak memiliki nilai dolar pasti yang dapat dihitung, dibedakan dari ganti rugi khusus (biaya medis, dll)."
+  },
+  {
+    "instruction": "Apa itu Penyangkalan Umum (General Denial)?",
+    "context": "Menolak semua tuduhan dalam gugatan tanpa rincian.",
+    "response": "N. Penyangkalan umum (Eksepsi umum); pernyataan dalam jawaban atas gugatan di mana terdakwa menyangkal segala sesuatu yang dituduhkan dalam keluhan tanpa secara khusus menyangkal setiap tuduhan satu per satu."
+  },
+  {
+    "instruction": "Siapa itu Mitra Umum (General Partner)?",
+    "context": "Pemilik dalam kemitraan yang bertanggung jawab penuh atas utang bisnis.",
+    "response": "N. Mitra umum (Sekutu komplementer/aktif); salah satu pemilik kemitraan (CV/Firma) yang berbagi tanggung jawab manajemen, keuntungan, dan yang paling penting, kewajiban atas utang."
+  },
+  {
+    "instruction": "Apa itu Rencana Umum (General Plan)?",
+    "context": "Rencana tata kota untuk zonasi dan pengembangan.",
+    "response": "N. Rencana umum (Rencana Tata Ruang/RTRW); rencana kota atau kabupaten yang menetapkan zona untuk berbagai jenis pengembangan, penggunaan, pola lalu lintas, dan pengembangan masa depan."
+  },
+  {
+    "instruction": "Apa itu Melompati Generasi (Generation Skipping)?",
+    "context": "Memberikan warisan langsung ke cucu untuk menghindari pajak ganda.",
+    "response": "Adj., Adv. Melompati generasi; merujuk pada hadiah yang dibuat melalui perwalian (trust) oleh kakek-nenek kepada cucu, melewati anak (orang tua cucu). Awalnya dimaksudkan untuk menghindari pajak warisan federal, tetapi sekarang dikenakan \"pajak pelompatan generasi.\""
+  },
+  {
+    "instruction": "Apa definisi Hadiah (Gift)?",
+    "context": "Pemberian sukarela tanpa imbalan.",
+    "response": "N. Hadiah/Hibah; transfer properti secara sukarela kepada orang lain sepenuhnya bebas dari pembayaran atau ikatan sementara pemberi dan penerima masih hidup."
+  },
+  {
+    "instruction": "Apa itu Hadiah Jelang Ajal (Gift in Contemplation of Death)?",
+    "context": "Pemberian harta karena merasa akan segera meninggal.",
+    "response": "N. Hibah wasiat (Gift causa mortis); hadiah properti pribadi oleh orang yang mengharapkan kematian segera karena sakit atau usia. Hukum pajak sering menganggap ini sebagai bagian dari warisan jika pemberi meninggal dalam waktu tiga tahun."
+  },
+  {
+    "instruction": "Apa itu Pajak Hadiah (Gift Tax)?",
+    "context": "Pajak atas pemberian bernilai besar.",
+    "response": "N. Pajak hadiah/hibah; pajak federal atas hadiah besar. Di AS, ada batas tahunan bebas pajak (misal $10.000) sebelum pajak dikenakan."
+  },
+  {
+    "instruction": "Apa arti istilah slang Go Bail?",
+    "context": "Membayar uang jaminan untuk membebaskan seseorang.",
+    "response": "V. Menjamin (Go bail); slang untuk menyetorkan uang jaminan guna mengeluarkan terdakwa dari penjara setelah penangkapan."
+  },
+  {
+    "instruction": "Apa itu Alasan yang Sah (Good Cause)?",
+    "context": "Alasan hukum yang cukup untuk keputusan hakim.",
+    "response": "N. Alasan yang sah/baik; alasan yang cukup secara hukum untuk putusan atau tindakan lain oleh hakim. Bahasa umumnya: \"Dengan ditunjukkannya alasan yang baik, pengadilan memerintahkan...\""
+  },
+  {
+    "instruction": "Apa arti Itikad Baik (Good Faith)?",
+    "context": "Niat jujur dalam bertransaksi.",
+    "response": "N. Itikad baik; niat jujur untuk bertindak tanpa mengambil keuntungan tidak adil atas orang lain atau untuk memenuhi janji, bahkan ketika beberapa teknis hukum tidak terpenuhi."
+  },
+  {
+    "instruction": "Apa itu Aturan Orang Samaria yang Baik (Good Samaritan Rule)?",
+    "context": "Kewajiban penolong sukarela untuk berhati-hati saat menolong korban.",
+    "response": "N. Aturan Orang Samaria yang Baik; jika seorang sukarelawan datang membantu orang asing yang terluka, dia memiliki kewajiban untuk berhati-hati secara wajar. Kelalaian yang memperburuk cedera dapat menyebabkan tuntutan."
+  },
+  {
+    "instruction": "Apa itu Hak Milik Bersih (Good Title)?",
+    "context": "Kepemilikan properti yang bebas sengketa.",
+    "response": "N. Hak milik bersih/sempurna; kepemilikan properti nyata yang benar-benar bebas dari klaim terhadapnya dan karenanya dapat dijual atau dijadikan jaminan."
+  },
+  {
+    "instruction": "Apa definisi Barang (Goods)?",
+    "context": "Item yang dijual dalam bisnis.",
+    "response": "N. Barang dagangan; barang yang disimpan untuk dijual dalam kegiatan bisnis biasa."
+  },
+  {
+    "instruction": "Apa itu Goodwill dalam bisnis?",
+    "context": "Nilai aset tak berwujud dari reputasi bisnis.",
+    "response": "N. Muhibah (Goodwill); manfaat bisnis memiliki reputasi baik dan pelanggan tetap. Goodwill bukan aset berwujud seperti peralatan, tetapi penting saat bisnis dijual untuk menentukan harga di atas nilai aset fisik."
+  },
+  {
+    "instruction": "Apa itu Kekebalan Pemerintah (Governmental Immunity)?",
+    "context": "Doktrin kuno bahwa pemerintah tidak bisa dituntut tanpa izinnya.",
+    "response": "N. Kekebalan pemerintah; doktrin hukum umum Inggris bahwa tidak ada badan pemerintah yang dapat digugat kecuali memberikan izin. Ini telah banyak dikurangi oleh undang-undang modern (seperti Federal Tort Claims Act)."
+  },
+  {
+    "instruction": "Apa itu Masa Tenggang (Grace Period)?",
+    "context": "Waktu tambahan untuk membayar tanpa denda.",
+    "response": "N. Masa tenggang; waktu yang dinyatakan dalam kontrak di mana keterlambatan pembayaran atau kinerja dapat dilakukan tanpa penalti. Seringkali setelah masa ini berakhir, kontrak ditangguhkan (misal asuransi mati)."
+  },
+  {
+    "instruction": "Apa fungsi Dewan Juri Agung (Grand Jury)?",
+    "context": "Dewan juri yang menentukan apakah bukti cukup untuk mendakwa seseorang (sistem AS).",
+    "response": "N. Dewan Juri Agung (Grand Jury); juri di setiap kabupaten atau distrik federal yang bertugas menyelidiki dugaan kejahatan dan memutuskan apakah ada cukup bukti untuk mengeluarkan dakwaan resmi. "
+  },
+  {
+    "instruction": "Apa itu Pencurian Besar (Grand Larceny)?",
+    "context": "Pencurian dengan nilai barang di atas batas tertentu.",
+    "response": "N. Pencurian besar (Grand larceny); kejahatan pencurian properti orang lain (termasuk uang) di atas nilai tertentu (misalnya, $500), dibedakan dari pencurian ringan (petty larceny)."
+  },
+  {
+    "instruction": "Apa itu Grand Theft?",
+    "context": "Sama dengan Grand Larceny.",
+    "response": "N. (Lihat Grand Larceny)."
+  },
+  {
+    "instruction": "Apa itu Klausul Kakek (Grandfather Clause)?",
+    "context": "Aturan yang mengecualikan kondisi lama dari peraturan baru.",
+    "response": "N. Klausul pengecualian (Grandfather clause); klausul dalam undang-undang atau peraturan zonasi yang mengizinkan operator bisnis atau pemilik tanah dikecualikan dari pembatasan baru jika properti tersebut sudah digunakan seperti itu sebelum hukum diadopsi."
+  },
+  {
+    "instruction": "Apa arti Dikecualikan karena Aturan Lama (Grandfathered In)?",
+    "context": "Diizinkan tetap beroperasi karena sudah ada sebelum aturan baru.",
+    "response": "Adj. Dikecualikan (Grandfathered in); mengacu pada penggunaan properti yang terus diizinkan sebagaimana adanya ketika pembatasan atau peraturan zonasi baru diadopsi."
+  },
+  {
+    "instruction": "Apa arti Memberikan (Grant) dalam properti?",
+    "context": "Mengalihkan hak milik tanah.",
+    "response": "V. Memberikan/Mengalihkan (Grant); mentransfer properti nyata dari pemegang hak (grantor) ke orang lain (grantee) dengan atau tanpa pembayaran."
+  },
+  {
+    "instruction": "Apa itu Akta Pemberian (Grant Deed)?",
+    "context": "Dokumen transfer properti dengan jaminan kepemilikan.",
+    "response": "N. Akta pemberian (Grant deed); dokumen yang mentransfer hak atas properti nyata dari satu pihak ke pihak lain, dengan jaminan bahwa penjual memiliki hak penuh atas properti tersebut."
+  },
+  {
+    "instruction": "Siapa itu Penerima Hak (Grantee)?",
+    "context": "Pihak yang menerima properti.",
+    "response": "N. Penerima hak (Grantee); pihak yang menerima hak atas properti nyata (pembeli, penerima) dari penjual (grantor)."
+  },
+  {
+    "instruction": "Siapa itu Pemberi Hak (Grantor)?",
+    "context": "Pihak yang mengalihkan properti.",
+    "response": "N. Pemberi hak (Grantor); pihak yang mentransfer hak dalam properti nyata (penjual, pemberi) kepada orang lain."
+  },
+  {
+    "instruction": "Apa itu Indeks Pemberi-Penerima (Grantor-Grantee Index)?",
+    "context": "Daftar arsip pencatatan tanah.",
+    "response": "N. Indeks akta tanah; buku atau daftar komputer di kantor Perekam Daerah yang mencantumkan semua transfer hak tercatat berdasarkan nama pemberi dan penerima."
+  },
+  {
+    "instruction": "Apa arti Cuma-cuma (Gratuitous)?",
+    "context": "Sukarela atau gratis.",
+    "response": "Adj. atau Adv. Cuma-cuma (Gratis); sukarela atau bebas biaya."
+  },
+  {
+    "instruction": "Apa arti Gravamen?",
+    "context": "Inti dari tuduhan atau gugatan.",
+    "response": "N. Inti tuduhan (Gravamen); bahasa Latin untuk \"membebani,\" inti dari setiap klaim (dasar gugatan) atau tuduhan dalam keluhan yang diajukan untuk memulai gugatan (misal: dalam kasus kecelakaan, gravamennya adalah kelalaian)."
+  },
+  {
+    "instruction": "Apa itu Pendapatan Kotor (Gross Income)?",
+    "context": "Total pendapatan sebelum dikurangi biaya/pajak.",
+    "response": "N. Pendapatan kotor; dalam menghitung pajak penghasilan, pendapatan individu atau bisnis dari semua sumber sebelum dikurangi biaya yang diperbolehkan."
+  },
+  {
+    "instruction": "Apa itu Kelalaian Berat (Gross Negligence)?",
+    "context": "Kecerobohan ekstrem yang mengabaikan keselamatan orang lain.",
+    "response": "N. Kelalaian berat (Gross negligence); kecerobohan yang sembrono terhadap keselamatan atau nyawa orang lain, begitu besar sehingga tampak sebagai pelanggaran sadar terhadap hak keselamatan orang lain. Lebih dari sekadar kesalahan biasa."
+  },
+  {
+    "instruction": "Apa arti Menjamin (Guarantee)?",
+    "context": "Berjanji menanggung utang orang lain.",
+    "response": "1) V. Menjamin (Garansi); berjanji atau setuju untuk bertanggung jawab atas utang atau kinerja kontrak orang lain jika orang itu tidak membayar atau melaksanakannya."
+  },
+  {
+    "instruction": "Siapa itu Penjamin (Guarantor)?",
+    "context": "Pihak yang menanggung kewajiban jika debitur gagal.",
+    "response": "N. Penjamin (Guarantor); orang atau entitas yang setuju untuk bertanggung jawab atas utang atau kinerja orang lain di bawah kontrak jika orang lain itu gagal."
+  },
+  {
+    "instruction": "Apa itu Guaranty?",
+    "context": "Ejaan lama untuk jaminan.",
+    "response": "V. dan N. Jaminan (Guaranty); ejaan lama dari guarantee."
+  },
+  {
+    "instruction": "Siapa itu Wali (Guardian)?",
+    "context": "Orang yang ditunjuk pengadilan mengurus anak/orang tak mampu.",
+    "response": "N. Wali (Guardian); orang yang ditunjuk oleh hakim untuk merawat anak di bawah umur atau orang dewasa yang tidak kompeten secara pribadi dan/atau mengelola urusannya."
+  },
+  {
+    "instruction": "Siapa itu Wali Ad Litem (Guardian Ad Litem)?",
+    "context": "Wali yang ditunjuk khusus untuk kepentingan hukum (sidang) saja.",
+    "response": "N. Wali ad litem (Wali pengampu sementara); orang yang ditunjuk oleh pengadilan hanya untuk mengambil tindakan hukum atas nama anak di bawah umur atau orang dewasa yang tidak mampu menangani urusannya sendiri dalam sebuah kasus."
+  },
+  {
+    "instruction": "Apa arti Tamu (Guest) dalam hukum?",
+    "context": "Bisa tamu hotel (berbayar) atau tamu sosial (gratis), yang memiliki hak berbeda.",
+    "response": "N. Tamu; 1) Orang yang membayar untuk menginap di hotel (punya hak keamanan tinggi). 2) Orang yang tinggal di kediaman orang lain tanpa biaya (\"tamu sosial\")."
+  },
+  {
+    "instruction": "Apa itu Undang-undang Tamu (Guest Statute)?",
+    "context": "Hukum yang membatasi hak penumpang gratis menuntut pengemudi.",
+    "response": "N. Undang-undang tamu; hukum negara bagian yang menetapkan standar perawatan pengemudi mobil terhadap penumpang yang tidak membayar (tumpangan gratis). Biasanya penumpang hanya bisa menuntut jika ada kelalaian berat."
+  },
+  {
+    "instruction": "Apa arti Bersalah (Guilty)?",
+    "context": "Status terbukti melakukan kejahatan.",
+    "response": "Adj. Bersalah; telah dihukum karena kejahatan atau telah mengakui melakukan kejahatan dengan memohon \"bersalah\" (pleading guilty)."
+  }
+]
