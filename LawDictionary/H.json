@@ -1,0 +1,217 @@
+[
+  {
+    "instruction": "Apa itu Habeas Corpus?",
+    "context": "Perintah pengadilan untuk menghadirkan tahanan guna menguji keabsahan penahanannya.",
+    "response": "N. Habeas Corpus; perintah pengadilan yang mengarahkan penegak hukum yang menahan seseorang untuk menghadirkan tahanan tersebut di pengadilan, guna menentukan apakah penahanannya sah secara hukum."
+  },
+  {
+    "instruction": "Apa arti Habitable dalam properti?",
+    "context": "Rumah yang layak huni dengan fasilitas dasar.",
+    "response": "Adj. Layak huni; merujuk pada tempat tinggal yang aman dan dapat ditempati dengan kenyamanan yang wajar (ada air, listrik, pemanas, dll)."
+  },
+  {
+    "instruction": "Siapa itu Habitual Criminal?",
+    "context": "Residivis yang berulang kali melakukan kejahatan.",
+    "response": "N. Penjahat kambuhan (Residivis); orang yang telah dihukum karena beberapa kejahatan berat (biasanya dua atau tiga kali), yang dapat menyebabkan hukuman lebih berat untuk kejahatan berikutnya."
+  },
+  {
+    "instruction": "Apa itu Half Blood?",
+    "context": "Saudara tiri satu ayah atau satu ibu.",
+    "response": "1) Adj. Saudara seayah/seibu saja. 2) N. Saudara tiri (saudara kandung tidak seayah-seibu)."
+  },
+  {
+    "instruction": "Apa arti Harass?",
+    "context": "Tindakan mengganggu atau melecehkan secara sistematis.",
+    "response": "V. Melecehkan/Mengganggu (Harass); gangguan sistematis dan/atau terus-menerus yang tidak diinginkan dan menjengkelkan, seringkali termasuk ancaman dan tuntutan."
+  },
+  {
+    "instruction": "Apa itu Harassment?",
+    "context": "Tindakan pelecehan atau gangguan.",
+    "response": "N. Pelecehan/Gangguan; tindakan sistematis dan/atau terus-menerus yang tidak diinginkan dan menjengkelkan, termasuk ancaman dan tuntutan (misal: pelecehan seksual, teror penagih utang)."
+  },
+  {
+    "instruction": "Apa itu Harmless Error?",
+    "context": "Kesalahan teknis dalam sidang yang tidak mengubah hasil putusan.",
+    "response": "N. Kesalahan yang tidak merugikan; kesalahan oleh hakim dalam persidangan yang menurut pengadilan banding tidak cukup fatal untuk membatalkan atau mengubah putusan pengadilan tingkat pertama."
+  },
+  {
+    "instruction": "Apa itu Head of Household dalam pajak?",
+    "context": "Status pajak bagi orang yang menanggung biaya rumah tangga sendirian.",
+    "response": "N. Kepala keluarga; dalam hukum pajak penghasilan, orang yang mengajukan pengembalian pajak yang mengelola rumah tangga dengan tanggungan (anak/kerabat) tetapi tidak mengajukan pengembalian bersama dengan pasangan."
+  },
+  {
+    "instruction": "Apa itu Headnote?",
+    "context": "Ringkasan poin hukum di awal laporan kasus.",
+    "response": "N. Catatan kepala (Abstrak kasus); ringkasan poin-poin hukum utama yang ditentukan oleh pengadilan banding, yang muncul tepat di atas setiap keputusan dalam laporan kasus yang diterbitkan."
+  },
+  {
+    "instruction": "Apa definisi Hearing?",
+    "context": "Sidang pengadilan tanpa juri.",
+    "response": "N. Sidang (Dengar pendapat); setiap proses di hadapan hakim atau pejabat lain tanpa juri di mana bukti dan/atau argumen disajikan untuk menentukan beberapa masalah fakta atau hukum."
+  },
+  {
+    "instruction": "Apa itu Hearsay?",
+    "context": "Kesaksian 'katanya' yang biasanya tidak diterima di pengadilan.",
+    "response": "N. Hearsay (Kesaksian testimonium de auditu); bukti tangan kedua di mana saksi tidak menceritakan apa yang dia ketahui secara pribadi, tetapi apa yang dikatakan orang lain kepadanya."
+  },
+  {
+    "instruction": "Apa itu Hearsay Rule?",
+    "context": "Aturan yang melarang bukti desas-desus.",
+    "response": "N. Aturan hearsay; aturan dasar bahwa kesaksian atau dokumen yang mengutip orang yang tidak hadir di pengadilan tidak dapat diterima sebagai bukti (dengan pengecualian tertentu)."
+  },
+  {
+    "instruction": "Apa itu Heat of Passion?",
+    "context": "Emosi tak terkendali yang bisa meringankan dakwaan pembunuhan.",
+    "response": "N. Gejolak emosi (Mata gelap); ketika terdakwa berada dalam kemarahan yang tidak terkendali pada saat melakukan kejahatan, yang dapat mengurangi dakwaan dari pembunuhan berencana menjadi pembunuhan biasa (manslaughter)."
+  },
+  {
+    "instruction": "Siapa itu Heir?",
+    "context": "Ahli waris.",
+    "response": "N. Ahli waris; orang yang memperoleh properti setelah kematian orang lain, berdasarkan aturan pewarisan atau wasiat."
+  },
+  {
+    "instruction": "Siapa itu Heir Apparent?",
+    "context": "Ahli waris utama yang pasti menerima warisan jika hidup lebih lama dari pewaris.",
+    "response": "N. Ahli waris mutlak; orang yang diharapkan menerima bagian dari harta warisan anggota keluarga jika dia hidup lebih lama, kecuali secara khusus dicabut hak warisnya."
+  },
+  {
+    "instruction": "Siapa itu Heiress?",
+    "context": "Ahli waris wanita kaya.",
+    "response": "N. Ahli waris wanita; sering digunakan untuk menunjukkan seorang wanita yang telah menerima jumlah besar setelah kematian kerabat kaya."
+  },
+  {
+    "instruction": "Apa itu Heirs of the Body?",
+    "context": "Keturunan langsung (anak, cucu).",
+    "response": "N. Keturunan sedarah; keturunan dari garis darah seseorang, seperti anak atau cucu."
+  },
+  {
+    "instruction": "Apa arti Held dalam putusan hakim?",
+    "context": "Memutuskan atau menetapkan.",
+    "response": "V. Memutuskan/Menetapkan; diputuskan atau diperintah, seperti dalam kalimat \"pengadilan memutuskan (held) bahwa kontrak itu sah.\""
+  },
+  {
+    "instruction": "Apa itu Hereditament?",
+    "context": "Harta benda yang bisa diwariskan.",
+    "response": "N. Harta pusaka; segala jenis properti yang dapat diwariskan (bahasa kuno)."
+  },
+  {
+    "instruction": "Apa itu Hidden Asset?",
+    "context": "Aset yang tidak dicatat dalam pembukuan.",
+    "response": "N. Aset tersembunyi; item bernilai yang tidak muncul di pembukuan bisnis, seringkali dikecualikan untuk tujuan yang tidak pantas seperti menghindari pajak."
+  },
+  {
+    "instruction": "Apa definisi Highway?",
+    "context": "Jalan umum yang bisa diakses publik.",
+    "response": "N. Jalan raya; jalan umum mana pun yang berhak digunakan oleh anggota masyarakat, asalkan mengikuti undang-undang yang mengaturnya."
+  },
+  {
+    "instruction": "Apa itu Hit and Run?",
+    "context": "Tabrak lari.",
+    "response": "N. Tabrak lari; kejahatan pengemudi kendaraan yang terlibat dalam tabrakan dengan kendaraan lain atau manusia, yang dengan sengaja gagal berhenti untuk memberikan identitas dan bantuan."
+  },
+  {
+    "instruction": "Apa itu Hobby Loss?",
+    "context": "Kerugian dari hobi yang bisa mengurangi pajak (terbatas).",
+    "response": "N. Kerugian hobi; dalam pajak penghasilan, kerugian dari kegiatan bisnis yang dilakukan lebih untuk kesenangan daripada keuntungan, yang dapat dikurangkan dari pendapatan tahunan saja."
+  },
+  {
+    "instruction": "Apa itu Hold Harmless?",
+    "context": "Klausul pembebasan tanggung jawab ganti rugi.",
+    "response": "N. Membebaskan dari tanggung jawab (Hold harmless); janji untuk membayar biaya atau klaim yang mungkin timbul dari suatu perjanjian, seringkali dalam penyelesaian sengketa."
+  },
+  {
+    "instruction": "Siapa itu Holder?",
+    "context": "Pemegang sah suatu instrumen keuangan.",
+    "response": "N. Pemegang; siapa pun yang memegang surat sanggup bayar, cek, obligasi, atau surat berharga lainnya yang berhak menerima pembayaran."
+  },
+  {
+    "instruction": "Siapa itu Holder in Due Course?",
+    "context": "Pemegang cek/surat berharga yang menerimanya dengan itikad baik.",
+    "response": "N. Pemegang yang sah pada waktunya; orang yang memegang cek atau surat sanggup bayar, yang menerimanya dengan nilai (membayarnya) dengan itikad baik dan tanpa kecurigaan bahwa itu mungkin bermasalah."
+  },
+  {
+    "instruction": "Apa arti Holding?",
+    "context": "Keputusan pengadilan atau kepemilikan aset.",
+    "response": "1) N. Putusan pengadilan. 2) N. Kepemilikan properti. 3) N. Investasi bisnis."
+  },
+  {
+    "instruction": "Apa itu Holding Company?",
+    "context": "Perusahaan induk yang memiliki saham perusahaan lain.",
+    "response": "N. Perusahaan induk (Holding company); perusahaan yang dibentuk untuk memiliki saham perusahaan lain, sehingga sering mengendalikan manajemen dan kebijakan mereka."
+  },
+  {
+    "instruction": "Apa itu Holdover Tenancy?",
+    "context": "Penyewa yang tetap tinggal setelah masa sewa habis.",
+    "response": "N. Penyewaan yang melampaui batas waktu; situasi ketika penyewa real estat terus menempati tempat tersebut tanpa persetujuan pemilik setelah sewa asli berakhir."
+  },
+  {
+    "instruction": "Apa itu Holographic Will?",
+    "context": "Wasiat tulis tangan tanpa saksi.",
+    "response": "N. Wasiat holografis; wasiat yang sepenuhnya ditulis tangan, diberi tanggal, dan ditandatangani oleh pewasiat, tetapi tidak ditandatangani oleh saksi (sah di beberapa negara bagian)."
+  },
+  {
+    "instruction": "Apa itu Home Rule?",
+    "context": "Otonomi daerah.",
+    "response": "N. Pemerintahan sendiri (Otonomi daerah); kekuasaan kota atau kabupaten setempat untuk mengatur sistem pemerintahan dan peraturan daerahnya sendiri tanpa piagam dari negara bagian."
+  },
+  {
+    "instruction": "Apa itu Homestead?",
+    "context": "Rumah utama yang dilindungi dari penyitaan kreditur tertentu.",
+    "response": "N. Rumah tinggal utama (Homestead); rumah dan tanah pemilik rumah yang dapat dideklarasikan sebagai tempat tinggal utama untuk membebaskan sebagian nilainya dari klaim kreditur (perlindungan aset)."
+  },
+  {
+    "instruction": "Apa arti Hometowned?",
+    "context": "Didiskriminasi oleh hakim lokal karena berasal dari luar kota.",
+    "response": "Adv. (Bahasa pengacara) Menderita diskriminasi oleh hakim lokal yang tampaknya lebih memihak pihak dan/atau pengacara lokal daripada mereka yang berasal dari luar kota."
+  },
+  {
+    "instruction": "Apa definisi Homicide?",
+    "context": "Pembunuhan manusia oleh manusia lain (bisa kriminal atau tidak).",
+    "response": "N. Pembunuhan (Homicide); pembunuhan manusia karena tindakan atau kelalaian orang lain. Termasuk murder (pembunuhan jahat) dan manslaughter, tetapi juga pembunuhan non-kriminal seperti membela diri."
+  },
+  {
+    "instruction": "Apa itu Hornbook Law?",
+    "context": "Prinsip hukum dasar yang sudah diterima umum.",
+    "response": "N. Hukum dasar (Hornbook); istilah pengacara untuk prinsip hukum fundamental dan diterima dengan baik yang tidak memerlukan penjelasan lebih lanjut."
+  },
+  {
+    "instruction": "Apa itu Hostile Possession?",
+    "context": "Penguasaan tanah secara terbuka dan berlawanan dengan pemilik asli.",
+    "response": "N. Penguasaan bermusuhan (dalam *adverse possession*); pendudukan sebidang properti nyata digabungkan dengan klaim kepemilikan yang bertentangan dengan pemegang hak tercatat."
+  },
+  {
+    "instruction": "Siapa itu Hostile Witness?",
+    "context": "Saksi yang memusuhi pihak yang memanggilnya.",
+    "response": "N. Saksi yang memusuhi; saksi dalam persidangan yang dianggap oleh hakim bersikap memusuhi posisi pihak yang pengacaranya menanyai saksi tersebut."
+  },
+  {
+    "instruction": "Apa itu Hot Pursuit?",
+    "context": "Pengejaran langsung penjahat melintasi yurisdiksi.",
+    "response": "N. Pengejaran panas; ketika petugas penegak hukum berada sangat dekat di belakang tersangka kriminal sehingga dia dapat melanjutkan pengejaran ke yurisdiksi lain tanpa berhenti."
+  },
+  {
+    "instruction": "Apa itu Hotchpot?",
+    "context": "Penggabungan harta warisan untuk pembagian rata.",
+    "response": "N. Penggabungan harta (Hotchpot); menyatukan atau mencampur berbagai properti untuk mencapai pembagian yang setara di antara ahli waris."
+  },
+  {
+    "instruction": "Siapa itu House Counsel?",
+    "context": "Pengacara internal perusahaan.",
+    "response": "N. Pengacara in-house; pengacara yang bekerja hanya untuk bisnis tertentu."
+  },
+  {
+    "instruction": "Apa itu Household?",
+    "context": "Rumah tangga.",
+    "response": "N. Rumah tangga; sebuah keluarga yang hidup bersama, yang tidak semuanya harus memiliki hubungan darah."
+  },
+  {
+    "instruction": "Apa itu Hung Jury?",
+    "context": "Juri yang buntu tidak bisa mencapai putusan.",
+    "response": "N. Juri gantung (Juri buntu); slang untuk juri yang macet tanpa harapan dalam kasus pidana, di mana tidak ada pihak yang dapat menang (tidak ada vonis bulat). Ini biasanya menyebabkan *mistrial* (sidang ulang)."
+  },
+  {
+    "instruction": "Apa arti Hypothecate?",
+    "context": "Menjaminkan barang tanpa menyerahkan fisik barangnya (Hipotek/Gadai).",
+    "response": "V. Menggadaikan/Menjaminkan (Hipotek); istilah umum untuk menggunakan properti guna menjamin pembayaran pinjaman, sementara peminjam tetap memegang propertinya."
+  }
+]
