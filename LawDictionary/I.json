@@ -1,0 +1,697 @@
+[
+  {
+    "instruction": "Apa singkatan i.e.?",
+    "context": "Singkatan untuk penjelasan lebih lanjut.",
+    "response": "Prep. (id est) Yaitu/Yakni; singkatan bahasa Latin untuk \"that is\" (yaitu). Digunakan untuk menjelaskan istilah umum."
+  },
+  {
+    "instruction": "Apa definisi Illegal?",
+    "context": "Melanggar hukum atau peraturan.",
+    "response": "1) Adj. Ilegal/Melanggar hukum; melanggar undang-undang, peraturan, atau ordonansi. 2) Status orang yang tinggal di suatu negara tanpa izin resmi."
+  },
+  {
+    "instruction": "Siapa itu Illegal Immigrant?",
+    "context": "Orang asing yang masuk atau tinggal tanpa izin.",
+    "response": "N. Imigran ilegal (Pendatang gelap); orang asing (bukan warga negara) yang masuk atau tinggal di suatu negara tanpa izin pemerintah atau visa yang sah."
+  },
+  {
+    "instruction": "Apa itu Illusory Promise?",
+    "context": "Janji palsu dalam kontrak yang sebenarnya tidak mengikat.",
+    "response": "N. Janji ilusi; kesepakatan yang begitu tidak pasti atau opsional sehingga sebenarnya bukan perjanjian sejati, sehingga pihak lain tidak wajib memenuhinya."
+  },
+  {
+    "instruction": "Apa arti Immaterial dalam sidang?",
+    "context": "Bukti atau argumen yang tidak relevan dengan kasus.",
+    "response": "Adj. Tidak material/Tidak relevan; keberatan umum terhadap bukti di pengadilan karena tidak ada hubungannya dengan masalah yang sedang diputuskan."
+  },
+  {
+    "instruction": "Apa arti Immediately dalam kontrak?",
+    "context": "Segera, tanpa alasan penundaan.",
+    "response": "Adv. Segera; 1) Seketika itu juga. 2) Dalam perintah pengadilan atau kontrak berarti \"secepat mungkin yang dapat dilakukan\" tanpa alasan."
+  },
+  {
+    "instruction": "Apa itu Immunity?",
+    "context": "Kebal dari hukuman atau tuntutan.",
+    "response": "N. Imunitas/Kekebalan; pembebasan dari hukuman atau tuntutan hukum. Contoh: imunitas saksi (tidak dituntut asal bersaksi) atau imunitas diplomatik."
+  },
+  {
+    "instruction": "Apa arti Impanel?",
+    "context": "Memilih dan melantik juri.",
+    "response": "V. Memilih juri; memilih dan melantik juri untuk persidangan."
+  },
+  {
+    "instruction": "Apa itu Impaneling?",
+    "context": "Proses seleksi juri.",
+    "response": "N. Pemilihan juri; tindakan memilih juri dari daftar calon potensial (panel/venire)."
+  },
+  {
+    "instruction": "Apa arti Impeach saksi?",
+    "context": "Menjatuhkan kredibilitas saksi.",
+    "response": "V. 1) Mendiskreditkan kesaksian saksi dengan membuktikan dia berbohong atau tidak konsisten. 2) Mendakwa pejabat publik (lihat Impeachment)."
+  },
+  {
+    "instruction": "Apa itu Impeachment?",
+    "context": "Mendiskreditkan saksi atau mendakwa pejabat publik.",
+    "response": "N. Pemakzulan/Diskredit; 1) Menunjukkan bahwa saksi tidak jujur. 2) Pengadilan pejabat publik atas tuduhan tindakan ilegal dalam jabatan (bukan pemecatan langsung, tapi proses dakwaannya)."
+  },
+  {
+    "instruction": "Apa itu Impleader?",
+    "context": "Membawa pihak ketiga ke dalam gugatan.",
+    "response": "N. Impleader; prosedur di mana terdakwa membawa pihak ketiga ke dalam gugatan karena pihak ketiga itu berutang padanya, yang bisa dipakai membayar penggugat asli."
+  },
+  {
+    "instruction": "Apa arti Implied?",
+    "context": "Tersirat dari tindakan, bukan kata-kata.",
+    "response": "Adj., Adv. Tersirat (Implisit); merujuk pada keadaan atau perilaku yang menggantikan bahasa eksplisit untuk membuktikan persetujuan atau wewenang."
+  },
+  {
+    "instruction": "Apa itu Implied Consent?",
+    "context": "Persetujuan yang dianggap ada karena keadaan.",
+    "response": "N. Persetujuan tersirat; persetujuan yang diasumsikan ada berdasarkan keadaan yang wajar, meskipun tidak ada kata-kata persetujuan langsung."
+  },
+  {
+    "instruction": "Apa itu Implied Contract?",
+    "context": "Kontrak yang dianggap ada demi keadilan.",
+    "response": "N. Kontrak tersirat; perjanjian yang dianggap ada berdasarkan keadaan karena jika ditolak akan tidak adil (memperkaya satu pihak secara tidak adil)."
+  },
+  {
+    "instruction": "Apa itu Implied Covenant of Good Faith and Fair Dealing?",
+    "context": "Asumsi umum bahwa semua pihak kontrak akan jujur.",
+    "response": "N. Janji tersirat itikad baik; asumsi umum dalam hukum kontrak bahwa orang akan bertindak jujur dan adil tanpa melanggar janji atau menggunakan cara licik."
+  },
+  {
+    "instruction": "Apa itu Implied Warranty?",
+    "context": "Jaminan kualitas produk yang otomatis ada menurut hukum.",
+    "response": "N. Garansi tersirat; asumsi hukum bahwa produk layak jual dan berfungsi normal, kecuali dinyatakan dijual \"apa adanya\" (as is)."
+  },
+  {
+    "instruction": "Apa arti Impossibility dalam kontrak?",
+    "context": "Kontrak batal karena mustahil dilaksanakan.",
+    "response": "N. Kemustahilan; ketika suatu tindakan tidak dapat dilakukan karena alam, hambatan fisik, atau kejadian tak terduga, yang menjadi dasar sah membatalkan kontrak."
+  },
+  {
+    "instruction": "Apa itu Impotence dalam hukum keluarga?",
+    "context": "Ketidakmampuan seksual yang bisa jadi alasan cerai.",
+    "response": "N. Impotensi; ketidakmampuan laki-laki untuk berhubungan seksual. Bisa menjadi alasan pembatalan pernikahan atau perceraian."
+  },
+  {
+    "instruction": "Apa arti Impound?",
+    "context": "Menahan barang atau dana.",
+    "response": "V. Menyita/Menahan; 1) Mengumpulkan dana tambahan dari peminjam untuk membayar pajak/asuransi. 2) Polisi menyita mobil atau barang bukti."
+  },
+  {
+    "instruction": "Apa itu Improvement?",
+    "context": "Perbaikan properti yang menaikkan nilai.",
+    "response": "N. Perbaikan/Peningkatan; struktur permanen atau pekerjaan pada properti nyata yang meningkatkan nilainya."
+  },
+  {
+    "instruction": "Apa arti Impute?",
+    "context": "Menimpakan tanggung jawab ke orang lain (misal: orang tua atas anak).",
+    "response": "V. Menimpakan (Atribusi); melekatkan tanggung jawab atas tindakan atau cedera kepada orang lain karena hubungan tertentu (seperti majikan ke karyawan, orang tua ke anak)."
+  },
+  {
+    "instruction": "Apa arti In Absentia?",
+    "context": "Sidang tanpa kehadiran terdakwa.",
+    "response": "Adj./Adv. (in ab-sensh-ee-ah) In absentia (Tanpa kehadiran); pengadilan pidana yang dilakukan tanpa kehadiran terdakwa (misal karena kabur)."
+  },
+  {
+    "instruction": "Apa arti In Camera?",
+    "context": "Sidang tertutup di ruang hakim.",
+    "response": "Adj./Adv. Tertutup (In camera); sidang atau diskusi dengan hakim di ruang pribadi (chambers) tanpa penonton atau juri."
+  },
+  {
+    "instruction": "Apa arti In Chambers?",
+    "context": "Di ruang kerja hakim.",
+    "response": "Adj. Di ruang hakim; merujuk pada diskusi di kantor hakim (sama dengan in camera)."
+  },
+  {
+    "instruction": "Apa arti In Extremis?",
+    "context": "Menghadapi kematian.",
+    "response": "Adj. (in ex-tree-miss) Sekarat; menghadapi kematian yang sudah dekat."
+  },
+  {
+    "instruction": "Apa arti In Fee Simple?",
+    "context": "Memiliki hak milik tanah mutlak.",
+    "response": "Adj. Hak milik mutlak; memegang hak milik tanah yang jelas dan penuh."
+  },
+  {
+    "instruction": "Apa arti In Forma Pauperis?",
+    "context": "Bebas biaya pengadilan karena miskin.",
+    "response": "Adj./Adv. (in form-ah paw-purr-iss) Sebagai orang miskin (Prodeo); izin bagi pihak yang tidak mampu untuk tidak membayar biaya pengadilan."
+  },
+  {
+    "instruction": "Apa arti In Haec Verba?",
+    "context": "Mengutip kata-kata persis dari dokumen.",
+    "response": "Prep. (in hike verb-ah) Dengan kata-kata ini; menyatakan bahasa persis dari suatu perjanjian dalam dokumen hukum."
+  },
+  {
+    "instruction": "Apa arti In Kind?",
+    "context": "Membayar dengan barang sejenis, bukan uang.",
+    "response": "Adj. Natura (In kind); pembayaran atau distribusi dalam bentuk barang/aset itu sendiri, bukan uang tunai."
+  },
+  {
+    "instruction": "Apa arti In Lieu?",
+    "context": "Sebagai pengganti.",
+    "response": "Prep. Sebagai pengganti (In lieu); misal \"deed in lieu of foreclosure\" (menyerahkan sertifikat tanah sebagai pengganti penyitaan)."
+  },
+  {
+    "instruction": "Apa arti In Limine?",
+    "context": "Mosi di awal sidang untuk membatasi bukti.",
+    "response": "N. (in lim-in-ay) Di ambang pintu (Awal); mosi sebelum persidangan dimulai, biasanya untuk menekan bukti ilegal."
+  },
+  {
+    "instruction": "Apa arti In Loco Parentis?",
+    "context": "Bertindak sebagai pengganti orang tua.",
+    "response": "Prep. (in loh-coh pah-rent-iss) Sebagai pengganti orang tua; mengidentifikasi wali, sekolah, atau lembaga yang merawat anak di bawah umur dan melindungi hak-haknya."
+  },
+  {
+    "instruction": "Apa arti In Pari Delicto?",
+    "context": "Sama-sama bersalah.",
+    "response": "Adv. (in pah-ree dee-lick-toe) Sama-sama bersalah; jika dua pihak sama-sama bersalah, biasanya pengadilan tidak akan membantu salah satu dari mereka."
+  },
+  {
+    "instruction": "Apa arti In Perpetuity?",
+    "context": "Selamanya.",
+    "response": "Adj. Selamanya (Abadi)."
+  },
+  {
+    "instruction": "Apa arti In Personam?",
+    "context": "Gugatan terhadap orang tertentu.",
+    "response": "Adj. (in purr-soh-nam) Terhadap orang; gugatan yang ditujukan kepada individu tertentu, sehingga putusan mengikat orang tersebut."
+  },
+  {
+    "instruction": "Apa singkatan In Pro Per?",
+    "context": "Mewakili diri sendiri tanpa pengacara.",
+    "response": "Adj. Singkatan dari in propria persona."
+  },
+  {
+    "instruction": "Apa arti In Propria Persona?",
+    "context": "Bertindak sendiri tanpa pengacara di pengadilan.",
+    "response": "Adj. Atas nama sendiri; bertindak sebagai pengacara untuk diri sendiri dalam gugatan (sering disingkat \"pro per\" atau \"pro se\")."
+  },
+  {
+    "instruction": "Apa arti In Re?",
+    "context": "Mengenai atau dalam hal.",
+    "response": "Prep. Dalam hal/Mengenai; sering digunakan dalam judul kasus hukum yang hanya melibatkan satu pihak atau subjek (misal: In re Warisan Budi)."
+  },
+  {
+    "instruction": "Apa arti In Rem?",
+    "context": "Gugatan terhadap barang/properti, bukan orang.",
+    "response": "Adj. Terhadap barang (In rem); gugatan yang diarahkan pada properti itu sendiri untuk menentukan status kepemilikannya, bukan terhadap orang tertentu."
+  },
+  {
+    "instruction": "Apa itu In Terrorem Clause?",
+    "context": "Klausul ancaman dalam wasiat (jika protes, hak waris hilang).",
+    "response": "N. Klausul ancaman; ketentuan dalam wasiat yang mengancam akan mencabut hak waris siapa pun yang menantang keabsahan wasiat tersebut."
+  },
+  {
+    "instruction": "Apa arti In Toto?",
+    "context": "Secara keseluruhan.",
+    "response": "Adj. (in toe-toe) Sepenuhnya/Secara total."
+  },
+  {
+    "instruction": "Apa itu Incapacity?",
+    "context": "Ketidakmampuan fisik/mental atau hukum.",
+    "response": "Adj. Ketidakmampuan (Inkapasitas); tidak mampu bekerja atau mengelola urusan karena cacat, sakit, atau usia. Juga bisa berarti kurangnya kedudukan hukum (seperti anak di bawah umur)."
+  },
+  {
+    "instruction": "Apa itu Incest?",
+    "context": "Hubungan seksual sedarah.",
+    "response": "N. Inses (Sumbang); hubungan seksual antara kerabat dekat (saudara, orang tua-anak) yang merupakan kejahatan."
+  },
+  {
+    "instruction": "Apa arti Inchoate?",
+    "context": "Kejahatan yang belum selesai (percobaan/konspirasi).",
+    "response": "Adj. Belum selesai (Inkoatif); merujuk pada kejahatan potensial yang sudah dimulai tapi belum selesai, seperti konspirasi atau percobaan kejahatan."
+  },
+  {
+    "instruction": "Apa itu Incidental Beneficiary?",
+    "context": "Orang yang kebetulan untung dari kontrak orang lain.",
+    "response": "N. Penerima manfaat insidental; orang yang mendapat manfaat dari tujuan utama suatu trust atau kontrak, meskipun bukan tujuan utamanya."
+  },
+  {
+    "instruction": "Apa definisi Income?",
+    "context": "Uang atau manfaat ekonomi yang diterima.",
+    "response": "N. Pendapatan/Penghasilan; uang atau manfaat ekonomi yang diterima dari kerja (aktif) atau investasi (pasif)."
+  },
+  {
+    "instruction": "Apa itu Income Tax?",
+    "context": "Pajak penghasilan.",
+    "response": "N. Pajak Penghasilan (PPh); pajak atas pendapatan bersih individu atau bisnis."
+  },
+  {
+    "instruction": "Apa itu Incompatibility?",
+    "context": "Ketidakcocokan (alasan cerai).",
+    "response": "N. Ketidakcocokan; kondisi di mana pasangan suami istri tidak lagi ingin hidup bersama, yang menjadi dasar perceraian."
+  },
+  {
+    "instruction": "Apa arti Incompatible?",
+    "context": "Tidak cocok.",
+    "response": "Adj. Tidak kompatibel/Tidak cocok."
+  },
+  {
+    "instruction": "Apa itu Incompetency?",
+    "context": "Kondisi tidak mampu mengurus diri sendiri secara mental.",
+    "response": "N. Ketidakcakapan; kondisi kurangnya kemampuan menangani urusan sendiri karena ketidakmampuan mental atau fisik."
+  },
+  {
+    "instruction": "Apa arti Incompetent?",
+    "context": "Tidak cakap hukum.",
+    "response": "Adj. Tidak cakap; orang yang tidak mampu mengelola urusannya karena kekurangan mental. Bisa menjadi dasar penunjukan wali pengampu."
+  },
+  {
+    "instruction": "Apa itu Incompetent Evidence?",
+    "context": "Bukti yang tidak sah atau tidak relevan di pengadilan.",
+    "response": "N. Bukti tidak kompeten; bukti yang dianggap hakim tidak dapat diterima (inadmissible) karena tidak relevan atau tidak material."
+  },
+  {
+    "instruction": "Apa itu Incontrovertible Evidence?",
+    "context": "Bukti yang tak terbantahkan.",
+    "response": "N. Bukti tak terbantahkan; bukti yang begitu konklusif sehingga tidak mungkin ada kebenaran lain (misal: sidik jari, tes DNA)."
+  },
+  {
+    "instruction": "Apa arti Incorporate?",
+    "context": "Mendirikan perusahaan atau menggabungkan dokumen.",
+    "response": "V. 1) Mendirikan badan hukum (korporasi). 2) Menggabungkan; memasukkan bahasa dari dokumen lain (lihat Incorporate by Reference)."
+  },
+  {
+    "instruction": "Apa itu Incorporate by Reference?",
+    "context": "Memasukkan isi dokumen lain dengan hanya menyebutnya.",
+    "response": "V. Menggabungkan dengan referensi; memasukkan bahasa dari dokumen lain dengan merujuknya, tanpa mengulang isinya secara penuh."
+  },
+  {
+    "instruction": "Apa itu Incorporation?",
+    "context": "Proses pendirian perusahaan.",
+    "response": "N. Pendirian perusahaan (Inkorporasi)."
+  },
+  {
+    "instruction": "Apa arti Incorporeal?",
+    "context": "Tidak berwujud (hak, bukan benda).",
+    "response": "Adj. Tidak berwujud (Inkorporeal); merujuk pada hak, bukan benda fisik."
+  },
+  {
+    "instruction": "Apa arti Incriminate?",
+    "context": "Membuat pernyataan yang menunjukkan kesalahan diri sendiri.",
+    "response": "V. Memberatkan diri (Inkriminasi); membuat pernyataan yang mengakui kejahatan atau menunjukkan keterlibatan dalam kejahatan."
+  },
+  {
+    "instruction": "Apa itu Indecent Exposure?",
+    "context": "Pamer alat kelamin di depan umum (ekshibisionisme).",
+    "response": "N. Tindak asusila (Ekshibisionisme); kejahatan memamerkan alat kelamin di tempat umum dengan maksud mengejutkan orang lain."
+  },
+  {
+    "instruction": "Apa arti Indefeasible?",
+    "context": "Hak yang tidak bisa dibatalkan.",
+    "response": "Adj. Tidak dapat dibatalkan/diganggu gugat; biasanya merujuk pada hak atas properti."
+  },
+  {
+    "instruction": "Apa arti Indemnify?",
+    "context": "Menjamin ganti rugi.",
+    "response": "V. Mengganti rugi/Menjamin (Indemnifikasi); menjamin terhadap kerugian yang mungkin diderita orang lain."
+  },
+  {
+    "instruction": "Apa itu Indemnity?",
+    "context": "Ganti rugi atau perlindungan dari kerugian.",
+    "response": "N. Ganti rugi (Indemnitas); tindakan membuat seseorang \"utuh\" kembali atau melindunginya dari kerugian."
+  },
+  {
+    "instruction": "Apa itu Indenture?",
+    "context": "Akta perjanjian kontrak (kerja/properti).",
+    "response": "N. Perjanjian kontrak (Indenture); jenis akta properti atau kontrak kerja yang mengikat."
+  },
+  {
+    "instruction": "Siapa itu Independent Contractor?",
+    "context": "Pekerja lepas yang bukan karyawan tetap.",
+    "response": "N. Kontraktor independen; orang/bisnis yang melakukan jasa untuk orang lain di bawah kontrak, bukan sebagai karyawan (tidak ada hubungan majikan-karyawan)."
+  },
+  {
+    "instruction": "Apa itu Indeterminate Sentence?",
+    "context": "Vonis penjara dengan rentang waktu (misal 5-10 tahun).",
+    "response": "N. Hukuman tidak pasti; masa penjara yang tidak menyatakan tanggal pelepasan spesifik, melainkan rentang waktu (misal \"lima sampai sepuluh tahun\")."
+  },
+  {
+    "instruction": "Apa itu Indicia?",
+    "context": "Tanda-tanda yang menunjukkan kemungkinan fakta.",
+    "response": "N. (baca: in-dish-yah) Tanda-tanda/Indikasi; keadaan yang cenderung menunjukkan bahwa sesuatu itu mungkin (misal: tanda kepemilikan)."
+  },
+  {
+    "instruction": "Apa itu Indictable Offense?",
+    "context": "Kejahatan yang cukup serius untuk didakwa oleh Dewan Juri Agung.",
+    "response": "N. Pelanggaran yang dapat didakwa; kejahatan di mana ada cukup bukti untuk mendakwa terdakwa dengan kejahatan berat (felony)."
+  },
+  {
+    "instruction": "Apa itu Indictment?",
+    "context": "Surat dakwaan resmi dari Dewan Juri Agung.",
+    "response": "N. Dakwaan (Indictment); tuduhan kejahatan berat yang diputuskan oleh Dewan Juri Agung (Grand Jury) berdasarkan bukti awal."
+  },
+  {
+    "instruction": "Apa arti Indigent?",
+    "context": "Orang miskin yang berhak dapat pengacara gratis.",
+    "response": "N. Orang tidak mampu/Miskin; orang yang sangat miskin sehingga tidak mampu membayar pengacara, sehingga pengadilan harus menunjuk pengacara publik untuknya."
+  },
+  {
+    "instruction": "Apa itu Indispensable Party?",
+    "context": "Pihak yang wajib ada dalam gugatan agar putusan sah.",
+    "response": "N. Pihak yang sangat diperlukan; orang atau entitas yang harus dimasukkan dalam gugatan agar pengadilan dapat membuat putusan akhir yang tuntas."
+  },
+  {
+    "instruction": "Apa itu Infancy dalam hukum?",
+    "context": "Masa di bawah umur (belum dewasa).",
+    "response": "N. Di bawah umur (Minderjarig); secara hukum berarti di bawah usia dewasa (biasanya di bawah 18 tahun)."
+  },
+  {
+    "instruction": "Apa itu Inference?",
+    "context": "Kesimpulan logis dari fakta yang ada.",
+    "response": "N. Inferensi (Kesimpulan); aturan logika di mana fakta dibuktikan dengan menyajikan fakta lain yang mengarah pada satu kesimpulan yang masuk akal (deduksi)."
+  },
+  {
+    "instruction": "Apa itu Information dalam pidana?",
+    "context": "Dakwaan jaksa tanpa melalui Dewan Juri Agung.",
+    "response": "N. Informasi (Dakwaan Jaksa); tuduhan pidana yang diajukan oleh jaksa penuntut umum tanpa dakwaan Grand Jury."
+  },
+  {
+    "instruction": "Apa arti Information and Belief?",
+    "context": "Pernyataan berdasarkan apa yang didengar dan dipercayai benar.",
+    "response": "N. Informasi dan keyakinan; frasa hukum yang berarti orang tersebut menyatakan apa yang telah diberitahukan kepadanya dan dia mempercayainya benar (bukan pengetahuan langsung)."
+  },
+  {
+    "instruction": "Apa itu Informed Consent?",
+    "context": "Persetujuan tindakan medis/hukum setelah tahu semua risikonya.",
+    "response": "N. Persetujuan tindakan medis/hukum (Informed consent); persetujuan untuk melakukan sesuatu hanya setelah semua fakta dan risiko yang relevan diketahui."
+  },
+  {
+    "instruction": "Apa arti Infra?",
+    "context": "Di bawah (merujuk ke bagian tulisan selanjutnya).",
+    "response": "Prep. Di bawah (Infra); singkatan hukum untuk menunjukkan detail akan dibahas nanti dalam dokumen (kebalikan dari supra/di atas)."
+  },
+  {
+    "instruction": "Apa itu Infringement?",
+    "context": "Pelanggaran hak cipta atau paten.",
+    "response": "N. Pelanggaran (Infringement); penggunaan paten, hak cipta, atau merek dagang yang tidak sah tanpa izin."
+  },
+  {
+    "instruction": "Apa itu Ingress?",
+    "context": "Hak masuk ke properti.",
+    "response": "N. Hak masuk (Ingress); hak untuk memasuki properti, sering digabung dengan egress (hak keluar)."
+  },
+  {
+    "instruction": "Apa arti Inherit?",
+    "context": "Mewarisi harta.",
+    "response": "V. Mewarisi; menerima harta dari leluhur setelah kematiannya."
+  },
+  {
+    "instruction": "Apa itu Inheritance?",
+    "context": "Warisan.",
+    "response": "N. Warisan; apa pun yang diterima setelah kematian kerabat."
+  },
+  {
+    "instruction": "Apa itu Injunction?",
+    "context": "Perintah pengadilan melarang atau menyuruh melakukan sesuatu.",
+    "response": "N. Perintah sela/Injunction; perintah pengadilan yang memerintahkan seseorang melakukan sesuatu atau melarang suatu tindakan."
+  },
+  {
+    "instruction": "Apa itu Injunctive Relief?",
+    "context": "Gugatan meminta perintah pengadilan, bukan uang.",
+    "response": "N. Pemulihan injungtif; tindakan pengadilan yang diperintahkan untuk menangani masalah (bukan ganti rugi uang)."
+  },
+  {
+    "instruction": "Apa definisi Injury?",
+    "context": "Cedera fisik, kerusakan reputasi, atau pelanggaran hak.",
+    "response": "N. Cedera/Kerugian; segala kerugian yang dilakukan pada seseorang, baik fisik, reputasi, atau hilangnya hak hukum."
+  },
+  {
+    "instruction": "Apa arti Innocent?",
+    "context": "Tidak bersalah.",
+    "response": "Adj. Tidak bersalah."
+  },
+  {
+    "instruction": "Apa itu Innuendo dalam pencemaran nama baik?",
+    "context": "Sindiran tidak langsung yang merusak nama baik.",
+    "response": "N. Sindiran (Innuendo); petunjuk tidak langsung yang digunakan dalam gugatan pencemaran nama baik untuk menunjukkan makna yang merusak."
+  },
+  {
+    "instruction": "Apa itu Inquest?",
+    "context": "Penyelidikan resmi penyebab kematian.",
+    "response": "N. Pemeriksaan kematian (Inquest); penyelidikan atau sidang oleh koroner ketika ada kematian yang kejam atau mencurigakan."
+  },
+  {
+    "instruction": "Apa definisi Insanity?",
+    "context": "Gangguan jiwa berat yang menghilangkan tanggung jawab hukum.",
+    "response": "N. Ketidakwarasan (Gila); penyakit mental parah sehingga seseorang tidak dapat membedakan fantasi dari kenyataan atau mengendalikan perilakunya."
+  },
+  {
+    "instruction": "Apa itu Insanity Defense?",
+    "context": "Pembelaan terdakwa bahwa ia gila saat kejadian.",
+    "response": "N. Pembelaan ketidakwarasan; klaim terdakwa bahwa dia gila saat kejahatan dilakukan."
+  },
+  {
+    "instruction": "Apa arti Insertion?",
+    "context": "Menambahkan kata dalam dokumen yang sudah ada.",
+    "response": "N. Penyisipan; penambahan bahasa pada tempat dalam dokumen tertulis yang sudah ada."
+  },
+  {
+    "instruction": "Siapa itu Insider?",
+    "context": "Orang dalam perusahaan yang tahu info rahasia.",
+    "response": "N. Orang dalam; seseorang yang memiliki posisi dalam bisnis yang memungkinkannya mengetahui informasi rahasia yang mempengaruhi nilai saham."
+  },
+  {
+    "instruction": "Apa itu Insider Trading?",
+    "context": "Perdagangan saham ilegal menggunakan info orang dalam.",
+    "response": "N. Perdagangan orang dalam; penggunaan informasi rahasia perusahaan untuk membeli/menjual saham demi keuntungan pribadi (ilegal)."
+  },
+  {
+    "instruction": "Apa itu Insolvency?",
+    "context": "Kondisi utang lebih besar dari aset (bangkrut).",
+    "response": "N. Insolvensi (Kebangkrutan); kondisi memiliki lebih banyak utang daripada total aset."
+  },
+  {
+    "instruction": "Apa itu Inspection of Documents?",
+    "context": "Hak memeriksa dokumen lawan dalam gugatan.",
+    "response": "N. Pemeriksaan dokumen; hak untuk memeriksa dan menyalin surat-surat pihak lawan yang relevan dengan kasus."
+  },
+  {
+    "instruction": "Apa itu Installment Contract?",
+    "context": "Kontrak cicilan atau pengiriman bertahap.",
+    "response": "N. Kontrak angsuran; perjanjian di mana pembayaran atau pengiriman dilakukan secara bertahap."
+  },
+  {
+    "instruction": "Apa arti Instruction dalam sidang?",
+    "context": "Penjelasan hukum hakim kepada juri.",
+    "response": "N. Instruksi juri; penjelasan hukum yang diberikan hakim secara lisan kepada juri sebelum musyawarah."
+  },
+  {
+    "instruction": "Apa arti Instrument?",
+    "context": "Dokumen hukum tertulis.",
+    "response": "N. Instrumen; 1) Dokumen hukum tertulis seperti kontrak atau wasiat. 2) Alat."
+  },
+  {
+    "instruction": "Apa itu Insufficient Evidence?",
+    "context": "Bukti tidak cukup untuk membuktikan kasus.",
+    "response": "N. Bukti tidak cukup; temuan hakim bahwa penuntut atau penggugat belum membuktikan kasusnya."
+  },
+  {
+    "instruction": "Apa definisi Insurance?",
+    "context": "Kontrak pengalihan risiko kerugian.",
+    "response": "N. Asuransi; kontrak di mana penanggung setuju membayar tertanggung atas kerugian yang diderita dengan imbalan premi."
+  },
+  {
+    "instruction": "Siapa itu Insured?",
+    "context": "Pihak yang diasuransikan.",
+    "response": "N. Tertanggung; orang atau entitas yang akan diberi ganti rugi atas kerugian oleh penanggung."
+  },
+  {
+    "instruction": "Siapa itu Insurer?",
+    "context": "Perusahaan asuransi.",
+    "response": "N. Penanggung (Perusahaan asuransi)."
+  },
+  {
+    "instruction": "Apa itu Intangible Property?",
+    "context": "Aset tak berwujud seperti saham.",
+    "response": "N. Properti tak berwujud; aset seperti saham yang mewakili nilai tetapi bukan objek fisik nyata."
+  },
+  {
+    "instruction": "Apa arti Integration dalam hukum?",
+    "context": "Penggabungan dokumen atau penghapusan segregasi ras.",
+    "response": "N. Integrasi; 1) Mengadopsi tulisan sebagai bagian dari perjanjian. 2) Menghapus hambatan pemisahan ras (desegregasi)."
+  },
+  {
+    "instruction": "Apa arti Intent?",
+    "context": "Niat atau kehendak mental untuk bertindak.",
+    "response": "N. Niat (Intent); keinginan mental dan kemauan untuk bertindak dengan cara tertentu, elemen krusial dalam kejahatan."
+  },
+  {
+    "instruction": "Apa arti Inter Alia?",
+    "context": "Antara lain.",
+    "response": "Prep. (in-tur eh-lee-ah) Antara lain; frasa Latin yang sering ditemukan dalam tulisan hukum untuk menyebutkan satu contoh dari banyak kemungkinan."
+  },
+  {
+    "instruction": "Apa arti Inter Se?",
+    "context": "Di antara mereka sendiri.",
+    "response": "Prep. (in-tur say) Di antara mereka sendiri."
+  },
+  {
+    "instruction": "Apa arti Inter Vivos?",
+    "context": "Antara orang yang masih hidup (misal hibah).",
+    "response": "Adj. (in-tur veye-vohs) Antara yang hidup; transfer properti antara orang yang masih hidup, bukan melalui wasiat."
+  },
+  {
+    "instruction": "Apa itu Inter Vivos Trust?",
+    "context": "Trust yang dibuat saat pendiri masih hidup.",
+    "response": "N. Trust hidup (Living trust); perwalian yang dimulai selama masa hidup pembuatnya."
+  },
+  {
+    "instruction": "Apa arti Interest dalam properti?",
+    "context": "Hak atau kepentingan atas properti.",
+    "response": "N. Kepentingan/Hak; segala hak sebagian atau total atas properti atau penggunaan properti."
+  },
+  {
+    "instruction": "Apa itu Interim Order?",
+    "context": "Perintah sementara pengadilan.",
+    "response": "N. Perintah sementara (Interim); perintah pengadilan yang bersifat sementara sambil menunggu sidang atau perintah akhir."
+  },
+  {
+    "instruction": "Apa itu Interlineation?",
+    "context": "Menulis di antara baris dokumen (susupan).",
+    "response": "N. Interlineasi (Sisipan); tindakan menulis di antara baris dokumen, biasanya untuk menambahkan sesuatu yang terlewat."
+  },
+  {
+    "instruction": "Apa arti Interlocutory?",
+    "context": "Sementara, belum final.",
+    "response": "Adj. Interlokutori (Sela/Sementara); bersifat sementara dan tidak dimaksudkan sebagai final."
+  },
+  {
+    "instruction": "Apa itu Interlocutory Decree?",
+    "context": "Putusan sela yang belum final.",
+    "response": "N. Putusan sela; putusan pengadilan yang bersifat sementara dan belum final sampai syarat tertentu terpenuhi."
+  },
+  {
+    "instruction": "Apa itu International Law?",
+    "context": "Hukum antar negara.",
+    "response": "N. Hukum Internasional; perjanjian antar negara, kesepakatan multilateral, dan prosedur Mahkamah Internasional."
+  },
+  {
+    "instruction": "Apa itu Interpleader?",
+    "context": "Pihak ketiga menyerahkan uang sengketa ke pengadilan agar pengadilan yang membagi.",
+    "response": "N. Interpleader; prosedur di mana pihak ketiga yang memegang dana sengketa menyerahkannya ke pengadilan dan meminta pengadilan memutuskan siapa yang berhak."
+  },
+  {
+    "instruction": "Apa itu Interrogation?",
+    "context": "Pemeriksaan tersangka oleh polisi.",
+    "response": "N. Interogasi; penanyaan tersangka atau saksi oleh penegak hukum."
+  },
+  {
+    "instruction": "Apa itu Interrogatories?",
+    "context": "Pertanyaan tertulis yang harus dijawab di bawah sumpah sebelum sidang.",
+    "response": "N. Interogatori (Pertanyaan tertulis); serangkaian pertanyaan tertulis kepada pihak lawan yang harus dijawab di bawah sumpah sebagai bagian dari proses discovery."
+  },
+  {
+    "instruction": "Apa itu Interstate Commerce?",
+    "context": "Perdagangan antar negara bagian.",
+    "response": "N. Perdagangan antar negara bagian; perdagangan atau transportasi dari satu negara bagian ke negara bagian lain, yang diatur oleh pemerintah federal."
+  },
+  {
+    "instruction": "Apa arti Intervene?",
+    "context": "Ikut campur dalam gugatan orang lain.",
+    "response": "V. Mengintervensi; mendapatkan izin pengadilan untuk masuk ke dalam gugatan yang sudah berjalan antara pihak lain."
+  },
+  {
+    "instruction": "Apa itu Intervening Cause?",
+    "context": "Penyebab baru yang memutus rantai sebab-akibat asli.",
+    "response": "N. Penyebab penyela; peristiwa yang terjadi antara tindakan asli dan kerusakan, yang memutus hubungan sebab-akibat."
+  },
+  {
+    "instruction": "Apa itu Intervention?",
+    "context": "Proses pihak ketiga bergabung dalam gugatan.",
+    "response": "N. Intervensi; prosedur di mana pihak ketiga bergabung dalam gugatan yang sedang berlangsung."
+  },
+  {
+    "instruction": "Apa itu Intestacy?",
+    "context": "Kondisi meninggal tanpa wasiat.",
+    "response": "N. Intestasi (Tanpa wasiat); kondisi meninggal tanpa meninggalkan wasiat yang sah."
+  },
+  {
+    "instruction": "Apa arti Intestate?",
+    "context": "Meninggal tanpa wasiat.",
+    "response": "Adj. Intestate; merujuk pada situasi di mana seseorang meninggal tanpa meninggalkan wasiat."
+  },
+  {
+    "instruction": "Apa itu Intestate Succession?",
+    "context": "Pembagian warisan menurut undang-undang karena tidak ada wasiat.",
+    "response": "N. Pewarisan ab intestato; pembagian harta ketika seseorang meninggal tanpa wasiat, sesuai aturan undang-undang."
+  },
+  {
+    "instruction": "Apa itu Intoxication?",
+    "context": "Kondisi mabuk.",
+    "response": "N. Intoksikasi (Mabuk); kondisi mabuk akibat alkohol atau narkotika."
+  },
+  {
+    "instruction": "Apa itu Intrinsic Fraud?",
+    "context": "Penipuan yang terjadi di dalam persidangan (misal: sumpah palsu).",
+    "response": "N. Penipuan intrinsik; kebohongan yang merupakan bagian dari kasus itu sendiri (misal kesaksian palsu), dibedakan dari penipuan ekstrinsik."
+  },
+  {
+    "instruction": "Apa arti Inure?",
+    "context": "Mendatangkan manfaat atau berlaku bagi.",
+    "response": "V. Berlaku/Bermanfaat (Inure); menghasilkan manfaat bagi seseorang."
+  },
+  {
+    "instruction": "Apa itu Invasion of Privacy?",
+    "context": "Pelanggaran privasi.",
+    "response": "N. Pelanggaran privasi; intrusi ke dalam kehidupan pribadi orang lain tanpa alasan yang adil, yang dapat digugat."
+  },
+  {
+    "instruction": "Apa itu Inverse Condemnation?",
+    "context": "Gugatan pemilik tanah karena pemerintah merusak nilai tanahnya tanpa mengambil alih.",
+    "response": "N. Kondemnasi terbalik; pengambilan properti oleh pemerintah yang merusak penggunaan properti sedemikian rupa sehingga pemilik menuntut ganti rugi seolah-olah tanahnya disita."
+  },
+  {
+    "instruction": "Apa arti Invest?",
+    "context": "Menanamkan modal.",
+    "response": "V. Berinvestasi; menanamkan uang ke dalam bisnis atau properti untuk mendapatkan keuntungan."
+  },
+  {
+    "instruction": "Apa itu Investment?",
+    "context": "Penanaman modal.",
+    "response": "N. Investasi; uang yang digunakan untuk keuntungan."
+  },
+  {
+    "instruction": "Siapa itu Invitee?",
+    "context": "Orang yang diundang masuk properti (seperti pelanggan toko).",
+    "response": "N. Tamu undangan (Invitee); orang yang datang ke properti atau bisnis orang lain atas undangan (langsung atau tersirat, seperti pelanggan toko)."
+  },
+  {
+    "instruction": "Apa arti Involuntary?",
+    "context": "Tanpa kehendak sendiri (terpaksa).",
+    "response": "Adj. Tidak sukarela (Terpaksa); tanpa niat atau pilihan sendiri."
+  },
+  {
+    "instruction": "Apa arti Ipse Dixit?",
+    "context": "Pernyataan sepihak tanpa bukti.",
+    "response": "V. (ip-sah dicks-it) Dia sendiri yang mengatakannya; berarti satu-satunya bukti fakta adalah pernyataan orang tersebut."
+  },
+  {
+    "instruction": "Apa arti Ipso Facto?",
+    "context": "Dengan sendirinya / karena fakta itu sendiri.",
+    "response": "Prep. (ip-soh fact-toe) Ipso facto (Oleh fakta itu sendiri); dengan sendirinya."
+  },
+  {
+    "instruction": "Apa itu Irreconcilable Differences?",
+    "context": "Perbedaan yang tak teramaikan (alasan cerai).",
+    "response": "N. Perbedaan yang tidak dapat didamaikan; dasar umum untuk perceraian di negara bagian tanpa kesalahan (no-fault divorce)."
+  },
+  {
+    "instruction": "Apa arti Irrelevant?",
+    "context": "Tidak ada hubungannya dengan kasus.",
+    "response": "Adj. Tidak relevan; tidak penting atau tidak berhubungan dengan masalah yang sedang disidangkan."
+  },
+  {
+    "instruction": "Apa itu Irreparable Damage?",
+    "context": "Kerusakan yang tidak bisa diganti dengan uang.",
+    "response": "N. Kerusakan yang tidak dapat diperbaiki; jenis kerugian yang tidak dapat disembuhkan dengan kompensasi uang (misal: penebangan pohon tua, polusi)."
+  },
+  {
+    "instruction": "Apa definisi Issue dalam warisan?",
+    "context": "Keturunan langsung (anak, cucu).",
+    "response": "N. Keturunan (Issue); anak-anak atau keturunan garis langsung seseorang (cucu, cicit)."
+  }
+]
