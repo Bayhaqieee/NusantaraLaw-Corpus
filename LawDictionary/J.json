@@ -1,0 +1,297 @@
+[
+  {
+    "instruction": "Apa arti singkatan J dalam nama hakim?",
+    "context": "Gelar kehormatan untuk hakim dalam penulisan hukum.",
+    "response": "N. Singkatan untuk Judge (Hakim), seperti dalam 'Yang Mulia William B. Boone, J'."
+  },
+  {
+    "instruction": "Siapa itu Jane Doe?",
+    "context": "Nama fiktif untuk perempuan tak dikenal dalam kasus hukum.",
+    "response": "N. Jane Doe; nama fiktif untuk terdakwa perempuan yang tidak diketahui identitasnya saat gugatan diajukan, atau untuk korban perempuan yang belum teridentifikasi di rumah sakit/kamar mayat."
+  },
+  {
+    "instruction": "Apa itu Jaywalking?",
+    "context": "Pelanggaran menyeberang jalan sembarangan.",
+    "response": "N. Menyeberang sembarangan; menyeberang jalan di luar marka penyeberangan (zebra cross) atau melawan lampu lalu lintas. Ini adalah pelanggaran lalu lintas ringan yang bisa didenda."
+  },
+  {
+    "instruction": "Apa singkatan JD?",
+    "context": "Gelar sarjana hukum di sistem AS.",
+    "response": "N. Singkatan untuk Juris Doctor, gelar sarjana hukum profesional."
+  },
+  {
+    "instruction": "Apa arti Jeopardy dalam hukum pidana?",
+    "context": "Bahaya dituntut atau dihukum atas kejahatan.",
+    "response": "N. Bahaya hukum (Jeopardy); risiko didakwa atau dihukum karena kejahatan tertentu. Konstitusi AS melarang seseorang diadili dua kali untuk kejahatan yang sama (Double Jeopardy/Ne bis in idem)."
+  },
+  {
+    "instruction": "Siapa itu Jobber?",
+    "context": "Pedagang perantara yang membeli grosir untuk dijual ke pengecer.",
+    "response": "N. Jobber (Grosir perantara); pedagang yang membeli produk dalam jumlah besar dan menjualnya kembali ke berbagai pengecer, biasanya spesialisasi dalam produk tertentu seperti suku cadang mobil."
+  },
+  {
+    "instruction": "Siapa itu John Doe?",
+    "context": "Nama fiktif untuk laki-laki tak dikenal dalam kasus hukum.",
+    "response": "N. John Doe; nama fiktif untuk terdakwa laki-laki yang tidak diketahui identitasnya, atau korban laki-laki tanpa identitas."
+  },
+  {
+    "instruction": "Apa itu Joinder?",
+    "context": "Penggabungan beberapa gugatan atau pihak dalam satu kasus.",
+    "response": "N. Penggabungan (Joinder); menyatukan beberapa tuntutan hukum atau beberapa pihak dalam satu gugatan, asalkan masalah hukum dan faktanya sama."
+  },
+  {
+    "instruction": "Apa itu Joinder of Issue?",
+    "context": "Titik di mana sengketa hukum resmi dimulai karena ada bantahan.",
+    "response": "N. Titik sengketa (Joinder of issue); saat dalam gugatan ketika terdakwa menolak tuduhan penggugat, sehingga diketahui pertanyaan hukum apa yang diperdebatkan."
+  },
+  {
+    "instruction": "Apa arti Joint dalam hukum?",
+    "context": "Dimiliki atau dilakukan bersama.",
+    "response": "Adj., Adv. Bersama (Joint); merujuk pada properti, hak, atau kewajiban yang bersatu dan dibagi oleh dua orang atau lebih (misal: rekening bersama)."
+  },
+  {
+    "instruction": "Apa itu Joint Adventure?",
+    "context": "Kegiatan bersama dua orang atau lebih yang menimbulkan tanggung jawab bersama.",
+    "response": "N. Petualangan bersama; ketika dua orang atau lebih melakukan tindakan bersama (tidak harus cari untung) yang membuat mereka semua bertanggung jawab atas kecelakaan atau utang yang timbul."
+  },
+  {
+    "instruction": "Apa itu Joint and Several?",
+    "context": "Tanggung jawab renteng (bersama-sama atau sendiri-sendiri).",
+    "response": "Adj. Tanggung renteng (Joint and several); setiap debitur bertanggung jawab atas seluruh jumlah utang atau ganti rugi. Kreditur bisa menagih ke siapa saja di antara mereka."
+  },
+  {
+    "instruction": "Apa itu Joint Custody?",
+    "context": "Hak asuh anak dibagi antara kedua orang tua.",
+    "response": "N. Hak asuh bersama; keputusan pengadilan bahwa kedua orang tua berbagi tanggung jawab fisik dan/atau hukum atas anak setelah perceraian."
+  },
+  {
+    "instruction": "Apa itu Joint Enterprise?",
+    "context": "Usaha bersama untuk tujuan tertentu.",
+    "response": "N. Usaha bersama; aktivitas dua orang atau lebih (biasanya untuk keuntungan) yang mencakup kemitraan atau usaha patungan dengan kontrol manajemen yang setara."
+  },
+  {
+    "instruction": "Apa itu Joint Liability?",
+    "context": "Kewajiban bersama atas utang atau klaim.",
+    "response": "N. Tanggung jawab bersama; ketika dua orang atau lebih sama-sama bertanggung jawab atas utang atau klaim ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Joint Powers Agreement?",
+    "context": "Perjanjian kerja sama antar lembaga pemerintah.",
+    "response": "N. Perjanjian wewenang bersama; kontrak antara kota, kabupaten, atau distrik khusus untuk melakukan layanan atau bekerja sama."
+  },
+  {
+    "instruction": "Apa itu Joint Tenancy?",
+    "context": "Kepemilikan properti bersama dengan hak waris otomatis ke pemilik lain.",
+    "response": "N. Kepemilikan bersama (Joint tenancy); kepemilikan properti oleh dua orang atau lebih di mana jika satu meninggal, hak miliknya otomatis beralih ke pemilik yang masih hidup (right of survivorship)."
+  },
+  {
+    "instruction": "Siapa itu Joint Tortfeasors?",
+    "context": "Dua orang atau lebih yang bersama-sama melakukan perbuatan melawan hukum.",
+    "response": "N. Pelaku kesalahan bersama (Joint tortfeasors); dua orang atau lebih yang kelalaiannya menyebabkan kerusakan pada orang lain, dan biasanya bertanggung jawab secara tanggung renteng."
+  },
+  {
+    "instruction": "Apa itu Joint Venture?",
+    "context": "Usaha patungan untuk proyek khusus.",
+    "response": "N. Usaha patungan (Joint venture); perusahaan yang dimasuki oleh dua orang atau lebih untuk tujuan bisnis terbatas, seperti proyek real estat."
+  },
+  {
+    "instruction": "Apa itu Jones Act?",
+    "context": "UU AS yang melindungi pelaut yang cedera.",
+    "response": "N. Undang-undang Jones; hukum federal AS yang mencakup cedera pada awak kapal di laut dan menetapkan aturan untuk kasus-kasus tersebut."
+  },
+  {
+    "instruction": "Siapa itu Judge?",
+    "context": "Pejabat yang memimpin pengadilan.",
+    "response": "N. Hakim; pejabat yang berwenang memimpin pengadilan, mengadili tuntutan hukum, dan membuat putusan hukum."
+  },
+  {
+    "instruction": "Siapa itu Judge Advocate?",
+    "context": "Perwira hukum militer.",
+    "response": "N. Oditur Militer (Judge Advocate); perwira militer dengan pelatihan hukum yang memberi nasihat hukum atau bertindak sebagai jaksa dalam pengadilan militer."
+  },
+  {
+    "instruction": "Siapa itu Judge Advocate General (JAG)?",
+    "context": "Kepala hukum militer.",
+    "response": "N. Oditur Jenderal (JAG); perwira militer yang menasihati pemerintah tentang pengadilan militer dan mengelola pelaksanaannya."
+  },
+  {
+    "instruction": "Apa itu Judgment?",
+    "context": "Putusan akhir pengadilan.",
+    "response": "N. Putusan (Vonis); keputusan akhir oleh pengadilan dalam gugatan atau penuntutan pidana."
+  },
+  {
+    "instruction": "Apa itu Judgment by Default?",
+    "context": "Putusan karena tergugat tidak hadir.",
+    "response": "Lihat default judgment."
+  },
+  {
+    "instruction": "Siapa itu Judgment Creditor?",
+    "context": "Pemenang gugatan yang berhak menerima uang.",
+    "response": "N. Kreditur putusan; penggugat yang menang dalam gugatan dan pengadilan memutuskan bahwa terdakwa berutang uang kepadanya."
+  },
+  {
+    "instruction": "Apa itu Judgment Debt?",
+    "context": "Utang yang ditetapkan oleh putusan pengadilan.",
+    "response": "N. Utang putusan; jumlah uang dalam putusan pengadilan yang harus dibayar oleh pihak yang kalah kepada pemenang."
+  },
+  {
+    "instruction": "Siapa itu Judgment Debtor?",
+    "context": "Pihak yang kalah gugatan dan harus bayar.",
+    "response": "N. Debitur putusan; terdakwa yang kalah dalam gugatan dan berutang jumlah putusan kepada pemenang."
+  },
+  {
+    "instruction": "Apa itu Judgment Notwithstanding the Verdict (JNOV)?",
+    "context": "Hakim membatalkan putusan juri karena tidak berdasar hukum.",
+    "response": "N. Putusan mengabaikan vonis juri; pembalikan vonis juri oleh hakim pengadilan ketika hakim yakin tidak ada dasar faktual atau hukum untuk vonis tersebut."
+  },
+  {
+    "instruction": "Apa arti Judicial?",
+    "context": "Berkaitan dengan pengadilan atau hakim.",
+    "response": "Adj. Yudisial/Kehakiman; merujuk pada hakim, pengadilan, atau sistem peradilan."
+  },
+  {
+    "instruction": "Apa itu Judicial Discretion?",
+    "context": "Kebebasan hakim mengambil keputusan dalam batas hukum.",
+    "response": "N. Diskresi yudisial; kekuasaan hakim untuk membuat keputusan tentang beberapa masalah tanpa terikat oleh preseden atau aturan ketat, asalkan adil."
+  },
+  {
+    "instruction": "Apa itu Judicial Foreclosure?",
+    "context": "Penyitaan properti melalui proses pengadilan.",
+    "response": "N. Penyitaan yudisial; putusan pengadilan yang memerintahkan penjualan properti jaminan untuk membayar utang (lelang eksekusi)."
+  },
+  {
+    "instruction": "Apa itu Judicial Notice?",
+    "context": "Hakim mengakui fakta umum tanpa perlu bukti (misal: air itu basah).",
+    "response": "N. Pengetahuan hakim (Notosoir); wewenang hakim untuk menerima fakta-fakta tertentu yang merupakan pengetahuan umum tanpa perlu bukti (misal: kalender, pasang surut air)."
+  },
+  {
+    "instruction": "Apa itu Judicial Proceedings?",
+    "context": "Segala tindakan resmi oleh hakim.",
+    "response": "N. Proses peradilan; setiap tindakan oleh hakim terkait persidangan, dengar pendapat, petisi, atau masalah lain di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Judicial Sale?",
+    "context": "Penjualan aset atas perintah pengadilan.",
+    "response": "N. Penjualan yudisial (Lelang pengadilan); penjualan barang oleh pejabat yang ditunjuk pengadilan untuk memenuhi putusan hakim."
+  },
+  {
+    "instruction": "Apa arti Jump Bail?",
+    "context": "Kabur setelah bayar jaminan.",
+    "response": "V. Kabur dari jaminan; gagal muncul di pengadilan setelah menyetor jaminan dengan niat menghindari penuntutan atau penjara."
+  },
+  {
+    "instruction": "Apa itu Jurat?",
+    "context": "Bagian akhir afidavit tempat notaris tanda tangan.",
+    "response": "N. Jurat; bagian dari afidavit di mana orang bersumpah bahwa isinya benar, diisi oleh notaris dengan tanggal dan nama."
+  },
+  {
+    "instruction": "Apa itu Juris Doctor (JD)?",
+    "context": "Gelar sarjana hukum profesional.",
+    "response": "N. Doktor Hukum (JD); gelar hukum yang diberikan setelah lulus dari sekolah hukum universitas."
+  },
+  {
+    "instruction": "Apa itu Jurisdiction?",
+    "context": "Wewenang pengadilan untuk mengadili kasus.",
+    "response": "N. Yurisdiksi (Kewenangan mengadili); wewenang yang diberikan hukum kepada pengadilan untuk mengadili kasus dalam wilayah atau jenis kasus tertentu."
+  },
+  {
+    "instruction": "Apa itu Jurisdictional Amount?",
+    "context": "Batas nilai uang agar kasus bisa masuk pengadilan tertentu.",
+    "response": "N. Jumlah yurisdiksi; kisaran jumlah uang dalam sengketa yang menentukan pengadilan mana yang berwenang mengadili kasus tersebut (misal: pengadilan kecil vs pengadilan tinggi)."
+  },
+  {
+    "instruction": "Apa definisi Jurisprudence?",
+    "context": "Ilmu hukum atau filsafat hukum.",
+    "response": "N. Yurisprudensi (Ilmu hukum); seluruh subjek hukum atau studi tentang hukum dan pertanyaan hukum."
+  },
+  {
+    "instruction": "Siapa itu Jurist?",
+    "context": "Ahli hukum atau hakim.",
+    "response": "N. Ahli hukum/Hakim; meskipun bisa berarti pengacara atau sarjana hukum, secara populer merujuk pada hakim."
+  },
+  {
+    "instruction": "Siapa itu Juror?",
+    "context": "Anggota juri.",
+    "response": "N. Anggota juri; orang yang benar-benar bertugas di juri."
+  },
+  {
+    "instruction": "Apa itu Jury?",
+    "context": "Kelompok warga yang memutuskan fakta di pengadilan.",
+    "response": "N. Juri; sekelompok warga yang dipanggil untuk mendengar persidangan dan memutuskan pertanyaan fakta tentang kesalahan atau ketidakbersalahan."
+  },
+  {
+    "instruction": "Apa itu Jury Box?",
+    "context": "Tempat duduk juri di ruang sidang.",
+    "response": "N. Kotak juri; area tertutup di mana juri duduk selama persidangan."
+  },
+  {
+    "instruction": "Apa itu Jury Fees?",
+    "context": "Bayaran harian untuk anggota juri.",
+    "response": "N. Biaya juri; jumlah minimal yang dibayarkan setiap hari kepada juri plus biaya perjalanan."
+  },
+  {
+    "instruction": "Apa arti Jury of One's Peers?",
+    "context": "Hak diadili oleh juri yang mewakili komunitas.",
+    "response": "N. Juri dari rekan sebaya; hak terdakwa agar juri dipilih dari spektrum populasi yang luas, tidak mendiskriminasi ras atau gender."
+  },
+  {
+    "instruction": "Apa itu Jury Panel?",
+    "context": "Daftar calon juri.",
+    "response": "N. Panel juri; daftar dari mana juri untuk persidangan tertentu dapat dipilih."
+  },
+  {
+    "instruction": "Apa itu Jury Selection?",
+    "context": "Proses memilih juri (Voir Dire).",
+    "response": "N. Seleksi juri; cara juri dipilih melalui pertanyaan oleh hakim dan pengacara serta penolakan calon juri."
+  },
+  {
+    "instruction": "Apa itu Jury Stress?",
+    "context": "Tekanan mental yang dialami juri.",
+    "response": "N. Stres juri; ketegangan mental/emosional yang dialami juri dalam persidangan panjang atau kasus berat."
+  },
+  {
+    "instruction": "Apa itu Jury Tampering?",
+    "context": "Kejahatan mempengaruhi juri secara ilegal.",
+    "response": "N. Mempengaruhi juri (Jury tampering); kejahatan mencoba mempengaruhi juri melalui cara di luar pengadilan, seperti suap atau ancaman."
+  },
+  {
+    "instruction": "Apa itu Jury Trial?",
+    "context": "Persidangan dengan juri sebagai pemutus fakta.",
+    "response": "N. Pengadilan juri; persidangan di mana kasus disajikan kepada juri dan pertanyaan fakta serta putusan akhir ditentukan oleh juri."
+  },
+  {
+    "instruction": "Apa itu Just Compensation?",
+    "context": "Ganti rugi yang adil (misal dalam penggusuran).",
+    "response": "N. Kompensasi yang adil; nilai penuh yang harus dibayar pemerintah untuk properti yang diambil demi kepentingan umum (pengadaan tanah)."
+  },
+  {
+    "instruction": "Apa definisi Justice?",
+    "context": "Keadilan.",
+    "response": "N. Keadilan; kewajaran, kebenaran moral, atau sistem hukum di mana setiap orang menerima haknya."
+  },
+  {
+    "instruction": "Siapa itu Justice of the Peace (JP)?",
+    "context": "Hakim lokal untuk kasus ringan.",
+    "response": "N. Hakim perdamaian; hakim yang menangani masalah hukum kecil seperti pelanggaran ringan, gugatan kecil, dan lalu lintas di pengadilan lokal."
+  },
+  {
+    "instruction": "Apa arti Justiciable?",
+    "context": "Masalah yang bisa diputuskan oleh pengadilan.",
+    "response": "N. Dapat diadili (Yustisiabel); merujuk pada masalah yang mampu diputuskan oleh pengadilan (bukan masalah politik murni)."
+  },
+  {
+    "instruction": "Apa itu Justifiable Homicide?",
+    "context": "Pembunuhan yang dibenarkan hukum (misal bela diri).",
+    "response": "N. Pembunuhan yang dapat dibenarkan; pembunuhan tanpa niat jahat, seperti membela diri atau penembakan oleh polisi dalam tugas."
+  },
+  {
+    "instruction": "Apa itu Juvenile Court?",
+    "context": "Pengadilan anak.",
+    "response": "N. Pengadilan anak (Peradilan Anak); pengadilan khusus yang menangani terdakwa di bawah umur atau kasus penelantaran anak."
+  },
+  {
+    "instruction": "Siapa itu Juvenile Delinquent?",
+    "context": "Anak nakal yang melakukan kejahatan.",
+    "response": "N. Kenakalan remaja (Anak berkonflik dengan hukum); orang di bawah umur yang melakukan kejahatan, yang biasanya tidak dihukum sebagai orang dewasa."
+  }
+]
