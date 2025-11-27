@@ -1,0 +1,462 @@
+[
+  {
+    "instruction": "Apa itu Labor and Materials?",
+    "context": "Kontrak perbaikan yang dibayar berdasarkan biaya tenaga kerja dan bahan.",
+    "response": "N. Tenaga kerja dan bahan (Time and materials); jenis kontrak perbaikan atau pembangunan di mana pembayarannya didasarkan pada biaya aktual tenaga kerja dan bahan yang digunakan, bukan harga tetap."
+  },
+  {
+    "instruction": "Apa itu Laches?",
+    "context": "Doktrin hukum yang menolak gugatan karena penggugat terlalu lama menunda.",
+    "response": "N. Kelalaian menuntut (Laches); doktrin hukum bahwa hak atau klaim tidak akan ditegakkan jika penundaan yang lama dalam mengajukannya telah merugikan pihak lawan."
+  },
+  {
+    "instruction": "Apa definisi Land dalam hukum?",
+    "context": "Tanah beserta segala isinya (mineral, udara, bangunan).",
+    "response": "N. Tanah (Properti nyata); real estat dan semua yang tumbuh di atasnya, hak atas mineral di bawahnya, dan ruang udara di atasnya."
+  },
+  {
+    "instruction": "Siapa itu Landlady?",
+    "context": "Pemilik tanah/kos wanita.",
+    "response": "N. Ibu kos/Pemilik tanah wanita; perempuan yang menyewakan properti kepada orang lain."
+  },
+  {
+    "instruction": "Apa arti Landlocked?",
+    "context": "Tanah yang terkurung tanpa akses jalan keluar.",
+    "response": "Adj. Terkurung (Landlocked); merujuk pada sebidang tanah yang tidak memiliki akses ke jalan umum kecuali dengan melintasi properti orang lain."
+  },
+  {
+    "instruction": "Siapa itu Landlord?",
+    "context": "Pemilik properti yang disewakan.",
+    "response": "N. Tuan tanah/Pemilik sewa; orang yang memiliki properti nyata dan menyewakannya kepada orang lain (penyewa)."
+  },
+  {
+    "instruction": "Apa itu Landlord and Tenant?",
+    "context": "Hukum sewa-menyewa properti.",
+    "response": "N. Sewa-menyewa; bidang hukum yang mengenai penyewaan properti serta hak-hak pemilik dan penyewa."
+  },
+  {
+    "instruction": "Apa itu Landlord's Lien?",
+    "context": "Hak pemilik menahan barang penyewa yang menunggak sewa.",
+    "response": "N. Hak gadai tuan tanah; hak pemilik untuk menjual properti pribadi yang ditinggalkan penyewa untuk menutupi sewa yang belum dibayar atau kerusakan."
+  },
+  {
+    "instruction": "Apa arti Lapse?",
+    "context": "Gagalnya suatu hak atau hadiah warisan karena kematian penerima.",
+    "response": "V./N. Gugur/Kadaluwarsa (Lapse); kegagalan terjadinya suatu hadiah dalam wasiat karena penerima meninggal sebelum pewasiat, atau berhentinya keberlakuan suatu hak."
+  },
+  {
+    "instruction": "Apa definisi Larceny?",
+    "context": "Pencurian barang milik orang lain.",
+    "response": "N. Pencurian (Larceny); kejahatan mengambil barang milik orang lain tanpa izin dengan maksud memilikinya."
+  },
+  {
+    "instruction": "Apa itu Last Antecedent Rule?",
+    "context": "Aturan penafsiran: kata keterangan hanya berlaku untuk kata terdekat sebelumnya.",
+    "response": "N. Aturan anteseden terakhir; doktrin penafsiran undang-undang bahwa kata atau frasa kualifikasi merujuk pada bahasa yang mendahuluinya secara langsung, kecuali akal sehat menunjukkan sebaliknya."
+  },
+  {
+    "instruction": "Apa itu Last Clear Chance?",
+    "context": "Pihak yang punya kesempatan terakhir menghindari kecelakaan dianggap bertanggung jawab.",
+    "response": "N. Kesempatan terakhir yang jelas; aturan hukum kelalaian yang menyatakan bahwa jika tergugat masih memiliki kesempatan untuk menghindari kecelakaan meskipun penggugat lalai, maka tergugat tetap bertanggung jawab."
+  },
+  {
+    "instruction": "Apa itu Last Will and Testament?",
+    "context": "Wasiat terakhir.",
+    "response": "N. Wasiat terakhir; istilah formal untuk surat wasiat."
+  },
+  {
+    "instruction": "Apa itu Latent Defect?",
+    "context": "Cacat tersembunyi yang tidak terlihat saat pemeriksaan wajar.",
+    "response": "N. Cacat tersembunyi; kelemahan atau ketidaksempurnaan yang tidak terlihat pada barang atau hak milik tanah yang diketahui penjual tetapi tidak dapat ditemukan pembeli melalui pemeriksaan wajar."
+  },
+  {
+    "instruction": "Apa itu Lateral Support?",
+    "context": "Hak tanah didukung oleh tanah tetangga agar tidak longsor.",
+    "response": "N. Dukungan lateral; hak pemilik tanah atas jaminan bahwa tanah tetangganya akan memberikan dukungan terhadap kelongsoran atau ambruk."
+  },
+  {
+    "instruction": "Apa definisi Law?",
+    "context": "Sistem peraturan yang mengatur perilaku masyarakat.",
+    "response": "N. Hukum; sistem peraturan untuk mengatur perilaku orang-orang dalam suatu komunitas atau negara demi keadilan dan keteraturan."
+  },
+  {
+    "instruction": "Apa itu Law and Motion Calendar?",
+    "context": "Jadwal sidang khusus untuk mosi dan argumen hukum.",
+    "response": "N. Kalender hukum dan mosi; jadwal pengadilan di mana hanya mosi dan argumen hukum khusus yang didengar (bukan sidang pembuktian penuh)."
+  },
+  {
+    "instruction": "Apa itu Law Book?",
+    "context": "Buku referensi hukum.",
+    "response": "N. Buku hukum; volume apa pun yang berhubungan dengan hukum, termasuk undang-undang, laporan kasus, atau buku teks."
+  },
+  {
+    "instruction": "Apa itu Law of Admiralty?",
+    "context": "Hukum laut/maritim.",
+    "response": "N. Hukum kelautan (Admiralty); undang-undang dan kebiasaan yang menangani tindakan di perairan yang dapat dilayari."
+  },
+  {
+    "instruction": "Apa prinsip Law of the Case?",
+    "context": "Putusan hukum yang sudah dibuat dalam kasus tidak akan diubah lagi.",
+    "response": "N. Hukum kasus tersebut; prinsip bahwa sekali hakim memutuskan pertanyaan hukum dalam suatu gugatan, dia tidak mungkin mengubah pandangannya."
+  },
+  {
+    "instruction": "Apa itu Law of the Land?",
+    "context": "Hukum yang berlaku di suatu negara.",
+    "response": "N. Hukum yang berlaku (Law of the land); istilah slang untuk hukum yang ada saat ini."
+  },
+  {
+    "instruction": "Apa itu Lawsuit?",
+    "context": "Gugatan hukum.",
+    "response": "N. Gugatan (Lawsuit); istilah umum untuk tindakan hukum oleh satu orang atau entitas terhadap yang lain untuk diputuskan di pengadilan."
+  },
+  {
+    "instruction": "Apa arti Lay a Foundation?",
+    "context": "Membangun dasar agar bukti bisa diterima di sidang.",
+    "response": "V. Meletakkan dasar (Lay a foundation); memberikan kualifikasi saksi atau keaslian dokumen kepada hakim agar bukti tersebut dapat diterima."
+  },
+  {
+    "instruction": "Apa arti Leading dalam pertanyaan sidang?",
+    "context": "Pertanyaan yang mengarahkan jawaban saksi.",
+    "response": "V. Mengarahkan (Leading); mengajukan pertanyaan yang menyarankan jawaban kepada saksi (biasanya dilarang untuk saksi sendiri)."
+  },
+  {
+    "instruction": "Apa itu Leading Question?",
+    "context": "Pertanyaan yang menyuapkan jawaban (misal: 'Anda di sana kan?').",
+    "response": "N. Pertanyaan mengarahkan; pertanyaan yang menyarankan jawaban atau menaruh kata-kata di mulut saksi."
+  },
+  {
+    "instruction": "Apa itu Leading the Witness?",
+    "context": "Tindakan pengacara mengarahkan jawaban saksinya.",
+    "response": "N. Mengarahkan saksi; tindakan mengajukan pertanyaan yang menyarankan jawaban kepada saksi sendiri (biasanya tidak etis kecuali dalam pemeriksaan silang)."
+  },
+  {
+    "instruction": "Apa definisi Lease?",
+    "context": "Perjanjian sewa menyewa.",
+    "response": "1) N. Sewa/Kontrak sewa; perjanjian tertulis di mana pemilik mengizinkan penggunaan properti untuk jangka waktu tertentu dengan pembayaran."
+  },
+  {
+    "instruction": "Apa itu Leasehold?",
+    "context": "Hak atas properti sewaan.",
+    "response": "N. Hak sewa (Leasehold); real estat yang menjadi subjek sewa."
+  },
+  {
+    "instruction": "Apa itu Legacy?",
+    "context": "Warisan berupa uang atau barang pribadi.",
+    "response": "N. Warisan (Legasi); hadiah properti pribadi atau uang kepada penerima wasiat."
+  },
+  {
+    "instruction": "Apa arti Legal?",
+    "context": "Sesuai dengan hukum.",
+    "response": "Adj., Adv. Legal/Sah; menurut hukum, tidak melanggar hukum."
+  },
+  {
+    "instruction": "Apa itu Legal Action?",
+    "context": "Tindakan hukum (gugatan/tuntutan).",
+    "response": "N. Tindakan hukum; setiap gugatan, petisi, atau penuntutan."
+  },
+  {
+    "instruction": "Apa itu Legal Advertising?",
+    "context": "Pengumuman hukum wajib di koran atau iklan jasa pengacara.",
+    "response": "N. Iklan hukum; 1) Pemberitahuan resmi yang wajib dipublikasikan (seperti lelang sitaan). 2) Iklan jasa pengacara."
+  },
+  {
+    "instruction": "Apa itu Legal Age?",
+    "context": "Usia dewasa menurut hukum (cakap hukum).",
+    "response": "N. Usia dewasa (Legal age); usia di mana seseorang bertanggung jawab atas tindakannya sendiri dan dapat membuat kontrak (biasanya 18 atau 21 tahun)."
+  },
+  {
+    "instruction": "Apa itu Legal Aid Society?",
+    "context": "Lembaga bantuan hukum untuk orang miskin (LBH).",
+    "response": "N. Lembaga Bantuan Hukum (LBH); organisasi yang membantu orang yang tidak mampu secara finansial tetapi membutuhkan bantuan hukum."
+  },
+  {
+    "instruction": "Apa itu Legal Duty?",
+    "context": "Kewajiban bertindak sesuai hukum (misal hati-hati).",
+    "response": "N. Kewajiban hukum; tanggung jawab kepada orang lain untuk bertindak sesuai dengan hukum (misalnya kewajiban berhati-hati)."
+  },
+  {
+    "instruction": "Apa itu Legal Fiction?",
+    "context": "Asumsi hukum yang dianggap fakta demi keadilan (misal: korporasi adalah orang).",
+    "response": "N. Fiksi hukum; anggapan fakta yang diasumsikan oleh pengadilan demi kenyamanan atau keadilan."
+  },
+  {
+    "instruction": "Apa itu Legal Separation?",
+    "context": "Pisah ranjang resmi lewat pengadilan tanpa cerai.",
+    "response": "N. Pisah ranjang (Legal separation); hak yang diputuskan pengadilan untuk hidup terpisah dengan hak dan kewajiban orang yang bercerai, tetapi statusnya masih menikah."
+  },
+  {
+    "instruction": "Apa itu Legal Services?",
+    "context": "Jasa yang diberikan pengacara.",
+    "response": "N. Layanan hukum; pekerjaan yang dilakukan oleh pengacara untuk klien."
+  },
+  {
+    "instruction": "Apa itu Legal Tender?",
+    "context": "Mata uang sah.",
+    "response": "N. Alat pembayaran sah (Legal tender); semua uang yang diterbitkan oleh pemerintah."
+  },
+  {
+    "instruction": "Apa itu Legalese?",
+    "context": "Bahasa hukum yang rumit dan sulit dipahami awam.",
+    "response": "N. Bahasa hukum (Legalese); slang untuk jargon pengacara yang seringkali misterius dan berbelit-belit."
+  },
+  {
+    "instruction": "Siapa itu Legatee?",
+    "context": "Penerima warisan barang bergerak/uang.",
+    "response": "N. Penerima legasi; orang yang menerima hadiah benda atau uang di bawah wasiat."
+  },
+  {
+    "instruction": "Apa arti Legitimate?",
+    "context": "Sah, atau anak yang lahir dalam pernikahan.",
+    "response": "Adj. Sah (Legitim); 1) Legal, benar. 2) Merujuk pada anak yang lahir dari orang tua yang menikah."
+  },
+  {
+    "instruction": "Apa itu Lemon Law?",
+    "context": "Hukum perlindungan konsumen untuk mobil baru yang cacat.",
+    "response": "N. Hukum lemon (Perlindungan mobil cacat); undang-undang yang memudahkan pembeli kendaraan baru untuk menuntut ganti rugi jika mobil tersebut tidak dapat diperbaiki setelah beberapa kali percobaan."
+  },
+  {
+    "instruction": "Siapa itu Lessee?",
+    "context": "Penyewa.",
+    "response": "N. Penyewa (Lessee); orang yang menyewa properti di bawah sewa tertulis dari pemilik."
+  },
+  {
+    "instruction": "Apa itu Lesser Crime?",
+    "context": "Kejahatan yang lebih ringan.",
+    "response": "N. Kejahatan ringan."
+  },
+  {
+    "instruction": "Apa itu Lesser-included Offense?",
+    "context": "Kejahatan ringan yang otomatis terbukti jika kejahatan berat terbukti.",
+    "response": "N. Pelanggaran yang termasuk di dalamnya; kejahatan yang dibuktikan dengan fakta yang sama dengan kejahatan yang lebih serius."
+  },
+  {
+    "instruction": "Siapa itu Lessor?",
+    "context": "Pemberi sewa (pemilik).",
+    "response": "N. Pemberi sewa (Lessor); pemilik properti yang menyewakannya kepada penyewa."
+  },
+  {
+    "instruction": "Apa arti Let?",
+    "context": "Mengizinkan atau menyewakan.",
+    "response": "V. 1) Mengizinkan. 2) Menyewakan properti."
+  },
+  {
+    "instruction": "Apa itu Letter of Credit?",
+    "context": "Jaminan pembayaran dari bank untuk transaksi bisnis.",
+    "response": "N. Letter of Credit (L/C); dokumen yang diterbitkan oleh bank yang menjamin untuk memberikan jalur kredit kepada pelanggan untuk transaksi bisnis."
+  },
+  {
+    "instruction": "Apa arti Letters dalam hukum waris?",
+    "context": "Surat penunjukan pelaksana warisan.",
+    "response": "N. Surat kuasa wasiat; singkatan untuk letters testamentary atau letters of administration."
+  },
+  {
+    "instruction": "Apa itu Letters of Administration?",
+    "context": "Surat penunjukan administrator warisan (jika tanpa wasiat).",
+    "response": "N. Surat administrasi; dokumen pengadilan yang menyatakan wewenang administrator harta warisan (jika tidak ada wasiat)."
+  },
+  {
+    "instruction": "Apa itu Letters Testamentary?",
+    "context": "Surat pengesahan eksekutor wasiat.",
+    "response": "N. Surat wasiat; dokumen pengadilan yang menyatakan wewenang eksekutor wasiat."
+  },
+  {
+    "instruction": "Apa arti Leverage?",
+    "context": "Menggunakan utang untuk membeli aset.",
+    "response": "N. Leverage (Daya ungkit); penggunaan uang pinjaman untuk membeli real estat atau aset bisnis."
+  },
+  {
+    "instruction": "Apa arti Levy?",
+    "context": "Menyita harta untuk bayar utang putusan pengadilan.",
+    "response": "V. Menyita (Levy); mengambil properti atas perintah eksekusi pengadilan untuk membayar putusan uang."
+  },
+  {
+    "instruction": "Apa arti Lewd and Lascivious?",
+    "context": "Perilaku cabul atau tidak senonoh.",
+    "response": "Adj. Cabul dan tidak senonoh; perilaku yang bertujuan membangkitkan nafsu seksual atau pelanggaran kesusilaan."
+  },
+  {
+    "instruction": "Apa definisi Liability?",
+    "context": "Tanggung jawab hukum.",
+    "response": "N. Kewajiban/Tanggung jawab (Liabilitas); tanggung jawab hukum atas tindakan atau kelalaian seseorang."
+  },
+  {
+    "instruction": "Apa arti Liable?",
+    "context": "Bertanggung jawab secara hukum.",
+    "response": "Adj. Bertanggung jawab (Liable); berkewajiban secara hukum untuk membayar utang atau ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Libel?",
+    "context": "Pencemaran nama baik secara tertulis/permanen.",
+    "response": "N. Fitnah tertulis (Libel); mempublikasikan ketidakbenaran tentang orang lain secara tertulis atau siaran yang merusak reputasinya."
+  },
+  {
+    "instruction": "Apa itu Libel Per Se?",
+    "context": "Fitnah yang jelas merusak (seperti tuduhan kriminal) tanpa perlu bukti kerugian.",
+    "response": "N. Fitnah mutlak; pernyataan palsu tertulis yang menuduh kejahatan atau penyakit menjijikkan, yang dianggap sangat berbahaya sehingga kerugian tidak perlu dibuktikan."
+  },
+  {
+    "instruction": "Apa definisi Liberty?",
+    "context": "Kebebasan dari pengekangan.",
+    "response": "N. Kebebasan (Liberty); kebebasan dari pengekangan dan kekuatan untuk mengikuti kehendak sendiri."
+  },
+  {
+    "instruction": "Apa itu License?",
+    "context": "Izin resmi pemerintah atau pemilik hak.",
+    "response": "N. Lisensi/Izin; izin pemerintah untuk melakukan tindakan tertentu atau izin pemilik hak cipta/properti."
+  },
+  {
+    "instruction": "Siapa itu Licensee?",
+    "context": "Pemegang izin.",
+    "response": "N. Penerima lisensi; orang yang diberi lisensi."
+  },
+  {
+    "instruction": "Siapa itu Licensor?",
+    "context": "Pemberi izin.",
+    "response": "N. Pemberi lisensi; orang yang memberikan lisensi."
+  },
+  {
+    "instruction": "Apa itu Lie Detector Test?",
+    "context": "Tes poligraf (kebohongan).",
+    "response": "N. Tes detektor kebohongan (Poligraf); tes yang mengukur reaksi fisiologis untuk menentukan kebohongan."
+  },
+  {
+    "instruction": "Apa itu Lien?",
+    "context": "Hak jaminan atas properti untuk pembayaran utang.",
+    "response": "N. Hak gadai/Lien; klaim resmi terhadap properti atau dana untuk pembayaran utang atau jasa."
+  },
+  {
+    "instruction": "Siapa itu Lienor?",
+    "context": "Pemegang hak jaminan.",
+    "response": "N. Pemegang hak gadai; orang yang memegang lien atas properti orang lain."
+  },
+  {
+    "instruction": "Apa itu Life Estate?",
+    "context": "Hak menempati properti seumur hidup.",
+    "response": "N. Hak seumur hidup; hak untuk menggunakan atau menempati properti nyata selama hidup seseorang."
+  },
+  {
+    "instruction": "Apa itu Life Without Possibility of Parole?",
+    "context": "Hukuman seumur hidup tanpa bisa bebas bersyarat.",
+    "response": "N. Seumur hidup tanpa pembebasan bersyarat; hukuman penjara seumur hidup di mana narapidana tidak akan pernah dibebaskan."
+  },
+  {
+    "instruction": "Apa itu Limitation of Actions?",
+    "context": "Batas waktu mengajukan gugatan (Kadaluwarsa).",
+    "response": "N. Batas waktu penuntutan (Statute of limitations); periode waktu di mana seseorang harus mengajukan gugatan yang sah."
+  },
+  {
+    "instruction": "Apa itu Limited Jurisdiction?",
+    "context": "Wewenang pengadilan yang terbatas pada kasus tertentu.",
+    "response": "N. Yurisdiksi terbatas; wewenang pengadilan hanya atas jenis kasus tertentu (seperti kepailitan atau klaim kecil)."
+  },
+  {
+    "instruction": "Apa itu Limited Liability?",
+    "context": "Tanggung jawab terbatas (hanya sebesar modal disetor).",
+    "response": "N. Tanggung jawab terbatas; jumlah maksimum kerugian yang bisa ditanggung investor dalam bisnis (hanya sebesar investasinya)."
+  },
+  {
+    "instruction": "Apa itu Limited Partnership?",
+    "context": "Kemitraan dengan mitra pasif yang tanggung jawabnya terbatas.",
+    "response": "N. Kemitraan terbatas (CV); jenis kemitraan di mana ada mitra umum (pengelola) dan mitra terbatas (investor pasif) yang tanggung jawabnya terbatas."
+  },
+  {
+    "instruction": "Apa itu Lineal Descendant?",
+    "context": "Keturunan garis lurus (anak, cucu).",
+    "response": "N. Keturunan langsung; orang yang berada dalam garis langsung leluhur (anak, cucu, cicit)."
+  },
+  {
+    "instruction": "Apa itu Lineup?",
+    "context": "Barisan orang untuk identifikasi tersangka oleh saksi.",
+    "response": "N. Barisan identifikasi; metode penegakan hukum di mana saksi mencoba mengidentifikasi tersangka di antara barisan orang."
+  },
+  {
+    "instruction": "Apa arti Liquidate?",
+    "context": "Menjual aset untuk bayar utang atau tutup bisnis.",
+    "response": "V. Melikuidasi; menjual aset bisnis, membayar tagihan, dan membagi sisanya."
+  },
+  {
+    "instruction": "Apa itu Liquidated Damages?",
+    "context": "Ganti rugi yang jumlahnya sudah ditetapkan di kontrak.",
+    "response": "N. Ganti rugi yang ditetapkan (Liquidated damages); jumlah uang yang disepakati dalam kontrak yang harus dibayar jika terjadi pelanggaran."
+  },
+  {
+    "instruction": "Apa itu Lis Pendens?",
+    "context": "Pemberitahuan bahwa properti sedang dalam sengketa hukum.",
+    "response": "N. (baca: lease pen-dense) Gugatan tertunda; pemberitahuan tertulis bahwa gugatan telah diajukan yang menyangkut hak atas properti nyata."
+  },
+  {
+    "instruction": "Apa itu Literary Property?",
+    "context": "Hak kekayaan intelektual penulis.",
+    "response": "N. Properti sastra; tulisan penulis yang memberinya hak penggunaan, publikasi, dan penjualan (hak cipta)."
+  },
+  {
+    "instruction": "Siapa itu Litigant?",
+    "context": "Pihak yang berperkara.",
+    "response": "N. Pihak berperkara (Litigan); setiap pihak dalam gugatan (penggugat atau tergugat)."
+  },
+  {
+    "instruction": "Apa itu Litigation?",
+    "context": "Proses berperkara di pengadilan.",
+    "response": "N. Litigasi; gugatan atau proses pengadilan untuk menentukan masalah hukum."
+  },
+  {
+    "instruction": "Apa arti Litigious?",
+    "context": "Suka menuntut orang lain.",
+    "response": "Adj. Suka berperkara; merujuk pada orang yang terus-menerus mengajukan tindakan hukum, seringkali tanpa alasan kuat."
+  },
+  {
+    "instruction": "Apa itu Living Trust?",
+    "context": "Trust yang dibuat semasa hidup.",
+    "response": "N. Trust hidup (Inter vivos trust); perwalian yang dibuat dan berlaku selama masa hidup pembuatnya."
+  },
+  {
+    "instruction": "Apa itu Living Will?",
+    "context": "Wasiat medis tentang tindakan penunjang hidup jika koma.",
+    "response": "N. Wasiat hidup (Surat wasiat medis); dokumen yang menunjuk wakil untuk membuat keputusan tentang penghentian bantuan hidup jika seseorang sakit parah/koma."
+  },
+  {
+    "instruction": "Apa arti Locus?",
+    "context": "Tempat kejadian.",
+    "response": "N. (baca: low-cuss) Tempat (TKP); tempat di mana sesuatu terjadi."
+  },
+  {
+    "instruction": "Apa arti Loiter?",
+    "context": "Berkeliaran tanpa tujuan jelas (bisa dianggap pelanggaran).",
+    "response": "V. Berkeliaran; berlama-lama di tempat umum tanpa tujuan tertentu, yang bisa menjadi pelanggaran hukum."
+  },
+  {
+    "instruction": "Apa itu Long Cause?",
+    "context": "Sidang yang diperkirakan memakan waktu lama.",
+    "response": "N. Perkara panjang; gugatan yang diperkirakan sidangnya memakan waktu lebih dari satu hari."
+  },
+  {
+    "instruction": "Apa itu Long-arm Statute?",
+    "context": "Hukum yang mengizinkan pengadilan mengadili orang luar daerah.",
+    "response": "N. Undang-undang lengan panjang; hukum yang memberikan yurisdiksi pengadilan lokal atas perusahaan atau individu luar negara bagian yang tindakannya menyebabkan kerusakan lokal."
+  },
+  {
+    "instruction": "Apa definisi Loss?",
+    "context": "Kerugian finansial atau cedera.",
+    "response": "N. Kerugian; 1) Nilai cedera atau kerusakan akibat kelalaian. 2) Selisih negatif antara pengeluaran dan pendapatan."
+  },
+  {
+    "instruction": "Apa itu Loss of Bargain?",
+    "context": "Kerugian karena gagalnya kesepakatan bisnis.",
+    "response": "N. Kerugian transaksi; ketidakmampuan menyelesaikan penjualan atau kesepakatan bisnis karena pelanggaran kontrak orang lain."
+  },
+  {
+    "instruction": "Apa itu Loss of Consortium?",
+    "context": "Hilangnya hak hubungan suami-istri akibat cedera pasangan.",
+    "response": "N. Kehilangan konsorsium; ketidakmampuan pasangan untuk memiliki hubungan perkawinan normal (seksual/pendampingan) akibat cedera pada pasangannya."
+  },
+  {
+    "instruction": "Apa itu Loss of Use?",
+    "context": "Ganti rugi karena tidak bisa menggunakan barang yang rusak.",
+    "response": "N. Kehilangan penggunaan; ketidakmampuan menggunakan kendaraan atau properti karena kerusakan, yang bisa diganti rugi (misal: biaya sewa mobil pengganti)."
+  },
+  {
+    "instruction": "Apa itu Lower Court?",
+    "context": "Pengadilan tingkat pertama atau lebih rendah.",
+    "response": "N. Pengadilan rendah; pengadilan dengan peringkat lebih rendah, atau pengadilan asal sebelum banding."
+  }
+]

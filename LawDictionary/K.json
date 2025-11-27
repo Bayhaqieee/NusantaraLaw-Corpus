@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Apa arti singkatan K dalam catatan hukum?",
+    "context": "Simbol stenografi umum untuk kontrak.",
+    "response": "N. Simbol singkatan untuk \"kontrak\" (Contract) yang digunakan hampir secara universal oleh pengacara dan mahasiswa hukum dalam catatan mereka."
+  },
+  {
+    "instruction": "Apa itu Pengadilan Kanguru (Kangaroo Court)?",
+    "context": "Istilah untuk pengadilan yang tidak adil atau tidak sah.",
+    "response": "N. Pengadilan kanguru; 1) Pengadilan palsu tanpa dasar hukum (misal dalam geng atau organisasi). 2) Slang untuk pengadilan resmi yang melanggar prosedur dan keadilan secara mencolok sehingga keadilan fundamental diabaikan (peradilan sesat)."
+  },
+  {
+    "instruction": "Apa definisi Penculikan (Kidnapping)?",
+    "context": "Kejahatan membawa orang lain secara paksa.",
+    "response": "N. Penculikan; tindakan mengambil seseorang melawan kehendaknya (atau dari kendali orang tua/wali) dari satu tempat ke tempat lain dengan kekerasan, ancaman, atau intimidasi, sehingga korban kehilangan kebebasan bergerak."
+  },
+  {
+    "instruction": "Apa arti Kin?",
+    "context": "Hubungan kekerabatan.",
+    "response": "N. Kerabat sedarah; sanak saudara yang memiliki hubungan darah."
+  }
+]
