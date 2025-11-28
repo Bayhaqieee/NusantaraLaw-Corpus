@@ -1,0 +1,587 @@
+[
+  {
+    "instruction": "Apa itu M'Naughten Rule?",
+    "context": "Tes hukum kuno untuk menentukan kewarasan terdakwa dalam kasus pidana.",
+    "response": "N. Aturan M'Naughten; tes tradisional \"benar dan salah\" untuk kegilaan hukum dalam penuntutan pidana. Terdakwa dianggap gila secara hukum jika dia tidak dapat membedakan antara benar dan salah terkait kejahatannya."
+  },
+  {
+    "instruction": "Apa singkatan M.O. dalam kriminologi?",
+    "context": "Pola kerja pelaku kejahatan.",
+    "response": "N. Singkatan slang untuk modus operandi, cara atau pola di mana penjahat berulang biasanya melakukan kejahatannya."
+  },
+  {
+    "instruction": "Siapa itu Magistrate?",
+    "context": "Hakim tingkat rendah atau pejabat pengadilan.",
+    "response": "N. Hakim (Magistrate); 1) Istilah umum untuk hakim pengadilan. 2) Pejabat pengadilan tingkat rendah yang menangani klaim kecil atau sidang pendahuluan kasus pidana."
+  },
+  {
+    "instruction": "Apa itu Magna Carta?",
+    "context": "Dokumen sejarah Inggris yang membatasi kekuasaan raja dan melindungi hak warga.",
+    "response": "N. Magna Carta (Piagam Besar); dokumen tahun 1215 yang membatasi kekuasaan mutlak Raja Inggris dan menjadi dasar hak-hak warga negara (seperti pengadilan yang adil)."
+  },
+  {
+    "instruction": "Apa itu Mail Box Rule?",
+    "context": "Aturan kontrak bahwa penerimaan tawaran sah saat surat dikirim, bukan saat diterima.",
+    "response": "N. Aturan kotak pos; dalam hukum kontrak, membuat tawaran tertulis atau penerimaan tawaran menjadi sah jika dikirim melalui pos dalam waktu yang ditentukan, kecuali disyaratkan lain."
+  },
+  {
+    "instruction": "Apa arti Maim?",
+    "context": "Menyebabkan cacat fisik berat pada korban.",
+    "response": "V. Mencederai/Melukai berat (Maim); menimbulkan cedera tubuh yang serius, termasuk mutilasi atau bahaya apa pun yang membatasi kemampuan korban untuk berfungsi secara fisik."
+  },
+  {
+    "instruction": "Apa arti Majority dalam hukum?",
+    "context": "Usia dewasa atau suara terbanyak.",
+    "response": "N. Mayoritas; 1) Usia ketika seseorang dianggap dewasa secara hukum (biasanya 18 atau 21 tahun). 2) Lebih dari 50 persen suara."
+  },
+  {
+    "instruction": "Apa arti Make dalam hukum?",
+    "context": "Membuat atau menandatangani instrumen keuangan.",
+    "response": "V. Membuat; 1) Menciptakan sesuatu. 2) Menandatangani cek, surat sanggup bayar, atau wesel yang menjamin pembayaran uang."
+  },
+  {
+    "instruction": "Apa arti Make One Whole?",
+    "context": "Memberikan ganti rugi penuh agar korban kembali ke kondisi semula.",
+    "response": "V. Memulihkan (Make whole); membayar atau memberikan ganti rugi yang cukup untuk menempatkan pihak yang dirugikan kembali ke posisi semula sebelum kesalahan terjadi."
+  },
+  {
+    "instruction": "Siapa itu Maker?",
+    "context": "Orang yang menandatangani surat utang/cek.",
+    "response": "N. Pembuat (Maker); orang yang menandatangani cek atau surat sanggup bayar, yang membuatnya bertanggung jawab atas pembayaran."
+  },
+  {
+    "instruction": "Apa itu Malfeasance?",
+    "context": "Tindakan pejabat yang sengaja melanggar hukum.",
+    "response": "N. Kejahatan jabatan (Malfeasance); secara sengaja melakukan sesuatu yang salah secara hukum atau moral yang tidak berhak dilakukannya (misal korupsi atau penyalahgunaan wewenang)."
+  },
+  {
+    "instruction": "Apa definisi Malice?",
+    "context": "Niat jahat untuk melukai orang lain.",
+    "response": "N. Niat jahat (Malice); kesalahan yang disengaja dengan maksud untuk menyakiti korban, termasuk kebencian atau pengabaian total terhadap kesejahteraan orang lain."
+  },
+  {
+    "instruction": "Apa itu Malice Aforethought?",
+    "context": "Niat membunuh yang sudah direncanakan.",
+    "response": "N. Niat jahat yang direncanakan; niat sadar untuk menyebabkan kematian atau cedera tubuh yang parah sebelum melakukan kejahatan (syarat pembunuhan berencana)."
+  },
+  {
+    "instruction": "Apa itu Malicious Prosecution?",
+    "context": "Menuntut orang tanpa dasar hukum hanya untuk mengganggu.",
+    "response": "N. Penuntutan jahat; mengajukan gugatan dengan niat menciptakan masalah bagi terdakwa tanpa dasar substansial untuk gugatan tersebut."
+  },
+  {
+    "instruction": "Apa itu Malpractice?",
+    "context": "Kelalaian profesional (dokter/pengacara) yang merugikan klien.",
+    "response": "N. Malpraktik; tindakan atau perilaku berkelanjutan dari seorang profesional yang tidak memenuhi standar kompetensi dan mengakibatkan kerugian yang dapat dibuktikan pada klien atau pasiennya."
+  },
+  {
+    "instruction": "Apa arti Malum in Se?",
+    "context": "Kejahatan yang secara alami dianggap salah (misal: membunuh).",
+    "response": "Adv. (mal-uhm in say) Salah pada dirinya sendiri; tindakan yang secara alami ilegal karena melanggar prinsip moral (seperti pembunuhan, pemerkosaan), bukan hanya karena dilarang undang-undang."
+  },
+  {
+    "instruction": "Apa arti Malum Prohibitum?",
+    "context": "Salah karena dilarang undang-undang (misal: melanggar rambu lalu lintas).",
+    "response": "Adj. (mal-uhm prohibit-uhm) Salah karena dilarang; kejahatan yang dibuat demikian oleh undang-undang, dibandingkan dengan kejahatan yang secara moral salah (malum in se)."
+  },
+  {
+    "instruction": "Apa itu Mandamus?",
+    "context": "Perintah pengadilan agar pejabat publik melakukan tugasnya.",
+    "response": "N. (man-dame-us) Mandamus; perintah pengadilan (writ) yang memerintahkan badan publik atau pejabat pemerintah untuk melakukan tindakan yang diwajibkan oleh hukum."
+  },
+  {
+    "instruction": "Apa itu Mandate?",
+    "context": "Perintah resmi atau amanat.",
+    "response": "N. Mandat; 1) Perintah wajib di bawah undang-undang atau oleh badan publik. 2) Perintah pengadilan banding ke pengadilan yang lebih rendah untuk mematuhi putusan banding."
+  },
+  {
+    "instruction": "Apa arti Mandatory?",
+    "context": "Wajib dilakukan.",
+    "response": "Adj., Adv. Wajib (Mandatory); mutlak dituntut atau diharuskan."
+  },
+  {
+    "instruction": "Apa itu Mandatory Joinder?",
+    "context": "Kewajiban menyertakan pihak tertentu dalam gugatan.",
+    "response": "N. Penggabungan wajib; penyertaan pihak dalam gugatan yang dianggap mutlak diperlukan oleh pengadilan untuk penyelesaian semua masalah dalam kasus tersebut."
+  },
+  {
+    "instruction": "Apa arti Manifest?",
+    "context": "Jelas terlihat atau daftar muatan kapal.",
+    "response": "1) Adj., Adv. Nyata/Jelas; benar-benar jelas atau terbukti. 2) N. Manifes; daftar tertulis barang dalam pengiriman."
+  },
+  {
+    "instruction": "Apa itu Mann Act?",
+    "context": "UU AS yang melarang perdagangan manusia (wanita) antar negara bagian.",
+    "response": "N. Undang-undang federal AS yang menjadikannya kejahatan untuk mengangkut wanita melintasi batas negara bagian untuk tujuan \"tidak bermoral\" (prostitusi)."
+  },
+  {
+    "instruction": "Apa itu Manslaughter?",
+    "context": "Pembunuhan tanpa rencana (misal karena emosi atau kelalaian).",
+    "response": "N. Pembunuhan tanpa rencana (Manslaughter); pembunuhan orang lain tanpa niat jahat sebelumnya (malice aforethought), dibedakan dari pembunuhan berencana (murder)."
+  },
+  {
+    "instruction": "Apa itu Marital Deduction?",
+    "context": "Pengurangan pajak warisan untuk pasangan yang masih hidup.",
+    "response": "N. Pengurangan pernikahan; pengurangan pajak warisan yang diizinkan bagi pasangan yang masih hidup dari nilai harta pasangannya yang meninggal."
+  },
+  {
+    "instruction": "Apa itu Marital Rights?",
+    "context": "Hak suami atas istri (istilah kuno).",
+    "response": "N. Hak perkawinan; ekspresi kuno untuk hak suami atas hubungan seksual dengan istrinya dan untuk mengendalikan operasi rumah tangganya."
+  },
+  {
+    "instruction": "Apa itu Maritime Law?",
+    "context": "Hukum laut.",
+    "response": "N. Hukum maritim; hukum dan peraturan yang secara eksklusif mengatur kegiatan di laut atau perairan yang dapat dilayari."
+  },
+  {
+    "instruction": "Apa itu Mark sebagai tanda tangan?",
+    "context": "Tanda 'X' bagi orang buta huruf sebagai pengganti tanda tangan.",
+    "response": "N. Tanda (Mark); tanda \"X\" yang dibuat oleh orang yang buta huruf atau terlalu lemah untuk menandatangani nama lengkapnya, digunakan sebagai tanda tangan."
+  },
+  {
+    "instruction": "Apa arti Marked for Identification?",
+    "context": "Barang bukti yang diberi label sebelum disahkan hakim.",
+    "response": "Adj. Ditandai untuk identifikasi; dokumen atau objek yang disajikan selama persidangan sebelum ada kesaksian yang mengonfirmasi keasliannya."
+  },
+  {
+    "instruction": "Apa itu Market Value?",
+    "context": "Harga jual wajar di pasar terbuka.",
+    "response": "N. Nilai pasar; harga yang akan diterima penjual properti di pasar terbuka melalui negosiasi, dibedakan dari harga lelang paksa."
+  },
+  {
+    "instruction": "Apa itu Marketable Title?",
+    "context": "Hak milik tanah yang bersih dan bisa dijual.",
+    "response": "N. Hak milik yang dapat dipasarkan; hak atas properti nyata yang tidak memiliki beban (bebas sengketa) dan bebas dari keberatan yang wajar."
+  },
+  {
+    "instruction": "Apa definisi Marriage?",
+    "context": "Penyatuan sah laki-laki dan perempuan.",
+    "response": "N. Pernikahan; penyatuan laki-laki dan perempuan dalam perkawinan oleh orang yang memenuhi syarat hukum, setelah memperoleh lisensi nikah yang sah."
+  },
+  {
+    "instruction": "Siapa itu Marshal?",
+    "context": "Pejabat penegak hukum pengadilan federal AS.",
+    "response": "N. Marshal; pejabat pengadilan federal yang bertugas mengirimkan dokumen pengadilan dan bertindak sebagai petugas penegak hukum di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Martial Law?",
+    "context": "Darurat militer.",
+    "response": "N. Darurat militer; sistem kontrol penuh oleh militer suatu negara atas semua kegiatan, termasuk sipil, biasanya selama keadaan darurat atau perang."
+  },
+  {
+    "instruction": "Apa itu Massachusetts Trust?",
+    "context": "Bentuk bisnis trust investasi.",
+    "response": "N. Trust Massachusetts; bisnis di mana investor memberikan wewenang manajemen kepada wali amanat dan menerima \"sertifikat trust\" (mirip saham)."
+  },
+  {
+    "instruction": "Apa arti Master dalam hukum kerja?",
+    "context": "Istilah lama untuk majikan.",
+    "response": "N. Majikan (Master); istilah lama untuk pemberi kerja dalam hubungan kerja \"master and servant.\""
+  },
+  {
+    "instruction": "Apa itu Master and Servant?",
+    "context": "Hukum ketenagakerjaan (istilah lama).",
+    "response": "N. Majikan dan pelayan; badan hukum yang berkaitan dengan hubungan majikan dan karyawan."
+  },
+  {
+    "instruction": "Apa arti Material dalam bukti?",
+    "context": "Relevan dan penting untuk kasus.",
+    "response": "Adj. Material/Penting; relevan dan signifikan. Bukti material adalah bukti yang memiliki hubungan substansial dengan kasus."
+  },
+  {
+    "instruction": "Apa itu Material Representation?",
+    "context": "Pernyataan penting yang mempengaruhi keputusan kontrak.",
+    "response": "N. Representasi material; pernyataan meyakinkan yang dibuat untuk membujuk seseorang masuk ke dalam kontrak."
+  },
+  {
+    "instruction": "Siapa itu Material Witness?",
+    "context": "Saksi kunci yang kesaksiannya sangat penting.",
+    "response": "N. Saksi material (Saksi kunci); orang yang tampaknya memiliki informasi tentang pokok gugatan atau kejahatan yang cukup signifikan untuk memengaruhi hasil kasus."
+  },
+  {
+    "instruction": "Apa itu Matter of Record?",
+    "context": "Segala sesuatu yang sudah dicatat resmi di pengadilan.",
+    "response": "N. Hal yang tercatat; apa pun, termasuk kesaksian dan bukti, yang telah dicatat oleh panitera pengadilan atau pelapor pengadilan."
+  },
+  {
+    "instruction": "Apa itu Maturity dalam utang?",
+    "context": "Tanggal jatuh tempo pembayaran.",
+    "response": "N. Jatuh tempo; tanggal ketika pembayaran jumlah pokok yang terutang berdasarkan surat sanggup bayar menjadi wajib dibayar."
+  },
+  {
+    "instruction": "Apa itu Maxims?",
+    "context": "Prinsip-prinsip hukum dasar.",
+    "response": "N. Maksim (Pepatah hukum); kumpulan kebenaran hukum yang digunakan sebagai pedoman oleh hakim dan pengacara (misal: \"Siapa yang menyetujui tidak dirugikan\")."
+  },
+  {
+    "instruction": "Apa arti May dalam undang-undang?",
+    "context": "Boleh (opsional), beda dengan 'shall' (wajib).",
+    "response": "V. Boleh/Dapat (May); pilihan untuk bertindak atau tidak, dibedakan dari \"shall\" (harus/wajib)."
+  },
+  {
+    "instruction": "Apa itu Mayhem?",
+    "context": "Kejahatan memotong atau merusak anggota tubuh orang lain.",
+    "response": "N. Penganiayaan berat (Mayhem); kejahatan melumpuhkan, merusak wajah, atau memotong anggota tubuh orang lain dengan sengaja."
+  },
+  {
+    "instruction": "Apa itu McNabb-Mallory Rule?",
+    "context": "Aturan yang melarang pengakuan yang didapat saat penahanan ilegal.",
+    "response": "N. Aturan bukti federal yang melarang penggunaan pernyataan yang memberatkan yang dibuat oleh terdakwa saat dia ditahan melebihi batas waktu legal sebelum didakwa."
+  },
+  {
+    "instruction": "Apa itu Mechanic's Lien?",
+    "context": "Hak tukang bangunan menahan properti jika upah belum dibayar.",
+    "response": "N. Hak gadai mekanik; hak pekerja bangunan atau pemasok material untuk menempatkan lien pada properti real estat jika mereka belum dibayar atas pekerjaan mereka."
+  },
+  {
+    "instruction": "Apa itu Mediation?",
+    "context": "Penyelesaian sengketa dengan bantuan penengah netral.",
+    "response": "N. Mediasi; upaya menyelesaikan sengketa hukum melalui partisipasi aktif pihak ketiga (mediator) yang bekerja untuk menemukan titik temu."
+  },
+  {
+    "instruction": "Siapa itu Mediator?",
+    "context": "Penengah dalam mediasi.",
+    "response": "N. Mediator; orang yang melakukan mediasi, biasanya pengacara atau ahli yang mencoba mendamaikan pihak yang bersengketa."
+  },
+  {
+    "instruction": "Apa arti Meet and Confer?",
+    "context": "Kewajiban pengacara bertemu untuk mencoba selesaikan masalah sebelum sidang.",
+    "response": "N. Bertemu dan berunding; persyaratan pengadilan agar pengacara bertemu untuk mencoba menyelesaikan masalah atau menentukan poin konflik sebelum sidang."
+  },
+  {
+    "instruction": "Apa itu Meeting of the Minds?",
+    "context": "Kesepahaman kedua pihak yang menjadi syarat sah kontrak.",
+    "response": "N. Kesepakatan pemikiran (Konsensus); ketika dua pihak dalam perjanjian memiliki pemahaman yang sama tentang ketentuan perjanjian (syarat mutlak kontrak)."
+  },
+  {
+    "instruction": "Apa itu Memorandum?",
+    "context": "Catatan singkat atau opini hakim.",
+    "response": "N. Memorandum; 1) Tulisan singkat, catatan, atau ringkasan. 2) Pernyataan singkat oleh hakim yang mengumumkan putusannya."
+  },
+  {
+    "instruction": "Apa itu Mens Rea?",
+    "context": "Niat jahat (unsur mental kejahatan).",
+    "response": "N. (menz ray-ah) Mens Rea (Niat jahat); bahasa Latin untuk \"pikiran yang bersalah,\" atau niat kriminal dalam melakukan tindakan."
+  },
+  {
+    "instruction": "Apa itu Mental Anguish?",
+    "context": "Penderitaan batin yang bisa digugat.",
+    "response": "N. Penderitaan mental; penderitaan batin yang mencakup ketakutan, kecemasan, depresi, atau kesedihan akibat tindakan orang lain."
+  },
+  {
+    "instruction": "Apa itu Mental Cruelty?",
+    "context": "Kekejaman mental (alasan cerai).",
+    "response": "N. Kekejaman mental; istilah yang digunakan untuk membenarkan pemberian perceraian ketika salah satu pasangan menyebabkan penderitaan batin pada pasangannya."
+  },
+  {
+    "instruction": "Apa itu Mental Suffering?",
+    "context": "Sama dengan Mental Anguish.",
+    "response": "N. Penderitaan mental (lihat Mental Anguish)."
+  },
+  {
+    "instruction": "Apa itu Mercantile Law?",
+    "context": "Hukum dagang.",
+    "response": "N. Hukum dagang (Mercantile law); bidang hukum yang menangani perdagangan, penjualan, transportasi, dan transaksi bisnis."
+  },
+  {
+    "instruction": "Apa arti Merchantable?",
+    "context": "Barang yang layak jual dan pakai.",
+    "response": "Adj. Layak jual (Merchantable); produk dengan kualitas yang cukup tinggi untuk dijual dan digunakan sesuai tujuan pembuatannya."
+  },
+  {
+    "instruction": "Apa itu Merger perusahaan?",
+    "context": "Penggabungan dua perusahaan menjadi satu.",
+    "response": "N. Merger (Penggabungan); bergabungnya dua perusahaan di mana satu perusahaan mentransfer semua asetnya ke perusahaan lain yang terus ada."
+  },
+  {
+    "instruction": "Apa arti Mesne?",
+    "context": "Tengah atau perantara.",
+    "response": "Adj. (mean) Menengah/Perantara; titik tengah di antara dua ekstrem (jarang digunakan kecuali dalam \"mesne profits\")."
+  },
+  {
+    "instruction": "Apa itu Mesne Profits?",
+    "context": "Keuntungan yang didapat selama sengketa tanah.",
+    "response": "N. Keuntungan sela; keuntungan yang terkumpul selama ada sengketa kepemilikan tanah, yang bisa dituntut oleh pemilik sah dari penghuni ilegal."
+  },
+  {
+    "instruction": "Apa itu Metes and Bounds?",
+    "context": "Metode deskripsi batas tanah dengan ukuran dan arah.",
+    "response": "N. Batas dan ukuran (Metes and bounds); deskripsi surveyor tentang sebidang properti nyata menggunakan jarak, sudut, dan arah yang diukur dengan cermat."
+  },
+  {
+    "instruction": "Apa itu Military Law?",
+    "context": "Hukum militer.",
+    "response": "N. Hukum militer; peraturan yang mengatur perilaku anggota angkatan bersenjata."
+  },
+  {
+    "instruction": "Apa itu Mining Claim?",
+    "context": "Hak menambang di tanah negara.",
+    "response": "N. Klaim pertambangan; deskripsi batas properti di mana bijih logam dan/atau mineral mungkin berada, yang diajukan ke pemerintah."
+  },
+  {
+    "instruction": "Apa itu Ministerial Act?",
+    "context": "Tindakan administratif rutin tanpa kebijakan pribadi.",
+    "response": "N. Tindakan administratif (Ministerial act); tindakan pejabat pemerintah yang dilakukan sesuai prosedur standar tanpa menggunakan penilaian individu."
+  },
+  {
+    "instruction": "Siapa itu Minor?",
+    "context": "Orang di bawah umur.",
+    "response": "N. Anak di bawah umur (Minor); seseorang di bawah usia hukum (biasanya 18 tahun)."
+  },
+  {
+    "instruction": "Apa arti Minority?",
+    "context": "Kelompok minoritas atau suara kalah.",
+    "response": "N. Minoritas; 1) Pihak dengan suara kurang dari setengah. 2) Kelompok ras/etnis yang bukan mayoritas."
+  },
+  {
+    "instruction": "Apa itu Minutes?",
+    "context": "Risalah rapat atau sidang.",
+    "response": "N. Risalah (Notulen); catatan tertulis pertemuan, khususnya dewan direksi perusahaan atau proses pengadilan."
+  },
+  {
+    "instruction": "Apa itu Miranda Warning?",
+    "context": "Peringatan hak tersangka saat ditangkap (hak diam, hak pengacara).",
+    "response": "N. Peringatan Miranda; persyaratan bahwa polisi harus memberi tahu tersangka yang ditangkap tentang haknya untuk diam dan hak atas pengacara sebelum interogasi."
+  },
+  {
+    "instruction": "Apa itu Mirror Wills?",
+    "context": "Wasiat suami-istri yang isinya saling mewariskan satu sama lain.",
+    "response": "N. Wasiat cermin; wasiat suami dan istri yang identik kecuali masing-masing memberikan hadiah yang sama kepada yang lain."
+  },
+  {
+    "instruction": "Apa itu Misadventure?",
+    "context": "Kematian kecelakaan murni tanpa unsur pidana.",
+    "response": "N. Kecelakaan murni (Misadventure); kematian karena kecelakaan yang tidak disengaja tanpa pelanggaran hukum atau kelalaian kriminal."
+  },
+  {
+    "instruction": "Apa itu Misappropriation?",
+    "context": "Penyalahgunaan dana atau properti orang lain.",
+    "response": "N. Penyalahgunaan (Misappropriation); penggunaan ilegal yang disengaja atas properti atau dana orang lain untuk penggunaan sendiri."
+  },
+  {
+    "instruction": "Apa itu Misdemeanor?",
+    "context": "Tindak pidana ringan.",
+    "response": "N. Tindak pidana ringan (Misdemeanor); kejahatan yang lebih ringan dari felony, biasanya dihukum denda atau penjara singkat (kurang dari setahun)."
+  },
+  {
+    "instruction": "Apa itu Misfeasance?",
+    "context": "Kesalahan pelaksanaan tugas yang sah (bukan niat jahat).",
+    "response": "N. Kesalahan pelaksanaan (Misfeasance); kesalahan atau kecerobohan dalam manajemen bisnis atau jabatan publik, tetapi tanpa niat jahat atau pelanggaran hukum."
+  },
+  {
+    "instruction": "Apa itu Misjoinder?",
+    "context": "Kesalahan penggabungan pihak/tuntutan dalam satu gugatan.",
+    "response": "N. Salah penggabungan (Misjoinder); penyertaan pihak atau penyebab tindakan dalam satu gugatan yang bertentangan dengan undang-undang."
+  },
+  {
+    "instruction": "Apa itu Misnomer?",
+    "context": "Kesalahan nama dalam dokumen hukum.",
+    "response": "N. Salah nama (Misnomer)."
+  },
+  {
+    "instruction": "Apa itu Misprision of a Felony?",
+    "context": "Menyembunyikan kejahatan orang lain.",
+    "response": "N. Penyembunyian kejahatan; kejahatan menyembunyikan kejahatan berat (felony) orang lain dari penegak hukum."
+  },
+  {
+    "instruction": "Apa itu Misrepresentation?",
+    "context": "Pernyataan palsu untuk menipu.",
+    "response": "N. Misrepresentasi (Pernyataan keliru); kejahatan atau kesalahan perdata menyatakan fakta yang salah untuk mendapatkan uang atau keuntungan."
+  },
+  {
+    "instruction": "Apa itu Mistake dalam kontrak?",
+    "context": "Kesalahpahaman fakta yang bisa membatalkan kontrak.",
+    "response": "N. Kekhilafan (Mistake); kesalahan dalam memahami fakta atau hukum yang menyebabkan pihak masuk ke dalam kontrak tanpa memahami kewajiban."
+  },
+  {
+    "instruction": "Apa itu Mistrial?",
+    "context": "Sidang batal karena kesalahan prosedur atau juri buntu.",
+    "response": "N. Pengadilan batal (Mistrial); pengakhiran persidangan sebelum kesimpulan normalnya karena kesalahan prosedural atau juri macet (hung jury)."
+  },
+  {
+    "instruction": "Apa itu Mitigating Circumstances?",
+    "context": "Keadaan yang meringankan hukuman.",
+    "response": "N. Keadaan yang meringankan; kondisi yang tidak membenarkan kejahatan tetapi dipertimbangkan untuk mengurangi hukuman (misal: provokasi)."
+  },
+  {
+    "instruction": "Apa itu Mitigation of Damages?",
+    "context": "Kewajiban korban untuk meminimalkan kerugiannya sendiri.",
+    "response": "N. Mitigasi kerugian; persyaratan bahwa seseorang yang dirugikan harus mengambil langkah wajar untuk mengurangi kerusakan atau biaya agar tidak bertambah parah."
+  },
+  {
+    "instruction": "Apa itu Modification?",
+    "context": "Perubahan perintah pengadilan yang sudah ada.",
+    "response": "N. Modifikasi; perubahan dalam perintah pengadilan atau putusan yang ada karena perubahan keadaan (misal: ubah tunjangan anak)."
+  },
+  {
+    "instruction": "Apa itu Modus Operandi?",
+    "context": "Cara operasi penjahat.",
+    "response": "N. (baca: mode-us ah-purr-and-ee) Modus operandi; istilah Latin untuk \"cara beroperasi,\" pola perilaku kriminal."
+  },
+  {
+    "instruction": "Apa arti Moiety?",
+    "context": "Setengah bagian (istilah lama).",
+    "response": "N. Setengah bagian (Moiety); referensi umum untuk kepentingan dalam properti nyata."
+  },
+  {
+    "instruction": "Apa itu Molestation?",
+    "context": "Pencabulan anak.",
+    "response": "N. Pencabulan (Molestation); kejahatan tindakan seksual dengan anak-anak."
+  },
+  {
+    "instruction": "Apa itu Monopoly?",
+    "context": "Penguasaan pasar oleh satu pihak.",
+    "response": "N. Monopoli; bisnis yang mengendalikan sebagian besar produksi atau penjualan produk sehingga mengendalikan pasar."
+  },
+  {
+    "instruction": "Apa itu Month-to-month?",
+    "context": "Sewa bulanan tanpa kontrak jangka panjang.",
+    "response": "Adj. Bulanan; penyewaan di mana penyewa membayar sewa bulanan tanpa sewa jangka panjang, dan dapat diakhiri kapan saja dengan pemberitahuan 30 hari."
+  },
+  {
+    "instruction": "Apa itu Monument dalam survei tanah?",
+    "context": "Tanda batas tanah fisik.",
+    "response": "N. Tanda batas (Patok); 1) Landmark mapan yang digunakan surveyor sebagai bagian dari deskripsi hukum properti."
+  },
+  {
+    "instruction": "Apa arti Moot?",
+    "context": "Sudah tidak relevan atau hanya teoretis.",
+    "response": "Adj. Tidak relevan lagi (Moot); 1) Belum diputuskan. 2) Masalah yang hanya memiliki kepentingan akademis karena situasi sudah berubah."
+  },
+  {
+    "instruction": "Apa itu Moot Court?",
+    "context": "Simulasi sidang untuk mahasiswa hukum.",
+    "response": "N. Pengadilan semu (Moot court); latihan sekolah hukum di mana siswa memperdebatkan kasus fiktif."
+  },
+  {
+    "instruction": "Apa itu Moot Point?",
+    "context": "Poin yang sudah tidak penting untuk dibahas.",
+    "response": "N. Poin akademis; pertanyaan hukum yang tidak lagi relevan untuk diputuskan."
+  },
+  {
+    "instruction": "Apa itu Moral Certainty?",
+    "context": "Keyakinan juri bahwa terdakwa bersalah (di luar keraguan wajar).",
+    "response": "N. Kepastian moral; keyakinan yang wajar dari juri bahwa bukti menunjukkan terdakwa bersalah."
+  },
+  {
+    "instruction": "Apa itu Moral Turpitude?",
+    "context": "Perilaku amoral yang keji.",
+    "response": "N. Kesusilaan buruk (Moral turpitude); pelanggaran berat terhadap standar perilaku moral, kejian."
+  },
+  {
+    "instruction": "Apa itu Moratorium?",
+    "context": "Penundaan pembayaran utang atau aktivitas.",
+    "response": "N. Moratorium; penangguhan aktivitas atau penundaan sukarela penagihan utang."
+  },
+  {
+    "instruction": "Apa itu Mortgage?",
+    "context": "Jaminan utang dengan properti (Hipotek).",
+    "response": "N. Hipotek (Mortgage); dokumen di mana pemilik menjaminkan hak atas properti nyata kepada pemberi pinjaman sebagai jaminan pinjaman."
+  },
+  {
+    "instruction": "Siapa itu Mortgagee?",
+    "context": "Pemberi pinjaman (Bank).",
+    "response": "N. Penerima hipotek (Kreditur); orang atau bisnis yang memberikan pinjaman yang dijamin dengan properti."
+  },
+  {
+    "instruction": "Siapa itu Mortgagor?",
+    "context": "Peminjam uang (Pemilik rumah).",
+    "response": "N. Pemberi hipotek (Debitur); orang yang meminjam uang dan menjaminkan propertinya."
+  },
+  {
+    "instruction": "Apa itu Motion?",
+    "context": "Permohonan resmi kepada hakim.",
+    "response": "N. Mosi/Permohonan; permintaan formal yang dibuat kepada hakim untuk perintah atau putusan (misal: minta penundaan sidang)."
+  },
+  {
+    "instruction": "Apa itu Motion for a New Trial?",
+    "context": "Permintaan sidang ulang karena ada kesalahan fatal.",
+    "response": "N. Mosi untuk pengadilan baru; permintaan pihak yang kalah agar kasus diadili lagi karena kesalahan hukum signifikan dalam sidang sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Motion for a Summary Judgment?",
+    "context": "Permintaan putusan langsung tanpa sidang penuh karena fakta sudah jelas.",
+    "response": "N. Mosi putusan sela (Summary judgment); permintaan tertulis untuk putusan yang memenangkan pemohon sebelum sidang, berdasarkan klaim bahwa tidak ada fakta yang diperdebatkan."
+  },
+  {
+    "instruction": "Apa itu Motion for Dismissal?",
+    "context": "Permintaan agar kasus dibatalkan.",
+    "response": "N. Mosi pembatalan/penolakan; permohonan terdakwa agar hakim memutuskan bahwa penggugat/jaksa gagal membuktikan kasusnya."
+  },
+  {
+    "instruction": "Apa itu Motion in Limine?",
+    "context": "Permohonan di awal sidang untuk menolak bukti tertentu.",
+    "response": "N. Mosi in limine; mosi yang dibuat pada awal persidangan meminta hakim memutuskan bahwa bukti tertentu tidak boleh diperkenalkan."
+  },
+  {
+    "instruction": "Apa itu Motion to Strike?",
+    "context": "Permintaan menghapus bagian dokumen hukum.",
+    "response": "N. Mosi untuk mencoret; permintaan perintah hakim untuk menghapus semua atau sebagian dari pembelaan hukum lawan."
+  },
+  {
+    "instruction": "Apa itu Motion to Suppress?",
+    "context": "Permintaan menolak bukti ilegal.",
+    "response": "N. Mosi untuk menekan bukti; mosi (biasanya oleh terdakwa pidana) untuk melarang bukti tertentu (misal pengakuan paksa) dalam sidang."
+  },
+  {
+    "instruction": "Apa itu Motive?",
+    "context": "Alasan melakukan kejahatan.",
+    "response": "N. Motif; alasan yang mungkin seseorang melakukan kejahatan (seperti cemburu, serakah)."
+  },
+  {
+    "instruction": "Apa arti Mouthpiece?",
+    "context": "Slang untuk pengacara.",
+    "response": "N. Slang kuno untuk pengacara seseorang."
+  },
+  {
+    "instruction": "Siapa itu Movant?",
+    "context": "Pihak yang mengajukan mosi.",
+    "response": "N. Pemohon (Movant); pihak dalam gugatan yang membuat mosi."
+  },
+  {
+    "instruction": "Apa arti Move dalam sidang?",
+    "context": "Mengajukan permohonan.",
+    "response": "V. Mengajukan mosi; membuat permohonan di pengadilan untuk perintah atau putusan."
+  },
+  {
+    "instruction": "Apa itu Multifarious?",
+    "context": "Gugatan yang isinya campur aduk tidak semestinya.",
+    "response": "Adj. Majemuk/Campur aduk; gugatan di mana berbagai pihak atau penyebab tindakan digabungkan secara tidak tepat (misjoinder)."
+  },
+  {
+    "instruction": "Apa itu Multiplicity of Suits?",
+    "context": "Banyak gugatan terpisah yang seharusnya digabung.",
+    "response": "N. Multiplisitas gugatan; beberapa tuntutan hukum aktual atau potensial yang seharusnya digabungkan dalam satu gugatan."
+  },
+  {
+    "instruction": "Apa arti Municipal?",
+    "context": "Terkait kota madya.",
+    "response": "Adj. Kota madya (Kotamadya); merujuk pada kota atau kota praja yang berbadan hukum."
+  },
+  {
+    "instruction": "Apa itu Municipal Court?",
+    "context": "Pengadilan tingkat rendah di kota.",
+    "response": "N. Pengadilan kota; pengadilan tingkat rendah yang biasanya mengadili pelanggaran pidana ringan dan gugatan perdata kecil."
+  },
+  {
+    "instruction": "Apa itu Muniment of Title?",
+    "context": "Dokumen bukti kepemilikan tanah.",
+    "response": "N. Bukti hak milik; bukti dokumenter hak atas properti nyata (seperti akta atau dekrit warisan)."
+  },
+  {
+    "instruction": "Apa definisi Murder?",
+    "context": "Pembunuhan berencana dengan niat jahat.",
+    "response": "N. Pembunuhan berencana (Murder); pembunuhan manusia oleh orang waras, dengan niat, niat jahat sebelumnya (malice aforethought), dan tanpa alasan hukum."
+  },
+  {
+    "instruction": "Apa arti Mutual?",
+    "context": "Saling/Timbal balik.",
+    "response": "Adj., Adv. Bersama/Timbal balik (Mutual); merujuk pada apa pun di mana kedua belah pihak memiliki hak atau kesepakatan timbal balik."
+  },
+  {
+    "instruction": "Apa itu Mutual Wills?",
+    "context": "Wasiat timbal balik suami-istri.",
+    "response": "N. Wasiat bersama; wasiat yang dibuat oleh dua orang (biasanya pasangan) di mana masing-masing memberikan hartanya kepada yang lain."
+  }
+]
