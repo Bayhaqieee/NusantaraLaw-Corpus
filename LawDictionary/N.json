@@ -1,0 +1,287 @@
+[
+  {
+    "instruction": "Apa arti singkatan N.O.V.?",
+    "context": "Putusan hakim yang membatalkan vonis juri.",
+    "response": "Adj. Putusan mengabaikan vonis (Non obstante veredicto); singkatan Latin untuk \"notwithstanding the verdict\" (meskipun ada vonis), merujuk pada keputusan hakim untuk membatalkan keputusan juri jika hakim yakin keputusan itu salah secara hukum."
+  },
+  {
+    "instruction": "Apa itu National Labor Relations Board (NLRB)?",
+    "context": "Badan pemerintah AS yang mengurus hubungan perburuhan.",
+    "response": "N. Dewan Hubungan Perburuhan Nasional (NLRB); komisi regulasi independen AS yang dibentuk tahun 1935 untuk melindungi hak karyawan berserikat dan mencegah penyalahgunaan oleh majikan atau serikat pekerja."
+  },
+  {
+    "instruction": "Apa definisi Natural Law?",
+    "context": "Hukum yang berasal dari prinsip moral atau Tuhan, bukan buatan manusia.",
+    "response": "N. Hukum alam; standar perilaku yang berasal dari prinsip moral tradisional dan/atau hukum Tuhan (seperti sepuluh perintah Tuhan), yang dianggap melekat pada sifat manusia."
+  },
+  {
+    "instruction": "Apa itu Natural Person?",
+    "context": "Manusia asli, bukan badan hukum.",
+    "response": "N. Orang perseorangan (Manusia pribadi); manusia nyata, dibedakan dari korporasi yang diperlakukan hukum sebagai \"orang fiktif\" (badan hukum)."
+  },
+  {
+    "instruction": "Apa arti Necessary dalam hukum?",
+    "context": "Penting atau sangat dibutuhkan.",
+    "response": "Adj., Adv. Perlu/Penting; 1) Esensial. 2) Berguna atau masuk akal."
+  },
+  {
+    "instruction": "Apa itu Necessary Inference?",
+    "context": "Kesimpulan yang tak terelakkan dari fakta.",
+    "response": "N. Kesimpulan yang tak terelakkan; kesimpulan yang didorong oleh akal dan logika yang diterapkan pada fakta yang diketahui."
+  },
+  {
+    "instruction": "Apa itu Necessary Party?",
+    "context": "Pihak yang harus ada dalam gugatan tapi tidak bisa digabung.",
+    "response": "N. Pihak yang diperlukan; orang atau entitas yang kepentingannya akan terpengaruh oleh hasil gugatan, tetapi ketidakhadirannya tidak menghalangi putusan (beda dengan indispensable party)."
+  },
+  {
+    "instruction": "Apa itu Negative Declaration?",
+    "context": "Pernyataan bahwa proyek tidak merusak lingkungan.",
+    "response": "N. Deklarasi negatif; temuan pemerintah daerah bahwa proyek pembangunan yang diusulkan tidak akan berdampak buruk pada lingkungan, sehingga tidak perlu laporan dampak lingkungan (AMDAL)."
+  },
+  {
+    "instruction": "Apa itu Negative Pregnant?",
+    "context": "Penyangkalan yang secara tidak langsung mengakui fakta.",
+    "response": "N. Penyangkalan yang mengandung pengakuan; penyangkalan tuduhan di mana seseorang sebenarnya mengakui lebih dari yang dia sangkal (misal: \"Saya tidak mencuri $100.000\" menyiratkan mungkin mencuri $99.000)."
+  },
+  {
+    "instruction": "Apa definisi Negligence?",
+    "context": "Kelalaian melakukan kewajiban hati-hati.",
+    "response": "N. Kelalaian (Negligensi); kegagalan untuk melakukan kehati-hatian terhadap orang lain yang akan dilakukan oleh orang yang wajar dalam keadaan tersebut."
+  },
+  {
+    "instruction": "Apa itu Negligence Per Se?",
+    "context": "Kelalaian otomatis karena melanggar undang-undang.",
+    "response": "N. Kelalaian demi hukum (Negligence per se); kelalaian karena pelanggaran tugas publik (undang-undang), seperti mengemudi dengan kecepatan tinggi."
+  },
+  {
+    "instruction": "Apa arti Negligent?",
+    "context": "Bersikap lalai atau ceroboh.",
+    "response": "Adj., Adv. Lalai; ceroboh dalam tidak memenuhi tanggung jawab."
+  },
+  {
+    "instruction": "Apa itu Negotiable Instrument?",
+    "context": "Dokumen berharga yang bisa dipindahtangankan (cek, wesel).",
+    "response": "N. Instrumen yang dapat dinegosiasikan (Surat berharga); cek, surat sanggup bayar, atau dokumen yang mewakili uang yang dapat dialihkan kepada orang lain dengan penyerahan atau endosemen."
+  },
+  {
+    "instruction": "Apa arti Negotiation?",
+    "context": "Proses tawar-menawar atau transfer surat berharga.",
+    "response": "N. Negosiasi; 1) Pengalihan surat berharga kepada orang lain. 2) Diskusi tawar-menawar untuk mencapai kesepakatan."
+  },
+  {
+    "instruction": "Apa arti Net?",
+    "context": "Nilai bersih setelah dikurangi biaya.",
+    "response": "N., Adj. Bersih (Netto); jumlah uang atau nilai yang tersisa setelah semua biaya, kerugian, pajak, dan penyusutan dikurangi."
+  },
+  {
+    "instruction": "Apa itu Net Estate?",
+    "context": "Sisa harta warisan setelah utang dibayar.",
+    "response": "N. Harta bersih warisan; sisa harta orang yang meninggal setelah dikurangi semua utang, biaya pemakaman, dan biaya administrasi."
+  },
+  {
+    "instruction": "Apa itu New Matter?",
+    "context": "Fakta baru yang diajukan terdakwa sebagai pembelaan.",
+    "response": "N. Materi baru; fakta atau masalah hukum yang baru diklaim oleh terdakwa untuk membela diri di luar sekadar menyangkal tuduhan (pembelaan afirmatif)."
+  },
+  {
+    "instruction": "Siapa itu Next Friend?",
+    "context": "Orang yang mewakili anak/orang tidak mampu di pengadilan secara sukarela.",
+    "response": "N. Teman terdekat (Next friend); orang (seringkali kerabat) yang secara sukarela membantu anak di bawah umur atau orang tidak kompeten dalam masalah hukum, khususnya mengajukan gugatan."
+  },
+  {
+    "instruction": "Siapa itu Next of Kin?",
+    "context": "Kerabat terdekat.",
+    "response": "N. Kerabat terdekat; kerabat darah terdekat dari orang yang meninggal, termasuk pasangan yang masih hidup."
+  },
+  {
+    "instruction": "Apa arti Nihil?",
+    "context": "Nol atau tidak ada.",
+    "response": "N. (baca: ni-hill) Dari bahasa Latin untuk \"tidak ada\" (kosong)."
+  },
+  {
+    "instruction": "Apa arti Nil?",
+    "context": "Nol.",
+    "response": "N. Nol (Nil); dari bahasa Latin nihil."
+  },
+  {
+    "instruction": "Apa arti Nisi Prius?",
+    "context": "Pengadilan tingkat pertama.",
+    "response": "Adj. (baca: nee-see pree-us) Pengadilan asal; di beberapa yurisdiksi berarti pengadilan tingkat pertama yang menyidangkan kasus, dibedakan dari pengadilan banding."
+  },
+  {
+    "instruction": "Apa itu No Contest?",
+    "context": "Mengaku tidak membantah tuduhan tapi tidak mengaku bersalah secara eksplisit.",
+    "response": "N. Tidak membantah (Nolo contendere); pembelaan terdakwa pidana di mana dia tidak menentang tuduhan, yang oleh hakim dianggap sama dengan pengakuan bersalah untuk tujuan hukuman."
+  },
+  {
+    "instruction": "Apa itu No Fault Divorce?",
+    "context": "Perceraian tanpa perlu membuktikan kesalahan pasangan.",
+    "response": "N. Perceraian tanpa kesalahan; perceraian di mana tidak ada pasangan yang perlu membuktikan \"kesalahan\" atau pelanggaran perkawinan pihak lain, cukup dengan alasan ketidakcocokan."
+  },
+  {
+    "instruction": "Apa itu No Fault Insurance?",
+    "context": "Asuransi yang membayar klaim tanpa melihat siapa yang salah.",
+    "response": "N. Asuransi tanpa kesalahan; jenis asuransi mobil di mana perusahaan asuransi membayar kerugian tertanggung tanpa memandang siapa yang menyebabkan kecelakaan."
+  },
+  {
+    "instruction": "Apa itu No-par Stock?",
+    "context": "Saham tanpa nilai nominal.",
+    "response": "N. Saham tanpa nilai pari; saham perusahaan yang diterbitkan tanpa harga per saham yang tercantum pada sertifikat saham."
+  },
+  {
+    "instruction": "Apa arti Nolle Prosequi?",
+    "context": "Jaksa membatalkan tuntutan.",
+    "response": "N. (baca: no-lay pro-say-kwee) Penghentian penuntutan; deklarasi oleh jaksa dalam kasus pidana (atau penggugat perdata) bahwa kasus terhadap terdakwa dihentikan."
+  },
+  {
+    "instruction": "Apa arti Nolo Contendere?",
+    "context": "Sama dengan No Contest.",
+    "response": "N. (baca: no-low kahn-ten-durr-ray) Saya tidak akan menentang; (Lihat No Contest)."
+  },
+  {
+    "instruction": "Apa itu Nominal Damages?",
+    "context": "Ganti rugi kecil hanya sebagai simbol kemenangan.",
+    "response": "N. Ganti rugi nominal; sejumlah kecil uang yang diberikan kepada penggugat untuk menunjukkan dia benar tetapi tidak menderita kerugian substansial."
+  },
+  {
+    "instruction": "Siapa itu Nominal Party?",
+    "context": "Pihak yang namanya ada dalam gugatan tapi tidak punya kepentingan nyata.",
+    "response": "N. Pihak nominal; terdakwa atau penggugat yang dimasukkan dalam gugatan karena alasan teknis tetapi tanpa tanggung jawab, kesalahan, atau hak pemulihan."
+  },
+  {
+    "instruction": "Siapa itu Nominee?",
+    "context": "Orang yang ditunjuk untuk bertindak atas nama orang lain.",
+    "response": "N. Nominee (Nama pinjaman); orang atau entitas yang diminta atau ditunjuk untuk bertindak bagi orang lain, seperti agen atau wali amanat."
+  },
+  {
+    "instruction": "Apa arti Non Compos Mentis?",
+    "context": "Tidak waras.",
+    "response": "Adj. (baca: nahn com-pose meant-is) Tidak waras; merujuk pada seseorang yang gila atau tidak kompeten secara mental."
+  },
+  {
+    "instruction": "Apa arti Non Sequitur?",
+    "context": "Kesimpulan yang tidak logis.",
+    "response": "N. (baca: nahn sek-kwit-her) Tidak mengikuti alur; kesimpulan yang tidak mengikuti logika dari fakta atau hukum."
+  },
+  {
+    "instruction": "Apa itu Non-conforming Use?",
+    "context": "Penggunaan tanah yang tidak sesuai zonasi baru tapi diizinkan karena sudah ada duluan.",
+    "response": "N. Penggunaan tidak sesuai (Non-conforming); penggunaan properti yang sudah ada (misal komersial di zona perumahan) yang diizinkan berlanjut meskipun zonasi berubah."
+  },
+  {
+    "instruction": "Apa itu Non-contestability Clause?",
+    "context": "Klausul asuransi yang melarang pembatalan polis setelah waktu tertentu.",
+    "response": "N. Klausul tidak dapat disanggah; ketentuan polis asuransi yang melarang perusahaan asuransi menantang pernyataan dalam aplikasi setelah waktu tertentu."
+  },
+  {
+    "instruction": "Apa arti Non-contiguous?",
+    "context": "Tanah yang tidak saling bersambung.",
+    "response": "Adj. Tidak bersambung; merujuk pada dua atau lebih bidang tanah yang tidak terhubung."
+  },
+  {
+    "instruction": "Apa itu Non-discretionary Trust?",
+    "context": "Trust di mana wali amanat tidak punya kebebasan investasi.",
+    "response": "N. Trust non-diskresioner; perwalian di mana wali amanat diarahkan untuk berinvestasi hanya pada sekuritas tertentu yang disebutkan."
+  },
+  {
+    "instruction": "Apa itu Non-feasance?",
+    "context": "Kegagalan melakukan tugas wajib.",
+    "response": "N. Kelalaian bertindak (Non-feasance); kegagalan agen/karyawan untuk melakukan tugas yang telah disepakati untuk dilakukan bagi majikan."
+  },
+  {
+    "instruction": "Apa itu Non-profit Corporation?",
+    "context": "Organisasi nirlaba.",
+    "response": "N. Korporasi nirlaba (Yayasan); organisasi yang didirikan untuk tujuan pendidikan, amal, sosial, atau keagamaan, bukan untuk keuntungan pribadi."
+  },
+  {
+    "instruction": "Apa itu Non-suit?",
+    "context": "Putusan hakim menghentikan kasus karena kurang bukti.",
+    "response": "N. Non-suit (Gugatan gugur); putusan hakim dalam gugatan ketika penggugat gagal melanjutkan persidangan atau gagal membuktikan kasusnya."
+  },
+  {
+    "instruction": "Apa arti Not Guilty?",
+    "context": "Tidak bersalah.",
+    "response": "N. Tidak bersalah; pembelaan seseorang yang mengklaim tidak melakukan kejahatan yang dituduhkan."
+  },
+  {
+    "instruction": "Apa itu Not Guilty by Reason of Insanity?",
+    "context": "Tidak bersalah karena gila.",
+    "response": "N. Tidak bersalah karena gila; pembelaan di mana terdakwa mengakui perbuatannya tetapi mengklaim gangguan mental saat kejadian sehingga tidak dapat dipidana."
+  },
+  {
+    "instruction": "Siapa itu Notary Public?",
+    "context": "Pejabat yang berwenang mengesahkan tanda tangan dan dokumen.",
+    "response": "N. Notaris (Notary Public); orang yang berwenang oleh negara untuk mengambil sumpah, mengesahkan dokumen, dan mengambil pengakuan tanda tangan."
+  },
+  {
+    "instruction": "Apa itu Note?",
+    "context": "Surat pengakuan utang (Promissory Note).",
+    "response": "N. Surat sanggup bayar (Promissory note); pernyataan tertulis utang oleh satu orang atau lebih kepada orang lain dengan rincian pembayaran."
+  },
+  {
+    "instruction": "Apa arti Notice?",
+    "context": "Pemberitahuan resmi.",
+    "response": "N. Pemberitahuan (Notifikasi); informasi tertulis tentang dokumen, keputusan, atau tanggal pengadilan yang harus diberikan kepada pihak-pihak terkait."
+  },
+  {
+    "instruction": "Apa itu Notice of Default?",
+    "context": "Pemberitahuan gagal bayar utang.",
+    "response": "N. Pemberitahuan wanprestasi; pemberitahuan kepada peminjam dengan jaminan properti bahwa dia menunggak pembayaran, langkah awal menuju penyitaan."
+  },
+  {
+    "instruction": "Apa itu Notice to Quit?",
+    "context": "Peringatan pengosongan rumah sewa.",
+    "response": "N. Pemberitahuan pengosongan; pemberitahuan oleh pemilik kepada penyewa untuk meninggalkan tempat atau membayar sewa yang menunggak dalam waktu singkat."
+  },
+  {
+    "instruction": "Apa itu Notorious Possession?",
+    "context": "Penguasaan tanah secara terbuka layaknya pemilik.",
+    "response": "N. Penguasaan yang diketahui umum; pendudukan properti nyata dengan cara yang dapat diamati siapa pun seolah-olah orang tersebut adalah pemiliknya."
+  },
+  {
+    "instruction": "Apa itu Novation?",
+    "context": "Pembaruan perjanjian (mengganti kontrak lama dengan baru).",
+    "response": "N. Novasi (Pembaruan utang); kesepakatan para pihak untuk mengganti kontrak lama dengan kontrak baru, yang membatalkan perjanjian lama."
+  },
+  {
+    "instruction": "Apa arti Noxious?",
+    "context": "Berbahaya bagi kesehatan.",
+    "response": "Adj. Berbahaya/Beracun; berbahaya bagi kesehatan, sering merujuk pada gangguan (nuisances)."
+  },
+  {
+    "instruction": "Apa arti Nugatory?",
+    "context": "Tidak berlaku atau tidak sah.",
+    "response": "Adj. Tidak berlaku (Nugatory); tidak memiliki kekuatan atau efek; tidak sah."
+  },
+  {
+    "instruction": "Apa itu Nuisance?",
+    "context": "Gangguan yang merugikan orang lain (seperti bau, suara bising).",
+    "response": "N. Gangguan (Nuisance); penggunaan properti yang tidak wajar atau melanggar hukum yang menyebabkan ketidaknyamanan atau kerusakan pada orang lain (misal: bau busuk, kebisingan)."
+  },
+  {
+    "instruction": "Apa itu Nullity?",
+    "context": "Sesuatu yang dianggap tidak pernah ada secara hukum.",
+    "response": "N. Batal demi hukum (Nullity); sesuatu yang diperlakukan seolah-olah tidak ada atau tidak pernah terjadi (misal: pernikahan yang dibatalkan)."
+  },
+  {
+    "instruction": "Apa arti Nunc Pro Tunc?",
+    "context": "Berlaku surut (sekarang untuk waktu yang lalu).",
+    "response": "Adj. (baca: nuhnk proh tuhnk) Berlaku surut (Nunc pro tunc); bahasa Latin untuk \"sekarang untuk nanti,\" merujuk pada pengubahan tanggal perintah atau dokumen ke tanggal sebelumnya (retroaktif)."
+  },
+  {
+    "instruction": "Apa arti Notary?",
+    "context": "Singkatan untuk Notary Public.",
+    "response": "Lihat Notary Public."
+  },
+  {
+    "instruction": "Apa arti Indorse?",
+    "context": "Variasi ejaan untuk Endorse.",
+    "response": "Lihat Endorse."
+  },
+  {
+    "instruction": "Apa arti Indorsement?",
+    "context": "Variasi ejaan untuk Endorsement.",
+    "response": "Lihat Endorsement."
+  }
+]
