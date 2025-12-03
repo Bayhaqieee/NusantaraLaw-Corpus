@@ -1,0 +1,357 @@
+[
+  {
+    "instruction": "Apa arti singkatan O.R. dalam hukum pidana?",
+    "context": "Pelepasan terdakwa tanpa uang jaminan, hanya janji.",
+    "response": "N. Jaminan diri sendiri (Own Recognizance); pembebasan terdakwa tanpa perlu menyetor uang jaminan (bail), hanya berdasarkan janji untuk hadir di sidang dan reputasi baiknya."
+  },
+  {
+    "instruction": "Apa singkatan O.S.C.?",
+    "context": "Perintah pengadilan untuk menjelaskan alasan.",
+    "response": "N. Singkatan untuk Order to Show Cause (Perintah untuk Menunjukkan Alasan)."
+  },
+  {
+    "instruction": "Apa itu Oath?",
+    "context": "Janji suci untuk berkata jujur di pengadilan.",
+    "response": "N. Sumpah; janji untuk mengatakan kebenaran sepenuhnya, yang jika dilanggar dapat menyebabkan penuntutan pidana sumpah palsu (perjury)."
+  },
+  {
+    "instruction": "Apa itu Obiter Dicta?",
+    "context": "Komentar hakim yang tidak mengikat secara hukum.",
+    "response": "N. (baca: oh-bitter dick-tah) Komentar sambil lalu; pernyataan hakim dalam putusan yang bukan merupakan dasar keputusan utama, sehingga tidak menjadi preseden yang mengikat."
+  },
+  {
+    "instruction": "Apa arti Object dalam persidangan?",
+    "context": "Tindakan pengacara menolak pertanyaan lawan.",
+    "response": "V. Mengajukan keberatan (Object); meminta pengadilan untuk tidak mengizinkan pertanyaan tertentu atau bukti dari pengacara lawan karena alasan hukum (misal: tidak relevan)."
+  },
+  {
+    "instruction": "Apa itu Objection?",
+    "context": "Protes resmi pengacara terhadap pelanggaran prosedur sidang.",
+    "response": "N. Keberatan (Interupsi); protes pengacara terhadap kelayakan hukum suatu pertanyaan atau bukti, agar hakim memutuskan apakah hal itu diperbolehkan."
+  },
+  {
+    "instruction": "Apa definisi Obligation?",
+    "context": "Tugas hukum untuk melakukan atau membayar sesuatu.",
+    "response": "N. Kewajiban (Obligasi); tugas hukum untuk membayar utang atau melakukan tindakan tertentu."
+  },
+  {
+    "instruction": "Siapa itu Obligee?",
+    "context": "Pihak yang berhak menerima pembayaran/tindakan.",
+    "response": "N. Kreditur (Penerima kewajiban); orang atau entitas kepada siapa suatu kewajiban terutang (misal: penerima pembayaran wesel)."
+  },
+  {
+    "instruction": "Siapa itu Obligor?",
+    "context": "Pihak yang wajib membayar/melakukan sesuatu.",
+    "response": "N. Debitur (Pemberi kewajiban); orang yang berutang kewajiban kepada orang lain."
+  },
+  {
+    "instruction": "Apa arti Obscene?",
+    "context": "Materi yang melanggar kesusilaan (pornografi).",
+    "response": "Adj. Cabul/Tidak senonoh; merujuk pada materi atau tindakan yang menampilkan aktivitas seksual yang hanya menarik hasrat rendah tanpa nilai seni atau ilmiah, dan tidak dilindungi kebebasan berpendapat."
+  },
+  {
+    "instruction": "Apa itu Obstruction of Justice?",
+    "context": "Tindakan menghalang-halangi proses hukum.",
+    "response": "N. Perintangan penyidikan (Obstruction of justice); upaya mengganggu administrasi pengadilan atau penegak hukum, seperti mengancam saksi atau menyembunyikan bukti."
+  },
+  {
+    "instruction": "Apa itu Occupancy?",
+    "context": "Menempati properti.",
+    "response": "N. Hunian/Okupansi; 1) Tinggal di atau menggunakan tempat. 2) Mengambil kepemilikan atas properti tak bertuan."
+  },
+  {
+    "instruction": "Siapa itu Occupant?",
+    "context": "Orang yang sedang menempati suatu tempat.",
+    "response": "N. Penghuni; seseorang yang tinggal di kediaman atau menggunakan tempat, baik sebagai penyewa atau pemilik."
+  },
+  {
+    "instruction": "Apa arti Occupation?",
+    "context": "Bisa berarti pekerjaan atau penguasaan lahan.",
+    "response": "N. 1) Pekerjaan/Profesi. 2) Pendudukan/Penguasaan properti."
+  },
+  {
+    "instruction": "Apa itu Occupational Disease?",
+    "context": "Penyakit yang timbul karena pekerjaan.",
+    "response": "N. Penyakit Akibat Kerja (PAK); penyakit yang dihasilkan dari pekerjaan jangka panjang jenis tertentu (misal: penyakit paru hitam pada penambang)."
+  },
+  {
+    "instruction": "Apa itu Occupational Hazard?",
+    "context": "Risiko bawaan dari suatu pekerjaan.",
+    "response": "N. Bahaya kerja/Risiko jabatan; bahaya atau risiko yang melekat pada pekerjaan tertentu (misal: teknisi listrik tegangan tinggi)."
+  },
+  {
+    "instruction": "Apa arti Occupy the Field?",
+    "context": "Doktrin hukum di mana pemerintah pusat mengambil alih wewenang daerah.",
+    "response": "V. Menguasai bidang (Preemption); ketika otoritas yang lebih tinggi (pusat) memonopoli area hukum tertentu sehingga hukum daerah tidak berlaku (misal: hukum imigrasi)."
+  },
+  {
+    "instruction": "Apa arti Of Counsel?",
+    "context": "Pengacara yang berafiliasi dengan firma tapi bukan partner/karyawan tetap.",
+    "response": "Adj. Penasihat luar/Konsultan; pengacara yang tidak aktif dalam pekerjaan sehari-hari firma hukum tetapi tersedia untuk konsultasi, seringkali pensiunan partner."
+  },
+  {
+    "instruction": "Apa arti Off Calendar?",
+    "context": "Kasus dihapus dari jadwal sidang.",
+    "response": "Adj. Dicabut dari jadwal; perintah pengadilan untuk menghapus gugatan atau mosi dari daftar kasus yang akan disidangkan (biasanya karena ditunda atau diselesaikan)."
+  },
+  {
+    "instruction": "Siapa itu Offender?",
+    "context": "Pelaku kejahatan.",
+    "response": "N. Pelaku pelanggaran; terdakwa dalam kasus pidana atau orang yang dihukum karena kejahatan."
+  },
+  {
+    "instruction": "Apa definisi Offense?",
+    "context": "Pelanggaran hukum.",
+    "response": "N. Pelanggaran/Tindak pidana; kejahatan atau pelanggaran hukum yang dapat dihukum."
+  },
+  {
+    "instruction": "Apa itu Offer?",
+    "context": "Tawaran untuk membuat kontrak.",
+    "response": "N. Penawaran (Ijab); proposal spesifik untuk masuk ke dalam perjanjian. Penawaran dan penerimaan (kabul) menciptakan kontrak."
+  },
+  {
+    "instruction": "Apa itu Offer of Proof?",
+    "context": "Penjelasan pengacara kepada hakim tentang relevansi bukti yang ditolak.",
+    "response": "N. Penawaran pembuktian; penjelasan pengacara kepada hakim (biasanya tanpa juri) tentang mengapa bukti yang ditolak sebenarnya relevan dan penting."
+  },
+  {
+    "instruction": "Siapa itu Offeree?",
+    "context": "Penerima tawaran.",
+    "response": "N. Penerima penawaran; orang atau entitas kepada siapa tawaran kontrak diajukan."
+  },
+  {
+    "instruction": "Siapa itu Offeror?",
+    "context": "Pemberi tawaran.",
+    "response": "N. Pemberi penawaran; orang atau entitas yang membuat proposal spesifik kepada pihak lain."
+  },
+  {
+    "instruction": "Siapa itu Officer?",
+    "context": "Pejabat tinggi perusahaan.",
+    "response": "N. Pejabat (Officer); pejabat manajemen tingkat tinggi perusahaan (seperti CEO, Presiden, Sekretaris) yang dipekerjakan oleh dewan direksi."
+  },
+  {
+    "instruction": "Apa itu Officer of the Court?",
+    "context": "Orang yang wajib menjaga integritas sistem peradilan (termasuk pengacara).",
+    "response": "N. Pejabat pengadilan; siapa pun yang memiliki kewajiban mempromosikan keadilan, termasuk hakim, panitera, dan pengacara (advokat wajib jujur pada hakim)."
+  },
+  {
+    "instruction": "Apa arti Official?",
+    "context": "Resmi atau pejabat.",
+    "response": "1) Adj. Resmi; disahkan oleh pejabat publik. 2) N. Pejabat publik."
+  },
+  {
+    "instruction": "Apa itu Official Misconduct?",
+    "context": "Pelanggaran tugas oleh pejabat publik.",
+    "response": "N. Penyalahgunaan jabatan; tindakan tidak pantas atau ilegal oleh pejabat publik yang melanggar tugasnya."
+  },
+  {
+    "instruction": "Apa itu Officious Intermeddler?",
+    "context": "Orang yang ikut campur tanpa diminta lalu minta bayaran.",
+    "response": "N. Pencampuri urusan orang; sukarelawan yang membantu orang lain tanpa diminta atau kewajiban hukum, tetapi kemudian menuntut kompensasi (biasanya ditolak pengadilan)."
+  },
+  {
+    "instruction": "Apa arti Offset?",
+    "context": "Potong utang dengan piutang.",
+    "response": "N. Kompensasi utang (Perjumpaan utang); pengurangan klaim utang dengan klaim balasan terhadap pihak yang menagih."
+  },
+  {
+    "instruction": "Apa itu Offshore Corporation?",
+    "context": "Perusahaan yang didirikan di luar negeri (biasanya surga pajak).",
+    "response": "N. Perusahaan lepas pantai (Offshore); perusahaan yang didirikan di bawah hukum negara lain (seringkali di Karibia) untuk menghindari pajak atau regulasi ketat."
+  },
+  {
+    "instruction": "Apa itu Omission?",
+    "context": "Kelalaian melakukan kewajiban.",
+    "response": "N. Kelalaian/Pembiaran; kegagalan untuk melakukan tindakan yang diwajibkan oleh hukum atau tugas (misal: tidak memberi tanda bahaya)."
+  },
+  {
+    "instruction": "Apa itu Omnibus Clause?",
+    "context": "Klausul sapu jagat dalam asuransi atau wasiat.",
+    "response": "N. Klausul omnibus; 1) Klausul asuransi yang mencakup siapa saja yang mengemudikan mobil. 2) Ketentuan dalam wasiat yang membagikan \"semua harta lainnya\"."
+  },
+  {
+    "instruction": "Apa arti On All Fours?",
+    "context": "Kasus yang fakta dan hukumnya sama persis dengan preseden.",
+    "response": "Adj. Sama persis; referensi ke kasus hukum yang fakta dan masalah hukumnya identik dengan kasus lain, sehingga presedennya berlaku mutlak."
+  },
+  {
+    "instruction": "Apa arti On Demand dalam utang?",
+    "context": "Harus dibayar saat ditagih.",
+    "response": "Adj. Atas permintaan (On demand); persyaratan dalam surat utang bahwa jumlah tersebut harus dibayar kapan saja saat penagih memintanya."
+  },
+  {
+    "instruction": "Apa arti On File?",
+    "context": "Sudah terdaftar resmi di pengadilan.",
+    "response": "Prep. Dalam berkas; telah diajukan secara resmi ke panitera pengadilan."
+  },
+  {
+    "instruction": "Apa arti On or About?",
+    "context": "Perkiraan tanggal kejadian.",
+    "response": "Prep. Pada atau sekitar; frasa yang digunakan dalam gugatan untuk merujuk pada tanggal atau tempat jika ada ketidakpastian, untuk mencegah tantangan teknis."
+  },
+  {
+    "instruction": "Apa arti On or Before?",
+    "context": "Batas waktu pembayaran atau kinerja.",
+    "response": "Prep. Pada atau sebelum; frasa yang menetapkan batas waktu kinerja atau pembayaran."
+  },
+  {
+    "instruction": "Apa arti On the Merits?",
+    "context": "Putusan berdasarkan fakta hukum, bukan teknis prosedur.",
+    "response": "Adj. Berdasarkan pokok perkara; putusan pengadilan yang didasarkan pada fakta dan hukum kasus, bukan pada kesalahan teknis atau prosedural."
+  },
+  {
+    "instruction": "Apa arti On the Stand?",
+    "context": "Sedang bersaksi di kursi saksi.",
+    "response": "Prep. Di kursi saksi; memberikan kesaksian selama persidangan."
+  },
+  {
+    "instruction": "Apa itu Open Court?",
+    "context": "Sidang yang boleh dihadiri umum.",
+    "response": "N. Sidang terbuka; pelaksanaan proses peradilan di mana publik diperbolehkan hadir."
+  },
+  {
+    "instruction": "Apa itu Opening Statement?",
+    "context": "Pidato awal pengacara sebelum pembuktian dimulai.",
+    "response": "N. Pernyataan pembuka; penjelasan pengacara di awal persidangan tentang apa yang akan dibuktikan selama sidang."
+  },
+  {
+    "instruction": "Apa arti Operation of Law?",
+    "context": "Terjadi otomatis menurut hukum tanpa perlu perjanjian baru.",
+    "response": "N. Demi hukum (Operasi hukum); perubahan atau transfer hak yang terjadi secara otomatis karena undang-undang (misal: warisan otomatis ke pemilik bersama saat satu meninggal)."
+  },
+  {
+    "instruction": "Apa itu Opinion dalam pengadilan?",
+    "context": "Penjelasan tertulis hakim tentang dasar putusannya.",
+    "response": "N. Pendapat hukum/Putusan; penjelasan tertulis hakim tentang keputusan pengadilan, seringkali merinci alasan hukum dan preseden yang digunakan."
+  },
+  {
+    "instruction": "Apa itu Option?",
+    "context": "Hak untuk membeli/menjual di masa depan dengan harga tertentu.",
+    "response": "N. Opsi/Pilihan; hak yang dibeli untuk membeli properti atau mewajibkan kinerja pada persyaratan yang disepakati dalam waktu tertentu."
+  },
+  {
+    "instruction": "Apa pentingnya kata Or dalam hukum?",
+    "context": "Menunjukkan pilihan (salah satu), beda dengan 'dan' (keduanya).",
+    "response": "Conj. Atau; menunjukkan alternatif. Penting untuk membedakan dari \"dan\" (and) yang berarti kumulatif."
+  },
+  {
+    "instruction": "Apa itu Oral Contract?",
+    "context": "Perjanjian lisan.",
+    "response": "N. Kontrak lisan; perjanjian yang dibuat dengan kata-kata lisan, bukan tertulis. Sah secara hukum tapi sulit dibuktikan."
+  },
+  {
+    "instruction": "Apa itu Order?",
+    "context": "Perintah hakim.",
+    "response": "1) N. Penetapan/Perintah; arahan hakim agar sesuatu dilakukan atau dilarang (bukan putusan akhir)."
+  },
+  {
+    "instruction": "Apa itu Order to Show Cause?",
+    "context": "Perintah hakim agar seseorang menjelaskan kenapa dia tidak boleh dihukum/dilarang.",
+    "response": "N. Perintah untuk menunjukkan alasan; perintah hakim agar seseorang muncul di pengadilan dan memberikan alasan mengapa perintah tertentu tidak boleh dibuat melawannya."
+  },
+  {
+    "instruction": "Apa itu Ordinance?",
+    "context": "Peraturan daerah tingkat kota.",
+    "response": "N. Peraturan Daerah (Perda/Ordonansi); undang-undang yang diberlakukan oleh kota atau kabupaten."
+  },
+  {
+    "instruction": "Apa arti Ordinary?",
+    "context": "Biasa atau wajar.",
+    "response": "Adj. Biasa; teratur, lazim, dan tidak luar biasa (seperti dalam \"kehati-hatian biasa\")."
+  },
+  {
+    "instruction": "Apa itu Ordinary Course of Business?",
+    "context": "Kegiatan bisnis normal sehari-hari.",
+    "response": "N. Kegiatan usaha biasa; perilaku bisnis dalam kebiasaan dan penggunaan komersial normal."
+  },
+  {
+    "instruction": "Apa itu Original Jurisdiction?",
+    "context": "Wewenang pengadilan untuk mengadili kasus pertama kali.",
+    "response": "N. Yurisdiksi tingkat pertama; wewenang pengadilan untuk menyidangkan kasus dari awal (bukan banding)."
+  },
+  {
+    "instruction": "Apa arti Orphan?",
+    "context": "Anak yatim piatu.",
+    "response": "N. Yatim piatu; anak yang kedua orang tua kandungnya telah meninggal."
+  },
+  {
+    "instruction": "Apa itu Ostensible Agent?",
+    "context": "Orang yang terlihat seperti agen resmi padahal mungkin bukan.",
+    "response": "N. Agen semu; orang yang diberi penampilan sebagai agen oleh prinsipal, sehingga pihak ketiga percaya dia memiliki wewenang."
+  },
+  {
+    "instruction": "Apa itu Ostensible Authority?",
+    "context": "Wewenang yang terlihat ada di mata pihak ketiga.",
+    "response": "N. Wewenang semu; wewenang yang tampak dimiliki seseorang untuk mewakili entitas lain."
+  },
+  {
+    "instruction": "Apa itu Ouster?",
+    "context": "Pengusiran pemilik sah secara paksa.",
+    "response": "N. Pengusiran paksa (Ouster); perampasan hak milik yang salah atas pemilik atau penyewa yang sah, memaksa mereka keluar dari properti."
+  },
+  {
+    "instruction": "Apa arti Out of Court?",
+    "context": "Di luar pengadilan (damai).",
+    "response": "Adj. Di luar pengadilan; merujuk pada tindakan atau penyelesaian sengketa tanpa keterlibatan langsung hakim (misal: penyelesaian damai)."
+  },
+  {
+    "instruction": "Apa itu Out-of-pocket Expenses?",
+    "context": "Biaya yang ditalangi dulu dengan uang pribadi.",
+    "response": "N. Biaya talangan/Pengeluaran pribadi; uang yang dibayarkan langsung untuk item yang diperlukan yang nantinya bisa diganti (reimburse)."
+  },
+  {
+    "instruction": "Apa itu Outbuilding?",
+    "context": "Bangunan terpisah dari rumah utama (gudang/garasi).",
+    "response": "N. Bangunan luar; struktur yang tidak terhubung dengan kediaman utama di sebidang properti (seperti gudang atau garasi)."
+  },
+  {
+    "instruction": "Apa itu Outlaw?",
+    "context": "Buronan atau orang yang tidak dilindungi hukum.",
+    "response": "N. Buronan/Penjahat; orang yang melakukan kejahatan serius dan bertindak di luar hukum."
+  },
+  {
+    "instruction": "Apa itu Output Contract?",
+    "context": "Kontrak membeli seluruh hasil produksi.",
+    "response": "N. Kontrak keluaran (Output contract); perjanjian di mana pembeli setuju untuk membeli seluruh hasil produksi penjual."
+  },
+  {
+    "instruction": "Apa arti Overcharge?",
+    "context": "Mengenakan biaya terlalu tinggi atau mendakwa berlebihan.",
+    "response": "V. 1) Mengenakan biaya lebih dari harga wajar. 2) Jaksa mengajukan dakwaan yang lebih berat dari fakta yang ada untuk mengintimidasi."
+  },
+  {
+    "instruction": "Apa arti Overrule?",
+    "context": "Hakim menolak keberatan pengacara atau membatalkan preseden lama.",
+    "response": "V. Menolak/Membatalkan; 1) Hakim menolak keberatan pengacara. 2) Pengadilan banding membatalkan keputusan pengadilan yang lebih rendah atau preseden sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Overt Act?",
+    "context": "Tindakan nyata menuju kejahatan (bukan sekadar niat).",
+    "response": "N. Tindakan nyata (Overt act); tindakan terbuka yang menunjukkan niat untuk melakukan kejahatan atau konspirasi (langkah persiapan nyata)."
+  },
+  {
+    "instruction": "Apa arti Owe?",
+    "context": "Memiliki kewajiban bayar.",
+    "response": "V. Berutang; memiliki kewajiban hukum untuk membayar dana kepada orang lain."
+  },
+  {
+    "instruction": "Apa arti Own?",
+    "context": "Memiliki hak legal.",
+    "response": "V. Memiliki; mempunyai hak milik hukum atas sesuatu. Sekadar memegang (possession) bukan berarti memiliki (own)."
+  },
+  {
+    "instruction": "Apa itu Own Recognizance (O.R.)?",
+    "context": "Jaminan diri sendiri untuk bebas sementara.",
+    "response": "N. Jaminan diri sendiri; dasar bagi hakim untuk membiarkan terdakwa bebas menunggu sidang tanpa uang jaminan, berdasarkan janji dan reputasinya."
+  },
+  {
+    "instruction": "Siapa itu Owner?",
+    "context": "Pemilik sah.",
+    "response": "N. Pemilik; orang yang memiliki hak milik hukum (legal title) atas sesuatu."
+  },
+  {
+    "instruction": "Apa itu Ownership?",
+    "context": "Hak kepemilikan mutlak.",
+    "response": "N. Kepemilikan; hak hukum ditambah dengan hak eksklusif untuk menguasai."
+  }
+]
