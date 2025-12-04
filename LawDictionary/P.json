@@ -1,0 +1,1287 @@
+[
+  {
+    "instruction": "Apa itu Paid into Court?",
+    "context": "Menyetorkan uang sengketa ke pengadilan.",
+    "response": "Adj. Dibayarkan ke pengadilan (Konsinyasi); merujuk pada uang yang disetorkan ke panitera pengadilan oleh pihak yang tahu bahwa uang itu terutang tetapi tidak tahu kepada siapa harus membayarnya sampai hasil gugatan diputuskan."
+  },
+  {
+    "instruction": "Apa itu Pain and Suffering?",
+    "context": "Ganti rugi untuk penderitaan fisik dan mental.",
+    "response": "N. Rasa sakit dan penderitaan; penderitaan fisik dan mental akibat cedera, termasuk patah tulang, keterbatasan aktivitas, depresi, dan rasa malu, yang merupakan bagian dari \"ganti rugi umum\"."
+  },
+  {
+    "instruction": "Apa itu Palimony?",
+    "context": "Tunjangan untuk pasangan yang hidup bersama tanpa nikah.",
+    "response": "N. Tunjangan kohabitasi (Palimony); pengganti tunjangan (alimony) dalam kasus di mana pasangan tidak menikah tetapi hidup bersama untuk waktu yang lama dan kemudian berpisah."
+  },
+  {
+    "instruction": "Apa arti Pander?",
+    "context": "Menjadi mucikari atau melayani kepentingan tertentu demi keuntungan.",
+    "response": "1) V. Menawarkan jasa prostitusi. 2) N. Mucikari (Pimp). 3) V. Memanjakan/Menuruti keinginan kelompok tertentu tanpa prinsip (biasanya politisi)."
+  },
+  {
+    "instruction": "Siapa itu Panderer?",
+    "context": "Mucikari atau penjilat politik.",
+    "response": "N. Mucikari/Penjilat; 1) Orang yang menjadi mucikari. 2) Politisi yang memanjakan kepentingan khusus."
+  },
+  {
+    "instruction": "Apa itu Panel dalam pengadilan?",
+    "context": "Daftar calon juri.",
+    "response": "N. Panel juri; daftar orang yang dipilih untuk hadir sebagai calon juri."
+  },
+  {
+    "instruction": "Apa arti Paper Hanger?",
+    "context": "Penipu cek kosong.",
+    "response": "N. Pengedar cek kosong (Paper hanger); slang untuk orang yang secara kriminal menulis dan mencairkan cek \"buruk\" (kosong)."
+  },
+  {
+    "instruction": "Apa arti Par?",
+    "context": "Nilai nominal saham.",
+    "response": "N. Nilai pari (Nilai nominal); nilai nominal saham atau obligasi yang tercetak pada sertifikat."
+  },
+  {
+    "instruction": "Siapa itu Paralegal?",
+    "context": "Asisten hukum bukan pengacara.",
+    "response": "N. Paralegal; asisten hukum yang melakukan tugas rutin yang memerlukan pengetahuan hukum tetapi bukan pengacara berlisensi."
+  },
+  {
+    "instruction": "Apa itu Paramount Title?",
+    "context": "Hak kepemilikan yang lebih unggul dari klaim orang lain.",
+    "response": "N. Hak milik utama/tertinggi; hak atas properti nyata yang menang atas klaim hak milik orang lain."
+  },
+  {
+    "instruction": "Apa itu Parcel dalam tanah?",
+    "context": "Sebidang tanah tertentu.",
+    "response": "N. Persil (Sebidang tanah); bagian real estat yang ditentukan, biasanya hasil pembagian dari area tanah yang lebih besar."
+  },
+  {
+    "instruction": "Apa itu Pardon?",
+    "context": "Pengampunan hukuman oleh kepala negara.",
+    "response": "1) V. Mengampuni (Grasi); menggunakan kekuasaan eksekutif (Presiden/Gubernur) untuk memaafkan seseorang yang dihukum karena kejahatan, menghapus hukuman dan mencegah penuntutan baru."
+  },
+  {
+    "instruction": "Apa prinsip Parens Patriae?",
+    "context": "Negara sebagai pelindung warga yang tidak mampu (anak/cacat).",
+    "response": "N. (baca: paa-rens pat-tree-eye) Bapak negara; doktrin bahwa pemerintah adalah wali utama dari semua orang di bawah disabilitas, terutama anak-anak."
+  },
+  {
+    "instruction": "Siapa itu Parent dalam hukum?",
+    "context": "Ayah atau ibu sah.",
+    "response": "N. Orang tua; ayah atau ibu yang sah dan alami dari seseorang (bisa termasuk orang tua angkat)."
+  },
+  {
+    "instruction": "Apa itu Parental Neglect?",
+    "context": "Penelantaran anak oleh orang tua.",
+    "response": "N. Penelantaran orang tua; kejahatan berupa tindakan atau kelalaian orang tua yang membahayakan kesehatan dan kehidupan anak."
+  },
+  {
+    "instruction": "Apa arti Pari Delicto?",
+    "context": "Sama-sama bersalah.",
+    "response": "Adj. Kesalahan setara (In pari delicto); sama-sama bersalah."
+  },
+  {
+    "instruction": "Apa itu Parish?",
+    "context": "Wilayah gereja atau istilah kabupaten di Louisiana.",
+    "response": "N. Paroki; 1) Wilayah geografis yang dilayani oleh gereja. 2) Di Louisiana, setara dengan kabupaten (county)."
+  },
+  {
+    "instruction": "Apa itu Parody dalam hukum hak cipta?",
+    "context": "Karya humor yang meniru karya asli (penggunaan wajar).",
+    "response": "N. Parodi; penggunaan humor dari lagu atau tulisan yang ada. Parodi sering dilindungi sebagai penggunaan wajar (fair use) meskipun meniru karya asli."
+  },
+  {
+    "instruction": "Apa arti Parol?",
+    "context": "Lisan.",
+    "response": "Adj. Lisan (Parol)."
+  },
+  {
+    "instruction": "Apa itu Parol Evidence Rule?",
+    "context": "Aturan yang melarang bukti lisan mengubah kontrak tertulis.",
+    "response": "N. Aturan bukti lisan; jika ada kontrak tertulis, syarat-syaratnya tidak dapat diubah oleh bukti perjanjian lisan yang bertentangan."
+  },
+  {
+    "instruction": "Apa itu Parole?",
+    "context": "Pembebasan bersyarat bagi narapidana.",
+    "response": "N. Pembebasan bersyarat (Parole); pembebasan terpidana setelah menyelesaikan sebagian masa hukuman penjara, dengan syarat perilaku baik."
+  },
+  {
+    "instruction": "Apa arti Partial?",
+    "context": "Tidak lengkap.",
+    "response": "Adj. Parsial/Sebagian; tidak lengkap atau utuh."
+  },
+  {
+    "instruction": "Apa itu Partial Breach?",
+    "context": "Pelanggaran kecil dalam kontrak yang tidak membatalkannya.",
+    "response": "N. Pelanggaran sebagian; kegagalan memenuhi syarat kontrak yang minimal sehingga tidak menyebabkan kontrak gagal atau membenarkan pembatalan kontrak."
+  },
+  {
+    "instruction": "Apa itu Partial Disability?",
+    "context": "Cacat yang mengurangi kemampuan kerja tapi tidak total.",
+    "response": "N. Cacat sebagian; cedera yang secara permanen mengurangi kemampuan seseorang untuk berfungsi tetapi masih memungkinkan beberapa pekerjaan."
+  },
+  {
+    "instruction": "Apa itu Partial Verdict?",
+    "context": "Putusan juri yang hanya menyepakati sebagian dakwaan.",
+    "response": "N. Putusan sebagian; hasil persidangan pidana di mana juri menemukan terdakwa bersalah atas satu atau lebih tuduhan tetapi tidak bersalah (atau buntu) pada tuduhan lainnya."
+  },
+  {
+    "instruction": "Apa arti Participate?",
+    "context": "Ikut serta dalam keuntungan atau kepemilikan.",
+    "response": "V. Berpartisipasi; berinvestasi dan kemudian menerima bagian atau saham, seperti dalam keuntungan bisnis atau warisan."
+  },
+  {
+    "instruction": "Apa itu Partition?",
+    "context": "Gugatan pembagian harta bersama.",
+    "response": "N. Pemisahan/Partisi; gugatan oleh salah satu pemilik bersama properti untuk meminta pengadilan memerintahkan penjualan properti dan pembagian keuntungan."
+  },
+  {
+    "instruction": "Siapa itu Partner?",
+    "context": "Mitra dalam persekutuan bisnis.",
+    "response": "N. Mitra (Partner/Sekutu); salah satu pemilik bersama dan investor dalam kemitraan bisnis."
+  },
+  {
+    "instruction": "Apa itu Partnership?",
+    "context": "Persekutuan bisnis dua orang atau lebih.",
+    "response": "N. Kemitraan (Firma/CV); usaha bisnis untuk keuntungan yang dimiliki oleh lebih dari satu orang."
+  },
+  {
+    "instruction": "Siapa itu Party dalam hukum?",
+    "context": "Pihak yang terlibat dalam kasus hukum.",
+    "response": "N. Pihak (Party); salah satu peserta dalam gugatan atau proses hukum lainnya (penggugat, tergugat, pemohon, termohon)."
+  },
+  {
+    "instruction": "Apa itu Party of the First Part?",
+    "context": "Pihak pertama dalam kontrak.",
+    "response": "N. Pihak pertama; referensi dalam kontrak tertulis untuk mengidentifikasi salah satu orang yang masuk ke dalam perjanjian."
+  },
+  {
+    "instruction": "Apa itu Party of the Second Part?",
+    "context": "Pihak kedua dalam kontrak.",
+    "response": "N. Pihak kedua; referensi untuk pihak lain dalam kontrak tertulis."
+  },
+  {
+    "instruction": "Apa itu Party Wall?",
+    "context": "Tembok pemisah milik bersama.",
+    "response": "N. Tembok bersama; tembok yang dibagi oleh dua bangunan yang bersebelahan yang berada di garis properti."
+  },
+  {
+    "instruction": "Siapa itu Passenger?",
+    "context": "Penumpang kendaraan umum yang membayar.",
+    "response": "N. Penumpang; pengendara yang telah membayar ongkos pada kendaraan umum (common carrier). Penumpang berhak atas tingkat keamanan yang tinggi."
+  },
+  {
+    "instruction": "Apa arti Passion dalam kejahatan?",
+    "context": "Emosi kuat yang memicu kejahatan.",
+    "response": "N. Gairah/Emosi (Passion); emosi kuat yang dapat mengurangi tingkat kesalahan dalam kejahatan (lihat heat of passion)."
+  },
+  {
+    "instruction": "Apa arti Passive dalam hukum?",
+    "context": "Tidak aktif atau pasif.",
+    "response": "Adj. Pasif; tidak aktif. \"Wali amanat pasif\" tidak memiliki tanggung jawab selain memegang hak milik."
+  },
+  {
+    "instruction": "Apa definisi Patent?",
+    "context": "Hak eksklusif atas penemuan atau sesuatu yang jelas terlihat.",
+    "response": "1) Adj. Nyata/Jelas (Patent defect). 2) N. Paten; hak eksklusif atas penemuan yang diberikan oleh pemerintah."
+  },
+  {
+    "instruction": "Apa itu Patent Ambiguity?",
+    "context": "Ketidakjelasan yang nyata dalam dokumen.",
+    "response": "N. Ambiguitas nyata; ketidakkonsistenan yang jelas dalam bahasa dokumen tertulis."
+  },
+  {
+    "instruction": "Apa itu Patent Defect?",
+    "context": "Cacat yang terlihat jelas.",
+    "response": "N. Cacat nyata; cacat yang jelas pada produk atau dokumen."
+  },
+  {
+    "instruction": "Apa itu Patent Infringement?",
+    "context": "Pelanggaran hak paten.",
+    "response": "N. Pelanggaran paten; pembuatan atau penggunaan penemuan tanpa izin pemilik paten."
+  },
+  {
+    "instruction": "Apa arti Patent Pending?",
+    "context": "Paten sedang dalam proses pengajuan.",
+    "response": "N. Paten tertunda (Patent pending); istilah yang dicetak pada produk untuk menginformasikan bahwa aplikasi paten telah diajukan tetapi belum diberikan."
+  },
+  {
+    "instruction": "Apa itu Paternity Suit?",
+    "context": "Gugatan penetapan ayah biologis.",
+    "response": "N. Gugatan paternitas (Pengakuan anak); gugatan, biasanya oleh ibu, untuk membuktikan bahwa seorang pria adalah ayah dari anaknya."
+  },
+  {
+    "instruction": "Apa arti Pawn?",
+    "context": "Menggadaikan barang.",
+    "response": "V. Menggadaikan (Pawn); menjaminkan barang pribadi sebagai jaminan pinjaman dengan menyerahkan barang tersebut ke pegadaian."
+  },
+  {
+    "instruction": "Apa arti Pay?",
+    "context": "Membayar.",
+    "response": "V. Membayar; menyerahkan uang yang terutang."
+  },
+  {
+    "instruction": "Apa arti Payable?",
+    "context": "Jatuh tempo untuk dibayar.",
+    "response": "1) Adj. Terutang/Jatuh tempo. 2) N. Utang (Payables); utang bisnis."
+  },
+  {
+    "instruction": "Apa arti Payable on Demand?",
+    "context": "Harus dibayar saat ditagih.",
+    "response": "Adj. Dapat dibayar saat diminta; utang yang harus dibayar kapan saja saat ditagih."
+  },
+  {
+    "instruction": "Siapa itu Payee?",
+    "context": "Penerima pembayaran.",
+    "response": "N. Penerima pembayaran (Payee); orang yang namanya tercantum pada cek atau wesel untuk menerima pembayaran."
+  },
+  {
+    "instruction": "Apa itu Payment in Due Course?",
+    "context": "Pembayaran kepada pemegang sah instrumen.",
+    "response": "N. Pembayaran pada waktunya; pemberian dana kepada pemegang surat berharga saat jatuh tempo tanpa mengetahui adanya cacat hukum."
+  },
+  {
+    "instruction": "Apa itu Payment in Full?",
+    "context": "Pelunasan penuh.",
+    "response": "N. Pembayaran lunas; pemberian semua dana yang terutang."
+  },
+  {
+    "instruction": "Siapa itu Payor?",
+    "context": "Pihak yang membayar.",
+    "response": "N. Pembayar (Payor); pihak yang harus melakukan pembayaran."
+  },
+  {
+    "instruction": "Apa itu Peace Bond?",
+    "context": "Jaminan uang untuk menjaga perdamaian (tidak mengganggu orang lain).",
+    "response": "N. Obligasi perdamaian; jaminan yang disyaratkan pengadilan untuk menjamin seseorang akan menjauhi orang lain yang telah diancamnya."
+  },
+  {
+    "instruction": "Apa itu Peaceable Possession?",
+    "context": "Penguasaan tanah tanpa sengketa.",
+    "response": "N. Penguasaan damai; memegang properti tanpa klaim kepemilikan yang bertentangan."
+  },
+  {
+    "instruction": "Apa itu Peculation?",
+    "context": "Penyalahgunaan dana publik.",
+    "response": "N. Korupsi/Penyalahgunaan dana publik (Peculation)."
+  },
+  {
+    "instruction": "Apa arti Pecuniary?",
+    "context": "Berkaitan dengan uang.",
+    "response": "Adj. Keuangan/Moneter (Pecuniary); berkaitan dengan uang."
+  },
+  {
+    "instruction": "Apa itu Pedophilia?",
+    "context": "Kelainan seksual terhadap anak-anak (kejahatan).",
+    "response": "N. Pedofilia; obsesi seksual terhadap anak-anak yang merupakan kejahatan."
+  },
+  {
+    "instruction": "Siapa itu Peeping Tom?",
+    "context": "Pengintip (Voyeur).",
+    "response": "N. Pengintip (Peeping Tom); orang yang diam-diam mengintip untuk mendapatkan kepuasan seksual."
+  },
+  {
+    "instruction": "Apa arti Peer?",
+    "context": "Rekan sebaya atau setara.",
+    "response": "N. Rekan sebaya (Peer); orang yang setara. \"Juri dari rekan sebaya\" berarti juri yang dipilih secara tidak memihak dari warga daerah tersebut."
+  },
+  {
+    "instruction": "Apa itu Peer Review?",
+    "context": "Evaluasi kinerja oleh rekan seprofesi.",
+    "response": "N. Tinjauan sejawat (Peer review); pemeriksaan kinerja profesional oleh komite orang-orang dalam pekerjaan yang sama."
+  },
+  {
+    "instruction": "Apa arti Penal?",
+    "context": "Berkaitan dengan hukuman pidana.",
+    "response": "Adj. Pidana (Penal); merujuk pada kriminalitas atau hukuman."
+  },
+  {
+    "instruction": "Apa itu Penalty?",
+    "context": "Hukuman atau denda.",
+    "response": "N. Hukuman/Denda (Penalti); 1) Denda uang atau penyitaan dalam hukum pidana. 2) Denda keterlambatan dalam kontrak."
+  },
+  {
+    "instruction": "Apa itu Pendent Jurisdiction?",
+    "context": "Wewenang pengadilan federal mengadili isu negara bagian yang terkait.",
+    "response": "N. Yurisdiksi tambahan (Pendent jurisdiction); kebijakan yang memungkinkan pengadilan federal memutuskan pertanyaan hukum negara bagian yang terkait dengan kasus federal."
+  },
+  {
+    "instruction": "Apa arti Pendente Lite?",
+    "context": "Selama proses pengadilan berlangsung.",
+    "response": "Adj. (baca: pen-den-tay lee-tay) Selama persidangan; berlaku untuk perintah pengadilan sementara sampai kasus diputuskan."
+  },
+  {
+    "instruction": "Apa itu Penitentiary?",
+    "context": "Penjara negara atau federal untuk kejahatan berat.",
+    "response": "N. Penjara (Lapas); penjara negara bagian atau federal tempat narapidana kejahatan berat ditahan."
+  },
+  {
+    "instruction": "Apa arti People dalam sidang pidana?",
+    "context": "Sebutan untuk pihak penuntut (negara/masyarakat).",
+    "response": "N. Rakyat (Penuntut Umum); sebutan untuk pemerintah yang menuntut dalam pengadilan pidana (misal: People v. Capone)."
+  },
+  {
+    "instruction": "Apa arti Per?",
+    "context": "Per atau demi.",
+    "response": "Prep. Per/Demi; dari bahasa Latin, misal \"per day\" (per hari)."
+  },
+  {
+    "instruction": "Apa arti Per Capita?",
+    "context": "Per kepala (dibagi rata).",
+    "response": "Adj. Per kapita; menurut jumlah orang (dibagi rata)."
+  },
+  {
+    "instruction": "Apa arti Per Curiam?",
+    "context": "Putusan pengadilan atas nama institusi, bukan hakim individu.",
+    "response": "Adj. Oleh pengadilan (Per curiam); keputusan pengadilan banding secara keseluruhan tanpa menyebutkan penulis spesifik."
+  },
+  {
+    "instruction": "Apa arti Per Diem?",
+    "context": "Biaya harian.",
+    "response": "Adj./N. Per hari (Per diem); pembayaran biaya harian."
+  },
+  {
+    "instruction": "Apa arti Per Se?",
+    "context": "Dengan sendirinya.",
+    "response": "Adj. (baca: purr say) Dengan sendirinya (Per se); secara inheren."
+  },
+  {
+    "instruction": "Apa arti Per Stirpes?",
+    "context": "Pewarisan berdasarkan garis keturunan (ahli waris pengganti).",
+    "response": "Adj. (baca: purr stir-peas) Berdasarkan garis keturunan; distribusi warisan di mana jika ahli waris meninggal, bagiannya turun ke anak-anaknya."
+  },
+  {
+    "instruction": "Apa arti Peremptory?",
+    "context": "Mutlak atau final.",
+    "response": "Adj. Mutlak (Peremptory); final dan tidak dapat ditunda."
+  },
+  {
+    "instruction": "Apa itu Peremptory Challenge?",
+    "context": "Hak menolak juri tanpa alasan.",
+    "response": "N. Penolakan tanpa alasan (Peremptory challenge); hak pengacara untuk menolak calon juri tanpa perlu memberikan alasan."
+  },
+  {
+    "instruction": "Apa itu Peremptory Writ of Mandate?",
+    "context": "Perintah pengadilan final agar pejabat melakukan tugasnya.",
+    "response": "N. Perintah mandat mutlak; perintah akhir pengadilan kepada badan pemerintah untuk melakukan tugas resmi."
+  },
+  {
+    "instruction": "Apa arti Perfect dalam hukum?",
+    "context": "Menyempurnakan dokumen hukum.",
+    "response": "V. Menyempurnakan (Perfect); melengkapi semua langkah hukum yang diperlukan (misal: mendaftarkan hak gadai)."
+  },
+  {
+    "instruction": "Apa arti Perfected?",
+    "context": "Telah disempurnakan secara hukum.",
+    "response": "Adj. Disempurnakan; telah menyelesaikan semua langkah hukum yang diperlukan."
+  },
+  {
+    "instruction": "Apa arti Perform?",
+    "context": "Melaksanakan kewajiban.",
+    "response": "V. Melaksanakan (Prestasi); memenuhi kewajiban kontrak atau perintah pengadilan."
+  },
+  {
+    "instruction": "Apa itu Performance?",
+    "context": "Pelaksanaan kewajiban kontrak.",
+    "response": "N. Pelaksanaan/Kinerja (Prestasi); pemenuhan kewajiban yang disyaratkan oleh kontrak."
+  },
+  {
+    "instruction": "Siapa itu Perjurer?",
+    "context": "Orang yang bersumpah palsu.",
+    "response": "N. Pembohong sumpah (Perjurer); orang yang melakukan sumpah palsu."
+  },
+  {
+    "instruction": "Apa itu Perjury?",
+    "context": "Sumpah palsu.",
+    "response": "N. Sumpah palsu (Perjury); kejahatan berbohong di bawah sumpah."
+  },
+  {
+    "instruction": "Apa itu Permanent Disability?",
+    "context": "Cacat tetap.",
+    "response": "N. Cacat tetap; cedera yang merusak kemampuan fisik/mental secara permanen."
+  },
+  {
+    "instruction": "Apa itu Permanent Injunction?",
+    "context": "Perintah pengadilan yang berlaku selamanya.",
+    "response": "N. Injunction permanen; perintah akhir pengadilan untuk melarang atau mewajibkan sesuatu secara permanen."
+  },
+  {
+    "instruction": "Apa itu Permanent Injury?",
+    "context": "Cedera permanen.",
+    "response": "N. Cedera permanen; kerusakan fisik atau mental yang akan membatasi aktivitas seseorang seumur hidup."
+  },
+  {
+    "instruction": "Apa arti Permissive?",
+    "context": "Diizinkan atau toleran.",
+    "response": "Adj. Permisif/Diizinkan; 1) Tindakan yang diizinkan oleh hukum. 2) Toleran terhadap perilaku."
+  },
+  {
+    "instruction": "Apa arti Permit?",
+    "context": "Mengizinkan atau surat izin.",
+    "response": "1) V. Mengizinkan. 2) N. Izin (Permit); dokumen izin resmi dari pemerintah."
+  },
+  {
+    "instruction": "Apa itu Perpetuity?",
+    "context": "Selamanya.",
+    "response": "N. Keabadian (Perpetuity); selamanya."
+  },
+  {
+    "instruction": "Apa definisi Person dalam hukum?",
+    "context": "Manusia atau badan hukum.",
+    "response": "N. Orang (Subjek hukum); 1) Manusia. 2) Korporasi atau entitas yang diperlakukan memiliki hak dan kewajiban seperti manusia."
+  },
+  {
+    "instruction": "Apa itu Personal Effects?",
+    "context": "Barang-barang pribadi (pakaian, perhiasan).",
+    "response": "N. Barang pribadi; barang-barang seperti pakaian dan perhiasan (bukan real estat atau uang)."
+  },
+  {
+    "instruction": "Apa itu Personal Property?",
+    "context": "Harta bergerak (bukan tanah/bangunan).",
+    "response": "N. Properti pribadi (Barang bergerak); segala harta benda selain real estat (tanah/bangunan)."
+  },
+  {
+    "instruction": "Apa itu Personal Service?",
+    "context": "Penyerahan dokumen hukum secara langsung ke orangnya.",
+    "response": "N. Penyampaian pribadi; menyerahkan dokumen hukum (seperti somasi) langsung ke tangan orang yang dituju."
+  },
+  {
+    "instruction": "Apa itu Personal Services?",
+    "context": "Jasa yang mengandalkan keahlian khusus individu.",
+    "response": "N. Layanan pribadi; bakat atau keahlian unik seseorang yang tidak dapat digantikan oleh orang lain dalam kontrak."
+  },
+  {
+    "instruction": "Apa itu Personalty?",
+    "context": "Istilah lain untuk Personal Property.",
+    "response": "N. Harta bergerak (Personalty); aset bergerak (bukan real estat)."
+  },
+  {
+    "instruction": "Apa itu Petit Jury?",
+    "context": "Juri sidang biasa (bukan Grand Jury).",
+    "response": "N. Juri kecil (Petit jury); juri yang menyidangkan kasus di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Petition?",
+    "context": "Permohonan resmi ke pengadilan.",
+    "response": "1) N. Petisi/Permohonan; permintaan tertulis resmi kepada pengadilan untuk suatu perintah."
+  },
+  {
+    "instruction": "Siapa itu Petitioner?",
+    "context": "Pemohon.",
+    "response": "N. Pemohon (Petitioner); orang yang mengajukan petisi."
+  },
+  {
+    "instruction": "Apa itu Petty Larceny?",
+    "context": "Pencurian ringan.",
+    "response": "N. Pencurian ringan (Petty larceny); pencurian barang bernilai kecil."
+  },
+  {
+    "instruction": "Apa itu Physician-Patient Privilege?",
+    "context": "Hak kerahasiaan medis antara dokter dan pasien.",
+    "response": "N. Hak istimewa dokter-pasien; hak dokter untuk menolak bersaksi tentang informasi rahasia pasien."
+  },
+  {
+    "instruction": "Apa itu Picketing?",
+    "context": "Unjuk rasa atau pemogokan di lokasi tertentu.",
+    "response": "N. Piket (Unjuk rasa); protes atau demonstrasi di dekat bisnis atau kantor pemerintah."
+  },
+  {
+    "instruction": "Apa arti Pierce the Corporate Veil?",
+    "context": "Menembus batas tanggung jawab korporasi untuk menuntut pemiliknya secara pribadi.",
+    "response": "V. Menembus tirai korporasi; membuktikan bahwa perusahaan hanya kedok, sehingga pemiliknya bisa dituntut secara pribadi atas utang/tindakan perusahaan."
+  },
+  {
+    "instruction": "Apa itu Pilferage?",
+    "context": "Pencurian kecil-kecilan.",
+    "response": "N. Pengutilan (Pilferage); pencurian barang-barang kecil."
+  },
+  {
+    "instruction": "Siapa itu Pimp?",
+    "context": "Mucikari.",
+    "response": "N. Mucikari (Pimp); orang yang mencari pelanggan untuk pelacur dan mengambil keuntungan darinya."
+  },
+  {
+    "instruction": "Apa itu Pink Slip?",
+    "context": "BPKB mobil atau surat pemecatan.",
+    "response": "N. 1) Sertifikat kepemilikan mobil (BPKB). 2) Surat pemecatan kerja."
+  },
+  {
+    "instruction": "Apa itu Piracy?",
+    "context": "Bajak laut.",
+    "response": "N. Perompakan (Bajak laut); kejahatan perampokan kapal di laut."
+  },
+  {
+    "instruction": "Apa itu Plagiarism?",
+    "context": "Penjiplakan karya orang lain.",
+    "response": "N. Plagiarisme; mengambil tulisan atau ide orang lain dan mengakuinya sebagai milik sendiri."
+  },
+  {
+    "instruction": "Apa itu Plain Error?",
+    "context": "Kesalahan fatal yang jelas dalam putusan pengadilan.",
+    "response": "N. Kesalahan nyata; kesalahan pengadilan tingkat pertama yang sangat jelas dan cukup untuk membatalkan putusan."
+  },
+  {
+    "instruction": "Apa itu Plain View Doctrine?",
+    "context": "Polisi boleh menyita bukti ilegal yang terlihat jelas tanpa surat geledah.",
+    "response": "N. Doktrin pandangan jelas; aturan bahwa polisi boleh menyita bukti kejahatan yang terlihat jelas tanpa perlu surat penggeledahan."
+  },
+  {
+    "instruction": "Siapa itu Plaintiff?",
+    "context": "Penggugat.",
+    "response": "N. Penggugat (Plaintiff); pihak yang memulai gugatan."
+  },
+  {
+    "instruction": "Siapa itu Plaintiff's Attorney?",
+    "context": "Pengacara penggugat.",
+    "response": "N. Pengacara penggugat."
+  },
+  {
+    "instruction": "Apa itu Plea?",
+    "context": "Jawaban terdakwa atas dakwaan (bersalah/tidak bersalah).",
+    "response": "N. Pembelaan/Plea; jawaban terdakwa terhadap dakwaan (misal: bersalah, tidak bersalah)."
+  },
+  {
+    "instruction": "Apa itu Plea Bargain?",
+    "context": "Negosiasi hukuman antara terdakwa dan jaksa.",
+    "response": "N. Tawar-menawar hukuman (Plea bargain); negosiasi di mana terdakwa mengaku bersalah demi hukuman yang lebih ringan."
+  },
+  {
+    "instruction": "Apa arti Plead?",
+    "context": "Mengajukan pembelaan atau dokumen hukum.",
+    "response": "V. 1) Mengajukan dokumen hukum (pleading). 2) Mengajukan pembelaan (plea) dalam kasus pidana."
+  },
+  {
+    "instruction": "Apa itu Pleading?",
+    "context": "Dokumen tertulis yang diajukan ke pengadilan.",
+    "response": "N. Pledoi/Berkas gugatan; setiap dokumen hukum yang diajukan dalam gugatan (seperti gugatan, jawaban)."
+  },
+  {
+    "instruction": "Apa arti Pledge?",
+    "context": "Menjaminkan barang atau berjanji.",
+    "response": "V. Menggadaikan/Menjaminkan; 1) Menitipkan barang pribadi sebagai jaminan pinjaman. 2) Berjanji."
+  },
+  {
+    "instruction": "Apa arti Plenary?",
+    "context": "Lengkap atau paripurna.",
+    "response": "Adj. Paripurna/Lengkap (Plenary); mencakup semua hal."
+  },
+  {
+    "instruction": "Apa itu Police Court?",
+    "context": "Pengadilan untuk kasus ringan.",
+    "response": "N. Pengadilan polisi; pengadilan tingkat rendah yang menangani pelanggaran ringan."
+  },
+  {
+    "instruction": "Apa itu Police Powers?",
+    "context": "Wewenang negara menjaga ketertiban dan kesehatan umum.",
+    "response": "N. Kekuasaan kepolisian (Police powers); wewenang negara untuk membuat hukum demi melindungi kesejahteraan, keselamatan, dan kesehatan publik."
+  },
+  {
+    "instruction": "Apa itu Political Question?",
+    "context": "Masalah politik yang ditolak pengadilan karena wewenang legislatif/eksekutif.",
+    "response": "N. Pertanyaan politik; masalah yang dianggap pengadilan sebagai urusan politik legislatif/eksekutif, bukan hukum."
+  },
+  {
+    "instruction": "Apa itu Polygamy?",
+    "context": "Beristri/bersuami banyak.",
+    "response": "N. Poligami; memiliki lebih dari satu pasangan nikah pada saat yang sama."
+  },
+  {
+    "instruction": "Apa itu Polygraph?",
+    "context": "Alat deteksi kebohongan.",
+    "response": "N. Poligraf; alat pendeteksi kebohongan."
+  },
+  {
+    "instruction": "Apa itu Pornography?",
+    "context": "Materi seksual eksplisit tanpa nilai seni.",
+    "response": "N. Pornografi; materi seksual yang dimaksudkan hanya untuk membangkitkan nafsu birahi."
+  },
+  {
+    "instruction": "Apa itu Positive Law?",
+    "context": "Hukum tertulis buatan manusia.",
+    "response": "N. Hukum positif; hukum buatan manusia (undang-undang), beda dengan hukum alam."
+  },
+  {
+    "instruction": "Apa itu Posse Comitatus?",
+    "context": "Kewenangan sheriff memanggil warga membantu penangkapan.",
+    "response": "N. (baca: pahs-see coh-mitt-tah-tus) Kekuatan masyarakat; kekuasaan sheriff untuk memanggil warga sipil membantu menangkap penjahat."
+  },
+  {
+    "instruction": "Apa arti Possess?",
+    "context": "Memiliki atau menguasai.",
+    "response": "V. Memiliki/Menguasai; memegang kendali fisik atau hak milik."
+  },
+  {
+    "instruction": "Apa itu Possession?",
+    "context": "Penguasaan fisik atas barang.",
+    "response": "N. Penguasaan (Possession); tindakan memiliki atau mengendalikan suatu objek atau properti."
+  },
+  {
+    "instruction": "Apa itu Possession of Stolen Goods?",
+    "context": "Penadahan barang curian.",
+    "response": "N. Penguasaan barang curian (Penadahan); kejahatan memiliki barang yang diketahui curian."
+  },
+  {
+    "instruction": "Apa itu Possessory Interest?",
+    "context": "Hak untuk menempati atau menguasai properti.",
+    "response": "N. Hak penguasaan; hak untuk menempati atau mengendalikan tanah."
+  },
+  {
+    "instruction": "Apa itu Possibility of a Reverter?",
+    "context": "Kemungkinan hak tanah kembali ke pemilik asal.",
+    "response": "N. Kemungkinan pengembalian hak; potensi hak milik tanah kembali ke pemberi asli jika syarat tertentu terjadi."
+  },
+  {
+    "instruction": "Apa arti Post?",
+    "context": "Menempelkan pengumuman publik.",
+    "response": "V. Menempelkan/Mengumumkan; menempatkan pemberitahuan hukum di tempat umum."
+  },
+  {
+    "instruction": "Apa arti Post Mortem?",
+    "context": "Pemeriksaan setelah mati (otopsi).",
+    "response": "N. Pasca kematian (Post mortem); pemeriksaan mayat (otopsi)."
+  },
+  {
+    "instruction": "Apa itu Postdated Check?",
+    "context": "Cek mundur (tanggalnya di masa depan).",
+    "response": "N. Cek mundur; cek dengan tanggal di masa depan yang tidak bisa dicairkan sebelum tanggal tersebut."
+  },
+  {
+    "instruction": "Apa arti Pot?",
+    "context": "Slang untuk ganja.",
+    "response": "N. Slang untuk ganja (marijuana)."
+  },
+  {
+    "instruction": "Apa itu Pour Over Will?",
+    "context": "Wasiat yang memindahkan sisa harta ke dalam trust.",
+    "response": "N. Wasiat tuang (Pour over will); wasiat yang memindahkan semua aset sisa ke dalam trust yang sudah ada."
+  },
+  {
+    "instruction": "Apa arti Power dalam hukum?",
+    "context": "Wewenang atau kekuasaan.",
+    "response": "N. Kekuasaan/Wewenang; hak dan kemampuan untuk mengambil tindakan hukum."
+  },
+  {
+    "instruction": "Apa itu Power of Acceptance?",
+    "context": "Kekuasaan menerima tawaran kontrak.",
+    "response": "N. Kuasa penerimaan; kemampuan untuk menerima tawaran dan menciptakan kontrak yang mengikat."
+  },
+  {
+    "instruction": "Apa itu Power of Appointment?",
+    "context": "Hak untuk menentukan pewaris harta.",
+    "response": "N. Kuasa penunjukan; hak untuk mewariskan atau mentransfer properti melalui wasiat atau trust."
+  },
+  {
+    "instruction": "Apa itu Power of Attorney?",
+    "context": "Surat kuasa.",
+    "response": "N. Surat kuasa; dokumen tertulis yang memberi wewenang kepada orang lain untuk bertindak atas nama penandatangan."
+  },
+  {
+    "instruction": "Apa arti Practicable?",
+    "context": "Dapat dilaksanakan.",
+    "response": "Adj. Dapat dilaksanakan (Praktis)."
+  },
+  {
+    "instruction": "Apa arti Practice?",
+    "context": "Kebiasaan atau praktik profesi.",
+    "response": "1) N. Kebiasaan. 2) N. Praktik hukum (bisnis pengacara)."
+  },
+  {
+    "instruction": "Apa arti Pray dalam gugatan?",
+    "context": "Memohon putusan hakim.",
+    "response": "V. Memohon (Pray); meminta putusan atau ganti rugi secara formal di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Prayer dalam dokumen hukum?",
+    "context": "Bagian permohonan (petitum) dalam gugatan.",
+    "response": "N. Petitum (Prayer); permohonan spesifik untuk putusan atau ganti rugi di akhir gugatan."
+  },
+  {
+    "instruction": "Apa arti Precatory?",
+    "context": "Harapan atau saran yang tidak mengikat secara hukum.",
+    "response": "Adj. Bersifat memohon (Precatory); keinginan atau saran dalam wasiat yang tidak memiliki kekuatan hukum wajib."
+  },
+  {
+    "instruction": "Apa itu Precedent?",
+    "context": "Yurisprudensi (putusan terdahulu yang jadi acuan).",
+    "response": "N. Preseden (Yurisprudensi); putusan pengadilan sebelumnya yang menjadi aturan hukum untuk kasus serupa di masa depan."
+  },
+  {
+    "instruction": "Apa arti Predecease?",
+    "context": "Meninggal lebih dulu.",
+    "response": "V. Meninggal lebih dulu (Predecease)."
+  },
+  {
+    "instruction": "Apa itu Preemption?",
+    "context": "Hukum pusat mengalahkan hukum daerah.",
+    "response": "N. Preemption; aturan bahwa hukum federal mengalahkan hukum negara bagian dalam masalah yang sama."
+  },
+  {
+    "instruction": "Apa itu Preemptive Right?",
+    "context": "Hak prioritas pemegang saham membeli saham baru.",
+    "response": "N. Hak memesan efek terlebih dahulu (HMETD); hak pemegang saham untuk membeli saham baru terlebih dahulu agar persentase kepemilikannya tidak berkurang."
+  },
+  {
+    "instruction": "Apa itu Preference dalam kepailitan?",
+    "context": "Membayar satu kreditur tertentu sebelum bangkrut (dilarang).",
+    "response": "N. Preferensi; pembayaran utang kepada satu kreditur saja sebelum bangkrut, yang dilarang karena tidak adil bagi kreditur lain."
+  },
+  {
+    "instruction": "Apa itu Preferred Dividend?",
+    "context": "Dividen saham preferen.",
+    "response": "N. Dividen preferen; pembayaran keuntungan kepada pemegang saham preferen."
+  },
+  {
+    "instruction": "Apa itu Preferred Stock?",
+    "context": "Saham preferen (prioritas dividen tapi tanpa hak suara).",
+    "response": "N. Saham preferen; kelas saham yang memberikan prioritas pembayaran dividen dibandingkan saham biasa."
+  },
+  {
+    "instruction": "Apa itu Preliminary Hearing?",
+    "context": "Sidang pendahuluan untuk menentukan kelayakan kasus pidana.",
+    "response": "N. Sidang pendahuluan; sidang untuk menentukan apakah ada cukup bukti untuk mengadili terdakwa atas kejahatan berat."
+  },
+  {
+    "instruction": "Apa itu Preliminary Injunction?",
+    "context": "Perintah pengadilan sementara sebelum putusan akhir.",
+    "response": "N. Injunction sementara; perintah pengadilan awal untuk melarang tindakan tertentu sampai ada putusan akhir."
+  },
+  {
+    "instruction": "Apa itu Premeditation?",
+    "context": "Perencanaan kejahatan sebelumnya.",
+    "response": "N. Perencanaan (Premeditasi); merencanakan atau memikirkan kejahatan sebelum melakukannya (unsur pembunuhan tingkat satu)."
+  },
+  {
+    "instruction": "Apa arti Premises?",
+    "context": "Properti tanah dan bangunan.",
+    "response": "N. Tempat/Premis; tanah dan bangunan di atasnya."
+  },
+  {
+    "instruction": "Apa itu Premium?",
+    "context": "Biaya asuransi.",
+    "response": "N. Premi; pembayaran untuk perlindungan asuransi."
+  },
+  {
+    "instruction": "Apa itu Prenuptial Agreement?",
+    "context": "Perjanjian pranikah.",
+    "response": "N. Perjanjian pranikah; kontrak sebelum menikah yang mengatur harta benda."
+  },
+  {
+    "instruction": "Apa itu Preponderance of the Evidence?",
+    "context": "Standar bukti dalam kasus perdata (lebih mungkin benar daripada tidak).",
+    "response": "N. Bukti yang lebih kuat (Preponderance of evidence); standar bukti dalam kasus perdata, artinya \"lebih mungkin benar daripada tidak\" (>50%)."
+  },
+  {
+    "instruction": "Apa itu Prerogative Writ?",
+    "context": "Perintah khusus pengadilan kepada pejabat pemerintah.",
+    "response": "N. Perintah prerogatif; perintah pengadilan kepada badan pemerintah."
+  },
+  {
+    "instruction": "Apa itu Prescription dalam properti?",
+    "context": "Hak atas tanah yang didapat karena penggunaan lama.",
+    "response": "N. Preskripsi (Kadaluwarsa akuisisi); cara memperoleh hak lintas (easement) dengan penggunaan terus-menerus selama bertahun-tahun."
+  },
+  {
+    "instruction": "Apa itu Prescriptive Easement?",
+    "context": "Hak lintas yang didapat karena penggunaan terus-menerus.",
+    "response": "N. Easement preskriptif; hak lintas yang diperoleh melalui penggunaan terus-menerus tanpa izin pemilik."
+  },
+  {
+    "instruction": "Apa itu Presentment?",
+    "context": "Penagihan wesel atau laporan Grand Jury.",
+    "response": "N. 1) Penagihan pembayaran wesel. 2) Laporan kejahatan oleh Grand Jury atas inisiatif sendiri."
+  },
+  {
+    "instruction": "Siapa itu Presiding Judge?",
+    "context": "Hakim ketua.",
+    "response": "N. Hakim ketua; hakim yang memimpin sidang atau mengelola pengadilan."
+  },
+  {
+    "instruction": "Apa itu Presumption?",
+    "context": "Asumsi hukum bahwa suatu fakta benar sampai dibuktikan sebaliknya.",
+    "response": "N. Praduga (Presumsi); aturan hukum yang menganggap suatu fakta benar kecuali dibuktikan sebaliknya."
+  },
+  {
+    "instruction": "Apa itu Presumption of Innocence?",
+    "context": "Asas praduga tak bersalah.",
+    "response": "N. Praduga tak bersalah; prinsip bahwa terdakwa dianggap tidak bersalah sampai dibuktikan bersalah di pengadilan."
+  },
+  {
+    "instruction": "Siapa itu Pretermitted Heir?",
+    "context": "Anak yang tidak sengaja terlewat dalam wasiat.",
+    "response": "N. Ahli waris yang terlewat; anak yang tidak disebutkan dalam wasiat, yang masih berhak menuntut bagian warisan."
+  },
+  {
+    "instruction": "Apa itu Pretrial Discovery?",
+    "context": "Proses saling buka bukti sebelum sidang.",
+    "response": "N. Penemuan pra-sidang (Lihat Discovery)."
+  },
+  {
+    "instruction": "Apa itu Prevailing Party?",
+    "context": "Pihak yang menang dalam gugatan.",
+    "response": "N. Pihak yang menang; pemenang dalam gugatan yang biasanya berhak atas biaya pengadilan."
+  },
+  {
+    "instruction": "Apa itu Price Fixing?",
+    "context": "Kesepakatan ilegal antar bisnis untuk menetapkan harga.",
+    "response": "N. Penetapan harga (Kartel); persekongkolan ilegal antar pesaing bisnis untuk menetapkan harga produk."
+  },
+  {
+    "instruction": "Apa arti Prima Facie?",
+    "context": "Bukti awal yang cukup kuat jika tidak dibantah.",
+    "response": "Adj. (baca: pry-mah fay-shah) Prima facie (Sepintas lalu); bukti yang cukup untuk membuktikan kasus kecuali ada bukti sebaliknya."
+  },
+  {
+    "instruction": "Apa itu Prima Facie Case?",
+    "context": "Kasus yang tampaknya sudah jelas buktinya.",
+    "response": "N. Kasus prima facie; gugatan yang tampaknya sudah jelas terbukti pada pandangan pertama."
+  },
+  {
+    "instruction": "Siapa itu Prime Suspect?",
+    "context": "Tersangka utama.",
+    "response": "N. Tersangka utama; orang yang paling dicurigai melakukan kejahatan."
+  },
+  {
+    "instruction": "Apa itu Primogeniture?",
+    "context": "Hak anak sulung laki-laki mewarisi seluruh harta (kuno).",
+    "response": "N. Primogenitur (Hak anak sulung); aturan kuno bahwa anak laki-laki tertua mewarisi seluruh harta orang tua."
+  },
+  {
+    "instruction": "Siapa itu Principal?",
+    "context": "Atasan atau pemberi kuasa.",
+    "response": "N. Prinsipal (Pemberi kuasa/Majikan); orang yang mempekerjakan agen atau karyawan."
+  },
+  {
+    "instruction": "Apa itu Principal Place of Business?",
+    "context": "Kantor pusat bisnis.",
+    "response": "N. Tempat usaha utama; lokasi kantor pusat bisnis."
+  },
+  {
+    "instruction": "Apa itu Prior Restraint?",
+    "context": "Penyensoran sebelum publikasi (dilarang konstitusi).",
+    "response": "N. Pengekangan prior (Sensor); upaya melarang publikasi sebelum diterbitkan, yang biasanya melanggar kebebasan pers."
+  },
+  {
+    "instruction": "Apa itu Prior(s)?",
+    "context": "Catatan kriminal sebelumnya.",
+    "response": "N. Catatan kriminal masa lalu (Residivis); riwayat kejahatan terdakwa sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Priority?",
+    "context": "Hak didahulukan dalam pembayaran utang.",
+    "response": "N. Prioritas; hak untuk dibayar atau dilayani lebih dulu dari orang lain (misal dalam kepailitan)."
+  },
+  {
+    "instruction": "Apa itu Privacy?",
+    "context": "Hak privasi.",
+    "response": "N. Privasi; hak untuk bebas dari gangguan publik yang tidak perlu."
+  },
+  {
+    "instruction": "Apa itu Private Carrier?",
+    "context": "Pengangkut yang tidak melayani umum.",
+    "response": "N. Pengangkut pribadi; pengangkut yang menyediakan jasa untuk kejadian tertentu saja, bukan sebagai bisnis umum."
+  },
+  {
+    "instruction": "Apa itu Private Nuisance?",
+    "context": "Gangguan yang merugikan individu tertentu.",
+    "response": "N. Gangguan pribadi; gangguan terhadap kenikmatan properti seseorang (misal tetangga berisik)."
+  },
+  {
+    "instruction": "Apa arti Private Parts?",
+    "context": "Alat kelamin.",
+    "response": "N. Alat kelamin."
+  },
+  {
+    "instruction": "Apa itu Private Property?",
+    "context": "Properti milik pribadi.",
+    "response": "N. Properti pribadi; tanah yang tidak dimiliki pemerintah."
+  },
+  {
+    "instruction": "Apa itu Private Road?",
+    "context": "Jalan pribadi.",
+    "response": "N. Jalan pribadi; jalan di properti pribadi yang penggunaannya terbatas."
+  },
+  {
+    "instruction": "Apa itu Privilege?",
+    "context": "Hak istimewa atau kekebalan.",
+    "response": "N. Hak istimewa/Privilese; manfaat atau kekebalan khusus yang diberikan kepada orang tertentu."
+  },
+  {
+    "instruction": "Apa itu Privilege Against Self-Incrimination?",
+    "context": "Hak diam agar tidak memberatkan diri sendiri.",
+    "response": "N. Hak untuk tidak memberatkan diri sendiri; hak menolak bersaksi melawan diri sendiri (Amandemen Kelima)."
+  },
+  {
+    "instruction": "Apa itu Privileged Communication?",
+    "context": "Komunikasi rahasia yang dilindungi hukum (misal dengan dokter).",
+    "response": "N. Komunikasi yang dilindungi (Privileged); percakapan rahasia yang tidak boleh diungkap di pengadilan (misal suami-istri, dokter-pasien)."
+  },
+  {
+    "instruction": "Apa itu Privileges and Immunities?",
+    "context": "Hak dasar warga negara yang dilindungi konstitusi.",
+    "response": "N. Hak istimewa dan kekebalan; hak-hak dasar warga negara yang dijamin Konstitusi AS."
+  },
+  {
+    "instruction": "Apa itu Privity?",
+    "context": "Hubungan langsung dalam kontrak.",
+    "response": "N. Privitas (Hubungan langsung); hubungan kontrak antara para pihak yang memungkinkan penegakan hukum."
+  },
+  {
+    "instruction": "Apa arti Pro Bono?",
+    "context": "Jasa hukum gratis demi kebaikan umum.",
+    "response": "Adj. Pro bono (Demi kebaikan publik); layanan hukum gratis untuk orang tidak mampu."
+  },
+  {
+    "instruction": "Apa arti Pro Forma?",
+    "context": "Sekadar formalitas atau laporan keuangan proyeksi.",
+    "response": "1) Prep. Formalitas. 2) N. Laporan keuangan pro forma (proyeksi/asumsi)."
+  },
+  {
+    "instruction": "Apa arti Pro Hac Vice?",
+    "context": "Izin pengacara luar daerah praktik untuk satu kasus ini saja.",
+    "response": "Prep. (baca: proh hock vee-chay) Untuk kesempatan ini saja; izin khusus bagi pengacara luar negara bagian untuk tampil di pengadilan dalam satu kasus tertentu."
+  },
+  {
+    "instruction": "Apa singkatan Pro Per?",
+    "context": "Mewakili diri sendiri.",
+    "response": "Adj. (Lihat In Propria Persona)."
+  },
+  {
+    "instruction": "Apa arti Pro Rata?",
+    "context": "Proporsional.",
+    "response": "Adj. Proporsional (Pro rata); berdasarkan bagian atau porsi masing-masing."
+  },
+  {
+    "instruction": "Apa arti Pro Se?",
+    "context": "Mewakili diri sendiri di pengadilan.",
+    "response": "Prep. Untuk diri sendiri (Pro se); bertindak sebagai pengacara sendiri."
+  },
+  {
+    "instruction": "Apa arti Pro Tanto?",
+    "context": "Hanya sejauh itu.",
+    "response": "Latin untuk \"hanya sampai sejauh itu.\""
+  },
+  {
+    "instruction": "Apa arti Pro Tem?",
+    "context": "Sementara.",
+    "response": "Adj. Sementara (Pro tem); untuk sementara waktu (misal: hakim pro tem)."
+  },
+  {
+    "instruction": "Apa itu Probable Cause?",
+    "context": "Alasan kuat untuk penangkapan atau penggeledahan.",
+    "response": "N. Alasan yang patut/Beralasan; alasan yang cukup berdasarkan fakta untuk meyakini kejahatan telah terjadi, syarat untuk penangkapan atau penggeledahan."
+  },
+  {
+    "instruction": "Apa itu Probate?",
+    "context": "Proses pengesahan wasiat di pengadilan.",
+    "response": "N. Pengesahan wasiat (Probate); proses hukum membuktikan wasiat sah dan mengelola warisan."
+  },
+  {
+    "instruction": "Apa itu Probation?",
+    "context": "Masa percobaan (hukuman tanpa penjara).",
+    "response": "N. Masa percobaan (Probasi); hukuman di mana terpidana dibebaskan di bawah pengawasan asalkan berkelakuan baik."
+  },
+  {
+    "instruction": "Apa arti Probative?",
+    "context": "Bernilai pembuktian.",
+    "response": "Adj. Probatih/Membuktikan; cenderung membuktikan sesuatu."
+  },
+  {
+    "instruction": "Apa itu Probative Facts?",
+    "context": "Fakta yang membuktikan isu kasus.",
+    "response": "N. Fakta pembuktian."
+  },
+  {
+    "instruction": "Apa itu Probative Value?",
+    "context": "Nilai pembuktian suatu barang bukti.",
+    "response": "N. Nilai pembuktian; seberapa berguna bukti tersebut untuk membuktikan sesuatu yang penting."
+  },
+  {
+    "instruction": "Apa itu Procedure?",
+    "context": "Hukum acara.",
+    "response": "N. Prosedur/Hukum Acara; metode dan aturan proses hukum."
+  },
+  {
+    "instruction": "Apa itu Proceeding?",
+    "context": "Proses hukum yang sedang berjalan.",
+    "response": "N. Proses perkara/Prosiding; setiap tindakan hukum di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Process?",
+    "context": "Surat panggilan pengadilan.",
+    "response": "N. Proses hukum (Surat panggilan); sarana hukum (seperti somasi) untuk memanggil orang ke pengadilan."
+  },
+  {
+    "instruction": "Siapa itu Process Server?",
+    "context": "Pengantar surat panggilan sidang.",
+    "response": "N. Penyampai surat panggilan; orang yang bertugas mengantarkan dokumen hukum kepada pihak yang berperkara."
+  },
+  {
+    "instruction": "Siapa itu Proctor?",
+    "context": "Pengacara maritim.",
+    "response": "N. Pengacara (hukum laut/maritim)."
+  },
+  {
+    "instruction": "Apa itu Product Liability?",
+    "context": "Tanggung jawab produsen atas produk cacat.",
+    "response": "N. Tanggung jawab produk; tanggung jawab produsen/penjual atas cedera yang disebabkan oleh produk cacat."
+  },
+  {
+    "instruction": "Apa itu Professional Corporation?",
+    "context": "Perusahaan khusus profesional (dokter/pengacara).",
+    "response": "N. Korporasi profesional; perusahaan yang dibentuk oleh profesional berlisensi (dokter, pengacara) untuk praktik."
+  },
+  {
+    "instruction": "Apa itu Proffer?",
+    "context": "Menawarkan bukti.",
+    "response": "V. Menawarkan bukti (Proffer)."
+  },
+  {
+    "instruction": "Apa itu Prohibition?",
+    "context": "Larangan hukum.",
+    "response": "N. Larangan (Prohibition); perintah pengadilan melarang suatu tindakan."
+  },
+  {
+    "instruction": "Apa itu Promise?",
+    "context": "Janji dalam kontrak.",
+    "response": "N. Janji; kesepakatan tegas untuk melakukan atau tidak melakukan sesuatu."
+  },
+  {
+    "instruction": "Apa itu Promissory Estoppel?",
+    "context": "Janji yang dianggap mengikat karena pihak lain sudah mengandalkannya.",
+    "response": "N. Estoppel janji; pernyataan palsu yang dianggap sebagai janji oleh pengadilan demi keadilan karena pihak lain telah mengandalkannya dan dirugikan."
+  },
+  {
+    "instruction": "Apa itu Promissory Note?",
+    "context": "Surat sanggup bayar utang.",
+    "response": "N. Surat sanggup bayar (Promissory note); janji tertulis untuk membayar sejumlah uang."
+  },
+  {
+    "instruction": "Siapa itu Promoter?",
+    "context": "Pendiri atau penggagas perusahaan.",
+    "response": "N. Promotor (Pendiri perusahaan); orang yang mengorganisir pembentukan bisnis atau korporasi."
+  },
+  {
+    "instruction": "Apa itu Promotional Stock?",
+    "context": "Saham untuk pendiri perusahaan.",
+    "response": "N. Saham promosi; saham yang diberikan kepada pendiri perusahaan sebagai bayaran atas usahanya."
+  },
+  {
+    "instruction": "Apa itu Proof?",
+    "context": "Pembuktian fakta.",
+    "response": "N. Pembuktian; konfirmasi fakta dengan bukti."
+  },
+  {
+    "instruction": "Siapa itu Proper Party?",
+    "context": "Pihak yang punya kepentingan dalam gugatan.",
+    "response": "N. Pihak yang tepat; orang yang memiliki kepentingan dalam gugatan dan boleh bergabung."
+  },
+  {
+    "instruction": "Apa definisi Property?",
+    "context": "Harta benda.",
+    "response": "N. Properti (Harta benda); segala sesuatu yang dimiliki, dibagi menjadi properti nyata (tanah) dan properti pribadi (barang)."
+  },
+  {
+    "instruction": "Apa itu Property Damage?",
+    "context": "Kerusakan harta benda.",
+    "response": "N. Kerusakan properti; cedera pada harta benda akibat kelalaian atau kesengajaan."
+  },
+  {
+    "instruction": "Apa itu Property Tax?",
+    "context": "Pajak Bumi dan Bangunan (PBB).",
+    "response": "N. Pajak properti (PBB); pajak tahunan atas real estat atau properti pribadi."
+  },
+  {
+    "instruction": "Apa arti Propria Persona?",
+    "context": "Atas nama sendiri.",
+    "response": "Adj. Untuk diri sendiri (Lihat In Propria Persona)."
+  },
+  {
+    "instruction": "Apa arti Proprietary?",
+    "context": "Berkaitan dengan kepemilikan.",
+    "response": "Adj. Hak milik (Proprietary); merujuk pada kepemilikan."
+  },
+  {
+    "instruction": "Apa itu Proprietary Interest?",
+    "context": "Kepentingan kepemilikan.",
+    "response": "N. Kepentingan kepemilikan."
+  },
+  {
+    "instruction": "Apa itu Proprietary Rights?",
+    "context": "Hak-hak pemilik.",
+    "response": "N. Hak kepemilikan."
+  },
+  {
+    "instruction": "Siapa itu Proprietor?",
+    "context": "Pemilik usaha.",
+    "response": "N. Pemilik (Proprietor); pemilik bisnis."
+  },
+  {
+    "instruction": "Apa arti Prosecute?",
+    "context": "Menuntut secara pidana.",
+    "response": "V. Menuntut (Prosecute); mendakwa seseorang dengan kejahatan dan memprosesnya di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Prosecution?",
+    "context": "Penuntutan atau pihak jaksa.",
+    "response": "N. Penuntutan; 1) Proses menuntut pidana. 2) Pihak pemerintah/jaksa dalam kasus pidana."
+  },
+  {
+    "instruction": "Siapa itu Prosecutor?",
+    "context": "Jaksa penuntut umum.",
+    "response": "N. Jaksa (Prosecutor); pengacara pemerintah dalam kasus pidana."
+  },
+  {
+    "instruction": "Apa itu Prospectus?",
+    "context": "Dokumen penawaran saham ke publik.",
+    "response": "N. Prospektus; pernyataan rinci tentang keuangan perusahaan untuk penawaran saham."
+  },
+  {
+    "instruction": "Siapa itu Prostitute?",
+    "context": "Pelacur.",
+    "response": "N. Pelacur (PSK)."
+  },
+  {
+    "instruction": "Apa itu Prostitution?",
+    "context": "Prostitusi.",
+    "response": "N. Prostitusi; profesi melakukan tindakan seksual demi uang."
+  },
+  {
+    "instruction": "Apa itu Protective Custody?",
+    "context": "Penahanan demi perlindungan (misal saksi atau anak).",
+    "response": "N. Tahanan perlindungan; penempatan seseorang dalam fasilitas pemerintah untuk melindunginya dari bahaya."
+  },
+  {
+    "instruction": "Apa arti Protest?",
+    "context": "Protes atau keberatan.",
+    "response": "V. Memprotes/Menyanggah."
+  },
+  {
+    "instruction": "Apa arti Prove?",
+    "context": "Membuktikan.",
+    "response": "V. Membuktikan."
+  },
+  {
+    "instruction": "Apa itu Provisional Remedy?",
+    "context": "Perintah pengadilan sementara.",
+    "response": "N. Pemulihan sementara; perintah pengadilan sementara untuk melindungi pihak selama gugatan berjalan."
+  },
+  {
+    "instruction": "Apa itu Proviso?",
+    "context": "Syarat atau ketentuan.",
+    "response": "N. Ketentuan (Proviso); syarat dalam kontrak."
+  },
+  {
+    "instruction": "Apa itu Proximate Cause?",
+    "context": "Penyebab utama terjadinya kerugian.",
+    "response": "N. Penyebab langsung (Proximate cause); kejadian yang secara langsung mengakibatkan cedera atau kerusakan."
+  },
+  {
+    "instruction": "Apa itu Proxy?",
+    "context": "Kuasa untuk mewakili (misal voting saham).",
+    "response": "N. Kuasa (Proxy); orang atau dokumen yang memberi wewenang untuk bertindak atau memilih atas nama orang lain."
+  },
+  {
+    "instruction": "Apa itu Prudent Man Rule?",
+    "context": "Prinsip investasi aman bagi wali amanat.",
+    "response": "N. Aturan orang bijak; persyaratan bahwa wali amanat harus berinvestasi dengan hati-hati dan bijaksana."
+  },
+  {
+    "instruction": "Apa definisi Public?",
+    "context": "Masyarakat atau pemerintah.",
+    "response": "N., Adj. Publik/Umum; orang-orang atau berkaitan dengan pemerintah."
+  },
+  {
+    "instruction": "Siapa itu Public Administrator?",
+    "context": "Pejabat yang mengurus warisan tak bertuan.",
+    "response": "N. Administrator publik; pejabat yang menangani harta orang meninggal tanpa kerabat."
+  },
+  {
+    "instruction": "Apa itu Public Benefit Corporation?",
+    "context": "Yayasan nirlaba untuk kepentingan umum.",
+    "response": "N. Korporasi manfaat publik; istilah untuk organisasi layanan masyarakat nirlaba."
+  },
+  {
+    "instruction": "Apa itu Public Charge?",
+    "context": "Orang yang hidup dari bantuan negara.",
+    "response": "N. Beban publik; orang miskin atau sakit yang dirawat dengan biaya negara."
+  },
+  {
+    "instruction": "Apa itu Public Corporation?",
+    "context": "BUMN atau badan usaha pemerintah.",
+    "response": "N. Perusahaan umum (Perum/BUMN); korporasi yang dibentuk untuk fungsi pemerintah."
+  },
+  {
+    "instruction": "Siapa itu Public Defender?",
+    "context": "Pengacara gratis dari pemerintah untuk terdakwa miskin.",
+    "response": "N. Pembela umum (Pengacara publik); pengacara pemerintah yang membela terdakwa tidak mampu."
+  },
+  {
+    "instruction": "Apa itu Public Domain?",
+    "context": "Milik umum (hak cipta sudah habis).",
+    "response": "N. Domain publik; karya yang hak ciptanya sudah habis dan bisa digunakan siapa saja."
+  },
+  {
+    "instruction": "Apa itu Public Easement?",
+    "context": "Hak masyarakat menggunakan jalan umum.",
+    "response": "N. Easement publik; hak masyarakat umum untuk menggunakan jalan atau jalur tertentu."
+  },
+  {
+    "instruction": "Siapa itu Public Figure?",
+    "context": "Tokoh masyarakat.",
+    "response": "N. Tokoh publik; orang terkenal yang hak privasinya lebih terbatas dalam hukum pencemaran nama baik."
+  },
+  {
+    "instruction": "Apa itu Public Nuisance?",
+    "context": "Gangguan yang merugikan masyarakat luas.",
+    "response": "N. Gangguan publik; gangguan yang mempengaruhi banyak orang (misal: polusi pabrik)."
+  },
+  {
+    "instruction": "Apa itu Public Property?",
+    "context": "Properti milik pemerintah.",
+    "response": "N. Properti publik; tanah atau bangunan milik pemerintah (taman, jalan, sekolah)."
+  },
+  {
+    "instruction": "Apa itu Public Record?",
+    "context": "Catatan resmi yang bisa diakses umum.",
+    "response": "N. Catatan publik; dokumen pemerintah yang terbuka untuk diperiksa masyarakat."
+  },
+  {
+    "instruction": "Apa itu Public Trust Doctrine?",
+    "context": "Prinsip bahwa sumber daya alam tertentu milik publik.",
+    "response": "N. Doktrin kepercayaan publik; prinsip bahwa pemerintah memegang tanah di bawah air (laut/sungai) sebagai amanat untuk kepentingan publik."
+  },
+  {
+    "instruction": "Apa itu Public Use?",
+    "context": "Tujuan kepentingan umum untuk penggusuran tanah.",
+    "response": "N. Penggunaan publik; tujuan pengambilan properti pribadi oleh pemerintah (sekolah, jalan)."
+  },
+  {
+    "instruction": "Apa itu Public Utility?",
+    "context": "Layanan utilitas umum (listrik, air).",
+    "response": "N. Utilitas publik; organisasi penyedia layanan umum seperti listrik, air, dan telepon."
+  },
+  {
+    "instruction": "Apa itu Publication?",
+    "context": "Penerbitan atau pengumuman hukum.",
+    "response": "N. Publikasi; membuat sesuatu diketahui umum melalui cetak atau siaran."
+  },
+  {
+    "instruction": "Apa arti Publish?",
+    "context": "Mempublikasikan.",
+    "response": "V. Menerbitkan/Mempublikasikan."
+  },
+  {
+    "instruction": "Apa itu Puffing?",
+    "context": "Bualan penjual yang melebih-lebihkan produk.",
+    "response": "N. Bualan (Puffing); melebih-lebihkan kebaikan produk dalam penjualan, yang biasanya tidak dianggap penipuan hukum."
+  },
+  {
+    "instruction": "Apa itu Punitive Damages?",
+    "context": "Ganti rugi penghukuman.",
+    "response": "N. Ganti rugi punitif; ganti rugi tambahan sebagai hukuman atas tindakan jahat."
+  },
+  {
+    "instruction": "Apa arti Putative?",
+    "context": "Yang dianggap atau diduga (misal ayah biologis).",
+    "response": "Adj. Putatif (Diduga); dianggap atau diyakini umum (misal: ayah putatif)."
+  }
+]
