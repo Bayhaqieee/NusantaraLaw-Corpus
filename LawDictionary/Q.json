@@ -1,0 +1,112 @@
+[
+  {
+    "instruction": "Apa itu Quantum Meruit?",
+    "context": "Pembayaran sesuai nilai jasa yang pantas meskipun tidak ada kontrak.",
+    "response": "N. Sejumlah yang pantas (Quantum meruit); prinsip hukum untuk membayar nilai wajar jasa yang diberikan ketika tidak ada kontrak tertulis atau harga tidak ditentukan."
+  },
+  {
+    "instruction": "Apa arti Quash?",
+    "context": "Membatalkan perintah pengadilan atau dakwaan.",
+    "response": "V. Membatalkan (Quash); mengesampingkan atau membatalkan tindakan hukum, seperti membatalkan surat panggilan atau dakwaan."
+  },
+  {
+    "instruction": "Apa arti Quasi?",
+    "context": "Seolah-olah atau menyerupai.",
+    "response": "Adj., Adv. Semu/Seolah-olah (Quasi); menyerupai sesuatu tetapi tidak sepenuhnya sama (misal: quasi-judicial)."
+  },
+  {
+    "instruction": "Apa itu Quasi Community Property?",
+    "context": "Harta yang diperlakukan sebagai harta bersama meski diperoleh sebelum nikah atau di luar daerah.",
+    "response": "N. Harta bersama semu; properti yang diperoleh pasangan yang hidup bersama seolah-olah menikah, atau properti yang diperoleh di negara bagian lain yang diperlakukan sebagai harta bersama saat cerai."
+  },
+  {
+    "instruction": "Apa itu Quasi Contract?",
+    "context": "Kewajiban hukum yang dianggap kontrak demi keadilan.",
+    "response": "N. Kontrak semu; kewajiban yang diberlakukan hukum seolah-olah ada kontrak untuk mencegah ketidakadilan, meskipun syarat kontrak formal tidak terpenuhi."
+  },
+  {
+    "instruction": "Apa itu Quasi Corporation?",
+    "context": "Badan usaha yang bertindak seperti korporasi tapi belum resmi.",
+    "response": "N. Korporasi semu; bisnis yang beroperasi layaknya korporasi tanpa menyelesaikan persyaratan hukum inkorporasi."
+  },
+  {
+    "instruction": "Apa itu Quasi in Rem?",
+    "context": "Gugatan terhadap properti seseorang untuk menuntut orang tersebut.",
+    "response": "Adj. Quasi in rem; tindakan hukum yang didasarkan pada hak atas properti, tetapi juga mempengaruhi hak pribadi pemiliknya (misal: menyita tanah orang asing untuk bayar utang)."
+  },
+  {
+    "instruction": "Apa itu Quasi-criminal?",
+    "context": "Pelanggaran perdata yang hukumannya mirip pidana (penjara/denda).",
+    "response": "Adj. Semu pidana; tindakan (seperti penghinaan pengadilan/contempt of court) yang sifatnya perdata tetapi memiliki hukuman seperti pidana (penjara/denda)."
+  },
+  {
+    "instruction": "Apa itu Quasi-judicial?",
+    "context": "Wewenang lembaga pemerintah (bukan pengadilan) untuk memutuskan sengketa.",
+    "response": "Adj., Adv. Semu yudisial; tindakan badan pemerintah atau komisi yang menyerupai fungsi pengadilan (seperti sidang penetapan tarif listrik)."
+  },
+  {
+    "instruction": "Apa itu Queen's Bench?",
+    "context": "Divisi pengadilan tinggi di Inggris.",
+    "response": "N. Pengadilan Ratu (Queen's Bench); pengadilan tinggi di Inggris selama masa pemerintahan Ratu. Juga nama asosiasi pengacara wanita di AS."
+  },
+  {
+    "instruction": "Apa itu Query?",
+    "context": "Pertanyaan hukum.",
+    "response": "N. Pertanyaan (Query); istilah pengacara untuk pertanyaan yang perlu dijawab."
+  },
+  {
+    "instruction": "Apa itu Question of Fact?",
+    "context": "Masalah fakta yang harus diputuskan juri.",
+    "response": "N. Pertanyaan fakta; isu dalam persidangan mengenai apa yang sebenarnya terjadi, yang harus diputuskan oleh juri (atau hakim jika tanpa juri)."
+  },
+  {
+    "instruction": "Apa itu Question of Law?",
+    "context": "Masalah hukum yang harus diputuskan hakim.",
+    "response": "N. Pertanyaan hukum; isu mengenai penerapan atau penafsiran hukum, yang hanya boleh diputuskan oleh hakim, bukan juri."
+  },
+  {
+    "instruction": "Apa itu Qui Tam Action?",
+    "context": "Gugatan warga negara (whistleblower) atas nama pemerintah.",
+    "response": "N. Gugatan Qui Tam; gugatan yang diajukan oleh warga negara swasta (whistleblower) terhadap penipu pemerintah, di mana pelapor mendapat bagian dari denda yang dipulihkan."
+  },
+  {
+    "instruction": "Apa arti Quid Pro Quo?",
+    "context": "Sesuatu untuk sesuatu (timbal balik).",
+    "response": "N. Imbal balik (Quid pro quo); pertukaran barang atau jasa, di mana satu pihak memberikan sesuatu dengan harapan mendapatkan sesuatu sebagai gantinya."
+  },
+  {
+    "instruction": "Apa itu Quiet Enjoyment?",
+    "context": "Hak penyewa untuk tidak diganggu.",
+    "response": "N. Penikmatan tenang; hak penyewa atau pemilik properti untuk menggunakan tempatnya dengan damai tanpa gangguan dari pemilik atau pihak lain."
+  },
+  {
+    "instruction": "Apa itu Quiet Title Action?",
+    "context": "Gugatan untuk memastikan kepemilikan tanah yang sah.",
+    "response": "N. Gugatan penetapan hak milik; gugatan untuk menetapkan hak milik atas properti nyata dan membungkam (menghapus) klaim atau tantangan dari pihak lain."
+  },
+  {
+    "instruction": "Apa arti Quit dalam sewa menyewa?",
+    "context": "Meninggalkan atau mengosongkan properti.",
+    "response": "V. Mengosongkan/Pergi (Quit); meninggalkan tempat sewaan, seperti dalam \"notice to quit\" (pemberitahuan pengosongan)."
+  },
+  {
+    "instruction": "Apa itu Quitclaim Deed?",
+    "context": "Akta pelepasan hak tanpa jaminan kepemilikan.",
+    "response": "N. Akta pelepasan hak (Quitclaim deed); akta yang mentransfer kepentingan apa pun yang dimiliki seseorang dalam properti, tanpa menjamin bahwa dia memiliki hak milik yang sah."
+  },
+  {
+    "instruction": "Apa itu Quo Warranto?",
+    "context": "Gugatan menantang hak seseorang memegang jabatan.",
+    "response": "N. Quo warranto; perintah pengadilan untuk menantang hak seseorang memegang jabatan publik atau korporasi."
+  },
+  {
+    "instruction": "Apa itu Quorum?",
+    "context": "Jumlah minimum anggota hadir agar rapat sah.",
+    "response": "N. Kuorum; jumlah minimum orang yang harus hadir dalam pertemuan agar keputusan yang diambil sah secara hukum."
+  },
+  {
+    "instruction": "Apa itu Quotient Verdict?",
+    "context": "Putusan juri berdasarkan rata-rata angka (ilegal).",
+    "response": "N. Putusan kuosien (Rata-rata); putusan ganti rugi ilegal di mana juri menjumlahkan angka masing-masing lalu membaginya, tanpa musyawarah yang benar."
+  }
+]
