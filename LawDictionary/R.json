@@ -1,0 +1,812 @@
+[
+  {
+    "instruction": "Apa arti istilah 'Race to the Courthouse'?",
+    "context": "Prinsip hukum tentang prioritas pendaftaran dokumen properti.",
+    "response": "N. Perlombaan ke pengadilan; slang untuk aturan bahwa akta, hipotek, atau putusan yang pertama kali didaftarkan di Catatan Sipil/Badan Pertanahan akan memiliki prioritas hukum atas yang didaftarkan belakangan, tidak peduli kapan dokumen itu dibuat."
+  },
+  {
+    "instruction": "Apa itu RICO Act?",
+    "context": "Undang-undang AS untuk memberantas kejahatan terorganisir.",
+    "response": "N. UU RICO (Racketeer Influenced Corrupt Organization); undang-undang federal yang menjadikannya kejahatan bagi konspirasi kriminal terorganisir untuk mengoperasikan bisnis yang sah."
+  },
+  {
+    "instruction": "Apa itu Racketeering?",
+    "context": "Kejahatan terorganisir yang dijalankan sebagai bisnis.",
+    "response": "N. Pemerasan terorganisir (Racketeering); kejahatan federal berkonspirasi untuk melakukan kejahatan, khususnya sebagai bisnis reguler (kejahatan terorganisir atau Mafia)."
+  },
+  {
+    "instruction": "Apa arti Ransom?",
+    "context": "Uang tebusan penculikan.",
+    "response": "1) N. Uang tebusan; uang yang dibayarkan kepada penculik untuk pembebasan orang yang diculik. 2) V. Menebus."
+  },
+  {
+    "instruction": "Apa definisi Rape?",
+    "context": "Kejahatan pemerkosaan.",
+    "response": "1) N. Pemerkosaan; kejahatan hubungan seksual tanpa persetujuan yang dicapai melalui kekerasan, ancaman, atau intimidasi."
+  },
+  {
+    "instruction": "Apa arti Ratable?",
+    "context": "Dapat dinilai untuk pajak.",
+    "response": "Adj. Dapat dinilai (Ratable); kena pajak menurut nilainya, seperti harta warisan atau properti."
+  },
+  {
+    "instruction": "Apa itu Ratification?",
+    "context": "Pengesahan tindakan yang sebelumnya tidak sah.",
+    "response": "N. Ratifikasi/Pengesahan; konfirmasi tindakan yang sebelumnya tidak disetujui, biasanya oleh majikan yang mengadopsi tindakan agennya."
+  },
+  {
+    "instruction": "Apa arti Ratify?",
+    "context": "Mengesahkan tindakan.",
+    "response": "V. Meratifikasi; mengonfirmasi dan mengadopsi tindakan orang lain meskipun tidak disetujui sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Rational Basis?",
+    "context": "Uji konstitusionalitas undang-undang.",
+    "response": "N. Dasar rasional; tes konstitusionalitas undang-undang, yang menanyakan apakah undang-undang tersebut memiliki hubungan yang wajar untuk mencapai tujuan yang sah."
+  },
+  {
+    "instruction": "Apa arti Ready, Willing and Able?",
+    "context": "Siap melaksanakan kontrak.",
+    "response": "Adj. Siap, bersedia, dan mampu; sepenuhnya siap untuk bertindak, seperti dalam melaksanakan kontrak."
+  },
+  {
+    "instruction": "Apa definisi Real Estate?",
+    "context": "Tanah dan bangunan.",
+    "response": "N. Real estat (Properti tanah dan bangunan); tanah, perbaikan, dan bangunan di atasnya, termasuk benda yang melekat."
+  },
+  {
+    "instruction": "Apa itu REIT?",
+    "context": "Dana investasi real estat.",
+    "response": "N. Dana Investasi Real Estat (DIRE/REIT); organisasi investasi yang mengumpulkan dana investor untuk membeli properti atau memberikan pinjaman yang dijamin properti."
+  },
+  {
+    "instruction": "Siapa itu Real Party in Interest?",
+    "context": "Pihak yang sebenarnya berkepentingan dalam gugatan.",
+    "response": "N. Pihak yang berkepentingan nyata; orang atau entitas yang akan mendapat manfaat dari gugatan meskipun penggugat resminya orang lain (misal wali amanat)."
+  },
+  {
+    "instruction": "Apa itu Real Property?",
+    "context": "Harta tidak bergerak (tanah/bangunan).",
+    "response": "N. Properti nyata (Harta tak bergerak); semua tanah, struktur, peralatan yang melekat kuat, dan segala kepentingan di dalamnya (seperti hak milik)."
+  },
+  {
+    "instruction": "Apa arti Realty?",
+    "context": "Singkatan untuk real estat.",
+    "response": "N. Real estat."
+  },
+  {
+    "instruction": "Apa arti Reasonable dalam hukum?",
+    "context": "Wajar atau pantas menurut standar umum.",
+    "response": "Adj., Adv. Wajar/Pantas; adil, rasional, sesuai, atau biasa dalam keadaan tersebut."
+  },
+  {
+    "instruction": "Apa itu Reasonable Care?",
+    "context": "Tingkat kehati-hatian standar orang biasa.",
+    "response": "N. Kehati-hatian yang wajar; tingkat kewaspadaan yang akan digunakan oleh orang yang bijaksana dan rasional dalam keadaan tersebut (standar untuk menentukan kelalaian)."
+  },
+  {
+    "instruction": "Apa itu Reasonable Doubt?",
+    "context": "Keraguan yang beralasan dalam kasus pidana.",
+    "response": "N. Keraguan yang wajar; ketidakyakinan juri akan kesalahan terdakwa. Jika ada keraguan yang wajar, terdakwa harus dibebaskan (standar beyond reasonable doubt)."
+  },
+  {
+    "instruction": "Apa itu Reasonable Reliance?",
+    "context": "Keyakinan wajar terhadap janji orang lain.",
+    "response": "N. Kepercayaan yang wajar; apa yang akan dipercayai dan ditindaklanjuti oleh orang yang bijaksana jika diberitahu sesuatu oleh orang lain (penting dalam kasus penipuan kontrak)."
+  },
+  {
+    "instruction": "Apa itu Reasonable Speed?",
+    "context": "Kecepatan aman sesuai kondisi jalan.",
+    "response": "N. Kecepatan wajar; kecepatan mengemudi yang lebih rendah dari batas kecepatan resmi karena kondisi cuaca atau lalu lintas yang buruk."
+  },
+  {
+    "instruction": "Apa arti Reasonable Time?",
+    "context": "Waktu yang wajar untuk memenuhi kewajiban.",
+    "response": "N. Waktu yang wajar; durasi waktu yang dianggap pantas menurut kebiasaan bisnis untuk melakukan kinerja atau pembayaran."
+  },
+  {
+    "instruction": "Apa itu Reasonable Wear and Tear?",
+    "context": "Kerusakan wajar akibat pemakaian normal.",
+    "response": "N. Keausan wajar; kerusakan normal akibat penggunaan properti sewaan seiring waktu, yang bukan tanggung jawab penyewa untuk memperbaikinya."
+  },
+  {
+    "instruction": "Apa arti Rebate?",
+    "context": "Potongan harga atau pengembalian uang.",
+    "response": "1) N. Rabat (Potongan harga); diskon atau pengembalian sebagian pembayaran. 2) V. Memberikan rabat."
+  },
+  {
+    "instruction": "Apa itu Rebuttable Presumption?",
+    "context": "Praduga hukum yang bisa dibantah dengan bukti.",
+    "response": "N. Praduga yang dapat dibantah; asumsi fakta yang diterima pengadilan sampai dibuktikan sebaliknya (semua praduga hukum pada dasarnya bisa dibantah)."
+  },
+  {
+    "instruction": "Apa itu Rebuttal?",
+    "context": "Bantahan terhadap bukti lawan.",
+    "response": "N. Bantahan (Rebuttal); bukti yang diperkenalkan untuk melawan, menyangkal, atau bertentangan dengan bukti lawan."
+  },
+  {
+    "instruction": "Apa itu Recapture dalam pajak?",
+    "context": "Pajak atas penghematan pajak masa lalu saat aset dijual.",
+    "response": "N. Pengambilan kembali (Recapture); dalam pajak penghasilan, persyaratan membayar kembali penghematan pajak dari tahun-tahun sebelumnya (seperti penyusutan dipercepat) saat properti dijual."
+  },
+  {
+    "instruction": "Apa itu Receipt?",
+    "context": "Tanda terima pembayaran.",
+    "response": "N. Tanda terima (Kuitansi); pengakuan tertulis atas pembayaran uang atau penerimaan barang."
+  },
+  {
+    "instruction": "Siapa itu Receiver?",
+    "context": "Kurator atau pengelola aset yang ditunjuk pengadilan.",
+    "response": "N. Kurator/Pengelola (Receiver); orang netral yang ditunjuk hakim untuk mengurus properti atau bisnis pihak yang bersengketa atau bangkrut."
+  },
+  {
+    "instruction": "Apa itu Receivership?",
+    "context": "Pengelolaan aset di bawah pengawasan kurator.",
+    "response": "N. Kuratela (Receivership); proses penunjukan kurator oleh pengadilan untuk mengambil hak asuh atas properti atau bisnis."
+  },
+  {
+    "instruction": "Apa arti Recess dalam sidang?",
+    "context": "Istirahat sementara.",
+    "response": "N. Reses/Istirahat; jeda dalam persidangan sampai waktu tertentu."
+  },
+  {
+    "instruction": "Siapa itu Recidivist?",
+    "context": "Residivis (penjahat kambuhan).",
+    "response": "N. Residivis; pelaku kejahatan berulang."
+  },
+  {
+    "instruction": "Apa itu Reciprocal Discovery?",
+    "context": "Pertukaran bukti timbal balik sebelum sidang.",
+    "response": "N. Penemuan timbal balik; pertukaran dokumen dan daftar saksi antara kedua pihak sebelum persidangan."
+  },
+  {
+    "instruction": "Apa itu Reciprocity?",
+    "context": "Saling mengakui hak atau izin antar negara/wilayah.",
+    "response": "N. Resiprositas (Timbal balik); pertukaran hak istimewa antar negara bagian atau negara (misal: pengakuan lisensi pengacara)."
+  },
+  {
+    "instruction": "Apa arti Reckless?",
+    "context": "Ceroboh atau nekat.",
+    "response": "Adj. Sembrono/Nekat (Reckless); ceroboh sampai pada titik tidak mempedulikan konsekuensi (kelalaian berat)."
+  },
+  {
+    "instruction": "Apa itu Reckless Disregard?",
+    "context": "Pengabaian keselamatan yang ceroboh.",
+    "response": "N. Pengabaian sembrono; kelalaian berat tanpa mempedulikan bahaya bagi orang lain."
+  },
+  {
+    "instruction": "Apa itu Reckless Driving?",
+    "context": "Mengemudi ugal-ugalan.",
+    "response": "N. Mengemudi ugal-ugalan; mengoperasikan kendaraan dengan cara berbahaya (misal ngebut, memotong jalur)."
+  },
+  {
+    "instruction": "Apa itu Reconveyance?",
+    "context": "Pengembalian hak milik setelah utang lunas.",
+    "response": "N. Pengembalian hak (Reconveyance); transfer kembali hak milik dari wali amanat kepada peminjam setelah utang jaminan lunas."
+  },
+  {
+    "instruction": "Apa arti Record dokumen?",
+    "context": "Mendaftarkan dokumen resmi.",
+    "response": "1) V. Mencatat/Mendaftarkan; memasukkan dokumen ke dalam catatan resmi pemerintah daerah (seperti akta tanah)."
+  },
+  {
+    "instruction": "Apa itu Recording Acts?",
+    "context": "UU tentang pendaftaran tanah.",
+    "response": "N. Undang-undang pencatatan; undang-undang yang menetapkan penyimpanan catatan resmi oleh pemerintah daerah."
+  },
+  {
+    "instruction": "Apa itu Records bisnis?",
+    "context": "Arsip dokumen bisnis.",
+    "response": "N. Catatan/Arsip; semua dokumen bisnis tertulis, terutama tentang keuangan."
+  },
+  {
+    "instruction": "Apa itu Recoupment?",
+    "context": "Hak memotong tagihan lawan dengan klaim sendiri.",
+    "response": "N. Pemulihan/Potongan (Recoupment); hak terdakwa untuk menuntut pengurangan jumlah yang diberikan kepada penggugat dengan jumlah yang terutang kepadanya dalam transaksi yang sama."
+  },
+  {
+    "instruction": "Apa itu Recourse?",
+    "context": "Hak menagih pembayaran.",
+    "response": "N. Hak tagih (Recourse); hak untuk menuntut pembayaran kepada penulis cek atau wesel."
+  },
+  {
+    "instruction": "Apa arti Recover dalam gugatan?",
+    "context": "Mendapatkan ganti rugi.",
+    "response": "V. Memulihkan/Mendapatkan (Recover); menerima putusan uang dalam gugatan."
+  },
+  {
+    "instruction": "Apa arti Recoverable?",
+    "context": "Bisa dituntut ganti ruginya.",
+    "response": "Adj. Dapat dipulihkan; merujuk pada jumlah uang yang berhak diterima penggugat dalam gugatan."
+  },
+  {
+    "instruction": "Apa itu Recovery?",
+    "context": "Jumlah uang yang dimenangkan dalam gugatan.",
+    "response": "N. Pemulihan (Recovery); jumlah uang atau hak lain yang diterima penggugat dalam gugatan."
+  },
+  {
+    "instruction": "Apa itu Recusal?",
+    "context": "Pengunduran diri hakim karena konflik kepentingan.",
+    "response": "N. Pengunduran diri (Recusal); tindakan hakim atau jaksa mengundurkan diri dari kasus karena konflik kepentingan."
+  },
+  {
+    "instruction": "Apa arti Recuse?",
+    "context": "Mengundurkan diri dari kasus.",
+    "response": "V. Mengundurkan diri (Recuse); menolak menjadi hakim dalam kasus karena konflik kepentingan."
+  },
+  {
+    "instruction": "Apa arti Redeem?",
+    "context": "Menebus kembali properti.",
+    "response": "V. Menebus (Redeem); membeli kembali properti dengan melunasi utang, atau membayar barang gadai."
+  },
+  {
+    "instruction": "Apa itu Redemption?",
+    "context": "Penebusan properti.",
+    "response": "N. Penebusan (Redemption); tindakan menebus kembali properti dengan melunasi pinjaman dan biaya."
+  },
+  {
+    "instruction": "Apa itu Reentry?",
+    "context": "Pemilik mengambil kembali properti dari penyewa.",
+    "response": "N. Masuk kembali (Reentry); mengambil kembali kepemilikan properti nyata, khususnya ketika penyewa gagal membayar sewa."
+  },
+  {
+    "instruction": "Siapa itu Referee?",
+    "context": "Wasit yang ditunjuk hakim untuk memeriksa bukti.",
+    "response": "N. Wasit (Referee); orang yang dirujuk oleh hakim untuk mengambil kesaksian atau memeriksa bukti dan melaporkan temuan ke pengadilan."
+  },
+  {
+    "instruction": "Apa itu Referendum?",
+    "context": "Pemungutan suara rakyat untuk menyetujui UU.",
+    "response": "N. Referendum; proses pemungutan suara publik untuk mencabut atau menyetujui undang-undang yang ada."
+  },
+  {
+    "instruction": "Apa itu Reformation?",
+    "context": "Perbaikan kontrak oleh pengadilan.",
+    "response": "N. Perbaikan (Reformasi); koreksi dokumen oleh perintah pengadilan jika ada kesalahan atau kesalahpahaman."
+  },
+  {
+    "instruction": "Apa arti Refresh One's Memory?",
+    "context": "Membantu saksi mengingat dengan catatan.",
+    "response": "V. Menyegarkan ingatan; menggunakan dokumen atau catatan untuk membantu saksi mengingat peristiwa saat bersaksi."
+  },
+  {
+    "instruction": "Apa itu Register dalam perusahaan?",
+    "context": "Daftar pemegang saham.",
+    "response": "N. Daftar pemegang saham (Register); catatan pemegang saham dan transfer saham korporasi."
+  },
+  {
+    "instruction": "Apa itu Registration Statement?",
+    "context": "Laporan pendaftaran saham ke otoritas bursa.",
+    "response": "N. Pernyataan pendaftaran; laporan rinci yang diajukan ke SEC (Bapepam) oleh perusahaan yang akan menerbitkan saham ke publik."
+  },
+  {
+    "instruction": "Apa itu Registry of Deeds?",
+    "context": "Kantor pendaftaran tanah.",
+    "response": "N. Pendaftaran akta; catatan dokumen hak tanah yang disimpan oleh pemerintah daerah."
+  },
+  {
+    "instruction": "Apa itu Regulations?",
+    "context": "Peraturan pemerintah.",
+    "response": "N. Peraturan (Regulasi); aturan dan kode administratif yang dikeluarkan oleh badan pemerintah."
+  },
+  {
+    "instruction": "Apa itu Rehearing?",
+    "context": "Sidang ulang atau peninjauan kembali.",
+    "response": "N. Sidang ulang (Rehearing); melakukan sidang lagi atas mosi salah satu pihak, biasanya karena bukti baru atau kesalahan."
+  },
+  {
+    "instruction": "Apa itu Rejection of Claim?",
+    "context": "Penolakan tagihan utang dalam warisan.",
+    "response": "N. Penolakan klaim; penolakan utang orang meninggal oleh eksekutor warisan."
+  },
+  {
+    "instruction": "Apa arti Release?",
+    "context": "Melepaskan hak atau membebaskan.",
+    "response": "1) V. Melepaskan hak. 2) V. Membebaskan (dari penjara). 3) N. Surat pelepasan hak."
+  },
+  {
+    "instruction": "Apa itu Release on One's Own Recognizance?",
+    "context": "Bebas tanpa jaminan uang.",
+    "response": "V. Bebas dengan jaminan diri sendiri; hakim membiarkan terdakwa bebas menunggu sidang tanpa uang jaminan."
+  },
+  {
+    "instruction": "Apa arti Relevant?",
+    "context": "Berhubungan dengan kasus.",
+    "response": "Adj. Relevan; memiliki hubungan yang wajar dan bernilai untuk membuktikan fakta dalam kasus."
+  },
+  {
+    "instruction": "Apa itu Reliance?",
+    "context": "Bertindak karena percaya pada janji orang lain.",
+    "response": "N. Kepercayaan (Reliance); bertindak berdasarkan pernyataan atau janji orang lain (syarat dalam kontrak atau penipuan)."
+  },
+  {
+    "instruction": "Apa itu Reliction?",
+    "context": "Tanah bertambah karena air surut permanen.",
+    "response": "N. Reliksi (Tanah timbul); perubahan garis air secara bertahap yang memberi pemilik tanah lebih banyak daratan kering."
+  },
+  {
+    "instruction": "Apa arti Relief?",
+    "context": "Bantuan atau ganti rugi yang diberikan pengadilan.",
+    "response": "N. Pemulihan/Bantuan hukum (Relief); istilah umum untuk semua manfaat yang diberikan pengadilan kepada penggugat (ganti rugi, perintah, dll)."
+  },
+  {
+    "instruction": "Apa itu Remainder?",
+    "context": "Hak properti sisa yang akan diterima di masa depan.",
+    "response": "N. Hak sisa (Remainder); kepentingan properti yang tersisa setelah kepentingan lain berakhir (misal setelah hak seumur hidup usai)."
+  },
+  {
+    "instruction": "Siapa itu Remainderman?",
+    "context": "Orang yang akan menerima hak sisa properti.",
+    "response": "N. Penerima hak sisa; orang yang akan menerima properti di masa depan."
+  },
+  {
+    "instruction": "Apa arti Remand?",
+    "context": "Mengembalikan kasus ke pengadilan bawah atau menahan terdakwa.",
+    "response": "V. Mengembalikan (Remand); 1) Pengadilan banding mengirim kasus kembali ke pengadilan asal. 2) Hakim memerintahkan terdakwa ditahan kembali."
+  },
+  {
+    "instruction": "Apa itu Remedy?",
+    "context": "Upaya hukum untuk mencapai keadilan.",
+    "response": "N. Upaya hukum (Remedy); cara untuk mencapai keadilan atau menegakkan hak (ganti rugi, pembatalan kontrak, dll)."
+  },
+  {
+    "instruction": "Apa arti Remise?",
+    "context": "Melepaskan hak (istilah kuno).",
+    "response": "V. Melepaskan (Remise); menyerahkan sesuatu (biasanya dalam akta pelepasan hak)."
+  },
+  {
+    "instruction": "Apa itu Remittitur?",
+    "context": "Hakim mengurangi jumlah ganti rugi juri.",
+    "response": "N. Remittitur; perintah hakim mengurangi jumlah ganti rugi yang diberikan juri karena dianggap berlebihan."
+  },
+  {
+    "instruction": "Apa arti Remote dalam bukti?",
+    "context": "Terlalu jauh hubungannya dengan kasus.",
+    "response": "Adj., Adv. Jauh/Remot; bukti atau penyebab yang terlalu jauh hubungannya dengan masalah utama sehingga tidak relevan."
+  },
+  {
+    "instruction": "Apa itu Removal?",
+    "context": "Pemindahan kasus ke pengadilan lain.",
+    "response": "N. Pemindahan (Removal); perubahan kasus hukum dari satu pengadilan ke pengadilan lain (misal dari negara bagian ke federal)."
+  },
+  {
+    "instruction": "Apa itu Renewal?",
+    "context": "Perpanjangan kontrak.",
+    "response": "N. Perpanjangan (Renewal); menjaga perjanjian tetap berlaku untuk periode tambahan."
+  },
+  {
+    "instruction": "Apa arti Rent?",
+    "context": "Sewa.",
+    "response": "1) V. Menyewa. 2) N. Uang sewa."
+  },
+  {
+    "instruction": "Apa itu Rental Value?",
+    "context": "Nilai sewa wajar.",
+    "response": "N. Nilai sewa; jumlah yang akan dibayarkan untuk sewa properti serupa di area yang sama."
+  },
+  {
+    "instruction": "Apa itu Renunciation?",
+    "context": "Pelepasan hak atau pembatalan niat jahat.",
+    "response": "N. Penolakan/Pelepasan hak; 1) Menyerahkan hak (seperti warisan). 2) Dalam pidana, membatalkan partisipasi dalam kejahatan sebelum terjadi."
+  },
+  {
+    "instruction": "Apa itu Reorganization?",
+    "context": "Restrukturisasi perusahaan (seringkali saat pailit).",
+    "response": "N. Reorganisasi; restrukturisasi korporasi, seringkali dalam kebangkrutan untuk melindungi dari kreditur."
+  },
+  {
+    "instruction": "Apa arti Repair?",
+    "context": "Memperbaiki.",
+    "response": "V. Memperbaiki; mengembalikan ke kondisi semula."
+  },
+  {
+    "instruction": "Apa itu Repeal?",
+    "context": "Pencabutan undang-undang.",
+    "response": "1) V. Mencabut (Repeal); membatalkan undang-undang yang ada. 2) N. Tindakan pencabutan."
+  },
+  {
+    "instruction": "Apa itu Replevin?",
+    "context": "Gugatan meminta kembali barang yang diambil orang lain.",
+    "response": "N. Replevin (Gugatan pemulihan barang); hak untuk menuntut pengembalian barang yang diambil secara tidak sah oleh orang lain."
+  },
+  {
+    "instruction": "Apa itu Reply Brief?",
+    "context": "Jawaban tertulis atas argumen banding lawan.",
+    "response": "N. Jawaban singkat; argumen hukum tertulis dari termohon banding untuk menjawab argumen pemohon."
+  },
+  {
+    "instruction": "Apa itu Reports?",
+    "context": "Kumpulan putusan pengadilan yang diterbitkan.",
+    "response": "N. Laporan hukum (Reports); keputusan pengadilan banding yang diterbitkan."
+  },
+  {
+    "instruction": "Apa arti Repossess?",
+    "context": "Mengambil kembali barang kredit macet.",
+    "response": "V. Menarik kembali (Repossess); mengambil kembali properti karena gagal bayar."
+  },
+  {
+    "instruction": "Apa arti Represent?",
+    "context": "Mewakili atau menyatakan fakta.",
+    "response": "V. 1) Bertindak sebagai agen/pengacara. 2) Menyatakan sesuatu sebagai fakta."
+  },
+  {
+    "instruction": "Apa itu Representation?",
+    "context": "Tindakan mewakili atau pernyataan fakta.",
+    "response": "N. Perwakilan/Representasi; 1) Bertindak sebagai agen/pengacara. 2) Pernyataan fakta."
+  },
+  {
+    "instruction": "Siapa itu Representative?",
+    "context": "Wakil atau agen.",
+    "response": "1) N. Agen. 2) N. Perwakilan pribadi (eksekutor warisan). 3) Adj. Khas/Mewakili."
+  },
+  {
+    "instruction": "Apa itu Reprieve?",
+    "context": "Penundaan eksekusi hukuman mati.",
+    "response": "N. Penangguhan eksekusi (Reprieve); penundaan sementara hukuman mati oleh perintah eksekutif."
+  },
+  {
+    "instruction": "Apa itu Repudiation?",
+    "context": "Penolakan memenuhi kontrak.",
+    "response": "N. Penolakan (Repudiasi); penyangkalan keberadaan kontrak atau penolakan untuk melaksanakannya."
+  },
+  {
+    "instruction": "Apa itu Reputation?",
+    "context": "Nama baik seseorang.",
+    "response": "N. Reputasi; nama baik atau kehormatan seseorang di masyarakat (penting dalam kasus pencemaran nama baik)."
+  },
+  {
+    "instruction": "Apa arti Reputed?",
+    "context": "Diyakini umum.",
+    "response": "Adj. Diduga/Diyakini (Reputed); apa yang diterima oleh kepercayaan umum."
+  },
+  {
+    "instruction": "Apa arti Request?",
+    "context": "Permintaan resmi.",
+    "response": "1) V. Meminta/Menuntut. 2) N. Permintaan."
+  },
+  {
+    "instruction": "Apa itu Requirements Contract?",
+    "context": "Kontrak di mana pembeli wajib membeli semua kebutuhannya dari satu pemasok.",
+    "response": "N. Kontrak kebutuhan; perjanjian di mana pemasok setuju menjual semua produk yang dibutuhkan pembeli, dan pembeli setuju membelinya secara eksklusif dari pemasok itu."
+  },
+  {
+    "instruction": "Apa arti Res?",
+    "context": "Benda atau hal (Latin).",
+    "response": "N. (baca: rayz) Benda/Hal (Res); istilah Latin untuk \"benda\"."
+  },
+  {
+    "instruction": "Apa itu Res Adjudicata?",
+    "context": "Hal yang sudah diputus (Res Judicata).",
+    "response": "N. Hal yang telah diputus (Lihat Res Judicata)."
+  },
+  {
+    "instruction": "Apa itu Res Gestae?",
+    "context": "Keadaan sekitar kejadian kejahatan.",
+    "response": "N. (baca: rayz jest-tie) Hal-hal yang terjadi; semua keadaan yang mengelilingi suatu kejadian, termasuk pernyataan spontan saat kejadian."
+  },
+  {
+    "instruction": "Apa prinsip Res Ipsa Loquitur?",
+    "context": "Fakta bicara sendiri (kelalaian sudah jelas).",
+    "response": "N. (baca: rayz ip-sah loh-quit-her) Hal itu berbicara sendiri; doktrin bahwa kelalaian dianggap ada jika kecelakaan tidak mungkin terjadi tanpa kelalaian (misal: spons tertinggal di perut pasien)."
+  },
+  {
+    "instruction": "Apa prinsip Res Judicata?",
+    "context": "Perkara yang sudah diputus tidak bisa digugat lagi (Ne bis in idem perdata).",
+    "response": "N. (baca: rayz judy-cot-ah) Perkara yang sudah diputus; prinsip bahwa masalah yang sudah diputuskan pengadilan tidak bisa digugat ulang."
+  },
+  {
+    "instruction": "Apa itu Resale?",
+    "context": "Penjualan kembali.",
+    "response": "N. Penjualan kembali; menjual lagi, khususnya secara eceran."
+  },
+  {
+    "instruction": "Apa arti Rescind?",
+    "context": "Membatalkan kontrak.",
+    "response": "V. Membatalkan (Rescind); membatalkan kontrak dan mengembalikan pihak ke posisi semula."
+  },
+  {
+    "instruction": "Apa itu Rescission?",
+    "context": "Pembatalan kontrak.",
+    "response": "N. Pembatalan (Resisi); pembatalan kontrak atas kesepakatan bersama atau alasan hukum."
+  },
+  {
+    "instruction": "Apa itu Rescue Doctrine?",
+    "context": "Aturan bahwa penolong korban kecelakaan berhak ganti rugi jika ikut cedera.",
+    "response": "N. Doktrin penyelamatan; aturan bahwa jika penolong terluka saat menyelamatkan korban kelalaian orang lain, pelaku asli bertanggung jawab atas cedera penolong."
+  },
+  {
+    "instruction": "Apa itu Reservation dalam akta?",
+    "context": "Hak yang disimpan penjual saat menjual tanah.",
+    "response": "N. Reservasi/Pengecualian; ketentuan dalam akta yang menyimpan sebagian hak properti bagi penjual (misal: hak mineral)."
+  },
+  {
+    "instruction": "Apa arti Reserve?",
+    "context": "Menyimpan hak.",
+    "response": "V. Menyimpan/Memesan; menyimpan hak untuk diri sendiri."
+  },
+  {
+    "instruction": "Apa itu Reserve Fund?",
+    "context": "Dana cadangan.",
+    "response": "N. Dana cadangan; uang yang disisihkan untuk pemeliharaan atau biaya tak terduga."
+  },
+  {
+    "instruction": "Apa itu Residence?",
+    "context": "Tempat tinggal.",
+    "response": "N. Tempat tinggal (Residensi); tempat seseorang tinggal (bisa beda dengan domisili hukum)."
+  },
+  {
+    "instruction": "Siapa itu Resident?",
+    "context": "Penduduk.",
+    "response": "N. Penduduk (Residen); orang yang tinggal di suatu tempat."
+  },
+  {
+    "instruction": "Apa itu Residuary Bequest?",
+    "context": "Warisan sisa.",
+    "response": "N. Warisan sisa; hadiah dari apa pun yang tersisa dari harta warisan setelah hadiah khusus diberikan."
+  },
+  {
+    "instruction": "Apa itu Residue?",
+    "context": "Sisa harta warisan.",
+    "response": "N. Residu/Sisa; aset warisan yang tersisa setelah semua utang dan hadiah khusus dibayarkan."
+  },
+  {
+    "instruction": "Apa itu Resisting Arrest?",
+    "context": "Melawan petugas saat ditangkap.",
+    "response": "N. Melawan penangkapan; kejahatan menggunakan fisik untuk mencegah penangkapan."
+  },
+  {
+    "instruction": "Apa itu Resolution?",
+    "context": "Keputusan resmi rapat.",
+    "response": "N. Resolusi; keputusan kebijakan oleh dewan direksi atau badan legislatif."
+  },
+  {
+    "instruction": "Apa prinsip Respondeat Superior?",
+    "context": "Atasan bertanggung jawab atas tindakan bawahan.",
+    "response": "N. Biarkan majikan menjawab; doktrin bahwa majikan bertanggung jawab atas tindakan karyawan dalam lingkup pekerjaan."
+  },
+  {
+    "instruction": "Siapa itu Respondent?",
+    "context": "Pihak termohon atau tergugat banding.",
+    "response": "N. Termohon (Responden); pihak yang harus menjawab petisi atau banding."
+  },
+  {
+    "instruction": "Apa arti Responsible?",
+    "context": "Bertanggung jawab.",
+    "response": "Adj. Bertanggung jawab; liable atau akuntabel."
+  },
+  {
+    "instruction": "Apa itu Restatement of the Law?",
+    "context": "Buku panduan hukum dasar di AS.",
+    "response": "N. Pernyataan Ulang Hukum; seri buku yang merangkum prinsip hukum dasar di AS (bukan undang-undang, tapi panduan otoritatif)."
+  },
+  {
+    "instruction": "Apa itu Restitution?",
+    "context": "Pengembalian barang atau ganti rugi.",
+    "response": "N. Restitusi; mengembalikan properti atau nilai kerugian kepada pemilik yang sah."
+  },
+  {
+    "instruction": "Apa itu Restraining Order?",
+    "context": "Perintah pengadilan melarang tindakan tertentu (misal mendekati korban).",
+    "response": "N. Perintah penahanan (Restraining order); perintah sementara pengadilan untuk menjaga kondisi tetap atau melarang tindakan (sering dalam kasus KDRT)."
+  },
+  {
+    "instruction": "Apa itu Restraint of Trade?",
+    "context": "Pembatasan perdagangan (monopoli).",
+    "response": "N. Pengekangan perdagangan; aktivitas yang membatasi persaingan bisnis secara ilegal (anti-trust)."
+  },
+  {
+    "instruction": "Apa itu Restraint on Alienation?",
+    "context": "Larangan menjual properti (biasanya dilarang hukum jika selamanya).",
+    "response": "N. Pengekangan pengasingan; upaya dalam akta/wasiat untuk melarang penjualan properti, yang umumnya tidak sah jika berlaku selamanya."
+  },
+  {
+    "instruction": "Apa itu Restriction?",
+    "context": "Batasan penggunaan properti.",
+    "response": "N. Pembatasan (Restriksi); batasan aktivitas berdasarkan hukum atau kontrak (misal di perumahan)."
+  },
+  {
+    "instruction": "Apa itu Restrictive Covenant?",
+    "context": "Perjanjian yang membatasi penggunaan tanah.",
+    "response": "N. Perjanjian pembatasan; janji dalam akta tanah yang membatasi penggunaan properti di masa depan (misal: jenis pagar, cat rumah)."
+  },
+  {
+    "instruction": "Apa itu Restrictive Endorsement?",
+    "context": "Endosemen cek dengan batasan (misal: 'hanya untuk deposit').",
+    "response": "N. Endosemen terbatas; tanda tangan di belakang cek yang membatasi kepada siapa cek itu bisa dialihkan (misal: \"hanya untuk disetor\")."
+  },
+  {
+    "instruction": "Apa arti Result?",
+    "context": "Hasil gugatan.",
+    "response": "N. Hasil; istilah pengacara untuk hasil gugatan."
+  },
+  {
+    "instruction": "Apa itu Resulting Trust?",
+    "context": "Trust yang timbul karena hukum menganggapnya begitu.",
+    "response": "N. Trust yang dihasilkan (Resulting trust); trust yang tersirat oleh hukum bahwa pemegang properti sebenarnya memegangnya untuk orang lain."
+  },
+  {
+    "instruction": "Apa itu Retainer?",
+    "context": "Uang muka jasa pengacara.",
+    "response": "N. Retainer (Uang muka); pembayaran di muka kepada pengacara untuk menjamin jasanya."
+  },
+  {
+    "instruction": "Apa arti Retire?",
+    "context": "Pensiun, melunasi utang, atau juri berunding.",
+    "response": "V. 1) Pensiun. 2) Melunasi utang. 3) Juri masuk ruangan untuk berunding."
+  },
+  {
+    "instruction": "Apa itu Retraction?",
+    "context": "Pencabutan pernyataan (koreksi berita).",
+    "response": "N. Retraksi (Pencabutan); menarik kembali dokumen hukum atau mengoreksi pernyataan fitnah di media."
+  },
+  {
+    "instruction": "Apa itu Retrial?",
+    "context": "Sidang ulang.",
+    "response": "N. Pengadilan ulang; sidang baru yang diberikan setelah kesalahan atau pembatalan sidang sebelumnya."
+  },
+  {
+    "instruction": "Apa arti Retroactive?",
+    "context": "Berlaku surut.",
+    "response": "Adj. Berlaku surut (Retroaktif); berlaku untuk masa lalu (biasanya dilarang dalam hukum pidana)."
+  },
+  {
+    "instruction": "Apa itu Return of Service?",
+    "context": "Laporan tertulis bahwa surat panggilan sudah diantar.",
+    "response": "N. Bukti penyampaian; konfirmasi tertulis oleh penyampai proses bahwa dokumen hukum telah diserahkan."
+  },
+  {
+    "instruction": "Apa itu Revenue Ruling?",
+    "context": "Panduan resmi kantor pajak.",
+    "response": "N. Ketetapan pendapatan; opini terbitan IRS (kantor pajak AS) tentang pertanyaan pajak."
+  },
+  {
+    "instruction": "Apa itu Reversal?",
+    "context": "Pembatalan putusan oleh pengadilan banding.",
+    "response": "N. Pembalikan (Reversal); keputusan pengadilan banding bahwa putusan pengadilan rendah salah dan dibatalkan."
+  },
+  {
+    "instruction": "Apa itu Reversible Error?",
+    "context": "Kesalahan fatal hakim yang menyebabkan putusan dibatalkan.",
+    "response": "N. Kesalahan yang dapat dibalik; kesalahan hukum signifikan di pengadilan tingkat pertama yang mengharuskan pembatalan putusan."
+  },
+  {
+    "instruction": "Apa itu Reversion?",
+    "context": "Kembalinya hak properti ke pemilik asal.",
+    "response": "N. Reversi (Pengembalian); kembalinya properti ke pemberi asli setelah kepentingan orang lain berakhir."
+  },
+  {
+    "instruction": "Apa itu Reverter?",
+    "context": "Sama dengan Reversion.",
+    "response": "N. (Lihat Reversion)."
+  },
+  {
+    "instruction": "Apa itu Review?",
+    "context": "Peninjauan kembali oleh pengadilan tinggi.",
+    "response": "N. Peninjauan (Review); pertimbangan yudisial atas putusan pengadilan rendah oleh pengadilan banding."
+  },
+  {
+    "instruction": "Apa itu Revival?",
+    "context": "Menghidupkan kembali putusan atau kontrak lama.",
+    "response": "N. Pemulihan kembali (Revival); mengaktifkan kembali putusan lama atau kontrak yang kadaluwarsa."
+  },
+  {
+    "instruction": "Apa itu Revocation?",
+    "context": "Pencabutan.",
+    "response": "N. Pencabutan (Revokasi); pembatalan kontrak, tawaran, atau wasiat."
+  },
+  {
+    "instruction": "Apa arti Revoke?",
+    "context": "Mencabut atau membatalkan.",
+    "response": "V. Mencabut/Membatalkan (Revoke); membatalkan tindakan atau dokumen (seperti wasiat atau izin)."
+  },
+  {
+    "instruction": "Apa itu RICO?",
+    "context": "UU anti-kejahatan terorganisir.",
+    "response": "N. (Lihat Racketeer Influenced Corrupt Organization)."
+  },
+  {
+    "instruction": "Apa itu Rider?",
+    "context": "Lampiran tambahan pada dokumen.",
+    "response": "N. Lampiran (Rider); tambahan pada dokumen (seperti polis asuransi) atau amandemen pada RUU."
+  },
+  {
+    "instruction": "Apa definisi Right?",
+    "context": "Hak.",
+    "response": "1) N. Hak; kepemilikan atau entitlement atas sesuatu (keadilan, properti, kebebasan)."
+  },
+  {
+    "instruction": "Apa itu Right of Way?",
+    "context": "Hak melintas di tanah orang lain.",
+    "response": "N. Hak jalan (Right of way); hak untuk melintasi properti orang lain."
+  },
+  {
+    "instruction": "Apa itu Right to Privacy?",
+    "context": "Hak privasi.",
+    "response": "N. Hak privasi; hak untuk dibiarkan sendiri tanpa gangguan publik yang tidak wajar."
+  },
+  {
+    "instruction": "Apa itu Rights?",
+    "context": "Kumpulan hak atau pembacaan hak tersangka.",
+    "response": "N. 1) Hak-hak (jamak). 2) Slang untuk pembacaan hak Miranda kepada tersangka."
+  },
+  {
+    "instruction": "Apa itu Riot?",
+    "context": "Kerusuhan.",
+    "response": "N. Kerusuhan (Riot); gangguan kekerasan oleh sekelompok orang."
+  },
+  {
+    "instruction": "Apa arti Riparian?",
+    "context": "Terkait tepi sungai.",
+    "response": "Adj. Riparian; merujuk pada tepian sungai atau aliran air."
+  },
+  {
+    "instruction": "Apa itu Riparian Rights?",
+    "context": "Hak pemilik tanah tepi sungai atas air.",
+    "response": "N. Hak riparian; hak pemilik tanah di tepi sungai untuk menggunakan air tersebut."
+  },
+  {
+    "instruction": "Apa arti Ripe dalam banding?",
+    "context": "Kasus sudah matang/siap diputuskan Mahkamah Agung.",
+    "response": "Adj. Matang (Ripe); kasus yang sudah siap untuk dipertimbangkan oleh Mahkamah Agung karena semua jalur lain sudah habis."
+  },
+  {
+    "instruction": "Apa itu Risk?",
+    "context": "Risiko kerugian.",
+    "response": "N. Risiko; kemungkinan bahaya atau kerugian yang diasuransikan."
+  },
+  {
+    "instruction": "Apa itu Risk of Loss?",
+    "context": "Tanggung jawab atas kerusakan barang.",
+    "response": "N. Risiko kerugian; tanggung jawab atas kerusakan barang selama transportasi atau penggunaan."
+  },
+  {
+    "instruction": "Apa itu Roadside Test?",
+    "context": "Tes mabuk di pinggir jalan.",
+    "response": "N. Tes pinggir jalan; tes fisik awal oleh polisi untuk pengemudi yang diduga mabuk."
+  },
+  {
+    "instruction": "Apa definisi Robbery?",
+    "context": "Perampokan (pencurian dengan kekerasan).",
+    "response": "N. Perampokan (Robbery); pengambilan properti secara paksa dengan ancaman atau kekerasan."
+  },
+  {
+    "instruction": "Apa itu Rogatory Letters?",
+    "context": "Surat permintaan bantuan hukum ke pengadilan asing.",
+    "response": "N. Surat rogatori; permintaan hakim ke hakim di negara lain untuk mengambil kesaksian saksi di sana."
+  },
+  {
+    "instruction": "Apa itu Royalty?",
+    "context": "Pembayaran royalti kepada pencipta.",
+    "response": "N. Royalti; pembayaran persentase keuntungan kepada pencipta karya atau pemilik hak cipta."
+  },
+  {
+    "instruction": "Apa arti Rule?",
+    "context": "Memutuskan atau memerintahkan.",
+    "response": "1) V. Memutuskan (Rule). 2) V. Memerintahkan."
+  },
+  {
+    "instruction": "Apa itu Rule Against Perpetuities?",
+    "context": "Aturan yang melarang pengikatan hak properti selamanya.",
+    "response": "N. Aturan melawan keabadian; larangan hukum untuk mengikat kepemilikan properti selamanya (harus ada batas waktu vesting)."
+  },
+  {
+    "instruction": "Apa itu Rules of Court?",
+    "context": "Peraturan tata tertib pengadilan.",
+    "response": "N. Aturan pengadilan; peraturan prosedur yang wajib diikuti di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Ruling?",
+    "context": "Keputusan hakim.",
+    "response": "N. Putusan/Penetapan (Ruling); keputusan pengadilan atas masalah hukum."
+  },
+  {
+    "instruction": "Apa arti Running at Large?",
+    "context": "Hewan lepas atau kampanye di seluruh wilayah.",
+    "response": "Adj. Berkeliaran; 1) Hewan ternak yang lepas. 2) Kampanye politik di seluruh wilayah (at-large)."
+  },
+  {
+    "instruction": "Apa arti Running with the Land?",
+    "context": "Melekat pada tanah (seperti easement).",
+    "response": "Adj. Melekat pada tanah; hak atau kewajiban yang permanen menjadi bagian dari kepemilikan tanah tersebut, siapapun pemiliknya."
+  }
+]
