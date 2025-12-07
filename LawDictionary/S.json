@@ -1,0 +1,1052 @@
+[
+  {
+    "instruction": "Apa arti Said dalam dokumen hukum?",
+    "context": "Rujukan ke sesuatu yang sudah disebutkan sebelumnya.",
+    "response": "Adj. Tersebut (Said); referensi kembali ke sesuatu yang disebutkan sebelumnya (misal: \"pengemudi tersebut mengendarai mobil tersebut\")."
+  },
+  {
+    "instruction": "Apa definisi Sale?",
+    "context": "Transfer kepemilikan dengan imbalan uang.",
+    "response": "N. Penjualan; pengalihan sesuatu (dan hak miliknya) dengan imbalan uang atau barang berharga lainnya."
+  },
+  {
+    "instruction": "Apa itu Salvage?",
+    "context": "Menyelamatkan barang atau pembayaran atas penyelamatan itu.",
+    "response": "1) V. Menyelamatkan. 2) N. Upah penyelamatan (Salvage); pembayaran kepada orang yang menyelamatkan kargo dari kapal karam."
+  },
+  {
+    "instruction": "Apa itu Sanction?",
+    "context": "Hukuman finansial oleh hakim.",
+    "response": "N. Sanksi; hukuman finansial yang dijatuhkan oleh hakim kepada pihak atau pengacara karena melanggar aturan pengadilan."
+  },
+  {
+    "instruction": "Apa itu Satisfaction?",
+    "context": "Penerimaan pembayaran lunas.",
+    "response": "N. Pemenuhan/Pelunasan; menerima pembayaran atau pelaksanaan dari apa yang terutang."
+  },
+  {
+    "instruction": "Apa itu Satisfaction of Judgment?",
+    "context": "Bukti tertulis bahwa utang putusan pengadilan sudah lunas.",
+    "response": "N. Pernyataan pelunasan putusan; dokumen yang ditandatangani oleh pemenang gugatan yang menyatakan bahwa jumlah penuh putusan telah dibayar."
+  },
+  {
+    "instruction": "Apa itu Satisfaction of Mortgage?",
+    "context": "Bukti lunas hipotek.",
+    "response": "N. Pelunasan hipotek (Roya); dokumen yang ditandatangani oleh pemberi pinjaman yang mengakui bahwa hipotek telah dibayar lunas (untuk menghapus catatan utang di sertifikat tanah)."
+  },
+  {
+    "instruction": "Apa arti Save Harmless?",
+    "context": "Menjamin perlindungan dari kerugian (ganti rugi).",
+    "response": "V. Membebaskan dari kerugian (Save harmless); menjamin atau mengganti rugi orang lain dari bahaya atau biaya."
+  },
+  {
+    "instruction": "Apa itu Savings and Loan?",
+    "context": "Lembaga keuangan khusus pinjaman properti.",
+    "response": "N. Lembaga simpan pinjam; lembaga perbankan yang berfokus pada pinjaman yang dijamin dengan real estat dari simpanan nasabah."
+  },
+  {
+    "instruction": "Apa arti Scienter?",
+    "context": "Mengetahui bahwa tindakannya salah/ilegal.",
+    "response": "N. Dengan pengetahuan (Scienter); bahasa Latin yang berarti terdakwa tahu bahwa tindakannya ilegal atau pernyataannya bohong."
+  },
+  {
+    "instruction": "Apa arti Scintilla?",
+    "context": "Bukti yang sangat sedikit.",
+    "response": "N. Percikan (Scintilla); jumlah bukti yang sangat sedikit (setidaknya ada \"sepercik bukti\")."
+  },
+  {
+    "instruction": "Apa itu Scope of Employment?",
+    "context": "Tindakan dalam lingkup pekerjaan yang membuat atasan bertanggung jawab.",
+    "response": "N. Lingkup pekerjaan; tindakan karyawan yang memajukan bisnis majikan, yang menentukan apakah majikan bertanggung jawab atas kerusakan yang disebabkan karyawan."
+  },
+  {
+    "instruction": "Siapa itu Scrivener?",
+    "context": "Juru tulis dokumen hukum.",
+    "response": "N. Penulis dokumen (Scrivener); orang yang menulis dokumen untuk orang lain, biasanya dengan biaya (bukan nasihat hukum)."
+  },
+  {
+    "instruction": "Apa itu Seal?",
+    "context": "Cap resmi.",
+    "response": "N. Segel/Cap; alat yang membuat kesan pada kertas untuk menunjukkan dokumen itu sah (misal cap notaris atau perusahaan)."
+  },
+  {
+    "instruction": "Apa itu Sealed Verdict?",
+    "context": "Putusan juri yang disimpan dalam amplop tertutup.",
+    "response": "N. Putusan tertutup; keputusan juri yang disimpan dalam amplop tertutup sampai hakim dan para pihak kembali ke pengadilan."
+  },
+  {
+    "instruction": "Apa itu Sealing of Records?",
+    "context": "Merahasiakan catatan pengadilan.",
+    "response": "N. Penyegelan catatan; perintah hakim agar catatan pengadilan dirahasiakan (biasanya catatan kriminal anak)."
+  },
+  {
+    "instruction": "Apa arti Search?",
+    "context": "Pemeriksaan oleh polisi untuk mencari bukti.",
+    "response": "V. Menggeledah (Search); memeriksa tempat atau orang untuk mencari bukti kegiatan kriminal."
+  },
+  {
+    "instruction": "Apa itu Search and Seizure?",
+    "context": "Penggeledahan dan penyitaan.",
+    "response": "N. Penggeledahan dan penyitaan; pemeriksaan tempat oleh penegak hukum dan pengambilan barang bukti."
+  },
+  {
+    "instruction": "Apa itu Search Warrant?",
+    "context": "Surat perintah penggeledahan.",
+    "response": "N. Surat perintah penggeledahan; perintah tertulis hakim yang mengizinkan polisi menggeledah tempat tertentu."
+  },
+  {
+    "instruction": "Apa itu Second Degree Murder?",
+    "context": "Pembunuhan tanpa rencana.",
+    "response": "N. Pembunuhan tingkat dua; pembunuhan yang tidak direncanakan (premeditated), berbeda dengan tingkat satu."
+  },
+  {
+    "instruction": "Apa itu Secondary Boycott?",
+    "context": "Boikot terhadap perusahaan yang berbisnis dengan target mogok kerja.",
+    "response": "N. Boikot sekunder; penolakan terorganisir untuk berbisnis dengan perusahaan yang bekerja sama dengan perusahaan lain yang sedang didemo/mogok."
+  },
+  {
+    "instruction": "Apa itu Secret Rebate?",
+    "context": "Komisi rahasia (suap bisnis).",
+    "response": "N. Rabat rahasia; pengembalian uang secara diam-diam (kickback) yang tidak ditawarkan ke publik, biasanya ilegal."
+  },
+  {
+    "instruction": "Apa itu Secured Transaction?",
+    "context": "Transaksi yang dijamin dengan aset.",
+    "response": "N. Transaksi berjaminan; pinjaman atau kredit di mana properti digadaikan sebagai jaminan."
+  },
+  {
+    "instruction": "Apa itu Securities?",
+    "context": "Efek (saham/obligasi).",
+    "response": "N. Efek/Sekuritas; istilah umum untuk saham, obligasi, dan surat berharga lainnya."
+  },
+  {
+    "instruction": "Apa itu Security Deposit?",
+    "context": "Uang jaminan sewa.",
+    "response": "N. Uang jaminan (Deposit); pembayaran dari penyewa ke pemilik untuk menutupi biaya kerusakan di masa depan."
+  },
+  {
+    "instruction": "Apa itu Security Interest?",
+    "context": "Hak jaminan kreditur atas properti.",
+    "response": "N. Kepentingan jaminan; hak properti pemberi pinjaman yang menjamin pembayaran utang."
+  },
+  {
+    "instruction": "Apa itu Sedition?",
+    "context": "Hasutan melawan pemerintah (Makar).",
+    "response": "N. Hasutan (Sedition/Makar); kejahatan menganjurkan pemberontakan melawan pemerintah."
+  },
+  {
+    "instruction": "Apa itu Seduction?",
+    "context": "Bujukan untuk hubungan seksual.",
+    "response": "N. Penggodaam (Seduction); penggunaan pesona atau janji untuk membujuk orang lain berhubungan seksual."
+  },
+  {
+    "instruction": "Apa arti Seisin?",
+    "context": "Kepemilikan tanah mutlak (istilah kuno).",
+    "response": "N. Penguasaan tanah (Seisin); istilah feodal kuno untuk memiliki kepemilikan dan hak atas properti nyata."
+  },
+  {
+    "instruction": "Apa arti Seized?",
+    "context": "Memiliki hak milik atau disita.",
+    "response": "N. 1) Memiliki hak milik (Seized of). 2) Disita (Seized by police)."
+  },
+  {
+    "instruction": "Apa itu Seizure?",
+    "context": "Penyitaan barang bukti.",
+    "response": "N. Penyitaan; pengambilan barang bukti potensial oleh penegak hukum."
+  },
+  {
+    "instruction": "Apa itu Self-dealing?",
+    "context": "Transaksi untuk keuntungan pribadi menggunakan posisi (konflik kepentingan).",
+    "response": "N. Transaksi untuk diri sendiri (Self-dealing); menggunakan informasi rahasia atau posisi dalam perusahaan untuk keuntungan pribadi (misal insider trading)."
+  },
+  {
+    "instruction": "Apa itu Self-defense?",
+    "context": "Bela diri.",
+    "response": "N. Pembelaan diri; penggunaan kekuatan yang wajar untuk melindungi diri sendiri atau keluarga dari serangan."
+  },
+  {
+    "instruction": "Apa arti Self-executing?",
+    "context": "Otomatis berlaku tanpa tindakan tambahan.",
+    "response": "Adj. Berlaku otomatis; efektif segera tanpa tindakan hukum lebih lanjut."
+  },
+  {
+    "instruction": "Apa itu Self-help?",
+    "context": "Tindakan main hakim sendiri atau mengambil hak tanpa lewat pengadilan.",
+    "response": "N. Tindakan sendiri (Self-help); mendapatkan hak tanpa proses hukum (misal mengambil kembali barang curian sendiri)."
+  },
+  {
+    "instruction": "Apa itu Self-incrimination?",
+    "context": "Pernyataan yang memberatkan diri sendiri.",
+    "response": "N. Memberatkan diri sendiri (Self-incrimination); membuat pernyataan yang membuktikan kesalahan sendiri (dilindungi hak untuk diam)."
+  },
+  {
+    "instruction": "Apa arti Self-serving?",
+    "context": "Pernyataan yang hanya menguntungkan diri sendiri tanpa bukti.",
+    "response": "Adj. Menguntungkan diri sendiri; pernyataan yang tidak memberikan bukti objektif, hanya memperkuat posisi sendiri."
+  },
+  {
+    "instruction": "Apa arti Sell?",
+    "context": "Menjual.",
+    "response": "V. Menjual; mentransfer kepemilikan barang dengan imbalan uang."
+  },
+  {
+    "instruction": "Siapa itu Seller?",
+    "context": "Penjual.",
+    "response": "N. Penjual."
+  },
+  {
+    "instruction": "Apa itu Senior Lien?",
+    "context": "Hak jaminan prioritas utama.",
+    "response": "N. Hak gadai senior; kepentingan jaminan pertama yang ditempatkan pada properti (prioritas di atas junior lien)."
+  },
+  {
+    "instruction": "Apa itu Sentence?",
+    "context": "Vonis hukuman pidana.",
+    "response": "1) N. Hukuman/Vonis; hukuman yang diberikan kepada terpidana kejahatan."
+  },
+  {
+    "instruction": "Apa itu Separate Property?",
+    "context": "Harta bawaan atau pribadi (bukan gono-gini).",
+    "response": "N. Harta terpisah/pribadi; properti yang dimiliki satu pasangan yang diperoleh sebelum menikah atau dari warisan/hadiah (bukan harta bersama)."
+  },
+  {
+    "instruction": "Apa itu Separation?",
+    "context": "Perpisahan suami istri.",
+    "response": "N. Perpisahan (Separation); suami istri hidup terpisah, baik secara informal atau legal."
+  },
+  {
+    "instruction": "Apa itu Separation Agreement?",
+    "context": "Perjanjian pisah harta dan hidup.",
+    "response": "N. Perjanjian perpisahan; kontrak antara suami istri yang setuju hidup terpisah."
+  },
+  {
+    "instruction": "Apa arti Sequester?",
+    "context": "Mengisolasi juri atau saksi.",
+    "response": "V. Mengasingkan (Sequester); memisahkan juri dari kontak luar selama persidangan."
+  },
+  {
+    "instruction": "Apa itu Sequestration?",
+    "context": "Tindakan mengisolasi juri.",
+    "response": "N. Sekuestrasi (Pengasingan juri); perintah hakim untuk mengisolasi juri atau saksi."
+  },
+  {
+    "instruction": "Apa arti Seriatim?",
+    "context": "Satu per satu secara berurutan.",
+    "response": "Prep. (baca: sear-ee-ah-tim) Berturut-turut; satu demi satu secara berurutan."
+  },
+  {
+    "instruction": "Siapa itu Servant?",
+    "context": "Karyawan (istilah lama).",
+    "response": "N. Pelayan/Karyawan; istilah lama untuk karyawan yang bekerja untuk majikan (master)."
+  },
+  {
+    "instruction": "Apa itu Service?",
+    "context": "Jasa atau penyampaian dokumen hukum.",
+    "response": "N. 1) Layanan/Jasa. 2) Penyampaian dokumen hukum (Service of process)."
+  },
+  {
+    "instruction": "Apa itu Service by FAX?",
+    "context": "Penyampaian dokumen hukum lewat faks.",
+    "response": "N. Penyampaian lewat faks."
+  },
+  {
+    "instruction": "Apa itu Service by Mail?",
+    "context": "Penyampaian dokumen hukum lewat pos.",
+    "response": "N. Penyampaian lewat pos."
+  },
+  {
+    "instruction": "Apa itu Service by Publication?",
+    "context": "Panggilan sidang lewat koran (jika tergugat hilang).",
+    "response": "N. Panggilan umum (lewat media massa); menyampaikan panggilan sidang dengan memuat iklan di koran."
+  },
+  {
+    "instruction": "Apa itu Service of Process?",
+    "context": "Penyampaian surat panggilan sidang secara resmi.",
+    "response": "N. Penyampaian proses hukum; pengiriman salinan dokumen hukum (seperti somasi) kepada terdakwa."
+  },
+  {
+    "instruction": "Apa itu Services?",
+    "context": "Pekerjaan yang dibayar.",
+    "response": "N. Jasa/Layanan; pekerjaan yang dilakukan untuk bayaran."
+  },
+  {
+    "instruction": "Apa itu Servient Estate?",
+    "context": "Tanah yang dibebani hak lintas (easement) orang lain.",
+    "response": "N. Properti pelayan (Servient estate); properti yang memberikan hak penggunaan (seperti jalan) kepada properti lain."
+  },
+  {
+    "instruction": "Apa itu Session?",
+    "context": "Sidang atau masa persidangan.",
+    "response": "N. Sesi/Sidang; pertemuan pengadilan."
+  },
+  {
+    "instruction": "Apa arti Set?",
+    "context": "Menjadwalkan.",
+    "response": "V. Menetapkan/Menjadwalkan (Set); menjadwalkan kasus untuk disidangkan."
+  },
+  {
+    "instruction": "Apa arti Set Aside?",
+    "context": "Membatalkan putusan.",
+    "response": "V. Menyisihkan/Membatalkan (Set aside); membatalkan perintah pengadilan atau putusan."
+  },
+  {
+    "instruction": "Apa itu Setoff?",
+    "context": "Potong utang (Kompensasi).",
+    "response": "N. Perjumpaan utang (Setoff); klaim terdakwa untuk mengurangi jumlah ganti rugi dengan utang penggugat kepadanya."
+  },
+  {
+    "instruction": "Apa itu Setting?",
+    "context": "Penjadwalan sidang.",
+    "response": "N. Penjadwalan (Setting); tindakan menjadwalkan sidang."
+  },
+  {
+    "instruction": "Apa arti Settle?",
+    "context": "Menyelesaikan sengketa secara damai.",
+    "response": "V. Menyelesaikan (Settle); menyelesaikan gugatan tanpa putusan akhir pengadilan melalui negosiasi."
+  },
+  {
+    "instruction": "Apa itu Settlement?",
+    "context": "Kesepakatan damai.",
+    "response": "N. Penyelesaian damai (Settlement); resolusi gugatan sebelum putusan pengadilan."
+  },
+  {
+    "instruction": "Siapa itu Settlor?",
+    "context": "Pembuat trust (pendiri).",
+    "response": "N. Pemberi amanat (Settlor/Trustor); orang yang membuat trust."
+  },
+  {
+    "instruction": "Apa itu Severable Contract?",
+    "context": "Kontrak yang bagian-bagiannya bisa dipisah.",
+    "response": "N. Kontrak yang dapat dipisahkan; perjanjian yang terdiri dari beberapa kontrak terpisah, sehingga pelanggaran satu bagian tidak membatalkan seluruhnya."
+  },
+  {
+    "instruction": "Apa itu Several Liability?",
+    "context": "Tanggung jawab masing-masing (bukan renteng).",
+    "response": "N. Tanggung jawab terpisah; tanggung jawab satu pihak atas bagian utangnya sendiri."
+  },
+  {
+    "instruction": "Apa itu Severance?",
+    "context": "Pemisahan sidang.",
+    "response": "N. Pemisahan (Severance); memisahkan persidangan (misal memisahkan terdakwa atau memisahkan isu)."
+  },
+  {
+    "instruction": "Siapa itu Sex Offender?",
+    "context": "Pelaku kejahatan seksual.",
+    "response": "N. Pelaku kejahatan seksual."
+  },
+  {
+    "instruction": "Apa itu Sexual Harassment?",
+    "context": "Pelecehan seksual.",
+    "response": "N. Pelecehan seksual; pendekatan seksual yang tidak diinginkan di tempat kerja."
+  },
+  {
+    "instruction": "Apa arti Shall?",
+    "context": "Harus/Wajib.",
+    "response": "V. Harus/Wajib (Shall); perintah imperatif."
+  },
+  {
+    "instruction": "Apa arti Share?",
+    "context": "Bagian atau saham.",
+    "response": "N. 1) Bagian. 2) Saham (Share)."
+  },
+  {
+    "instruction": "Apa arti Share and Share Alike?",
+    "context": "Bagi rata.",
+    "response": "Adj. Bagi rata; pembagian manfaat secara setara."
+  },
+  {
+    "instruction": "Siapa itu Shareholder?",
+    "context": "Pemegang saham.",
+    "response": "N. Pemegang saham."
+  },
+  {
+    "instruction": "Apa itu Shareholders' Agreement?",
+    "context": "Perjanjian antar pemegang saham.",
+    "response": "N. Perjanjian pemegang saham; kontrak pengelolaan di antara pemegang saham."
+  },
+  {
+    "instruction": "Apa itu Shareholders' Derivative Action?",
+    "context": "Gugatan pemegang saham atas nama perusahaan.",
+    "response": "N. Gugatan turunan pemegang saham; gugatan pemegang saham untuk melindungi perusahaan."
+  },
+  {
+    "instruction": "Apa itu Shareholders' Meeting?",
+    "context": "Rapat Umum Pemegang Saham (RUPS).",
+    "response": "N. Rapat pemegang saham (RUPS)."
+  },
+  {
+    "instruction": "Apa itu Sharp Practice?",
+    "context": "Taktik pengacara yang licik tapi nyaris legal.",
+    "response": "N. Praktik licik; tindakan pengacara menggunakan cara menyesatkan atau tidak terhormat yang nyaris melanggar hukum."
+  },
+  {
+    "instruction": "Apa itu Shepardize?",
+    "context": "Mengecek apakah preseden hukum masih berlaku.",
+    "response": "N. Shepardize (Memverifikasi preseden); metode melacak sejarah kasus hukum untuk melihat apakah masih valid."
+  },
+  {
+    "instruction": "Siapa itu Sheriff?",
+    "context": "Kepala polisi tingkat kabupaten (county).",
+    "response": "N. Sheriff; pejabat penegak hukum tertinggi di suatu kabupaten (county)."
+  },
+  {
+    "instruction": "Apa itu Sheriff's Sale?",
+    "context": "Lelang eksekusi oleh sheriff.",
+    "response": "N. Lelang sheriff; penjualan properti sitaan oleh sheriff untuk membayar putusan."
+  },
+  {
+    "instruction": "Apa itu Shield Laws?",
+    "context": "UU yang melindungi wartawan merahasiakan sumber.",
+    "response": "N. Hukum pelindung (Shield laws); undang-undang yang melindungi kerahasiaan sumber wartawan."
+  },
+  {
+    "instruction": "Apa itu Shifting the Burden of Proof?",
+    "context": "Peralihan beban pembuktian ke pihak lawan.",
+    "response": "N. Pengalihan beban pembuktian; ketika penggugat sudah cukup membuktikan kasusnya, beban beralih ke terdakwa untuk membantah."
+  },
+  {
+    "instruction": "Apa itu Short Cause?",
+    "context": "Kasus yang sidangnya singkat (sehari).",
+    "response": "N. Perkara singkat; gugatan yang diperkirakan selesai dalam satu hari sidang."
+  },
+  {
+    "instruction": "Apa itu Shortening Time?",
+    "context": "Mempercepat jadwal sidang.",
+    "response": "N. Memperpendek waktu; perintah pengadilan untuk menjadwalkan mosi lebih cepat dari biasanya."
+  },
+  {
+    "instruction": "Apa itu Show Cause Order?",
+    "context": "Perintah hakim agar pihak menjelaskan alasan.",
+    "response": "N. Perintah tunjukkan alasan (Show cause order); perintah hakim agar seseorang muncul dan menjelaskan mengapa perintah tertentu tidak boleh dibuat."
+  },
+  {
+    "instruction": "Apa itu Sidebar?",
+    "context": "Diskusi bisik-bisik hakim dan pengacara di depan meja hakim.",
+    "response": "N. Sidebar; diskusi pribadi antara hakim dan pengacara di dekat meja hakim agar tidak didengar juri."
+  },
+  {
+    "instruction": "Apa arti Sign?",
+    "context": "Menandatangani.",
+    "response": "V. Menandatangani."
+  },
+  {
+    "instruction": "Siapa itu Silent Partner?",
+    "context": "Mitra pasif (penanam modal saja).",
+    "response": "N. Mitra diam (Komanditer); investor yang tidak ikut manajemen."
+  },
+  {
+    "instruction": "Apa arti Similarly Situated?",
+    "context": "Berada dalam situasi yang sama (syarat Class Action).",
+    "response": "Adj. Situasi serupa; orang-orang dengan masalah yang sama, syarat untuk gugatan perwakilan kelompok (class action)."
+  },
+  {
+    "instruction": "Apa itu Simple Trust?",
+    "context": "Trust yang wajib membagikan semua pendapatan tahunan.",
+    "response": "N. Trust sederhana; trust yang mengharuskan semua pendapatan didistribusikan setiap tahun."
+  },
+  {
+    "instruction": "Apa itu Simultaneous Death Act?",
+    "context": "UU yang mengatur warisan jika suami-istri meninggal bersamaan.",
+    "response": "N. UU kematian serentak; aturan warisan jika tidak diketahui siapa yang meninggal lebih dulu dalam kecelakaan bersama."
+  },
+  {
+    "instruction": "Apa arti Sine Qua Non?",
+    "context": "Syarat mutlak.",
+    "response": "Prep. (baca: see-nay kwah nahn) Syarat mutlak; tindakan atau kondisi yang tanpanya sesuatu tidak akan terjadi."
+  },
+  {
+    "instruction": "Apa arti Situs?",
+    "context": "Lokasi.",
+    "response": "N. Lokasi/Tempat (Situs); tempat kejadian atau lokasi properti."
+  },
+  {
+    "instruction": "Apa itu Slander?",
+    "context": "Fitnah lisan.",
+    "response": "N. Fitnah lisan (Slander); pencemaran nama baik secara lisan."
+  },
+  {
+    "instruction": "Apa itu Small Claims Court?",
+    "context": "Pengadilan gugatan kecil.",
+    "response": "N. Pengadilan klaim kecil; pengadilan untuk kasus dengan nilai uang kecil."
+  },
+  {
+    "instruction": "Apa itu Sodomy?",
+    "context": "Sodomi (seks anal).",
+    "response": "N. Sodomi; hubungan seksual anal."
+  },
+  {
+    "instruction": "Apa itu Sole Proprietorship?",
+    "context": "Usaha perorangan.",
+    "response": "N. Perusahaan perorangan; bisnis yang dimiliki satu orang."
+  },
+  {
+    "instruction": "Apa itu Solicitation?",
+    "context": "Membujuk orang berbuat jahat atau menawarkan prostitusi.",
+    "response": "N. Bujukan/Penawaran; kejahatan mendorong orang lain melakukan kejahatan atau penawaran prostitusi."
+  },
+  {
+    "instruction": "Siapa itu Solicitor?",
+    "context": "Pengacara non-litigasi di Inggris.",
+    "response": "N. Pengacara (Inggris); pengacara yang menangani urusan hukum tetapi tidak tampil di sidang (tugas barrister)."
+  },
+  {
+    "instruction": "Siapa itu Solicitor General?",
+    "context": "Pengacara negara yang beracara di Mahkamah Agung.",
+    "response": "N. Jaksa Agung Muda (Solicitor General); pengacara utama pemerintah di Mahkamah Agung."
+  },
+  {
+    "instruction": "Apa itu Solitary Confinement?",
+    "context": "Sel isolasi.",
+    "response": "N. Pengasingan/Isolasi; penahanan narapidana di sel sendirian."
+  },
+  {
+    "instruction": "Apa itu Solvency?",
+    "context": "Kemampuan membayar utang.",
+    "response": "N. Solvabilitas; kemampuan membayar utang (aset lebih besar dari liabilitas)."
+  },
+  {
+    "instruction": "Apa itu Sound Mind and Memory?",
+    "context": "Sehat akal (syarat membuat wasiat).",
+    "response": "N. Pikiran sehat; kemampuan mental untuk memahami tindakan saat membuat wasiat."
+  },
+  {
+    "instruction": "Apa arti Sounds In?",
+    "context": "Dasar hukum gugatan.",
+    "response": "Adj. Berdasar pada; merujuk pada dasar hukum gugatan (misal: sounds in tort)."
+  },
+  {
+    "instruction": "Apa itu Speaking Demurrer?",
+    "context": "Bantahan hukum yang mencoba memasukkan bukti baru (dilarang).",
+    "response": "N. Demurrer berbicara; upaya memperkenalkan bukti saat sidang bantahan (yang seharusnya hanya bahas hukum, bukan fakta)."
+  },
+  {
+    "instruction": "Apa arti Special?",
+    "context": "Khusus.",
+    "response": "Adj. Khusus/Spesial."
+  },
+  {
+    "instruction": "Siapa itu Special Administrator?",
+    "context": "Administrator warisan sementara.",
+    "response": "N. Administrator khusus; orang yang ditunjuk pengadilan untuk mengurus warisan sementara ada sengketa."
+  },
+  {
+    "instruction": "Apa itu Special Appearance?",
+    "context": "Kehadiran pengacara hanya untuk tujuan tertentu (misal menolak yurisdiksi).",
+    "response": "N. Kehadiran khusus; kehadiran pengacara di pengadilan hanya untuk tujuan terbatas."
+  },
+  {
+    "instruction": "Apa itu Special Circumstances?",
+    "context": "Keadaan khusus yang memperberat hukuman mati.",
+    "response": "N. Keadaan khusus; faktor pemberat dalam pembunuhan yang memungkinkan hukuman mati."
+  },
+  {
+    "instruction": "Apa itu Special Damages?",
+    "context": "Ganti rugi untuk biaya nyata (medis, gaji hilang).",
+    "response": "N. Ganti rugi khusus; ganti rugi untuk biaya out-of-pocket (nyata) seperti biaya medis."
+  },
+  {
+    "instruction": "Siapa itu Special Master?",
+    "context": "Orang yang ditunjuk hakim untuk tugas khusus.",
+    "response": "N. Master khusus; orang yang ditunjuk hakim untuk melaksanakan perintah khusus (seperti menjual properti)."
+  },
+  {
+    "instruction": "Siapa itu Special Prosecutor?",
+    "context": "Jaksa independen untuk kasus pejabat tinggi.",
+    "response": "N. Jaksa khusus; pengacara luar yang ditunjuk untuk menyelidiki pejabat pemerintah."
+  },
+  {
+    "instruction": "Apa itu Special Verdict?",
+    "context": "Putusan juri atas pertanyaan fakta spesifik.",
+    "response": "N. Putusan khusus; keputusan juri tentang temuan fakta tertentu, bukan sekadar bersalah/tidak."
+  },
+  {
+    "instruction": "Apa itu Specific Bequest?",
+    "context": "Warisan barang tertentu.",
+    "response": "N. Warisan spesifik; hadiah barang tertentu dalam wasiat."
+  },
+  {
+    "instruction": "Apa itu Specific Devise?",
+    "context": "Warisan tanah tertentu.",
+    "response": "N. Warisan tanah spesifik."
+  },
+  {
+    "instruction": "Apa itu Specific Finding?",
+    "context": "Keputusan fakta spesifik oleh juri.",
+    "response": "N. Temuan spesifik; keputusan fakta oleh juri."
+  },
+  {
+    "instruction": "Apa itu Specific Legacy?",
+    "context": "Warisan barang tertentu.",
+    "response": "N. Legasi spesifik."
+  },
+  {
+    "instruction": "Apa itu Specific Performance?",
+    "context": "Perintah pengadilan agar kontrak dilaksanakan (bukan ganti uang).",
+    "response": "N. Pemenuhan spesifik (Specific performance); perintah pengadilan agar pihak yang melanggar kontrak melaksanakan kewajibannya (misal: menyerahkan tanah), bukan membayar ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Speculative Damages?",
+    "context": "Ganti rugi khayalan yang tidak boleh dikabulkan.",
+    "response": "N. Kerugian spekulatif; kerugian yang belum pasti atau hanya dugaan, yang tidak boleh diberikan oleh pengadilan."
+  },
+  {
+    "instruction": "Apa itu Speedy Trial?",
+    "context": "Hak terdakwa untuk segera diadili.",
+    "response": "N. Peradilan cepat; hak konstitusional terdakwa untuk diadili dalam waktu singkat."
+  },
+  {
+    "instruction": "Apa itu Spendthrift Clause?",
+    "context": "Klausul trust yang mencegah ahli waris boros menggadaikan warisannya.",
+    "response": "N. Klausul pemboros; ketentuan dalam trust yang mencegah penerima manfaat menggunakan warisan sebagai jaminan utang."
+  },
+  {
+    "instruction": "Apa itu Spontaneous Exclamation?",
+    "context": "Ucapan spontan saat kaget (bisa jadi bukti).",
+    "response": "N. Seruan spontan; pernyataan mendadak akibat kejadian mengejutkan, yang bisa jadi bukti pengecualian hearsay."
+  },
+  {
+    "instruction": "Apa itu Spot Zoning?",
+    "context": "Zonasi khusus untuk satu properti (seringkali ilegal).",
+    "response": "N. Zonasi setempat; pemberian zona khusus untuk satu lahan yang berbeda dari sekitarnya."
+  },
+  {
+    "instruction": "Apa itu Spousal Support?",
+    "context": "Tunjangan untuk pasangan (istilah modern alimony).",
+    "response": "N. Dukungan pasangan (Alimony); pembayaran nafkah kepada mantan pasangan."
+  },
+  {
+    "instruction": "Apa itu Springing Interest?",
+    "context": "Hak properti yang baru muncul di masa depan.",
+    "response": "N. Kepentingan yang muncul kemudian; hak atas properti yang baru aktif di masa depan."
+  },
+  {
+    "instruction": "Siapa itu Stakeholder?",
+    "context": "Pemegang dana sengketa.",
+    "response": "N. Pemegang taruhan/dana; orang yang memegang uang sengketa sampai ada keputusan siapa yang berhak."
+  },
+  {
+    "instruction": "Apa itu Standard of Care?",
+    "context": "Standar kehati-hatian yang wajar.",
+    "response": "N. Standar perawatan/kehati-hatian; tingkat kehati-hatian yang harus dilakukan seseorang untuk menghindari kelalaian."
+  },
+  {
+    "instruction": "Apa itu Standing?",
+    "context": "Hak atau kedudukan hukum untuk menggugat.",
+    "response": "N. Kedudukan hukum (Legal standing); hak untuk mengajukan gugatan karena memiliki kepentingan langsung."
+  },
+  {
+    "instruction": "Apa itu Star Chamber Proceedings?",
+    "context": "Sidang rahasia yang tidak adil.",
+    "response": "N. Prosiding Star Chamber; sidang yang sewenang-wenang dan tidak adil (istilah sejarah)."
+  },
+  {
+    "instruction": "Apa prinsip Stare Decisis?",
+    "context": "Hakim terikat pada putusan terdahulu (preseden).",
+    "response": "N. (baca: stah-ree duh-sigh-sis) Ikuti putusan; doktrin bahwa pengadilan terikat pada preseden putusan sebelumnya."
+  },
+  {
+    "instruction": "Apa definisi State?",
+    "context": "Negara bagian atau pemerintah.",
+    "response": "N. Negara/Negara Bagian."
+  },
+  {
+    "instruction": "Apa itu State Action?",
+    "context": "Tindakan pemerintah yang bisa melanggar hak sipil.",
+    "response": "N. Tindakan negara; aktivitas pemerintah yang melanggar hak sipil individu."
+  },
+  {
+    "instruction": "Apa itu State of Domicile?",
+    "context": "Negara bagian tempat tinggal hukum.",
+    "response": "N. Negara bagian domisili; tempat tinggal hukum permanen."
+  },
+  {
+    "instruction": "Apa itu Status Conference?",
+    "context": "Pertemuan pra-sidang untuk lapor perkembangan.",
+    "response": "N. Konferensi status; pertemuan pengacara dan hakim sebelum sidang untuk melaporkan perkembangan kasus."
+  },
+  {
+    "instruction": "Apa itu Statute?",
+    "context": "Undang-undang tertulis.",
+    "response": "N. Undang-undang (Statuta); hukum tertulis yang disahkan oleh legislatif."
+  },
+  {
+    "instruction": "Apa itu Statute of Frauds?",
+    "context": "UU yang mewajibkan kontrak tertentu harus tertulis.",
+    "response": "N. Undang-undang penipuan (Statute of Frauds); hukum yang mengharuskan kontrak tertentu (misal tanah) dibuat tertulis agar sah."
+  },
+  {
+    "instruction": "Apa itu Statute of Limitations?",
+    "context": "Batas waktu kedaluwarsa penuntutan.",
+    "response": "N. Batas waktu penuntutan (Kadaluwarsa); batas waktu maksimal untuk mengajukan gugatan."
+  },
+  {
+    "instruction": "Apa itu Statutory Offer of Settlement?",
+    "context": "Tawaran damai resmi sesuai UU.",
+    "response": "N. Tawaran penyelesaian menurut undang-undang."
+  },
+  {
+    "instruction": "Apa itu Statutory Rape?",
+    "context": "Hubungan seks dengan anak di bawah umur (dianggap perkosaan meski suka sama suka).",
+    "response": "N. Perkosaan menurut undang-undang; hubungan seksual dengan anak di bawah umur, yang dianggap perkosaan meskipun ada persetujuan."
+  },
+  {
+    "instruction": "Apa itu Stay?",
+    "context": "Penundaan eksekusi putusan.",
+    "response": "N. Penangguhan (Stay); penundaan perintah pengadilan."
+  },
+  {
+    "instruction": "Apa itu Stay Away Order?",
+    "context": "Perintah menjaga jarak.",
+    "response": "N. Perintah menjauh; perintah agar seseorang tidak mendekati orang lain."
+  },
+  {
+    "instruction": "Apa itu Stay of Execution?",
+    "context": "Penundaan hukuman mati.",
+    "response": "N. Penangguhan eksekusi; penundaan pelaksanaan hukuman mati."
+  },
+  {
+    "instruction": "Apa itu Stipulation?",
+    "context": "Kesepakatan antar pengacara tentang prosedur.",
+    "response": "N. Stipulasi (Kesepakatan); persetujuan antara pengacara kedua pihak mengenai masalah prosedural."
+  },
+  {
+    "instruction": "Apa definisi Stock?",
+    "context": "Stok barang atau saham.",
+    "response": "N. 1) Persediaan barang. 2) Saham."
+  },
+  {
+    "instruction": "Apa itu Stock Certificate?",
+    "context": "Sertifikat saham.",
+    "response": "N. Sertifikat saham."
+  },
+  {
+    "instruction": "Apa itu Stock in Trade?",
+    "context": "Barang dagangan.",
+    "response": "N. Persediaan barang dagangan."
+  },
+  {
+    "instruction": "Apa itu Stock Option?",
+    "context": "Opsi membeli saham.",
+    "response": "N. Opsi saham; hak untuk membeli saham di masa depan dengan harga tertentu."
+  },
+  {
+    "instruction": "Siapa itu Stockholder?",
+    "context": "Pemegang saham.",
+    "response": "N. Pemegang saham."
+  },
+  {
+    "instruction": "Apa itu Stockholders' Derivative Action?",
+    "context": "Gugatan turunan pemegang saham.",
+    "response": "Lihat Shareholders' derivative action."
+  },
+  {
+    "instruction": "Apa itu Stop and Frisk?",
+    "context": "Polisi menghentikan dan menggeledah orang mencurigakan.",
+    "response": "N. Berhenti dan geledah; tindakan polisi menggeledah luar pakaian tersangka untuk mencari senjata."
+  },
+  {
+    "instruction": "Apa itu Straw Man?",
+    "context": "Orang-orangan (nama pinjaman) untuk menyembunyikan pemilik asli.",
+    "response": "N. Orang-orangan (Boneka); orang yang namanya dipinjam untuk menyembunyikan pemilik asli."
+  },
+  {
+    "instruction": "Apa itu Street?",
+    "context": "Jalan umum kota.",
+    "response": "N. Jalan (Street); jalan umum di daerah perkotaan."
+  },
+  {
+    "instruction": "Apa itu Strict Construction?",
+    "context": "Penafsiran harfiah undang-undang.",
+    "response": "N. Penafsiran ketat; menafsirkan hukum secara harfiah dan sempit."
+  },
+  {
+    "instruction": "Apa itu Strict Liability?",
+    "context": "Tanggung jawab mutlak tanpa perlu membuktikan kelalaian.",
+    "response": "N. Tanggung jawab mutlak (Strict liability); tanggung jawab otomatis atas kerusakan akibat aktivitas berbahaya tanpa perlu membuktikan kelalaian."
+  },
+  {
+    "instruction": "Apa arti Strike dalam sidang?",
+    "context": "Menghapus pernyataan dari catatan sidang.",
+    "response": "V. Mencoret (Strike); menghapus pernyataan dari catatan pengadilan."
+  },
+  {
+    "instruction": "Apa itu Structure?",
+    "context": "Bangunan.",
+    "response": "N. Struktur/Bangunan."
+  },
+  {
+    "instruction": "Apa arti Sua Sponte?",
+    "context": "Atas inisiatif hakim sendiri.",
+    "response": "Adj. (baca: sooh-uh spahn-tay) Atas kehendak sendiri; perintah hakim tanpa permintaan pihak berperkara."
+  },
+  {
+    "instruction": "Apa itu Subchapter S Corporation?",
+    "context": "Korporasi kecil yang pajaknya diperlakukan seperti kemitraan.",
+    "response": "N. Korporasi Subbab S; korporasi kecil yang diperlakukan seperti kemitraan untuk tujuan pajak."
+  },
+  {
+    "instruction": "Siapa itu Subcontractor?",
+    "context": "Subkontraktor.",
+    "response": "N. Subkontraktor; pihak yang dikontrak oleh kontraktor utama untuk melakukan sebagian pekerjaan."
+  },
+  {
+    "instruction": "Apa arti Subject To?",
+    "context": "Tunduk pada (misal membeli rumah beserta utang hipoteknya).",
+    "response": "Adj. Tunduk pada/Dengan syarat; membeli properti dengan mengambil alih tanggung jawab pembayaran hipotek yang ada."
+  },
+  {
+    "instruction": "Apa itu Sublease?",
+    "context": "Menyewakan kembali properti sewaan (Sub-sewa).",
+    "response": "N. Sub-sewa; penyewa menyewakan properti ke orang lain."
+  },
+  {
+    "instruction": "Apa arti Submitted?",
+    "context": "Kasus sudah diserahkan ke hakim untuk diputus.",
+    "response": "N. Diserahkan (Submitted); tahap akhir sidang di mana keputusan ada di tangan hakim."
+  },
+  {
+    "instruction": "Apa itu Subordination?",
+    "context": "Menurunkan prioritas utang.",
+    "response": "N. Subordinasi; mengizinkan utang lain memiliki prioritas lebih tinggi."
+  },
+  {
+    "instruction": "Apa itu Subordination Agreement?",
+    "context": "Perjanjian menurunkan prioritas utang.",
+    "response": "N. Perjanjian subordinasi."
+  },
+  {
+    "instruction": "Apa itu Subornation of Perjury?",
+    "context": "Membujuk orang lain bersumpah palsu.",
+    "response": "N. Subornasi sumpah palsu; kejahatan membujuk orang lain melakukan sumpah palsu."
+  },
+  {
+    "instruction": "Apa itu Subpena (Subpoena)?",
+    "context": "Surat panggilan saksi.",
+    "response": "N. (baca: suh-pea-nah) Subpoena (Surat panggilan saksi); perintah pengadilan agar saksi hadir."
+  },
+  {
+    "instruction": "Apa itu Subpena Duces Tecum?",
+    "context": "Surat perintah membawa dokumen ke pengadilan.",
+    "response": "N. Subpoena duces tecum; perintah agar saksi membawa dokumen tertentu ke pengadilan."
+  },
+  {
+    "instruction": "Apa itu Subpoena?",
+    "context": "Ejaan lain Subpena.",
+    "response": "N. (Lihat Subpena)."
+  },
+  {
+    "instruction": "Apa itu Subrogation?",
+    "context": "Penggantian hak tagih (misal asuransi menuntut pelaku setelah membayar korban).",
+    "response": "N. Subrogasi; pengalihan hak menuntut dari korban ke pihak yang telah membayar ganti rugi (biasanya asuransi)."
+  },
+  {
+    "instruction": "Siapa itu Subrogee?",
+    "context": "Pihak yang menerima hak subrogasi (asuransi).",
+    "response": "N. Subrogee; pihak (asuransi) yang mengambil alih hak menuntut."
+  },
+  {
+    "instruction": "Siapa itu Subrogor?",
+    "context": "Pihak yang haknya diambil alih (tertanggung).",
+    "response": "N. Subrogor; pihak yang hak tuntutannya dialihkan."
+  },
+  {
+    "instruction": "Apa arti Subscribe?",
+    "context": "Menandatangani dokumen atau memesan saham.",
+    "response": "V. 1) Menandatangani. 2) Memesan saham."
+  },
+  {
+    "instruction": "Apa itu Substantial Performance?",
+    "context": "Pelaksanaan kontrak yang hampir sempurna.",
+    "response": "N. Kinerja substansial; pemenuhan kontrak dengan sedikit kekurangan yang tidak material."
+  },
+  {
+    "instruction": "Apa itu Substantive Law?",
+    "context": "Hukum materiil (isi hukum), beda dengan hukum acara.",
+    "response": "N. Hukum materiil (Substantif); hukum yang mengatur hak dan kewajiban, beda dengan hukum prosedural."
+  },
+  {
+    "instruction": "Apa arti Substitute In?",
+    "context": "Pengacara baru menggantikan yang lama.",
+    "response": "V. Menggantikan; pengacara baru mengambil alih kasus."
+  },
+  {
+    "instruction": "Apa itu Substituted Service?",
+    "context": "Menyampaikan surat panggilan ke orang rumah/kantor karena ybs tidak ada.",
+    "response": "N. Penyampaian pengganti; menyerahkan dokumen hukum kepada orang dewasa lain di rumah/kantor tergugat."
+  },
+  {
+    "instruction": "Apa itu Substitution?",
+    "context": "Penggantian pengacara atau pihak.",
+    "response": "N. Substitusi/Penggantian."
+  },
+  {
+    "instruction": "Apa itu Substitution of Attorney?",
+    "context": "Dokumen pergantian pengacara.",
+    "response": "N. Surat substitusi pengacara."
+  },
+  {
+    "instruction": "Apa itu Succession?",
+    "context": "Pewarisan.",
+    "response": "N. Suksesi/Pewarisan."
+  },
+  {
+    "instruction": "Apa itu Successive Sentences?",
+    "context": "Hukuman beruntun.",
+    "response": "N. Hukuman berturut-turut; menjalani hukuman satu per satu."
+  },
+  {
+    "instruction": "Apa itu Suffering?",
+    "context": "Penderitaan (bagian ganti rugi).",
+    "response": "N. Penderitaan; rasa sakit fisik/mental akibat cedera."
+  },
+  {
+    "instruction": "Apa arti Sui Generis?",
+    "context": "Unik, satu-satunya.",
+    "response": "N. (baca: sooh-ee jen-ur-iss) Unik (Sui generis); satu-satunya dari jenisnya."
+  },
+  {
+    "instruction": "Apa itu Suicide?",
+    "context": "Bunuh diri.",
+    "response": "N. Bunuh diri."
+  },
+  {
+    "instruction": "Apa itu Suit?",
+    "context": "Gugatan.",
+    "response": "N. Gugatan (Suit); tuntutan hukum."
+  },
+  {
+    "instruction": "Apa itu Sum Certain?",
+    "context": "Jumlah uang yang pasti.",
+    "response": "N. Jumlah pasti; nominal uang yang spesifik."
+  },
+  {
+    "instruction": "Apa itu Summary Adjudication of Issues?",
+    "context": "Putusan sebagian isu sebelum sidang.",
+    "response": "N. Adjudikasi ringkas; putusan hakim atas fakta tertentu sebelum sidang."
+  },
+  {
+    "instruction": "Apa itu Summary Judgment?",
+    "context": "Putusan langsung tanpa sidang karena fakta jelas.",
+    "response": "N. Putusan sela (Summary judgment); putusan hakim bahwa tidak perlu sidang karena fakta sudah jelas."
+  },
+  {
+    "instruction": "Apa itu Summation?",
+    "context": "Argumen penutup.",
+    "response": "N. Kesimpulan/Argumen penutup."
+  },
+  {
+    "instruction": "Apa itu Summons?",
+    "context": "Surat panggilan sidang.",
+    "response": "N. Surat panggilan (Summons/Relaas); dokumen pengadilan yang memanggil tergugat."
+  },
+  {
+    "instruction": "Apa itu Superior Court?",
+    "context": "Pengadilan tingkat pertama (tinggi) di tingkat kabupaten.",
+    "response": "N. Pengadilan Tinggi (Superior Court); pengadilan tingkat daerah."
+  },
+  {
+    "instruction": "Apa itu Supersedeas?",
+    "context": "Perintah menunda eksekusi putusan selama banding.",
+    "response": "N. (baca: sooh-purr-said-ee-uhs) Penangguhan; perintah pengadilan banding untuk menunda eksekusi putusan."
+  },
+  {
+    "instruction": "Apa itu Superseding Cause?",
+    "context": "Penyebab baru yang menggantikan penyebab lama.",
+    "response": "N. Penyebab pengganti; kejadian baru yang memutus rantai sebab-akibat asli."
+  },
+  {
+    "instruction": "Apa arti Supplemental?",
+    "context": "Tambahan.",
+    "response": "Adj. Tambahan (Suplemental)."
+  },
+  {
+    "instruction": "Apa itu Suppression of Evidence?",
+    "context": "Penolakan bukti ilegal atau penyembunyian bukti oleh jaksa.",
+    "response": "N. Penekanan bukti; 1) Larangan menggunakan bukti ilegal. 2) Jaksa menyembunyikan bukti."
+  },
+  {
+    "instruction": "Apa arti Supra?",
+    "context": "Di atas (merujuk yang sudah disebut).",
+    "response": "N. (baca: sooh-prah) Di atas (Supra); rujukan ke hal yang sudah disebutkan sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Supremacy Clause?",
+    "context": "Klausul konstitusi bahwa hukum federal lebih tinggi dari daerah.",
+    "response": "N. Klausul supremasi; aturan bahwa Konstitusi dan hukum federal AS adalah hukum tertinggi."
+  },
+  {
+    "instruction": "Apa itu Supreme Court?",
+    "context": "Mahkamah Agung.",
+    "response": "N. Mahkamah Agung; pengadilan tertinggi."
+  },
+  {
+    "instruction": "Apa itu Surcharge?",
+    "context": "Biaya tambahan atau denda.",
+    "response": "N. Biaya tambahan."
+  },
+  {
+    "instruction": "Apa itu Surety?",
+    "context": "Penjamin.",
+    "response": "N. Penjamin (Surety); pihak yang menjamin pembayaran atau kinerja orang lain."
+  },
+  {
+    "instruction": "Apa itu Surplusage?",
+    "context": "Kata-kata berlebihan dalam dokumen yang tidak penting.",
+    "response": "N. Berlebihan; kata-kata dalam dokumen hukum yang tidak memiliki efek hukum."
+  },
+  {
+    "instruction": "Apa itu Surrebutal?",
+    "context": "Jawaban atas bantahan lawan.",
+    "response": "N. Surrebuttal; tanggapan terhadap bantahan pihak lawan."
+  },
+  {
+    "instruction": "Apa arti Surrender?",
+    "context": "Menyerahkan properti atau menyerahkan diri.",
+    "response": "V. Menyerahkan; 1) Menyerahkan properti sewaan. 2) Menyerahkan diri ke polisi."
+  },
+  {
+    "instruction": "Siapa itu Surrogate?",
+    "context": "Pengganti atau hakim warisan.",
+    "response": "N. Pengganti/Surrogate; 1) Ibu pengganti. 2) Hakim warisan (di NY)."
+  },
+  {
+    "instruction": "Apa itu Surrogate Court?",
+    "context": "Pengadilan warisan (di beberapa negara bagian).",
+    "response": "N. Pengadilan warisan."
+  },
+  {
+    "instruction": "Siapa itu Survivor?",
+    "context": "Orang yang masih hidup setelah orang lain mati.",
+    "response": "N. Orang yang selamat/bertahan hidup."
+  },
+  {
+    "instruction": "Apa itu Survivorship?",
+    "context": "Hak orang yang bertahan hidup memiliki seluruh properti bersama.",
+    "response": "N. Hak survivorship; hak pemilik bersama yang masih hidup untuk memiliki seluruh properti."
+  },
+  {
+    "instruction": "Apa itu Suspended Sentence?",
+    "context": "Hukuman percobaan.",
+    "response": "N. Hukuman percobaan (Suspended sentence); hukuman yang tidak dijalankan asalkan terpidana berkelakuan baik."
+  },
+  {
+    "instruction": "Apa arti Sustain dalam sidang?",
+    "context": "Hakim setuju dengan keberatan pengacara.",
+    "response": "V. Mengabulkan (Sustain); hakim menyetujui keberatan pengacara."
+  },
+  {
+    "instruction": "Apa arti Swear?",
+    "context": "Bersumpah.",
+    "response": "V. Bersumpah; menyatakan kebenaran di bawah sumpah."
+  },
+  {
+    "instruction": "Apa arti Swindle?",
+    "context": "Menipu.",
+    "response": "V. Menipu (Swindle); menipu untuk mendapatkan uang."
+  },
+  {
+    "instruction": "Apa itu Syndicate?",
+    "context": "Sindikat bisnis.",
+    "response": "N. Sindikat; usaha bersama untuk tujuan bisnis tertentu."
+  }
+]
