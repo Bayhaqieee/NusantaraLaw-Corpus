@@ -1,0 +1,452 @@
+[
+  {
+    "instruction": "Apa singkatan T.R.O. dalam hukum?",
+    "context": "Perintah pengadilan sementara.",
+    "response": "N. Perintah penahanan sementara (Temporary Restraining Order); perintah sementara pengadilan untuk mencegah tindakan tertentu sampai sidang diadakan."
+  },
+  {
+    "instruction": "Apa itu Tainted Evidence?",
+    "context": "Bukti ilegal yang tidak sah di pengadilan.",
+    "response": "N. Bukti tercemar (Tainted evidence); informasi yang diperoleh dengan cara ilegal (misal penggeledahan tanpa surat izin) yang tidak dapat digunakan di pengadilan."
+  },
+  {
+    "instruction": "Apa arti Take dalam hukum pidana?",
+    "context": "Mengambil atau menguasai barang.",
+    "response": "V. Mengambil; mendapatkan kepemilikan, termasuk mencuri barang atau menerima warisan."
+  },
+  {
+    "instruction": "Apa maksud Taking the Fifth?",
+    "context": "Menolak bersaksi karena takut memberatkan diri sendiri.",
+    "response": "N. Menggunakan hak diam (Amandemen Kelima); penolakan bersaksi karena takut kesaksiannya akan memberatkan diri sendiri dalam kejahatan (hak konstitusional AS)."
+  },
+  {
+    "instruction": "Apa itu Tangible Property?",
+    "context": "Barang berwujud.",
+    "response": "N. Harta berwujud (Tangible property); barang fisik nyata, dibedakan dari aset tak berwujud seperti hak cipta."
+  },
+  {
+    "instruction": "Apa itu Tax?",
+    "context": "Pungutan wajib negara.",
+    "response": "N. Pajak; pungutan pemerintah atas nilai properti, transaksi, atau pendapatan."
+  },
+  {
+    "instruction": "Apa itu Tax Costs?",
+    "context": "Permintaan untuk menolak atau mengurangi klaim biaya pengadilan.",
+    "response": "N. Membebankan biaya (Tax costs); mosi untuk menentang klaim biaya pengadilan yang diajukan oleh pihak yang menang dalam gugatan."
+  },
+  {
+    "instruction": "Apa fungsi Tax Court?",
+    "context": "Pengadilan khusus sengketa pajak.",
+    "response": "N. Pengadilan Pajak; badan peradilan yang menangani banding wajib pajak terhadap keputusan dinas pajak (IRS)."
+  },
+  {
+    "instruction": "Apa itu Tax Evasion?",
+    "context": "Penggelapan pajak ilegal.",
+    "response": "N. Penggelapan pajak (Tax evasion); upaya sengaja dan curang untuk menghindari pembayaran pajak (tindak pidana)."
+  },
+  {
+    "instruction": "Apa itu Tax Return?",
+    "context": "Laporan pajak (SPT).",
+    "response": "N. SPT Pajak (Surat Pemberitahuan); formulir yang diajukan ke otoritas pajak yang merinci pendapatan, pengeluaran, dan perhitungan pajak."
+  },
+  {
+    "instruction": "Apa itu Tax Sale?",
+    "context": "Lelang aset karena menunggak pajak.",
+    "response": "N. Lelang pajak; penjualan properti wajib pajak oleh pemerintah untuk menagih pajak yang belum dibayar."
+  },
+  {
+    "instruction": "Apa itu Temporary Injunction?",
+    "context": "Perintah larangan sementara sampai sidang selesai.",
+    "response": "N. Injunction sementara; perintah pengadilan yang melarang tindakan pihak dalam gugatan sampai ada putusan pengadilan."
+  },
+  {
+    "instruction": "Apa itu Temporary Insanity?",
+    "context": "Kegilaan sesaat sebagai pembelaan pidana.",
+    "response": "N. Kegilaan sementara; pembelaan terdakwa bahwa dia gila sesaat saat kejahatan terjadi dan tidak sadar akan sifat tindakannya."
+  },
+  {
+    "instruction": "Apa itu Tenancy?",
+    "context": "Hak menempati properti.",
+    "response": "N. Hak sewa/Hunian (Tenancy); hak untuk menempati properti nyata secara permanen atau sementara."
+  },
+  {
+    "instruction": "Apa itu Tenancy at Sufferance?",
+    "context": "Penyewa tetap tinggal setelah kontrak habis tanpa izin jelas.",
+    "response": "N. Tenancy at sufferance; penyewaan di mana penyewa tetap tinggal setelah sewa berakhir tetapi sebelum pemilik menuntut pengosongan."
+  },
+  {
+    "instruction": "Apa itu Tenancy at Will?",
+    "context": "Sewa menyewa tanpa batas waktu yang bisa diakhiri kapan saja.",
+    "response": "N. Sewa sesuka hati (Tenancy at will); pendudukan properti yang dapat diakhiri kapan saja oleh pemilik atau penyewa."
+  },
+  {
+    "instruction": "Apa itu Tenancy by the Entirety?",
+    "context": "Kepemilikan bersama suami-istri dengan hak waris otomatis.",
+    "response": "N. Kepemilikan bersama suami-istri; bentuk kepemilikan properti khusus suami-istri di mana jika satu meninggal, yang lain otomatis memiliki seluruhnya."
+  },
+  {
+    "instruction": "Apa itu Tenancy in Common?",
+    "context": "Kepemilikan bersama tanpa hak waris otomatis ke pemilik lain.",
+    "response": "N. Kepemilikan bersama (Tenancy in common); kepemilikan properti oleh dua orang atau lebih di mana masing-masing memiliki bagian yang dapat diwariskan kepada ahli warisnya sendiri (bukan ke pemilik lain)."
+  },
+  {
+    "instruction": "Siapa itu Tenant?",
+    "context": "Penyewa.",
+    "response": "N. Penyewa (Tenant); orang yang menempati properti milik orang lain berdasarkan perjanjian sewa."
+  },
+  {
+    "instruction": "Apa arti Tender?",
+    "context": "Menawarkan pembayaran atau kinerja kontrak.",
+    "response": "V. Menawarkan/Membayar (Tender); menyajikan penawaran tanpa syarat untuk masuk kontrak atau menyajikan pembayaran."
+  },
+  {
+    "instruction": "Apa itu Tenement?",
+    "context": "Bangunan properti atau apartemen kumuh.",
+    "response": "N. 1) Struktur di properti nyata. 2) Apartemen kumuh bertingkat (Rumah susun tua)."
+  },
+  {
+    "instruction": "Apa itu Tentative Trust?",
+    "context": "Rekening bank atas nama orang lain yang baru cair saat meninggal.",
+    "response": "N. Trust tentatif (Rekening Totten); rekening bank yang disimpan atas nama deposan \"dalam perwalian untuk\" orang lain, yang baru menjadi milik orang itu saat deposan meninggal."
+  },
+  {
+    "instruction": "Apa arti Tenure?",
+    "context": "Hak menempati properti atau jaminan kerja permanen.",
+    "response": "N. 1) Hak menempati properti. 2) Jaminan masa jabatan (tenure) bagi pegawai (seperti dosen)."
+  },
+  {
+    "instruction": "Apa arti Term dalam kontrak?",
+    "context": "Jangka waktu atau syarat.",
+    "response": "N. 1) Jangka waktu (Term); periode berlakunya kontrak. 2) Syarat/Ketentuan kontrak."
+  },
+  {
+    "instruction": "Apa itu Testacy?",
+    "context": "Kondisi meninggal dengan meninggalkan wasiat.",
+    "response": "N. Mewariskan dengan wasiat (Testacy); meninggal dengan meninggalkan wasiat yang sah."
+  },
+  {
+    "instruction": "Apa arti Testamentary?",
+    "context": "Berkaitan dengan wasiat.",
+    "response": "Adj. Testamenter; berkaitan dengan surat wasiat."
+  },
+  {
+    "instruction": "Apa itu Testamentary Capacity?",
+    "context": "Kecakapan mental membuat wasiat.",
+    "response": "N. Kecakapan membuat wasiat; kemampuan mental untuk memahami tindakan membuat wasiat saat menandatanganinya."
+  },
+  {
+    "instruction": "Apa itu Testamentary Disposition?",
+    "context": "Pembagian harta melalui wasiat.",
+    "response": "N. Disposisi wasiat; cara pembagian harta pewaris sesuai ketentuan wasiat."
+  },
+  {
+    "instruction": "Apa itu Testamentary Trust?",
+    "context": "Trust yang dibentuk melalui wasiat setelah kematian.",
+    "response": "N. Trust wasiat; perwalian yang dibuat berdasarkan ketentuan dalam surat wasiat (baru berlaku setelah pewaris meninggal)."
+  },
+  {
+    "instruction": "Siapa itu Testator?",
+    "context": "Pembuat wasiat (laki-laki).",
+    "response": "N. Pewasiat (Testator); orang yang membuat surat wasiat."
+  },
+  {
+    "instruction": "Siapa itu Testatrix?",
+    "context": "Pembuat wasiat wanita.",
+    "response": "N. Pewasiat wanita (Testatrix)."
+  },
+  {
+    "instruction": "Apa arti Testify?",
+    "context": "Memberikan kesaksian.",
+    "response": "V. Bersaksi (Testify); memberikan bukti lisan di bawah sumpah di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Testimony?",
+    "context": "Kesaksian lisan di pengadilan.",
+    "response": "N. Kesaksian (Testimony); bukti lisan yang diberikan saksi di bawah sumpah."
+  },
+  {
+    "instruction": "Apa definisi Theft?",
+    "context": "Pencurian.",
+    "response": "N. Pencurian (Theft); istilah umum untuk kejahatan mengambil properti orang lain secara ilegal."
+  },
+  {
+    "instruction": "Siapa itu Third Party?",
+    "context": "Pihak lain di luar kontrak utama.",
+    "response": "N. Pihak ketiga; orang yang bukan bagian dari kontrak tetapi terlibat atau terdampak."
+  },
+  {
+    "instruction": "Apa itu Third-party Beneficiary?",
+    "context": "Orang yang diuntungkan dari kontrak pihak lain.",
+    "response": "N. Penerima manfaat pihak ketiga; orang yang bukan pihak dalam kontrak tetapi memiliki hak hukum untuk menuntut pelaksanaannya demi keuntungannya."
+  },
+  {
+    "instruction": "Apa itu Thirty-day Notice?",
+    "context": "Pemberitahuan pengosongan sewa dalam 30 hari.",
+    "response": "N. Pemberitahuan 30 hari; pemberitahuan pemilik kepada penyewa bulanan untuk meninggalkan tempat dalam 30 hari."
+  },
+  {
+    "instruction": "Apa itu aturan 'Three Strikes, You're Out'?",
+    "context": "Hukuman seumur hidup bagi residivis kejahatan ketiga.",
+    "response": "N. Aturan tiga pelanggaran (Three strikes law); undang-undang yang mewajibkan hukuman penjara seumur hidup bagi penjahat yang telah dihukum karena kejahatan berat ketiga kalinya."
+  },
+  {
+    "instruction": "Apa itu Three-day Notice?",
+    "context": "Peringatan 3 hari untuk bayar sewa atau keluar.",
+    "response": "N. Pemberitahuan 3 hari; pemberitahuan kepada penyewa untuk membayar sewa yang menunggak atau keluar dalam waktu tiga hari."
+  },
+  {
+    "instruction": "Apa itu Tide Lands?",
+    "context": "Tanah pasang surut.",
+    "response": "N. Tanah pasang surut; tanah di antara air pasang dan surut."
+  },
+  {
+    "instruction": "Apa arti Time is of the Essence?",
+    "context": "Klausul kontrak bahwa waktu sangat penting (keterlambatan = pelanggaran).",
+    "response": "N. Waktu adalah esensi; frasa kontrak yang berarti batas waktu sangat vital dan keterlambatan dianggap pelanggaran kontrak."
+  },
+  {
+    "instruction": "Apa itu Time Served?",
+    "context": "Masa tahanan yang sudah dijalani.",
+    "response": "N. Waktu yang sudah dijalani; periode terdakwa dipenjara sebelum vonis, yang sering dihitung mengurangi hukuman akhir."
+  },
+  {
+    "instruction": "Apa arti Timely?",
+    "context": "Tepat waktu sesuai hukum.",
+    "response": "Adj. Tepat waktu; dalam batas waktu yang disyaratkan undang-undang atau kontrak."
+  },
+  {
+    "instruction": "Apa itu Title?",
+    "context": "Hak kepemilikan.",
+    "response": "N. Hak milik/Gelar (Title); kepemilikan properti yang sah."
+  },
+  {
+    "instruction": "Apa itu Title Abstract?",
+    "context": "Ringkasan sejarah kepemilikan tanah.",
+    "response": "N. Abstrak hak milik; sejarah rantai kepemilikan tanah."
+  },
+  {
+    "instruction": "Apa itu Title Insurance?",
+    "context": "Asuransi yang menjamin keabsahan sertifikat tanah.",
+    "response": "N. Asuransi hak milik; polis asuransi yang menjamin bahwa hak milik properti bersih dan sah."
+  },
+  {
+    "instruction": "Apa itu Title Report?",
+    "context": "Laporan status kepemilikan tanah.",
+    "response": "N. Laporan hak milik; analisis tertulis tentang status hak tanah saat ini (termasuk beban/sengketa)."
+  },
+  {
+    "instruction": "Apa itu Title Search?",
+    "context": "Pemeriksaan arsip tanah untuk cek kepemilikan.",
+    "response": "N. Penelusuran hak milik; pemeriksaan catatan daerah untuk menentukan sejarah kepemilikan properti."
+  },
+  {
+    "instruction": "Apa arti To Wit?",
+    "context": "Yaitu.",
+    "response": "Prep. Yaitu/Yakni (To wit); frasa hukum untuk merinci atau menjelaskan."
+  },
+  {
+    "instruction": "Apa arti Toll?",
+    "context": "Menunda berlakunya batas waktu hukum.",
+    "response": "V. Menunda/Menghentikan sementara (Toll); menunda efek undang-undang (misal: menunda masa kadaluwarsa penuntutan)."
+  },
+  {
+    "instruction": "Apa itu Tontine?",
+    "context": "Investasi bersama di mana yang terakhir hidup mengambil semua.",
+    "response": "N. Tontine; perjanjian investasi di mana peserta terakhir yang bertahan hidup mendapatkan semua aset."
+  },
+  {
+    "instruction": "Apa itu Tools of Trade?",
+    "context": "Alat kerja yang tidak boleh disita kreditur.",
+    "response": "N. Alat kerja; peralatan yang dibutuhkan seseorang untuk pekerjaannya, yang biasanya dikecualikan dari penyitaan kebangkrutan."
+  },
+  {
+    "instruction": "Apa itu Tort?",
+    "context": "Perbuatan melawan hukum (perdata) yang merugikan orang lain.",
+    "response": "N. Perbuatan melawan hukum (Tort); kesalahan perdata (bukan pidana) yang menyebabkan kerugian pada orang lain dan dapat digugat ganti rugi."
+  },
+  {
+    "instruction": "Apa itu Tort Claims Act?",
+    "context": "UU yang mengizinkan warga menuntut pemerintah atas kelalaian.",
+    "response": "N. UU Tuntutan Tort; undang-undang yang mengizinkan gugatan terhadap pemerintah atas kesalahan (tort) pegawainya."
+  },
+  {
+    "instruction": "Siapa itu Tortfeasor?",
+    "context": "Pelaku perbuatan melawan hukum.",
+    "response": "N. Pelaku tort (Tortfeasor); orang yang melakukan perbuatan melawan hukum."
+  },
+  {
+    "instruction": "Apa arti Tortious?",
+    "context": "Bersifat melawan hukum.",
+    "response": "Adj. Melawan hukum (Tortious); merujuk pada tindakan yang merupakan tort."
+  },
+  {
+    "instruction": "Apa arti Trade?",
+    "context": "Bisnis atau tukar-menukar.",
+    "response": "1) N. Perdagangan/Bisnis. 2) V. Menukar."
+  },
+  {
+    "instruction": "Apa itu Trade Fixture?",
+    "context": "Peralatan bisnis yang dipasang di properti sewaan (boleh dibawa saat pindah).",
+    "response": "N. Perlengkapan dagang; peralatan bisnis yang dipasang pada properti sewaan yang boleh diambil kembali oleh penyewa saat sewa berakhir (beda dengan fixture biasa)."
+  },
+  {
+    "instruction": "Apa itu Trade Name?",
+    "context": "Nama dagang bisnis.",
+    "response": "N. Nama dagang; nama bisnis atau produk yang dikenal publik."
+  },
+  {
+    "instruction": "Apa itu Trade Secret?",
+    "context": "Rahasia dagang.",
+    "response": "N. Rahasia dagang; informasi bisnis rahasia (resep, metode) yang memberi keunggulan kompetitif."
+  },
+  {
+    "instruction": "Apa itu Trademark?",
+    "context": "Merek dagang.",
+    "response": "N. Merek dagang (Trademark); desain atau logo unik yang mengidentifikasi produk."
+  },
+  {
+    "instruction": "Siapa itu Trader?",
+    "context": "Pedagang yang sering jual-beli aset.",
+    "response": "N. Pedagang (Trader); orang yang berurusan dengan properti/saham sebagai bisnis jual-beli aktif."
+  },
+  {
+    "instruction": "Apa itu Transcript?",
+    "context": "Catatan tertulis isi sidang.",
+    "response": "N. Transkrip; catatan tertulis dari semua proses, termasuk kesaksian, dalam persidangan."
+  },
+  {
+    "instruction": "Apa arti Transfer?",
+    "context": "Memindahkan hak milik.",
+    "response": "N. Pengalihan/Transfer; perpindahan properti atau hak dari satu orang ke orang lain."
+  },
+  {
+    "instruction": "Siapa itu Transfer Agent?",
+    "context": "Agen pencatat transfer saham perusahaan.",
+    "response": "N. Agen transfer; perusahaan yang disewa korporasi untuk memproses transfer saham."
+  },
+  {
+    "instruction": "Apa itu Transfer in Contemplation of Death?",
+    "context": "Hibah aset sebelum meninggal untuk hindari pajak warisan.",
+    "response": "N. Pengalihan jelang ajal; memberikan properti karena merasa akan segera meninggal."
+  },
+  {
+    "instruction": "Apa itu Transferred Intent?",
+    "context": "Niat jahat yang beralih ke korban yang salah sasaran.",
+    "response": "N. Niat yang dialihkan; doktrin hukum bahwa jika seseorang berniat melukai A tapi malah melukai B, niat jahatnya dianggap beralih ke B."
+  },
+  {
+    "instruction": "Apa itu Treason?",
+    "context": "Pengkhianatan negara (Makar).",
+    "response": "N. Pengkhianatan (Makar); kejahatan mengkhianati negara sendiri, seperti membantu musuh perang."
+  },
+  {
+    "instruction": "Apa itu Treasury Bill?",
+    "context": "Surat utang negara jangka pendek.",
+    "response": "N. Surat Perbendaharaan Negara (T-Bill); surat utang pemerintah jangka pendek."
+  },
+  {
+    "instruction": "Apa itu Treasury Bond?",
+    "context": "Obligasi negara jangka panjang.",
+    "response": "N. Obligasi negara (T-Bond); obligasi jangka panjang pemerintah."
+  },
+  {
+    "instruction": "Apa itu Treasury Stock?",
+    "context": "Saham yang dibeli kembali oleh perusahaan (Buyback).",
+    "response": "N. Saham treasuri (Treasury stock); saham perusahaan yang dibeli kembali oleh perusahaan penerbit."
+  },
+  {
+    "instruction": "Apa itu Treaty?",
+    "context": "Perjanjian antar negara.",
+    "response": "N. Perjanjian internasional (Traktat); pakta antar negara."
+  },
+  {
+    "instruction": "Apa itu Treble Damages?",
+    "context": "Ganti rugi tiga kali lipat (hukuman).",
+    "response": "N. Ganti rugi tiga kali lipat; hukuman ganti rugi sebesar tiga kali nilai kerugian (misal dalam kasus anti-monopoli)."
+  },
+  {
+    "instruction": "Apa itu Trespass?",
+    "context": "Masuk properti orang lain tanpa izin.",
+    "response": "N. Masuk tanpa izin (Trespass); memasuki properti orang lain tanpa izin dan menyebabkan gangguan."
+  },
+  {
+    "instruction": "Apa itu Trial?",
+    "context": "Persidangan.",
+    "response": "N. Persidangan (Trial); pemeriksaan fakta dan hukum oleh pengadilan."
+  },
+  {
+    "instruction": "Apa itu Trial Court?",
+    "context": "Pengadilan tingkat pertama.",
+    "response": "N. Pengadilan tingkat pertama; pengadilan yang mengadakan sidang asli."
+  },
+  {
+    "instruction": "Apa itu Trial De Novo?",
+    "context": "Sidang ulang dari awal di pengadilan banding.",
+    "response": "N. Pengadilan ulang (Trial de novo); sidang banding yang mengadili kasus seolah-olah belum pernah diadili sebelumnya."
+  },
+  {
+    "instruction": "Apa itu Tribunal?",
+    "context": "Badan pengadilan atau majelis hakim.",
+    "response": "N. Tribunal (Majelis); pengadilan atau badan yang memiliki fungsi yudisial."
+  },
+  {
+    "instruction": "Siapa itu Trier of Fact?",
+    "context": "Juri atau hakim yang memutuskan fakta.",
+    "response": "N. Pemutus fakta; hakim atau juri yang bertanggung jawab memutuskan masalah fakta dalam persidangan."
+  },
+  {
+    "instruction": "Apa itu Triple Net Lease?",
+    "context": "Sewa di mana penyewa bayar sewa + pajak + asuransi + pemeliharaan.",
+    "response": "N. Sewa triple net; sewa komersial di mana penyewa membayar sewa dasar plus pajak, asuransi, dan pemeliharaan."
+  },
+  {
+    "instruction": "Apa itu True Bill?",
+    "context": "Keputusan Grand Jury untuk mendakwa tersangka.",
+    "response": "N. Tagihan benar (Dakwaan sah); keputusan tertulis Grand Jury bahwa ada cukup bukti untuk mendakwa tersangka."
+  },
+  {
+    "instruction": "Apa definisi Trust?",
+    "context": "Badan hukum pengelola aset untuk pihak lain.",
+    "response": "N. Perwalian (Trust); entitas yang memegang aset untuk keuntungan pihak lain (beneficiary)."
+  },
+  {
+    "instruction": "Apa itu Trust Deed?",
+    "context": "Akta jaminan properti (mirip hipotek).",
+    "response": "N. Akta perwalian; bentuk jaminan properti di mana hak milik dipegang trustee sampai utang lunas."
+  },
+  {
+    "instruction": "Apa itu Trust Fund?",
+    "context": "Dana yang dikelola dalam trust.",
+    "response": "N. Dana perwalian; aset pokok dari sebuah trust."
+  },
+  {
+    "instruction": "Siapa itu Trustee?",
+    "context": "Wali amanat pengelola trust.",
+    "response": "N. Wali amanat (Trustee); orang atau entitas yang mengelola aset trust."
+  },
+  {
+    "instruction": "Siapa itu Trustee in Bankruptcy?",
+    "context": "Kurator kepailitan.",
+    "response": "N. Kurator (Trustee in bankruptcy); orang yang ditunjuk pengadilan untuk mengelola aset pihak bangkrut."
+  },
+  {
+    "instruction": "Siapa itu Trustor?",
+    "context": "Pembuat trust.",
+    "response": "N. Pemberi amanat (Trustor); pembuat trust."
+  },
+  {
+    "instruction": "Apa itu Truth in Lending Act?",
+    "context": "UU transparansi bunga pinjaman.",
+    "response": "N. UU Kebenaran dalam Peminjaman; hukum federal AS yang mewajibkan pemberi pinjaman transparan soal bunga dan syarat kredit."
+  },
+  {
+    "instruction": "Apa arti Turn States' Evidence?",
+    "context": "Terdakwa jadi saksi melawan temannya demi keringanan hukuman.",
+    "response": "V. Menjadi saksi negara (Justice Collaborator); terdakwa bersaksi melawan rekan kejahatannya demi hukuman ringan."
+  },
+  {
+    "instruction": "Apa itu Twinkie Defense?",
+    "context": "Pembelaan aneh: gula bikin gila.",
+    "response": "N. Pembelaan Twinkie; klaim terdakwa bahwa konsumsi gula berlebih menyebabkan gangguan mental saat melakukan kejahatan (kasus Dan White)."
+  }
+]
