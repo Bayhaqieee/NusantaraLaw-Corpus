@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Apa itu UCC-1?",
+    "context": "Formulir standar untuk mendaftarkan jaminan utang.",
+    "response": "N. Formulir UCC-1 (Pernyataan Pembiayaan); dokumen hukum yang diajukan kreditur untuk memberikan pemberitahuan publik bahwa mereka memiliki kepentingan jaminan atas properti pribadi debitur (seperti peralatan)."
+  },
+  {
+    "instruction": "Apa itu Ultimate Fact?",
+    "context": "Fakta kesimpulan akhir yang ditarik dari bukti-bukti.",
+    "response": "N. Fakta akhir/kesimpulan; kesimpulan fakta yang secara logis disimpulkan dari bukti-bukti (fakta pembuktian) dalam persidangan."
+  },
+  {
+    "instruction": "Apa arti Ultra Vires?",
+    "context": "Tindakan perusahaan di luar wewenang hukumnya.",
+    "response": "Adj. (baca: uhl-trah veye-rehz) Di luar wewenang; tindakan korporasi atau pejabatnya yang melampaui kekuasaan yang diizinkan oleh hukum atau anggaran dasar perusahaan."
+  },
+  {
+    "instruction": "Apa itu Ultrahazardous Activity?",
+    "context": "Aktivitas sangat berbahaya yang memiliki tanggung jawab mutlak.",
+    "response": "N. Aktivitas sangat berbahaya; kegiatan yang sangat berisiko (misal peledak) sehingga pelakunya bertanggung jawab mutlak (strict liability) atas cedera apa pun, tanpa perlu membuktikan kelalaian."
+  },
+  {
+    "instruction": "Apa itu Unclean Hands?",
+    "context": "Doktrin bahwa penggugat yang berbuat curang tidak bisa minta keadilan.",
+    "response": "N. Tangan kotor (Unclean hands); doktrin hukum bahwa seseorang yang telah bertindak tidak etis terkait gugatannya tidak berhak mendapatkan bantuan hukum dari pengadilan."
+  },
+  {
+    "instruction": "Apa arti Unconscionable?",
+    "context": "Kontrak yang sangat tidak adil sampai tidak sah.",
+    "response": "Adj. Tidak masuk akal/Sangat tidak adil; kontrak yang begitu berat sebelah sehingga tidak ada orang wajar yang akan menyetujuinya, dan pengadilan akan menolak untuk menegakkannya."
+  },
+  {
+    "instruction": "Apa arti Unconstitutional?",
+    "context": "Bertentangan dengan konstitusi (UUD).",
+    "response": "Adj. Inkonstitusional; melanggar ketentuan Konstitusi (UUD)."
+  },
+  {
+    "instruction": "Apa arti Under the Influence?",
+    "context": "Mabuk atau terpengaruh narkoba.",
+    "response": "N. Di bawah pengaruh (Mabuk); kondisi mabuk alkohol atau narkoba, terutama saat mengemudi."
+  },
+  {
+    "instruction": "Apa arti Underwrite?",
+    "context": "Menjamin risiko asuransi atau penjualan saham.",
+    "response": "V. Menjamin (Underwrite); 1) Menanggung risiko asuransi. 2) Menjamin penjualan saham/obligasi (membeli sisa yang tidak terjual)."
+  },
+  {
+    "instruction": "Siapa itu Underwriter?",
+    "context": "Penjamin emisi atau asuransi.",
+    "response": "N. Penjamin emisi/Underwriter; perusahaan atau orang yang menjamin polis asuransi atau penerbitan sekuritas korporasi."
+  },
+  {
+    "instruction": "Siapa itu Undisclosed Principal?",
+    "context": "Pemberi kuasa yang identitasnya disembunyikan oleh agen.",
+    "response": "N. Prinsipal yang tidak diungkapkan; orang yang menggunakan agen untuk bernegosiasi dengan pihak ketiga, di mana agen berpura-pura bertindak untuk dirinya sendiri."
+  },
+  {
+    "instruction": "Apa itu Undivided Interest?",
+    "context": "Hak kepemilikan bersama tanpa pembagian fisik.",
+    "response": "N. Kepentingan tak terbagi; hak milik bersama atas properti di mana setiap pemilik memiliki hak atas seluruh properti, bukan bagian tertentu secara fisik."
+  },
+  {
+    "instruction": "Apa itu Undue Influence?",
+    "context": "Tekanan berlebihan untuk memaksa orang membuat wasiat/kontrak.",
+    "response": "N. Pengaruh yang tidak semestinya (Undue influence); tekanan berlebihan yang menghilangkan kehendak bebas seseorang, biasanya untuk memaksa penandatanganan wasiat atau kontrak."
+  },
+  {
+    "instruction": "Apa itu Unfair Competition?",
+    "context": "Praktik bisnis curang.",
+    "response": "N. Persaingan tidak sehat; metode bisnis curang untuk mendapatkan keuntungan tidak adil, seperti iklan palsu atau meniru merek dagang."
+  },
+  {
+    "instruction": "Apa itu Unified Estate and Gift Tax?",
+    "context": "Pajak gabungan warisan dan hadiah di AS.",
+    "response": "N. Pajak gabungan warisan dan hadiah; sistem pajak federal AS yang menggabungkan nilai warisan dan hadiah seumur hidup untuk menentukan pajak yang terutang."
+  },
+  {
+    "instruction": "Apa itu Uniform Commercial Code (UCC)?",
+    "context": "Kumpulan hukum dagang standar di AS.",
+    "response": "N. Kode Komersial Seragam (UCC); seperangkat undang-undang yang mengatur transaksi komersial, penjualan, dan instrumen yang dapat dinegosiasikan di AS."
+  },
+  {
+    "instruction": "Apa itu Unilateral Contract?",
+    "context": "Kontrak satu arah (janji ditukar tindakan).",
+    "response": "N. Kontrak sepihak (Unilateral); perjanjian di mana satu pihak berjanji membayar jika pihak lain melakukan tindakan tertentu (misal: hadiah sayembara)."
+  },
+  {
+    "instruction": "Apa itu Uninsured Motorist Clause?",
+    "context": "Klausul asuransi jika ditabrak pengemudi tanpa asuransi.",
+    "response": "N. Klausul pengendara tidak diasuransikan; ketentuan polis asuransi mobil yang membayar ganti rugi tertanggung jika ditabrak oleh pengemudi yang tidak punya asuransi."
+  },
+  {
+    "instruction": "Apa itu Unissued Stock?",
+    "context": "Saham resmi yang belum pernah dijual.",
+    "response": "N. Saham belum diterbitkan; saham yang diizinkan oleh anggaran dasar perusahaan tetapi belum pernah dijual kepada siapa pun."
+  },
+  {
+    "instruction": "Apa itu Unjust Enrichment?",
+    "context": "Memperkaya diri secara tidak sah dari kerugian orang lain.",
+    "response": "N. Memperkaya diri secara tidak adil (Perbuatan melawan hukum); mendapatkan keuntungan atau harta orang lain tanpa hak, yang secara hukum harus dikembalikan."
+  },
+  {
+    "instruction": "Apa arti Unlawful?",
+    "context": "Melanggar hukum.",
+    "response": "Adj. Melanggar hukum (Ilegal)."
+  },
+  {
+    "instruction": "Apa itu Unlawful Assembly?",
+    "context": "Berkumpul untuk tujuan rusuh.",
+    "response": "N. Perkumpulan melanggar hukum; berkumpulnya orang-orang dengan tujuan memulai kerusuhan atau mengganggu ketertiban umum."
+  },
+  {
+    "instruction": "Apa itu Unlawful Detainer?",
+    "context": "Menguasai properti orang lain tanpa hak (misal penyewa yang tidak mau pergi).",
+    "response": "N. Penahanan tidak sah (Unlawful detainer); tindakan tetap menguasai properti orang lain tanpa hak, seperti penyewa yang menolak pergi setelah sewa habis."
+  },
+  {
+    "instruction": "Apa itu Unreasonable Search and Seizure?",
+    "context": "Penggeledahan tanpa alasan hukum yang jelas.",
+    "response": "N. Penggeledahan dan penyitaan tidak wajar; penggeledahan oleh polisi tanpa surat perintah atau alasan yang patut (probable cause), yang melanggar konstitusi."
+  },
+  {
+    "instruction": "Apa arti Use dalam hukum properti?",
+    "context": "Hak menikmati manfaat properti.",
+    "response": "N. Penggunaan/Hak nikmat; hak untuk menikmati manfaat properti, baik memiliki hak milik atau tidak."
+  },
+  {
+    "instruction": "Apa itu Use Tax?",
+    "context": "Pajak penggunaan barang dari luar daerah.",
+    "response": "N. Pajak penggunaan; pajak atas barang yang dibeli di negara bagian lain untuk digunakan di negara bagian pemungut pajak (sebagai pengganti pajak penjualan)."
+  },
+  {
+    "instruction": "Apa arti Usurious?",
+    "context": "Bunga riba yang melanggar hukum.",
+    "response": "Adj. Riba (Usurious); merujuk pada bunga pinjaman yang melebihi batas maksimum yang diizinkan hukum."
+  },
+  {
+    "instruction": "Apa itu Usury?",
+    "context": "Praktik meminjamkan uang dengan bunga sangat tinggi (lintah darat).",
+    "response": "N. Riba (Usury); tingkat bunga pinjaman yang selangit dan melebihi persentase yang diizinkan oleh hukum."
+  },
+  {
+    "instruction": "Apa arti Utter dalam pemalsuan?",
+    "context": "Mengedarkan dokumen palsu.",
+    "response": "V. Mengedarkan (Utter); mengeluarkan atau menggunakan dokumen palsu (seperti uang palsu)."
+  },
+  {
+    "instruction": "Apa arti Uxor?",
+    "context": "Istri (istilah Latin).",
+    "response": "N. Istri (Uxor); istilah Latin untuk istri, sering digunakan dalam akta tanah lama (et ux.)."
+  }
+]
