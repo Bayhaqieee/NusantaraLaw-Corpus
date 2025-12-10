@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "Apa arti Vacate?",
+    "context": "Membatalkan putusan atau mengosongkan properti.",
+    "response": "V. 1) Membatalkan (Vacate); hakim menyisihkan perintah atau putusan yang dianggap tidak tepat. 2) Mengosongkan; pindah keluar dari properti."
+  },
+  {
+    "instruction": "Apa itu Vagrancy?",
+    "context": "Tindak pidana menggelandang.",
+    "response": "N. Gelandangan (Vagrancy); berpindah-pindah tanpa pekerjaan atau rumah tetap, dan mengandalkan mengemis (dulu dianggap kejahatan ringan)."
+  },
+  {
+    "instruction": "Apa itu Valuable Consideration?",
+    "context": "Imbalan berharga dalam kontrak.",
+    "response": "N. Pertimbangan berharga (Prestasi); elemen penting kontrak yang memberikan manfaat kepada pihak lain (uang, barang, jasa, atau janji)."
+  },
+  {
+    "instruction": "Apa itu Variance?",
+    "context": "Izin penyimpangan dari aturan zonasi.",
+    "response": "N. Variansi/Penyimpangan; pengecualian terhadap peraturan zonasi yang diizinkan oleh pemerintah daerah (misal: membangun lebih dekat ke jalan daripada aturan standar)."
+  },
+  {
+    "instruction": "Apa itu Vehicular Manslaughter?",
+    "context": "Pembunuhan tak berencana menggunakan kendaraan.",
+    "response": "N. Pembunuhan dengan kendaraan; kejahatan menyebabkan kematian manusia karena mengemudi ilegal atau lalai (seperti mabuk atau ngebut)."
+  },
+  {
+    "instruction": "Siapa itu Vendee?",
+    "context": "Pembeli properti.",
+    "response": "N. Pembeli (Vendee); khususnya pembeli properti nyata (tanah/bangunan)."
+  },
+  {
+    "instruction": "Siapa itu Vendor?",
+    "context": "Penjual properti.",
+    "response": "N. Penjual (Vendor); khususnya penjual properti nyata."
+  },
+  {
+    "instruction": "Apa itu Venire?",
+    "context": "Daftar calon juri.",
+    "response": "N. (baca: ven-eer-ay) Daftar calon juri (Venire); daftar orang-orang dari mana juri akan dipilih."
+  },
+  {
+    "instruction": "Apa itu Venue?",
+    "context": "Lokasi pengadilan yang tepat.",
+    "response": "N. Tempat persidangan (Venue); lokasi geografis yang tepat atau paling nyaman untuk menyidangkan kasus (biasanya di kabupaten tempat kejadian)."
+  },
+  {
+    "instruction": "Apa itu Verdict?",
+    "context": "Putusan juri.",
+    "response": "N. Vonis/Putusan juri; keputusan juri setelah persidangan (harus diterima hakim untuk menjadi final)."
+  },
+  {
+    "instruction": "Apa itu Verification?",
+    "context": "Pernyataan kebenaran di bawah sumpah.",
+    "response": "N. Verifikasi; pernyataan di bawah sumpah atau ancaman hukuman sumpah palsu bahwa isi dokumen/gugatan adalah benar."
+  },
+  {
+    "instruction": "Apa arti Vest?",
+    "context": "Memberikan hak mutlak.",
+    "response": "V. Memberikan hak (Vest); memberikan hak mutlak atas kepemilikan atau hak (seperti hak pensiun)."
+  },
+  {
+    "instruction": "Apa arti Vested?",
+    "context": "Hak yang sudah melekat dan mutlak.",
+    "response": "Adj. Melekat/Mutlak (Vested); memiliki hak atau gelar mutlak, bukan sekadar harapan."
+  },
+  {
+    "instruction": "Apa itu Vested Remainder?",
+    "context": "Hak sisa yang sudah pasti akan diterima.",
+    "response": "N. Sisa hak mutlak; hak mutlak untuk menerima hak milik properti setelah kepentingan saat ini berakhir."
+  },
+  {
+    "instruction": "Apa itu Vexatious Litigation?",
+    "context": "Gugatan yang dibuat-buat untuk mengganggu.",
+    "response": "N. Litigasi yang mengganggu; mengajukan gugatan tanpa dasar hukum dengan tujuan mengganggu, mempermalukan, atau merugikan terdakwa."
+  },
+  {
+    "instruction": "Apa itu Vicarious Liability?",
+    "context": "Tanggung jawab atasan atas kesalahan bawahan.",
+    "response": "N. Tanggung jawab pengganti (Vicarious liability); pembebanan tanggung jawab kepada seseorang (seperti majikan) atas kerugian yang disebabkan orang lain (karyawan)."
+  },
+  {
+    "instruction": "Siapa itu Vigilante?",
+    "context": "Orang yang main hakim sendiri.",
+    "response": "N. Vigilante (Main hakim sendiri); seseorang yang menegakkan hukum tanpa wewenang legal."
+  },
+  {
+    "instruction": "Apa arti Viz?",
+    "context": "Yaitu.",
+    "response": "Prep. Yaitu/Yakni (Viz)."
+  },
+  {
+    "instruction": "Apa arti Void?",
+    "context": "Batal demi hukum (tidak sah sama sekali).",
+    "response": "Adj. Batal demi hukum (Void); tidak memiliki efek hukum sama sekali (misal kontrak ilegal)."
+  },
+  {
+    "instruction": "Apa arti Void for Vagueness?",
+    "context": "UU batal karena terlalu kabur.",
+    "response": "Adj. Batal karena ketidakjelasan; undang-undang pidana yang tidak sah karena definisinya begitu kabur sehingga orang biasa tidak tahu apa yang dilarang."
+  },
+  {
+    "instruction": "Apa arti Voidable?",
+    "context": "Dapat dibatalkan (sah sampai dibatalkan).",
+    "response": "Adj. Dapat dibatalkan (Voidable); sah tetapi bisa dibatalkan oleh salah satu pihak (misal kontrak dengan anak di bawah umur)."
+  },
+  {
+    "instruction": "Apa itu Voir Dire?",
+    "context": "Proses seleksi juri.",
+    "response": "N. (baca: vwahr deer) Voir dire (Seleksi juri); pemeriksaan calon juri oleh hakim dan pengacara untuk menentukan apakah mereka bias."
+  },
+  {
+    "instruction": "Apa itu Voluntary Bankruptcy?",
+    "context": "Debitur mengajukan pailit sendiri.",
+    "response": "N. Kepailitan sukarela; pengajuan bangkrut oleh debitur sendiri karena merasa tidak mampu bayar utang."
+  },
+  {
+    "instruction": "Apa itu Voting Trust?",
+    "context": "Pengalihan hak suara pemegang saham ke wali amanat.",
+    "response": "N. Perwalian hak suara; trust yang mengumpulkan proksi suara pemegang saham untuk memilih direksi dan mengontrol perusahaan."
+  }
+]
