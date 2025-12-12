@@ -1,0 +1,192 @@
+[
+  {
+    "instruction": "Apa arti Waive?",
+    "context": "Melepaskan hak secara sukarela.",
+    "response": "V. Melepaskan hak (Waive); secara sukarela menyerahkan sesuatu, termasuk tidak menegakkan syarat kontrak atau melepaskan hak hukum (seperti hak sidang cepat)."
+  },
+  {
+    "instruction": "Apa itu Waiver?",
+    "context": "Pelepasan hak.",
+    "response": "N. Pelepasan hak (Waiver); penyerahan hak secara sengaja dan sukarela, baik melalui pernyataan tegas atau perilaku."
+  },
+  {
+    "instruction": "Apa arti Wanton?",
+    "context": "Sangat ceroboh atau tidak bermoral.",
+    "response": "Adj. Sembrono/Liar (Wanton); 1) Kelalaian berat yang tidak mempedulikan keselamatan orang lain. 2) Tidak bermoral secara seksual."
+  },
+  {
+    "instruction": "Siapa itu Ward?",
+    "context": "Anak/orang di bawah perwalian.",
+    "response": "N. Anak asuh/Orang di bawah perwalian (Ward); orang (biasanya anak di bawah umur) yang memiliki wali yang ditunjuk pengadilan untuk merawatnya."
+  },
+  {
+    "instruction": "Apa itu Warrant?",
+    "context": "Surat perintah penangkapan dari pengadilan.",
+    "response": "1) N. Surat perintah (Warrant); perintah pengadilan kepada penegak hukum untuk menangkap seseorang dan membawanya ke hadapan hakim."
+  },
+  {
+    "instruction": "Apa itu Warranty?",
+    "context": "Jaminan kualitas atau kepemilikan.",
+    "response": "N. Garansi/Jaminan (Warranty); pernyataan tertulis tentang kualitas barang yang baik, hak milik tanah yang jelas, atau fakta kontrak yang benar."
+  },
+  {
+    "instruction": "Apa itu Warranty Deed?",
+    "context": "Akta tanah dengan jaminan kepemilikan penuh.",
+    "response": "N. Akta jaminan (Warranty deed); akta properti nyata yang menjamin bahwa penjual memiliki hak milik yang jelas."
+  },
+  {
+    "instruction": "Apa itu Waste dalam properti?",
+    "context": "Kerusakan properti yang menurunkan nilainya.",
+    "response": "N. Perusakan/Limbah (Waste); kerusakan pada properti nyata oleh penyewa yang mengurangi nilainya bagi pemilik."
+  },
+  {
+    "instruction": "Apa itu Watered Stock?",
+    "context": "Saham yang diterbitkan dengan harga jauh di atas nilai aslinya.",
+    "response": "N. Saham berair (Watered stock); saham perusahaan yang diterbitkan dengan harga jauh lebih tinggi daripada nilai sebenarnya."
+  },
+  {
+    "instruction": "Apa itu Weight of Evidence?",
+    "context": "Kekuatan bukti dalam persidangan.",
+    "response": "N. Bobot bukti; kekuatan, nilai, dan kepercayaan terhadap bukti yang disajikan pada masalah faktual."
+  },
+  {
+    "instruction": "Apa itu Wet Reckless?",
+    "context": "Istilah untuk pengurangan dakwaan mabuk saat mengemudi.",
+    "response": "N. Mengemudi ugal-ugalan terkait alkohol; pembelaan atas tuduhan mengemudi sembrono yang melibatkan alkohol (hasil plea bargain dari tuduhan mabuk)."
+  },
+  {
+    "instruction": "Apa itu Whiplash?",
+    "context": "Cedera leher akibat tabrakan mobil dari belakang.",
+    "response": "N. Cedera leher (Whiplash); cedera leher/punggung umum akibat kecelakaan mobil (terutama ditabrak dari belakang) di mana kepala tersentak ke depan dan belakang."
+  },
+  {
+    "instruction": "Apa itu White Collar Crime?",
+    "context": "Kejahatan kerah putih (keuangan/bisnis).",
+    "response": "N. Kejahatan kerah putih; kejahatan yang melibatkan penipuan komersial, manipulasi pasar saham, penggelapan, dan skema bisnis tidak jujur lainnya."
+  },
+  {
+    "instruction": "Siapa itu Widow?",
+    "context": "Janda.",
+    "response": "N. Janda (Widow); wanita yang suaminya meninggal saat dia menikah dengannya dan belum menikah lagi."
+  },
+  {
+    "instruction": "Apa itu Widow's Election?",
+    "context": "Pilihan janda antara warisan wasiat atau hak undang-undang.",
+    "response": "N. Pilihan janda; pilihan yang dibuat janda antara menerima apa yang ditinggalkan suaminya dalam wasiat atau apa yang akan dia terima menurut hukum waris."
+  },
+  {
+    "instruction": "Siapa itu Widower?",
+    "context": "Duda.",
+    "response": "N. Duda (Widower); pria yang istrinya meninggal saat dia menikah dengannya dan belum menikah lagi."
+  },
+  {
+    "instruction": "Apa itu Will?",
+    "context": "Surat wasiat.",
+    "response": "N. Surat wasiat (Will); dokumen tertulis yang mewariskan harta seseorang kepada orang lain setelah kematiannya."
+  },
+  {
+    "instruction": "Apa itu Will Contest?",
+    "context": "Gugatan menentang keabsahan wasiat.",
+    "response": "N. Sengketa wasiat; gugatan yang menantang validitas wasiat dan/atau isinya."
+  },
+  {
+    "instruction": "Apa arti Willful?",
+    "context": "Disengaja atau diniatkan.",
+    "response": "Adj. Sengaja (Willful); merujuk pada tindakan yang disengaja, sadar, dan diarahkan untuk mencapai tujuan."
+  },
+  {
+    "instruction": "Apa arti Willfully?",
+    "context": "Dengan sengaja.",
+    "response": "Adv. Dengan sengaja; melakukan sesuatu dengan niat dan tujuan tertentu."
+  },
+  {
+    "instruction": "Apa arti Wind Up?",
+    "context": "Melikuidasi aset perusahaan.",
+    "response": "V. Melikuidasi (Wind up); menjual atau membuang aset perusahaan atau kemitraan."
+  },
+  {
+    "instruction": "Apa itu Winding Up?",
+    "context": "Proses likuidasi dan pembubaran bisnis.",
+    "response": "N. Likuidasi/Pembubaran (Winding up); melikuidasi aset, melunasi utang, dan membubarkan bisnis."
+  },
+  {
+    "instruction": "Apa itu Wiretap?",
+    "context": "Penyadapan telepon.",
+    "response": "N. Penyadapan (Wiretap); menggunakan alat elektronik untuk mendengarkan saluran telepon (ilegal tanpa izin pengadilan)."
+  },
+  {
+    "instruction": "Apa itu Withdrawal dalam hukum pidana?",
+    "context": "Mundur dari konspirasi kejahatan sebelum terjadi.",
+    "response": "N. Penarikan diri (Withdrawal); meninggalkan konspirasi untuk melakukan kejahatan sebelum kejahatan itu terjadi."
+  },
+  {
+    "instruction": "Siapa itu Witness?",
+    "context": "Saksi.",
+    "response": "N. Saksi (Witness); orang yang bersaksi di bawah sumpah dalam persidangan atau melihat suatu peristiwa."
+  },
+  {
+    "instruction": "Apa itu Witness Stand?",
+    "context": "Kursi saksi di pengadilan.",
+    "response": "N. Kursi saksi; tempat di mana saksi duduk dan memberikan kesaksian di pengadilan."
+  },
+  {
+    "instruction": "Apa itu Words of Art?",
+    "context": "Istilah teknis khusus profesi (jargon).",
+    "response": "N. Istilah teknis (Words of art); bahasa khusus dengan makna khas pada profesi tertentu (jargon hukum)."
+  },
+  {
+    "instruction": "Apa itu Work Product?",
+    "context": "Catatan kerja pengacara yang rahasia.",
+    "response": "N. Hasil kerja pengacara (Work product); tulisan, catatan, dan riset yang dikembangkan pengacara untuk klien, yang tidak boleh diminta oleh pihak lawan."
+  },
+  {
+    "instruction": "Apa itu Workers' Compensation Acts?",
+    "context": "UU jaminan kecelakaan kerja.",
+    "response": "N. UU Kompensasi Pekerja; undang-undang negara bagian yang menetapkan tanggung jawab majikan atas cedera pekerja saat bekerja."
+  },
+  {
+    "instruction": "Apa itu Workmen's Compensation?",
+    "context": "Nama lama untuk kompensasi pekerja.",
+    "response": "N. Kompensasi pekerja (istilah lama)."
+  },
+  {
+    "instruction": "Apa itu World Court?",
+    "context": "Mahkamah Internasional PBB.",
+    "response": "N. Mahkamah Internasional (World Court); pengadilan PBB yang mengadili sengketa internasional."
+  },
+  {
+    "instruction": "Apa itu Writ?",
+    "context": "Surat perintah hakim.",
+    "response": "N. Surat perintah (Writ); perintah tertulis hakim yang mewajibkan tindakan tertentu."
+  },
+  {
+    "instruction": "Apa itu Writ of Attachment?",
+    "context": "Perintah penyitaan aset terdakwa.",
+    "response": "N. Surat perintah penyitaan (Writ of attachment); perintah pengadilan kepada sheriff untuk menyita properti terdakwa guna memenuhi putusan."
+  },
+  {
+    "instruction": "Apa itu Writ of Coram Nobis?",
+    "context": "Perintah pengadilan banding agar pengadilan rendah meninjau fakta baru.",
+    "response": "N. (baca: writ of core-uhm noh-bis) Perintah koreksi kesalahan; perintah pengadilan banding kepada pengadilan yang memutus untuk mempertimbangkan fakta yang tidak ada di catatan sidang."
+  },
+  {
+    "instruction": "Apa itu Writ of Execution?",
+    "context": "Perintah eksekusi putusan (sita jaminan).",
+    "response": "N. Surat perintah eksekusi; perintah pengadilan kepada sheriff untuk menegakkan putusan dengan menyita properti debitur."
+  },
+  {
+    "instruction": "Apa itu Writ of Mandate?",
+    "context": "Perintah agar pejabat negara menjalankan hukum.",
+    "response": "N. Surat perintah mandat (Mandamus); perintah pengadilan kepada badan pemerintah untuk mengikuti hukum."
+  },
+  {
+    "instruction": "Apa itu Wrongful Death?",
+    "context": "Kematian akibat perbuatan melawan hukum orang lain.",
+    "response": "N. Kematian akibat kelalaian/kesalahan (Wrongful death); kematian manusia sebagai akibat dari tindakan salah orang lain (kelalaian atau kejahatan)."
+  },
+  {
+    "instruction": "Apa itu Wrongful Termination?",
+    "context": "Pemecatan hubungan kerja yang melanggar hukum.",
+    "response": "N. Pemutusan hubungan kerja yang salah (PHK ilegal); hak karyawan untuk menuntut majikan atas pemecatan tanpa sebab yang sah atau melanggar kontrak."
+  }
+]
