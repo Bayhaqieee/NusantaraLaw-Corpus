@@ -1,0 +1,12 @@
+[
+  {
+    "instruction": "Apa arti sapaan 'Your Honor'?",
+    "context": "Cara resmi menyapa hakim di ruang sidang.",
+    "response": "N. Yang Mulia (Your Honor); cara yang tepat dan sopan untuk menyapa seorang hakim di pengadilan."
+  },
+  {
+    "instruction": "Siapa itu Youthful Offenders?",
+    "context": "Istilah untuk pelaku kejahatan yang masih di bawah umur.",
+    "response": "N. Pelaku pidana remaja (Anak berkonflik dengan hukum); orang di bawah umur (biasanya di bawah 18 tahun) yang dituduh melakukan kejahatan dan diproses melalui pengadilan anak dan fasilitas penahanan remaja."
+  }
+]
