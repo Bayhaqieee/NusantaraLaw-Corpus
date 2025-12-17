@@ -1,0 +1,147 @@
+[
+    {
+        "instruction": "Apa definisi hukum dari \"Adat\" menurut peraturan perundang-undangan di Indonesia?",
+        "context": "Berdasarkan pembaruan data tanggal 29 Agustus 2022, Adat didefinisikan sebagai aturan atau norma tidak tertulis yang hidup dalam masyarakat hukum adat yang mengatur, mengikat, dipertahankan, serta mempunyai sanksi (UU No. 2 Tahun 2021). Definisi lain menyebutkan sebagai kebiasaan yang diakui dan dipatuhi, atau kebiasaan yang dilembagakan serta dipertahankan secara turun-temurun (UU No. 21 Tahun 2001).",
+        "response": "Adat"
+    },
+    {
+        "instruction": "Jelaskan apa yang dimaksud dengan \"Administrasi Hukum Umum Online\".",
+        "context": "Merujuk pada pembaruan data 29 Agustus 2022 dan Permenkumham Nomor 15 Tahun 2019, ini adalah sistem pelayanan publik berbasis elektronik yang diselenggarakan oleh Direktorat Jenderal Administrasi Hukum Umum.",
+        "response": "Administrasi Hukum Umum Online"
+    },
+    {
+        "instruction": "Apa pengertian dari \"Administrasi Kependudukan\"?",
+        "context": "Sesuai UU Nomor 23 Tahun 2006 (pembaruan data 15 April 2022), ini adalah rangkaian kegiatan penataan dan penertiban dalam penerbitan dokumen dan Data Kependudukan melalui Pendaftaran Penduduk, Pencatatan Sipil, pengelolaan informasi Administrasi Kependudukan serta pendayagunaan hasilnya untuk pelayanan publik dan pembangunan.",
+        "response": "Administrasi Kependudukan"
+    },
+    {
+        "instruction": "Bagaimana definisi \"Administrasi Pemerintahan\" dalam konteks hukum?",
+        "context": "Menurut UU Nomor 30 Tahun 2014 (data per 29 Agustus 2022), definisi ini mencakup tata laksana dalam pengambilan keputusan dan/atau tindakan oleh badan dan/atau pejabat pemerintahan.",
+        "response": "Administrasi Pemerintahan"
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai \"Advokat\" menurut undang-undang?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2003 dan UU Nomor 11 Tahun 2012, Advokat adalah orang yang berprofesi memberi jasa hukum, baik di dalam maupun di luar pengadilan, yang memenuhi persyaratan berdasarkan ketentuan peraturan perundang-undangan.",
+        "response": "Advokat"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Advokat Asing\"?",
+        "context": "Menurut UU Nomor 18 Tahun 2003 (data per 29 Agustus 2022), Advokat Asing adalah advokat berkewarganegaraan asing yang menjalankan profesinya di wilayah negara Republik Indonesia berdasarkan persyaratan ketentuan peraturan perundang-undangan.",
+        "response": "Advokat Asing"
+    },
+    {
+        "instruction": "Jelaskan istilah \"Afiliasi\" dalam konteks hukum perusahaan atau asuransi.",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2014, Afiliasi adalah hubungan antara seseorang atau badan hukum dengan satu orang atau lebih, atau badan hukum lain, sedemikian rupa sehingga salah satu dari mereka dapat mempengaruhi pengelolaan atau kebijakan dari pihak lain atau sebaliknya.",
+        "response": "Afiliasi"
+    },
+    {
+        "instruction": "Apa definisi \"Agen\" dalam konteks perdagangan dan distribusi?",
+        "context": "Terdapat beberapa definisi menurut peraturan (PP No 29 Tahun 2021, Permendag No 22 Tahun 2016). Secara umum, Agen adalah Pelaku Usaha Distribusi yang bertindak sebagai perantara untuk dan atas nama pihak yang menunjuknya berdasarkan perjanjian (dengan imbalan komisi) untuk melakukan kegiatan pemasaran Barang tanpa memiliki/menguasai barang tersebut.",
+        "response": "Agen"
+    },
+    {
+        "instruction": "Apa tugas dari \"Agen Penjualan Tenaga Listrik\"?",
+        "context": "Menurut UU Nomor 20 Tahun 2002 tentang Ketenagalistrikan, ini adalah penyelenggara kegiatan usaha penjualan tenaga listrik kepada konsumen yang tersambung pada tegangan tinggi dan tegangan menengah.",
+        "response": "Agen Penjualan Tenaga Listrik"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Agen Umum\" dalam pelayaran.",
+        "context": "Sesuai UU Nomor 17 Tahun 2008, Agen Umum adalah perusahaan angkutan laut nasional atau perusahaan khusus yang ditunjuk oleh perusahaan angkutan laut asing untuk mengurus kepentingan kapalnya selama berada di Indonesia.",
+        "response": "Agen Umum"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Agunan\" dalam perbankan?",
+        "context": "Menurut PP Nomor 21 Tahun 2018, Agunan adalah harta kekayaan Debitur atau pihak lain yang diserahkan sebagai jaminan penyelesaian utang.",
+        "response": "Agunan"
+    },
+    {
+        "instruction": "Siapakah yang dikategorikan sebagai \"Ahli waris\" veteran?",
+        "context": "Berdasarkan PP Nomor 67 Tahun 2014 (data per 15 April 2022), Ahli waris adalah orang yang berhak mewarisi hak-hak veteran.",
+        "response": "Ahli waris"
+    },
+    {
+        "instruction": "Apa itu proses \"Ajudikasi\" dalam pelayanan publik?",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2009, Ajudikasi adalah proses penyelesaian sengketa pelayanan publik antarpara pihak yang diputus oleh ombudsman.",
+        "response": "Ajudikasi"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Akad\" dalam perbankan syariah atau obligasi.",
+        "context": "Menurut UU Nomor 21 Tahun 2008 dan UU Nomor 19 Tahun 2008, Akad adalah perjanjian atau kesepakatan tertulis antara Bank Syariah/Unit Usaha Syariah dan pihak lain yang memuat hak dan kewajiban sesuai dengan Prinsip Syariah dan peraturan perundang-undangan.",
+        "response": "Akad"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Akreditasi\" di satuan pendidikan?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2003, Akreditasi adalah kegiatan penilaian kelayakan program dalam satuan pendidikan berdasarkan kriteria yang telah ditetapkan.",
+        "response": "Akreditasi"
+    },
+    {
+        "instruction": "Apa definisi dari \"Akreditasi Rumah Sakit\"?",
+        "context": "Sesuai PP Nomor 47 Tahun 2021, ini adalah pengakuan terhadap mutu pelayanan Rumah Sakit setelah dilakukan penilaian bahwa Rumah Sakit telah memenuhi standar Akreditasi.",
+        "response": "Akreditasi Rumah Sakit"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Aksesibilitas\" bagi penyandang disabilitas dan lansia.",
+        "context": "Menurut UU Nomor 8 Tahun 2016 dan PP Nomor 43 Tahun 2004, Aksesibilitas adalah kemudahan yang disediakan untuk Penyandang Disabilitas atau lanjut usia guna mewujudkan kesamaan kesempatan serta memperlancar mobilitas dalam menggunakan sarana dan prasarana.",
+        "response": "Aksesibilitas"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Akta Notaris\"?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2014 dan UU Nomor 30 Tahun 2004, Akta Notaris adalah akta autentik yang dibuat oleh atau di hadapan Notaris menurut bentuk dan tata cara yang ditetapkan dalam Undang-Undang.",
+        "response": "Akta Notaris"
+    },
+    {
+        "instruction": "Siapakah \"Akuntan Publik\" itu?",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2011 dan peraturan terkait, Akuntan Publik adalah seseorang yang telah memperoleh izin untuk memberikan jasa akuntan publik sesuai undang-undang.",
+        "response": "Akuntan Publik"
+    },
+    {
+        "instruction": "Apa definisi \"Akuntan Publik Asing\"?",
+        "context": "Sesuai UU Nomor 5 Tahun 2011, mereka adalah warga negara asing yang telah memperoleh izin berdasarkan hukum di negara asalnya untuk memberikan jasa sekurang-kurangnya jasa audit atas informasi keuangan historis.",
+        "response": "Akuntan Publik Asing"
+    },
+    {
+        "instruction": "Apa saja yang termasuk dalam \"Alat Angkut\" menurut aturan keimigrasian?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013, Alat Angkut mencakup kapal laut, pesawat udara, atau sarana transportasi lain yang lazim digunakan, baik untuk mengangkut orang maupun barang.",
+        "response": "Alat Angkut"
+    },
+    {
+        "instruction": "Apa definisi \"Alat Kesehatan\" menurut Peraturan Menteri Kesehatan?",
+        "context": "Menurut Permenkes Nomor 10 Tahun 2018, Alat Kesehatan adalah instrumen, aparatus, mesin, dan/atau implan yang tidak mengandung obat yang digunakan untuk mencegah, mendiagnosis, menyembuhkan, meringankan penyakit, merawat orang sakit, memulihkan kesehatan, atau memperbaiki fungsi tubuh.",
+        "response": "Alat Kesehatan"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Alat Pemberi Isyarat Lalu Lintas\".",
+        "context": "Sesuai PP Nomor 30 Tahun 2021, ini adalah perangkat elektronik yang menggunakan isyarat lampu (dapat dilengkapi bunyi) untuk mengatur lalu lintas orang dan/atau kendaraan di persimpangan atau ruas jalan.",
+        "response": "Alat Pemberi Isyarat Lalu Lintas"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Alat Peralatan Pertahanan dan Keamanan\"?",
+        "context": "Menurut UU Nomor 16 Tahun 2012 dan PP Nomor 141 Tahun 2015, istilah ini merujuk pada segala alat perlengkapan untuk mendukung pertahanan negara serta keamanan dan ketertiban masyarakat.",
+        "response": "Alat Peralatan Pertahanan dan Keamanan"
+    },
+    {
+        "instruction": "Apa itu \"Alih Fungsi Lahan Pertanian Pangan Berkelanjutan\"?",
+        "context": "Berdasarkan PP Nomor 1 Tahun 2011 dan UU Nomor 41 Tahun 2009, ini adalah perubahan fungsi Lahan Pertanian Pangan Berkelanjutan menjadi bukan Lahan Pertanian Pangan Berkelanjutan, baik secara tetap maupun sementara.",
+        "response": "Alih Fungsi Lahan Pertanian Pangan Berkelanjutan"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Alih Teknologi\".",
+        "context": "Sesuai UU Nomor 18 Tahun 2002, Alih Teknologi adalah pengalihan kemampuan memanfaatkan dan menguasai ilmu pengetahuan dan teknologi antar lembaga/badan/orang, baik di lingkungan dalam negeri maupun dari luar negeri ke dalam negeri dan sebaliknya.",
+        "response": "Alih Teknologi"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Alokasi Dana Desa\"?",
+        "context": "Menurut PP Nomor 43 Tahun 2014, Alokasi Dana Desa adalah dana perimbangan yang diterima kabupaten/kota dalam APBD kabupaten/kota setelah dikurangi Dana Alokasi Khusus.",
+        "response": "Alokasi Dana Desa"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari \"Alpalhankam\"?",
+        "context": "Alpalhankam (Alat Peralatan Pertahanan dan Keamanan) adalah segala alat perlengkapan untuk mendukung pertahanan negara serta keamanan dan ketertiban masyarakat (PP Nomor 141 Tahun 2015).",
+        "response": "Alpalhankam"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Amdal\" dalam hukum lingkungan hidup.",
+        "context": "Amdal (Analisis Mengenai Dampak Lingkungan) adalah kajian mengenai dampak penting suatu Usaha dan/atau Kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan tentang penyelenggaraan Usaha dan/atau Kegiatan (UU Nomor 32 Tahun 2009, PP Nomor 27 Tahun 2012).",
+        "response": "Amdal"
+    }
+]
