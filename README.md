@@ -33,3 +33,10 @@ Each dataset contains:
 - Training datasets for NLP and legal AI models
 - Educational resources for law students
 - Standardization of legal terminology
+
+## License
+
+This database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+**Data Source Disclaimer:**
+The contents of this database are scraped from [JDIH KEMENKUM](https://jdih.kemenkum.go.id/). The original data is managed by Law Ministry of The Republic of Indonesia. This repository claims rights only over the database structure and organization, not the raw content itself.
