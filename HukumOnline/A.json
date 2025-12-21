@@ -143,5 +143,155 @@
         "instruction": "Jelaskan definisi \"Amdal\" dalam hukum lingkungan hidup.",
         "context": "Amdal (Analisis Mengenai Dampak Lingkungan) adalah kajian mengenai dampak penting suatu Usaha dan/atau Kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan tentang penyelenggaraan Usaha dan/atau Kegiatan (UU Nomor 32 Tahun 2009, PP Nomor 27 Tahun 2012).",
         "response": "Amdal"
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan \"Anggota Komisi Yudisial\"?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2017 (data per 15 April 2022), ini merujuk pada anggota pada Komisi Yudisial.",
+        "response": "Anggota Komisi Yudisial"
+    },
+    {
+        "instruction": "Apa definisi \"Anggota Lembaga Kliring Dan Penjaminan Berjangka\"?",
+        "context": "Menurut UU Nomor 10 Tahun 2011, ini adalah Anggota Bursa Berjangka yang mendapat hak menggunakan sistem Lembaga Kliring Berjangka untuk melakukan kliring dan mendapatkan penjaminan dalam penyelesaian transaksi Kontrak Berjangka atau Derivatif.",
+        "response": "Anggota Lembaga Kliring Dan Penjaminan Berjangka"
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai \"Anggota TNI\"?",
+        "context": "Sesuai PP Nomor 80 Tahun 2010, Anggota TNI adalah anggota sebagaimana dimaksud dalam Undang-Undang Pokok-Pokok Kepegawaian.",
+        "response": "Anggota TNI"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Angkutan Laut\"?",
+        "context": "Berdasarkan PP Nomor 61 Tahun 2009, Angkutan Laut adalah kegiatan angkutan yang menurut kegiatannya melayani kegiatan angkutan laut.",
+        "response": "Angkutan Laut"
+    },
+    {
+        "instruction": "Jelaskan istilah militer \"Ankum Atasan\".",
+        "context": "Menurut UU Nomor 25 Tahun 2014, Ankum Atasan adalah Atasan Langsung dari Ankum (Atasan yang Berhak Menghukum) yang menjatuhkan Hukuman Disiplin Militer.",
+        "response": "Ankum Atasan"
+    },
+    {
+        "instruction": "Apa itu \"Ankum Dari Ankum Atasan\"?",
+        "context": "Sesuai UU Nomor 25 Tahun 2014, ini adalah Atasan Langsung dari Ankum Atasan yang menjatuhkan Hukuman Disiplin Militer.",
+        "response": "Ankum Dari Ankum Atasan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"APB Desa\"?",
+        "context": "Merujuk pada PP Nomor 60 Tahun 2014, APB Desa adalah rencana keuangan tahunan Pemerintahan Desa.",
+        "response": "APB Desa"
+    },
+    {
+        "instruction": "Jelaskan definisi \"APBD\" (Anggaran Pendapatan dan Belanja Daerah).",
+        "context": "APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui oleh Pemerintah Daerah dan DPRD, serta ditetapkan dengan Peraturan Daerah (UU No. 1 Tahun 2022, UU No. 23 Tahun 2014, PP No. 42 Tahun 2021).",
+        "response": "APBD"
+    },
+    {
+        "instruction": "Apa definisi hukum mengenai rencana keuangan negara (APBN) yang tercantum dalam data?",
+        "context": "Rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat (UU No. 6 Tahun 2021, UU No. 9 Tahun 2020, UU No. 15 Tahun 2017).",
+        "response": "Anggaran Pendapatan dan Belanja Negara (APBN)"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari \"APIP\"?",
+        "context": "APIP (Aparat Pengawasan Intern Pemerintah) mencakup inspektorat jenderal kementerian, unit pengawasan lembaga pemerintah nonkementerian, inspektorat provinsi, dan inspektorat kabupaten/kota (PP Nomor 12 Tahun 2017).",
+        "response": "APIP"
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai \"Apoteker\"?",
+        "context": "Berdasarkan PP Nomor 51 Tahun 2009, Apoteker adalah sarjana farmasi yang telah lulus sebagai Apoteker dan telah mengucapkan sumpah jabatan Apoteker.",
+        "response": "Apoteker"
+    },
+    {
+        "instruction": "Apa tugas \"Arbiter Hubungan Industrial\"?",
+        "context": "Menurut UU Nomor 2 Tahun 2004, ini adalah orang yang dipilih oleh pihak berselisih dari daftar arbiter untuk memberikan putusan mengenai perselisihan kepentingan dan perselisihan antar serikat pekerja dalam satu perusahaan yang bersifat final dan mengikat.",
+        "response": "Arbiter Hubungan Industrial"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Arbitrase Hubungan Industrial\"?",
+        "context": "Sesuai UU Nomor 2 Tahun 2004, ini adalah penyelesaian perselisihan kepentingan dan perselisihan antar serikat pekerja di luar Pengadilan Hubungan Industrial melalui kesepakatan tertulis untuk diserahkan kepada arbiter yang putusannya bersifat final.",
+        "response": "Arbitrase Hubungan Industrial"
+    },
+    {
+        "instruction": "Apa definisi \"Arsip Nasional Republik Indonesia\"?",
+        "context": "Berdasarkan PP Nomor 28 Tahun 2012, ini adalah lembaga kearsipan berbentuk lembaga pemerintah nonkementerian yang melaksanakan tugas negara di bidang kearsipan dan berkedudukan di ibukota negara.",
+        "response": "Arsip Nasional Republik Indonesia"
+    },
+    {
+        "instruction": "Jelaskan tentang \"Asas-Asas Umum Pemerintahan Yang Baik\".",
+        "context": "Menurut UU Nomor 30 Tahun 2014, ini adalah prinsip yang digunakan sebagai acuan penggunaan wewenang bagi Pejabat Pemerintahan dalam mengeluarkan keputusan dan/atau tindakan dalam penyelenggaraan pemerintahan.",
+        "response": "Asas-Asas Umum Pemerintahan Yang Baik"
+    },
+    {
+        "instruction": "Apa pengertian \"Aset\" dalam konteks kawasan perdagangan bebas?",
+        "context": "Sesuai PP Nomor 41 Tahun 2021, Aset adalah seluruh barang milik negara yang dikelola oleh Badan Pengusahaan.",
+        "response": "Aset"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Aset Desa\"?",
+        "context": "Menurut PP Nomor 43 Tahun 2014, Aset Desa adalah barang milik Desa yang berasal dari kekayaan asli Desa, dibeli atau diperoleh atas beban APB Desa atau perolehan hak lainnya yang sah.",
+        "response": "Aset Desa"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Aset SBSN\" (Surat Berharga Syariah Negara).",
+        "context": "Aset SBSN adalah objek pembiayaan SBSN dan/atau Barang Milik Negara yang memiliki nilai ekonomis (tanah/bangunan atau lainnya) yang dijadikan dasar penerbitan SBSN (UU No. 19 Tahun 2008, PP No. 59 Tahun 2012).",
+        "response": "Aset SBSN"
+    },
+    {
+        "instruction": "Apa itu \"ASN\"?",
+        "context": "ASN (Aparatur Sipil Negara) adalah profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah (UU No. 5 Tahun 2014, PP No. 41 Tahun 2020).",
+        "response": "ASN"
+    },
+    {
+        "instruction": "Apa definisi hukum dari \"Asuransi\"?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2014, Asuransi adalah perjanjian antara perusahaan asuransi dan pemegang polis yang menjadi dasar bagi penerimaan premi oleh perusahaan asuransi sebagai imbalan untuk pemberian perlindungan/penggantian.",
+        "response": "Asuransi"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Asuransi Kredit\".",
+        "context": "Menurut PMK Nomor 124 Tahun 2008, ini adalah lini usaha asuransi umum yang memberikan jaminan pemenuhan kewajiban finansial penerima kredit apabila mereka tidak mampu memenuhi kewajibannya.",
+        "response": "Asuransi Kredit"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Asuransi Pergaraman\"?",
+        "context": "Sesuai UU Nomor 7 Tahun 2016, ini adalah perjanjian antara Petambak Garam dan perusahaan asuransi untuk pertanggungan risiko Usaha Pergaraman.",
+        "response": "Asuransi Pergaraman"
+    },
+    {
+        "instruction": "Apa definisi \"Asuransi Perikanan\"?",
+        "context": "Menurut UU Nomor 7 Tahun 2016, ini adalah perjanjian antara Nelayan atau Pembudi Daya Ikan dan perusahaan asuransi untuk pertanggungan risiko Penangkapan Ikan atau Pembudidayaan Ikan.",
+        "response": "Asuransi Perikanan"
+    },
+    {
+        "instruction": "Apa itu \"Asuransi Pertanian\"?",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2013, Asuransi Pertanian adalah perjanjian antara Petani dan perusahaan asuransi untuk pertanggungan risiko Usaha Tani.",
+        "response": "Asuransi Pertanian"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Asuransi sosial\".",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2004 dan PP Nomor 102 Tahun 2015, Asuransi sosial adalah mekanisme pengumpulan dana wajib dari iuran guna memberikan perlindungan risiko sosial ekonomi bagi peserta (seperti TNI, Polri, ASN) dan keluarganya.",
+        "response": "Asuransi sosial"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Asuransi Syariah\"?",
+        "context": "Sesuai UU Nomor 40 Tahun 2014, Asuransi Syariah adalah kumpulan perjanjian antara perusahaan asuransi syariah dan pemegang polis dalam rangka pengelolaan kontribusi berdasarkan prinsip syariah untuk saling menolong dan melindungi.",
+        "response": "Asuransi Syariah"
+    },
+    {
+        "instruction": "Apa definisi \"Atasan Langsung\" dalam militer?",
+        "context": "Menurut UU Nomor 25 Tahun 2014, Atasan Langsung adalah atasan yang mempunyai wewenang komando langsung terhadap bawahan yang bersangkutan.",
+        "response": "Atasan Langsung"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Atasan Pejabat\" dalam administrasi negara.",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2014, Atasan Pejabat adalah atasan pejabat langsung yang mempunyai kedudukan dalam organisasi atau strata pemerintahan yang lebih tinggi.",
+        "response": "Atasan Pejabat"
+    },
+    {
+        "instruction": "Siapa yang disebut \"Atasan Satuan Kerja Penyelenggara\"?",
+        "context": "Sesuai UU Nomor 25 Tahun 2009, ini adalah pimpinan satuan kerja yang membawahi secara langsung satu atau lebih satuan kerja yang melaksanakan pelayanan publik.",
+        "response": "Atasan Satuan Kerja Penyelenggara"
+    },
+    {
+        "instruction": "Apa definisi \"Atasan Yang Berhak Menghukum\"?",
+        "context": "Menurut UU Nomor 25 Tahun 2014, ini adalah atasan yang diberi wewenang menjatuhkan Hukuman Disiplin Militer kepada bawahan yang berada di bawah wewenang komandonya.",
+        "response": "Atasan Yang Berhak Menghukum"
     }
 ]
