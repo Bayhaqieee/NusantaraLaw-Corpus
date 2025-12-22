@@ -293,5 +293,190 @@
         "instruction": "Apa definisi \"Atasan Yang Berhak Menghukum\"?",
         "context": "Menurut UU Nomor 25 Tahun 2014, ini adalah atasan yang diberi wewenang menjatuhkan Hukuman Disiplin Militer kepada bawahan yang berada di bawah wewenang komandonya.",
         "response": "Atasan Yang Berhak Menghukum"
+    },
+    {
+        "instruction": "Apa definisi hukum dari \"Amnesti\" di Indonesia?",
+        "context": "Menurut UU Nomor 27 Tahun 2004 (data per 29 Agustus 2022), Amnesti adalah pengampunan yang diberikan oleh Presiden kepada pelaku pelanggaran hak asasi manusia yang berat dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat.",
+        "response": "Amnesti"
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai \"Anak\" dalam konteks jaminan pensiun?",
+        "context": "Berdasarkan PP Nomor 45 Tahun 2015, Anak didefinisikan sebagai anak kandung, anak tiri, atau anak angkat yang sah menurut peraturan perundang-undangan dari peserta yang meninggal dunia yang terdaftar sebagai ahli waris di BPJS Ketenagakerjaan.",
+        "response": "Anak"
+    },
+    {
+        "instruction": "Apa pengertian \"Anak angkat\" menurut hukum?",
+        "context": "Sesuai UU Nomor 35 Tahun 2014 dan PP Nomor 54 Tahun 2007, Anak angkat adalah anak yang haknya dialihkan dari lingkungan kekuasaan keluarga orang tua, wali yang sah, atau penanggung jawab lainnya ke dalam lingkungan keluarga orang tua angkatnya berdasarkan putusan atau penetapan pengadilan.",
+        "response": "Anak angkat"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Anak Penyandang Disabilitas\".",
+        "context": "Menurut UU Nomor 35 Tahun 2014, ini adalah anak yang memiliki keterbatasan fisik, mental, intelektual, atau sensorik dalam jangka waktu lama yang dapat menemui hambatan untuk berpartisipasi penuh dan efektif berdasarkan kesamaan hak saat berinteraksi dengan lingkungan.",
+        "response": "Anak Penyandang Disabilitas"
+    },
+    {
+        "instruction": "Siapa yang dimaksud dengan \"Anak Korban\"?",
+        "context": "Berdasarkan PP Nomor 65 Tahun 2015, Anak Korban adalah anak yang belum berumur 18 tahun yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang disebabkan oleh tindak pidana.",
+        "response": "Anak Korban"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Anak asuh\"?",
+        "context": "Sesuai UU Nomor 35 Tahun 2014, Anak asuh adalah anak yang diasuh oleh seseorang atau lembaga untuk diberikan bimbingan, pemeliharaan, perawatan, pendidikan, dan kesehatan karena orang tuanya tidak mampu menjamin tumbuh kembang anak secara wajar.",
+        "response": "Anak asuh"
+    },
+    {
+        "instruction": "Apa definisi dari \"Anak Perusahaan BUMN\"?",
+        "context": "Menurut Peraturan Menteri BUMN Tahun 2019, ini adalah perusahaan yang sahamnya lebih dari 50% dimiliki oleh BUMN yang bersangkutan, atau oleh BUMN lain, atau perusahaan patungan dengan jumlah gabungan kepemilikan saham BUMN lebih dari 50%.",
+        "response": "Anak Perusahaan BUMN"
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai \"Anak Saksi\"?",
+        "context": "Berdasarkan PP Nomor 65 Tahun 2015, Anak Saksi adalah anak yang belum berumur 18 tahun yang dapat memberikan keterangan guna kepentingan penyidikan, penuntutan, dan pemeriksaan sidang pengadilan tentang perkara pidana yang didengar, dilihat, atau dialaminya sendiri.",
+        "response": "Anak Saksi"
+    },
+    {
+        "instruction": "Apa definisi \"Anak terlantar\"?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2002, Anak terlantar adalah anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial.",
+        "response": "Anak terlantar"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Analisis dampak lalu lintas\".",
+        "context": "Sesuai PP Nomor 32 Tahun 2011 dan Permenhub PM.75 Tahun 2015, ini adalah serangkaian kegiatan kajian mengenai dampak lalu lintas dari pembangunan pusat kegiatan, permukiman, dan infrastruktur yang hasilnya dituangkan dalam dokumen hasil analisis.",
+        "response": "Analisis dampak lalu lintas"
+    },
+    {
+        "instruction": "Siapa yang dimaksud dengan \"Anak yang Berkonflik dengan Hukum\"?",
+        "context": "Menurut PP Nomor 65 Tahun 2015, ini merujuk pada anak yang telah berumur 12 tahun tetapi belum berumur 18 tahun yang diduga melakukan tindak pidana.",
+        "response": "Anak yang Berkonflik dengan Hukum"
+    },
+    {
+        "instruction": "Apa cakupan definisi \"Anak Yang Berhadapan Dengan Hukum\"?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2012, istilah ini mencakup anak yang berkonflik dengan hukum, anak yang menjadi korban tindak pidana, dan anak yang menjadi saksi tindak pidana.",
+        "response": "Anak Yang Berhadapan Dengan Hukum"
+    },
+    {
+        "instruction": "Apa pengertian \"Analisis Mengenai Dampak Lingkungan\" (AMDAL)?",
+        "context": "Sesuai UU Nomor 4 Tahun 2009, ini adalah kajian mengenai dampak besar dan penting suatu usaha dan/atau kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan.",
+        "response": "Analisis Mengenai Dampak Lingkungan"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Analisis Mengenai Dampak Lingkungan Hidup\".",
+        "context": "Menurut Permen LHK Tahun 2018, definisinya adalah kajian mengenai dampak penting suatu usaha/kegiatan yang direncanakan pada lingkungan hidup yang diperlukan bagi proses pengambilan keputusan penyelenggaraan usaha/kegiatan tersebut.",
+        "response": "Analisis Mengenai Dampak Lingkungan Hidup"
+    },
+    {
+        "instruction": "Apa saja definisi hukum dari \"Ancaman\"?",
+        "context": "Istilah ini memiliki beberapa konteks: 1) Kegiatan yang membahayakan kedaulatan negara dan Pancasila (UU 23/2019); 2) Tindakan yang membahayakan keselamatan Presiden/Wakil Presiden dan Tamu Negara (PP 59/2013); 3) Perbuatan yang menyebabkan saksi/korban takut memberikan kesaksian (UU 13/2006).",
+        "response": "Ancaman"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Ancaman Bersenjata\"?",
+        "context": "Berdasarkan UU Nomor 34 Tahun 2004, Ancaman Bersenjata adalah ancaman yang datangnya dari gerakan kekuatan bersenjata.",
+        "response": "Ancaman Bersenjata"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Ancaman Kekerasan\".",
+        "context": "Menurut UU Nomor 5 Tahun 2018 dan UU Nomor 21 Tahun 2007, ini adalah setiap perbuatan melawan hukum (ucapan, tulisan, gambar, simbol, atau gerakan tubuh) yang menimbulkan rasa takut terhadap orang/masyarakat atau mengekang kebebasan hakiki seseorang.",
+        "response": "Ancaman Kekerasan"
+    },
+    {
+        "instruction": "Apa definisi \"Ancaman Militer\"?",
+        "context": "Sesuai UU Nomor 34 Tahun 2004, Ancaman Militer adalah ancaman yang dilakukan oleh militer suatu negara kepada negara lain.",
+        "response": "Ancaman Militer"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Anggaran Dasar\"?",
+        "context": "Anggaran Dasar adalah peraturan dasar bagi berbagai entitas seperti Usaha Bersama (PP 87/2019), Organisasi Kemasyarakatan (UU 17/2013), atau Perusahaan Umum (PP 35/2018).",
+        "response": "Anggaran Dasar"
+    },
+    {
+        "instruction": "Apa definisi \"Anggaran Dasar Partai Politik\"?",
+        "context": "Menurut UU Nomor 2 Tahun 2011, ini adalah peraturan dasar bagi sebuah Partai Politik.",
+        "response": "Anggaran Dasar Partai Politik"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari \"Anggaran Dasar Partai Politik\" (AD)?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2008, Anggaran Dasar Partai Politik yang disingkat AD adalah peraturan dasar Partai Politik.",
+        "response": "Anggaran Dasar Partai Politik, selanjutnya disingkat AD"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"APBD\" (Anggaran Pendapatan dan Belanja Daerah).",
+        "context": "APBD adalah rencana keuangan tahunan pemerintahan daerah yang dibahas dan disetujui oleh Pemerintah Daerah dan DPRD, serta ditetapkan dengan Peraturan Daerah. Definisi ini tercantum dalam berbagai regulasi (misalnya UU 7/2012, PP 12/2019, PP 54/2017).",
+        "response": "Anggaran Pendapatan dan Belanja Daerah, selanjutnya disingkat APBD"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Anggaran Pendapatan dan Belanja Desa\"?",
+        "context": "Sesuai PP Nomor 43 Tahun 2014, ini adalah rencana keuangan tahunan Pemerintahan Desa.",
+        "response": "Anggaran Pendapatan dan Belanja Desa"
+    },
+    {
+        "instruction": "Apa definisi \"Anggaran Pendapatan dan Belanja Negara\"?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2018 dan peraturan terkait lainnya, ini adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat (DPR).",
+        "response": "Anggaran Pendapatan dan Belanja Negara"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"APBN\" (Anggaran Pendapatan dan Belanja Negara).",
+        "context": "APBN adalah rencana keuangan tahunan pemerintahan negara yang disetujui oleh Dewan Perwakilan Rakyat, sebagaimana didefinisikan dalam berbagai peraturan pemerintah (seperti PP 9/2011, PP 54/2008).",
+        "response": "Anggaran Pendapatan dan Belanja Negara, selanjutnya disingkat APBN"
+    },
+    {
+        "instruction": "Apa itu \"Anggaran Rumah Tangga\"?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2013, Anggaran Rumah Tangga adalah peraturan yang dibentuk sebagai penjabaran dari Anggaran Dasar (AD) Organisasi Kemasyarakatan (Ormas).",
+        "response": "Anggaran Rumah Tangga"
+    },
+    {
+        "instruction": "Apa definisi \"Anggaran Rumah Tangga Partai Politik\"?",
+        "context": "Menurut UU Nomor 2 Tahun 2011, ini adalah peraturan yang dibentuk sebagai penjabaran dari Anggaran Dasar (AD) Partai Politik.",
+        "response": "Anggaran Rumah Tangga Partai Politik"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"ART\" dalam konteks Partai Politik?",
+        "context": "Sesuai UU Nomor 2 Tahun 2008, Anggaran Rumah Tangga Partai Politik yang disingkat ART adalah peraturan yang dibentuk sebagai penjabaran dari AD.",
+        "response": "Anggaran Rumah Tangga Partai Politik, selanjutnya disingkat ART"
+    },
+    {
+        "instruction": "Siapakah \"Anggota Kepolisian Khusus\" itu?",
+        "context": "Menurut PP Nomor 43 Tahun 2012, mereka adalah Pegawai Negeri Sipil (PNS) atau Pegawai Tetap pada BUMN yang diberi wewenang oleh undang-undang untuk melaksanakan Fungsi Kepolisian di bidang teknisnya masing-masing.",
+        "response": "Anggota Kepolisian Khusus"
+    },
+    {
+        "instruction": "Siapa yang disebut \"Anggota Kepolisian Negara Republik Indonesia\"?",
+        "context": "Berdasarkan Perpres Nomor 82 Tahun 2018, ini merujuk pada Anggota Polri sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Kepolisian Negara Republik Indonesia.",
+        "response": "Anggota Kepolisian Negara Republik Indonesia"
+    },
+    {
+        "instruction": "Jelaskan istilah hukum \"Atribusi\".",
+        "context": "Sesuai UU Nomor 30 Tahun 2014, Atribusi adalah pemberian Kewenangan kepada Badan dan/atau Pejabat Pemerintahan oleh UUD 1945 atau Undang-Undang.",
+        "response": "Atribusi"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Audit Lingkungan Hidup\"?",
+        "context": "Menurut UU Nomor 32 Tahun 2009, ini adalah evaluasi yang dilakukan untuk menilai ketaatan penanggung jawab usaha dan/atau kegiatan terhadap persyaratan hukum dan kebijakan yang ditetapkan pemerintah.",
+        "response": "Audit Lingkungan Hidup"
+    },
+    {
+        "instruction": "Apa definisi \"Audit Cukai\"?",
+        "context": "Berdasarkan UU Nomor 39 Tahun 2007, Audit Cukai adalah serangkaian kegiatan pemeriksaan laporan keuangan, buku, catatan, dokumen bukti pembukuan, data elektronik, dan surat terkait kegiatan di bidang cukai atau sediaan barang.",
+        "response": "Audit Cukai"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Audit Cukai\" (Entri ke-2).",
+        "context": "Sesuai UU Nomor 39 Tahun 2007, ini adalah serangkaian kegiatan pemeriksaan laporan keuangan, dokumen, dan data elektronik yang berkaitan dengan kegiatan di bidang cukai untuk pelaksanaan perundang-undangan cukai.",
+        "response": "Audit Cukai"
+    },
+    {
+        "instruction": "Siapakah \"Auditor Halal\"?",
+        "context": "Menurut UU Nomor 33 Tahun 2014, Auditor Halal adalah orang yang memiliki kemampuan melakukan pemeriksaan kehalalan Produk.",
+        "response": "Auditor Halal"
+    },
+    {
+        "instruction": "Apa itu \"Audit Kepabeanan\"?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2006, ini adalah kegiatan pemeriksaan laporan keuangan, buku, catatan, dokumen, dan data elektronik yang berkaitan dengan kegiatan usaha di bidang kepabeanan.",
+        "response": "Audit Kepabeanan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Autentikasi\"?",
+        "context": "Sesuai UU Nomor 3 Tahun 2011 (tentang Transfer Dana), Autentikasi adalah prosedur untuk memastikan bahwa penerbitan, perubahan, atau pembatalan suatu Perintah Transfer Dana benar-benar dilakukan oleh Pengirim yang berhak.",
+        "response": "Autentikasi (Authentication)"
     }
 ]
