@@ -1,62 +1,62 @@
 [
-    {
-        "instruction": "Apa judul dan ketetapan utama dari TAP MPRS No. III/MPRS/1963?",
-        "input": "",
-        "output": "Judulnya adalah 'Pengangkatan Pemimpin Besar Revolusi Indonesia Bung Karno Menjadi Presiden Republik Indonesia Seumur Hidup'. Ketetapan utamanya adalah mengangkat Dr. Ir. Haji Soekarno menjadi Presiden Republik Indonesia Seumur Hidup."
-    },
-    {
-        "instruction": "Apa pertimbangan mengenai status Revolusi Indonesia dalam TAP MPRS No. III/MPRS/1963?",
-        "input": "",
-        "output": "MPRS menimbang bahwa Revolusi Indonesia belum selesai, dan berdasarkan TAP No. I/MPRS/1960, Presiden Soekarno telah diangkat menjadi Pemimpin Besar Revolusi Indonesia."
-    },
-    {
-        "instruction": "Bagaimana sosok Bung Karno digambarkan dalam pertimbangan TAP MPRS No. III/MPRS/1963?",
-        "input": "",
-        "output": "Bung Karno digambarkan sebagai perwujudan perpaduan pimpinan Revolusi dan pimpinan negara, serta pemersatu seluruh kekuatan Rakyat revolusioner. Beliau dinilai memenuhi syarat sebagai Presiden ditinjau dari segi Revolusi, Konstitusi 1945, maupun Agama (khususnya Islam sebagai Waliyyul Amri)."
-    },
-    {
-        "instruction": "Apa bunyi keputusan Pasal 1 dalam TAP MPRS No. III/MPRS/1963?",
-        "input": "",
-        "output": "Pasal 1 memutuskan: Dr. Ir. HAJI SOEKARNO (BUNG KARNO) Pemimpin Besar Revolusi Indonesia, yang kini menjabat Presiden Republik Indonesia, dinyatakan dengan karunia Allah untuk menjadi PRESIDEN REPUBLIK INDONESIA SEUMUR HIDUP."
-    },
-    {
-        "instruction": "Apa tujuan pembentukan TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Tujuannya adalah untuk menetapkan pedoman-pedoman pelaksanaan Garis-garis Besar Haluan Negara dan Haluan Pembangunan guna melengkapi pedoman yang sudah ada dan mengonsolidasi kemenangan revolusi."
-    },
-    {
-        "instruction": "Dokumen/pidato apa saja yang dibahas dan dijadikan landasan dalam TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Dokumen yang dibahas adalah: 1) Amanat 'Resopim' (Revolusi Sosialisme Indonesia Pimpinan Nasional) tanggal 17 Agustus 1961, 2) Amanat 'Takem' (Tahun Kemenangan) tanggal 17 Agustus 1962, 3) 'Dekon' (Deklarasi Ekonomi) tanggal 28 Maret 1963, dan 4) Amanat 'Ambeg Parama Arta' tanggal 15 Mei 1963."
-    },
-    {
-        "instruction": "Apa pentingnya pengintegrasian Pemerintah dan Rakyat menurut TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Menimbang bahwa pengintegrasian sebulat-bulatnya antara Pemerintah dan Rakyat adalah tuntutan mutlak revolusi. Hal ini menuntut pelaksanaan Panca Program Front Nasional sebagai landasan mutlak untuk Pembangunan Nasional Semesta Berencana."
-    },
-    {
-        "instruction": "Apa status pidato 'Resopim' dan 'Takem' menurut Pasal 1 TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Menurut Pasal 1, Amanat Presiden 'Resopim' (17 Agustus 1961) dan 'Takem' (17 Agustus 1962) ditetapkan sebagai pedoman-pedoman pelaksanaan Manifesto Politik Republik Indonesia."
-    },
-    {
-        "instruction": "Apa pedoman pelaksanaan pembangunan di bidang ekonomi menurut Pasal 2 TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Pasal 2 menetapkan bahwa 'Deklarasi Ekonomi' (Dekon) adalah pedoman pelaksanaan garis-garis besar haluan pembangunan di bidang ekonomi."
-    },
-    {
-        "instruction": "Apa yang dimaksud dengan 'Ambeg Parama Arta' dalam Pasal 3 TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Pasal 3 menetapkan 'Ambeg Parama Arta' (berwatak pandai mendahulukan urusan yang penting) sebagai landasan kerja dalam melaksanakan Konsepsi Pembangunan seperti terkandung dalam TAP MPRS No. I dan II tahun 1960."
-    },
-    {
-        "instruction": "Siapa yang diberi kekuasaan penuh untuk melaksanakan TAP MPRS No. IV/MPRS/1963?",
-        "input": "",
-        "output": "Pasal 4 menugaskan dengan kekuasaan penuh kepada Presiden/Mandataris MPRS/Pemimpin Besar Revolusi Indonesia untuk melaksanakan putusan-putusan ini."
-    },
-    {
-        "instruction": "Apa catatan sejarah mengenai keberlakuan TAP MPRS No. III/MPRS/1963 tentang Presiden Seumur Hidup?",
-        "input": "",
-        "output": "Catatan kaki menyebutkan bahwa berdasarkan TAP No. XVII/MPRS/1966, predikat Pemimpin Besar Revolusi dinyatakan tidak membawa wewenang hukum, dan akhirnya TAP No. III/MPRS/1963 ini dicabut berlakunya dengan TAP No. XXXV/MPRS/1967."
-    }
+  {
+    "instruction": "Apa judul dan ketetapan utama dari TAP MPRS No. III/MPRS/1963?",
+    "context": "Pertanyaan ini merujuk pada Ketetapan Majelis Permusyawaratan Rakyat Sementara Republik Indonesia Nomor III/MPRS/1963 yang ditetapkan dalam Rapat Paripurna ke-3 MPRS pada tanggal 18 Mei 1963 di Bandung. Ketetapan ini berkaitan langsung dengan kedudukan Presiden Soekarno dalam konteks Revolusi Indonesia yang dinyatakan belum selesai.",
+    "response": "Judulnya adalah 'Pengangkatan Pemimpin Besar Revolusi Indonesia Bung Karno Menjadi Presiden Republik Indonesia Seumur Hidup'. Ketetapan utamanya adalah mengangkat Dr. Ir. Haji Soekarno menjadi Presiden Republik Indonesia Seumur Hidup."
+  },
+  {
+    "instruction": "Apa pertimbangan mengenai status Revolusi Indonesia dalam TAP MPRS No. III/MPRS/1963?",
+    "context": "Bagian 'Menimbang' TAP MPRS No. III/MPRS/1963 memuat dasar ideologis dan konstitusional yang menjadi alasan pengangkatan Presiden seumur hidup, khususnya terkait keberlanjutan Revolusi Indonesia dan kedudukan Presiden sebagai Pemimpin Besar Revolusi.",
+    "response": "MPRS menimbang bahwa Revolusi Indonesia belum selesai, dan berdasarkan TAP No. I/MPRS/1960, Presiden Soekarno telah diangkat menjadi Pemimpin Besar Revolusi Indonesia."
+  },
+  {
+    "instruction": "Bagaimana sosok Bung Karno digambarkan dalam pertimbangan TAP MPRS No. III/MPRS/1963?",
+    "context": "Pertimbangan ini tercantum dalam poin keempat bagian 'Menimbang' TAP MPRS No. III/MPRS/1963 yang menilai kualitas personal dan kepemimpinan Bung Karno dari aspek revolusioner, konstitusional, dan religius.",
+    "response": "Bung Karno digambarkan sebagai perwujudan perpaduan pimpinan Revolusi dan pimpinan negara, serta pemersatu seluruh kekuatan Rakyat revolusioner. Beliau dinilai memenuhi syarat sebagai Presiden ditinjau dari segi Revolusi, Konstitusi 1945, maupun Agama (khususnya Islam sebagai Waliyyul Amri)."
+  },
+  {
+    "instruction": "Apa bunyi keputusan Pasal 1 dalam TAP MPRS No. III/MPRS/1963?",
+    "context": "Pasal 1 merupakan norma utama TAP MPRS No. III/MPRS/1963 yang menetapkan status jabatan Presiden Republik Indonesia secara eksplisit dan bersifat konstitutif.",
+    "response": "Pasal 1 memutuskan: Dr. Ir. HAJI SOEKARNO (BUNG KARNO) Pemimpin Besar Revolusi Indonesia, yang kini menjabat Presiden Republik Indonesia, dinyatakan dengan karunia Allah untuk menjadi PRESIDEN REPUBLIK INDONESIA SEUMUR HIDUP."
+  },
+  {
+    "instruction": "Apa tujuan pembentukan TAP MPRS No. IV/MPRS/1963?",
+    "context": "TAP MPRS No. IV/MPRS/1963 ditetapkan dalam Rapat Paripurna ke-5 MPRS tanggal 22 Mei 1963 di Bandung sebagai pelengkap dan penguatan pedoman pelaksanaan Garis-Garis Besar Haluan Negara (GBHN) dan Haluan Pembangunan.",
+    "response": "Tujuannya adalah untuk menetapkan pedoman-pedoman pelaksanaan Garis-garis Besar Haluan Negara dan Haluan Pembangunan guna melengkapi pedoman yang sudah ada dan mengonsolidasi kemenangan revolusi."
+  },
+  {
+    "instruction": "Dokumen/pidato apa saja yang dibahas dan dijadikan landasan dalam TAP MPRS No. IV/MPRS/1963?",
+    "context": "Dalam bagian 'Setelah membahas', TAP MPRS No. IV/MPRS/1963 secara eksplisit menyebutkan amanat dan pidato Presiden Soekarno yang dijadikan rujukan utama dalam perumusan ketetapan ini.",
+    "response": "Dokumen yang dibahas adalah: 1) Amanat 'Resopim' (Revolusi Sosialisme Indonesia Pimpinan Nasional) tanggal 17 Agustus 1961, 2) Amanat 'Takem' (Tahun Kemenangan) tanggal 17 Agustus 1962, 3) 'Dekon' (Deklarasi Ekonomi) tanggal 28 Maret 1963, dan 4) Amanat 'Ambeg Parama Arta' tanggal 15 Mei 1963."
+  },
+  {
+    "instruction": "Apa pentingnya pengintegrasian Pemerintah dan Rakyat menurut TAP MPRS No. IV/MPRS/1963?",
+    "context": "Pertimbangan huruf c TAP MPRS No. IV/MPRS/1963 menegaskan pentingnya integrasi antara Pemerintah dan Rakyat sebagai tuntutan mutlak revolusi pada tahap perkembangan saat itu.",
+    "response": "Pengintegrasian sebulat-bulatnya antara Pemerintah dan Rakyat dipandang sebagai tuntutan mutlak revolusi, yang pelaksanaannya menuntut Panca Program Front Nasional sebagai landasan mutlak Pembangunan Nasional Semesta Berencana."
+  },
+  {
+    "instruction": "Apa status pidato 'Resopim' dan 'Takem' menurut Pasal 1 TAP MPRS No. IV/MPRS/1963?",
+    "context": "Pasal 1 TAP MPRS No. IV/MPRS/1963 menetapkan kedudukan hukum pidato-pidato Presiden dalam sistem pedoman negara.",
+    "response": "Menurut Pasal 1, Amanat Presiden 'Resopim' (17 Agustus 1961) dan 'Takem' (17 Agustus 1962) ditetapkan sebagai pedoman-pedoman pelaksanaan Manifesto Politik Republik Indonesia."
+  },
+  {
+    "instruction": "Apa pedoman pelaksanaan pembangunan di bidang ekonomi menurut Pasal 2 TAP MPRS No. IV/MPRS/1963?",
+    "context": "Pasal 2 TAP MPRS No. IV/MPRS/1963 mengatur pedoman khusus pembangunan nasional di sektor ekonomi.",
+    "response": "Pasal 2 menetapkan bahwa 'Deklarasi Ekonomi' (Dekon) adalah pedoman pelaksanaan garis-garis besar haluan pembangunan di bidang ekonomi."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Ambeg Parama Arta' dalam Pasal 3 TAP MPRS No. IV/MPRS/1963?",
+    "context": "Pasal 3 TAP MPRS No. IV/MPRS/1963 memberikan landasan etis dan operasional dalam pelaksanaan pembangunan nasional.",
+    "response": "'Ambeg Parama Arta' ditetapkan sebagai landasan kerja dalam melaksanakan Konsepsi Pembangunan sebagaimana terkandung dalam TAP MPRS No. I dan II tahun 1960."
+  },
+  {
+    "instruction": "Siapa yang diberi kekuasaan penuh untuk melaksanakan TAP MPRS No. IV/MPRS/1963?",
+    "context": "Pasal 4 TAP MPRS No. IV/MPRS/1963 mengatur subjek yang bertanggung jawab atas pelaksanaan ketetapan.",
+    "response": "Kekuasaan penuh diberikan kepada Presiden/Mandataris MPRS/Pemimpin Besar Revolusi Indonesia untuk melaksanakan putusan-putusan ini."
+  },
+  {
+    "instruction": "Apa catatan sejarah mengenai keberlakuan TAP MPRS No. III/MPRS/1963 tentang Presiden Seumur Hidup?",
+    "context": "Catatan ini tercantum dalam bagian kaki TAP MPRS No. III/MPRS/1963 dan berkaitan dengan perubahan politik pasca-1965.",
+    "response": "Berdasarkan TAP No. XVII/MPRS/1966, predikat Pemimpin Besar Revolusi dinyatakan tidak membawa wewenang hukum, dan selanjutnya TAP MPRS No. III/MPRS/1963 dicabut berlakunya dengan TAP No. XXXV/MPRS/1967."
+  }
 ]

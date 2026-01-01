@@ -1,227 +1,252 @@
 [
-    {
-        "instruction": "Apa inti keputusan dari TAP MPRS No. XXV/MPRS/1966?",
-        "input": "",
-        "output": "Keputusan utamanya adalah menerima baik dan menguatkan pembubaran Partai Komunis Indonesia (PKI) beserta seluruh organisasi mantelnya, serta menyatakan PKI sebagai organisasi terlarang di seluruh wilayah Republik Indonesia."
-    },
-    {
-        "instruction": "Mengapa faham Komunisme/Marxisme-Leninisme dilarang menurut TAP MPRS No. XXV/MPRS/1966?",
-        "input": "",
-        "output": "Faham ini dilarang karena pada hakekatnya bertentangan dengan Pancasila. Selain itu, penganut faham ini (khususnya PKI) terbukti secara sejarah telah beberapa kali berusaha merobohkan kekuasaan Pemerintah RI yang sah dengan jalan kekerasan."
-    },
-    {
-        "instruction": "Apakah faham Komunisme/Marxisme-Leninisme boleh dipelajari menurut TAP MPRS No. XXV/MPRS/1966?",
-        "input": "",
-        "output": "Kegiatan menyebarkan faham tersebut dilarang. Namun, mempelajarinya secara ilmiah (seperti di Universitas) dalam rangka mengamankan Pancasila dapat dilakukan secara terpimpin, dengan ketentuan harus diatur dalam perundang-undangan oleh Pemerintah dan DPR-GR."
-    },
-    {
-        "instruction": "Apa isi Pasal 2 dalam TAP MPRS No. XXV/MPRS/1966 mengenai media penyebaran?",
-        "input": "",
-        "output": "Pasal 2 melarang setiap kegiatan untuk menyebarkan atau mengembangkan faham Komunisme/Marxisme-Leninisme dalam segala bentuk dan manifestasinya, termasuk penggunaan segala macam aparatur serta media bagi penyebaran faham tersebut."
-    },
-    {
-        "instruction": "Apa tujuan utama TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Tujuannya adalah melakukan pembaharuan kebijaksanaan landasan ekonomi, keuangan, dan pembangunan untuk menanggulangi kemerosotan ekonomi akibat mismanagement, pemborosan, birokrasi, dan pemberontakan G.30.S/PKI."
-    },
-    {
-        "instruction": "Apa penyebab kemerosotan ekonomi Indonesia menurut Pasal 1 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Penyebab utamanya adalah penyelewengan dari pelaksanaan UUD 1945 secara murni, tidak adanya pengawasan efektif dari lembaga perwakilan rakyat, dan dikesampingkannya prinsip-prinsip ekonomi rasional demi kepentingan politik."
-    },
-    {
-        "instruction": "Apa yang dimaksud dengan Demokrasi Ekonomi menurut Pasal 5 dan 6 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Demokrasi Ekonomi adalah sistem ekonomi terpimpin berdasarkan Pancasila di mana perekonomian disusun sebagai usaha bersama atas asas kekeluargaan. Ciri positifnya meliputi: tidak ada pertentangan kelas, cabang produksi vital dikuasai negara, hak milik perorangan diakui (fungsi sosial), dan fakir miskin dijamin negara."
-    },
-    {
-        "instruction": "Sebutkan ciri-ciri negatif yang harus dihindari dalam Demokrasi Ekonomi menurut Pasal 7 TAP MPRS No. XXIII/MPRS/1966.",
-        "input": "",
-        "output": "Ciri-ciri negatif yang harus dihindari adalah: 1) Sistem 'free-fight liberalism' (eksploitasi manusia), 2) Sistem 'etatisme' (negara mematikan potensi swasta), dan 3) Monopoli yang merugikan masyarakat."
-    },
-    {
-        "instruction": "Apa skala prioritas nasional untuk pembangunan jangka pendek menurut Pasal 15 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Skala prioritasnya adalah: (a) Pengendalian inflasi, (b) Pencukupan kebutuhan pangan, (c) Rehabilitasi prasarana ekonomi, (d) Peningkatan kegiatan ekspor, dan (e) Pencukupan kebutuhan sandang."
-    },
-    {
-        "instruction": "Bagaimana kebijakan anggaran negara (budget) diatur dalam Pasal 47 dan 52 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Penyusunan anggaran harus mengusahakan penghapusan defisit untuk menekan inflasi. Anggaran Moneter hanya boleh terdiri dari anggaran rutin, pembangunan, devisa, dan kredit. 'Anggaran Khusus' (non-budgeter) dihapuskan dan diintegrasikan."
-    },
-    {
-        "instruction": "Apa pandangan TAP MPRS No. XXIII/MPRS/1966 mengenai modal asing dan kredit luar negeri?",
-        "input": "",
-        "output": "Mengingat modal dalam negeri terbatas, Undang-undang mengenai modal asing perlu segera ditetapkan. Kredit luar negeri dapat dibenarkan asalkan merupakan bagian integral dari rencana stabilisasi, tidak memberatkan rakyat di kemudian hari, dan benar-benar rasional."
-    },
-    {
-        "instruction": "Apakah Indonesia akan kembali bergabung dengan lembaga ekonomi internasional menurut TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Ya, Pasal 65 menyatakan agar Indonesia segera kembali menjadi anggota lembaga-lembaga ekonomi internasional seperti International Monetary Fund (IMF) dan International Bank for Reconstruction and Development (Bank Dunia)."
-    },
-    {
-        "instruction": "Bagaimana peran pemerintah dalam ekonomi menurut Pasal 40 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Pemerintah harus lebih menekankan pada pengawasan arah kegiatan ekonomi, bukan penguasaan sebanyak mungkin kegiatan ekonomi. Perlu dilakukan de-birokratisasi dan dekonsentrasi manajemen perusahaan negara."
-    },
-    {
-        "instruction": "Apa peran pihak Swasta Nasional menurut Pasal 44 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Golongan Swasta Nasional memiliki kebebasan memilih bidang usaha yang tidak menguasai hajat hidup rakyat banyak dan tidak strategis. Pemerintah berkewajiban memberikan pelayanan, pengayoman, dan bantuan wajar kepada swasta."
-    },
-    {
-        "instruction": "Apa mandat Pasal 1 TAP MPRS No. XXIV/MPRS/1966 mengenai pertahanan?",
-        "input": "",
-        "output": "Pasal 1 memandatkan peninjauan kembali semua Ketetapan/Keputusan dan Resolusi MPRS yang menyangkut Bidang Pertahanan dan Keamanan demi pelaksanaan UUD 1945 secara murni dan konsekuen."
-    },
-    {
-        "instruction": "Sebutkan 4 marta (dimensi) pertahanan/keamanan menurut TAP MPRS No. XXIV/MPRS/1966.",
-        "input": "",
-        "output": "Empat marta tersebut adalah: (a) Pertahanan Darat Nasional, (b) Pertahanan Maritim Nasional, (c) Pertahanan Udara Nasional, dan (d) Keamanan dan Ketertiban Masyarakat. Pelaksanaannya dilakukan secara gabungan antara ABRI dan Rakyat."
-    },
-    {
-        "instruction": "Apa landasan sistem persenjataan menurut Pasal 3 TAP MPRS No. XXIV/MPRS/1966?",
-        "input": "",
-        "output": "Sistem persenjataan terdiri dari: 1) Sistem persenjataan fisik/teknologis berintikan ABRI dengan prinsip 'flexible response', dan 2) Sistem persenjataan sosial/politik yang melibatkan seluruh rakyat (Pertahanan Rakyat Semesta) sesuai Pasal 30 UUD 1945."
-    },
-    {
-        "instruction": "Apa fokus kebijakan Kesejahteraan Rakyat dalam TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Fokusnya meliputi intensifikasi rehabilitasi penderita cacat, penyatuan lembaga sosial desa, dan perhatian penuh pada jaminan sosial untuk perintis kemerdekaan, pejuang revolusi, dan sukarelawan."
-    },
-    {
-        "instruction": "Undang-undang apa yang diminta segera diadakan menurut Pasal 1 dan 2 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "MPRS meminta segera diadakan Undang-undang Pokok Kesejahteraan, Undang-undang Perkawinan, dan Undang-undang Pokok Perburuhan (Tenaga Kerja) yang mengatur penempatan, pelatihan, serta demokrasi upah."
-    },
-    {
-        "instruction": "Apa kebijakan kesehatan yang diatur dalam Pasal 3 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Segera melaksanakan Undang-undang tentang HYGIENE tahun 1965 dan mengintensifkan pemberantasan penyakit menular/rakyat seperti malaria, cacar, dan T.B.C."
-    },
-    {
-        "instruction": "Bagaimana pandangan mengenai Transmigrasi dalam Pasal 4 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Transmigrasi dianggap sebagai cara meningkatkan martabat kemanusiaan dan mengatasi pengangguran di daerah padat. Pelaksanaannya harus digiatkan dalam rangka kerja sama dan pembangunan daerah."
-    },
-    {
-        "instruction": "Apa prioritas pembangunan daerah menurut Pasal 30 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Prioritas utama pembangunan daerah diberikan kepada rehabilitasi dan penyempurnaan sistem perhubungan (termasuk Jalan Lintas Sumatera) dan pembangunan Masyarakat Desa."
-    },
-    {
-        "instruction": "Apa kebijakan tentang Impor menurut Pasal 58 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Kebijaksanaan impor harus ditujukan kepada pemasukan barang-barang yang langsung dapat mempertinggi produksi atau barang-barang yang sangat diperlukan oleh rakyat banyak."
-    },
-    {
-        "instruction": "Apa yang dimaksud dengan 'Program Penyelamatan' dalam ekonomi menurut Pasal 16 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Program Penyelamatan adalah program yang mendahului program stabilisasi, dengan sasaran mengatasi kemacetan produksi pangan, ekspor, sandang, dan prasarana dengan menyediakan bahan baku/spare-parts dalam jumlah minimum."
-    },
-    {
-        "instruction": "Apa hubungan antara kepentingan politik luar negeri dan ekonomi menurut Pasal 11 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Kepentingan dalam negeri, khususnya kepentingan ekonomi, harus tegas-tegas didahulukan daripada kepentingan politik luar negeri."
-    },
-    {
-        "instruction": "Bagaimana status proyek-proyek Mandataris (Anggaran Khusus) menurut TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Anggaran Khusus dihapuskan. Proyek-proyek yang selama ini dibiayai anggaran khusus harus diintegrasikan atau disesuaikan dengan anggaran rutin/pembangunan, dan proyek yang tidak ekonomis/produktif harus ditunda."
-    },
-    {
-        "instruction": "Siapa yang berwenang melakukan pemeriksaan keuangan negara menurut Pasal 54 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Badan Pemeriksa Keuangan (BPK) wajib meningkatkan tindakannya dalam memeriksa tanggung jawab kekayaan/keuangan negara sesuai wewenang dalam UUD 1945, dan melaporkannya kepada DPR."
-    },
-    {
-        "instruction": "Apa landasan idiil sistem ekonomi Indonesia menurut Pasal 4 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Landasan idiilnya adalah Pancasila dan UUD 1945, terutama pasal-pasal 23, 27, 33, dan 34 beserta penjelasannya."
-    },
-    {
-        "instruction": "Apa kewajiban pemerintah terhadap Koperasi menurut Pasal 43 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Pemerintah berkewajiban memberikan bimbingan, pengawasan, fasilitas, dan perlindungan terhadap Koperasi agar mampu menjurus ke arah pelaksanaan Pasal 33 UUD 1945."
-    },
-    {
-        "instruction": "Bagaimana pengaturan perimbangan keuangan pusat dan daerah menurut Pasal 32 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Perlu segera dilaksanakan ketentuan mengenai pemberian otonomi luas pada daerah, dekonsentrasi manajemen ekonomi, dan perimbangan keuangan antara pusat dan daerah."
-    },
-    {
-        "instruction": "Apa yang harus dilakukan terhadap aparatur pemerintahan menurut Pasal 66 dan 67 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Perangkat pemerintahan perlu disempurnakan menjadi 'Team' yang serasi, berjiwa Pancasila, pengemban Ampera, ahli, dipercaya rakyat, serta memiliki struktur yang sederhana, efisien, dan efektif."
-    },
-    {
-        "instruction": "Apa kebijakan Austerity Program yang disebutkan dalam Pasal 51 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Penghematan sungguh-sungguh harus diselenggarakan melalui rencana penghematan (austerity program) yang drastis dan konsekuen, berlaku baik bagi pengeluaran sipil maupun militer."
-    },
-    {
-        "instruction": "Apa dasar pertimbangan kebijakan pertahanan dalam Pasal 3 ayat 1 TAP MPRS No. XXIV/MPRS/1966?",
-        "input": "",
-        "output": "Dasar pertimbangannya adalah Keterangan Waperdam/Hankam di depan DPR-GR yang menegaskan kedudukan ABRI sebagai alat Revolusi dan alat Negara."
-    },
-    {
-        "instruction": "Bagaimana integrasi lembaga sosial desa diatur dalam Pasal 1 ayat 2 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Lembaga Sosial Desa, Pendidikan Masyarakat, dan Pembangunan Masyarakat Desa harus diintegrasikan menjadi satu badan demi efisiensi biaya dan tenaga."
-    },
-    {
-        "instruction": "Apa perhatian khusus untuk Irian Barat dalam Pasal 36 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Perhatian khusus perlu diberikan pada pembangunan daerah Irian Barat dalam semua bidang demi peningkatan taraf hidup dan keserasian tingkatan dengan daerah-daerah lain."
-    },
-    {
-        "instruction": "Apa sanksi bagi penyimpangan prinsip efisiensi ekonomi pemerintah menurut Pasal 41 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Penyimpangan dari prinsip-prinsip efisiensi dalam kegiatan Pemerintah di bidang ekonomi wajib dikenakan sanksi."
-    },
-    {
-        "instruction": "Apa definisi kekuatan ekonomi potensial Indonesia menurut Pasal 8 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Kekuatan ekonomi potensial terdiri dari: (1) Potensi dan daya kreasi Rakyat, dan (2) Kekayaan alam yang tersedia potensial."
-    },
-    {
-        "instruction": "Bagaimana strategi pembangunan jangka panjang ekonomi menurut Pasal 26 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Sisa Rencana Pembangunan Nasional Semesta Berencana 8 Tahun (peninggalan era sebelumnya) dijadikan rencana jangka panjang, namun disesuaikan dengan prioritas baru: pertanian, prasarana, dan industri/pertambangan."
-    },
-    {
-        "instruction": "Apa syarat pelaksanaan Transmigrasi menurut Pasal 4 ayat 2 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Transmigrasi harus digiatkan dan disempurnakan organisasinya, serta dilaksanakan dalam rangka kerja sama dan pembangunan daerah."
-    },
-    {
-        "instruction": "Apa instruksi mengenai penjara/lembaga pemasyarakatan dalam Pasal 1 ayat 6 TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Wawasan perikemanusiaan harus sungguh-sungguh diwujudkan dalam Lembaga-lembaga Pemasyarakatan."
-    },
-    {
-        "instruction": "Apa instruksi mengenai Suku Terasing dalam TAP MPRS No. XXVIII/MPRS/1966?",
-        "input": "",
-        "output": "Pemerintah diinstruksikan untuk mengintensifkan pemasyarakatan suku-suku terasing."
-    },
-    {
-        "instruction": "Apa fungsi koordinasi dalam pertahanan menurut Pasal 3 ayat 10 TAP MPRS No. XXIV/MPRS/1966?",
-        "input": "",
-        "output": "Harus terjamin koordinasi efektif atas semua sarana dalam usaha prevensi, deteksi, dan tindakan atas setiap jenis subversi baik di waktu damai maupun perang."
-    },
-    {
-        "instruction": "Apa yang harus dilakukan terhadap Peraturan Pemerintah No. 10 Tahun 1959 menurut Pasal 63 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Peraturan Pemerintah No. 10 tahun 1959 (tentang pedagang asing di pedesaan) hendaknya diperbaharui dan ditingkatkan menjadi Undang-undang."
-    },
-    {
-        "instruction": "Bagaimana peranan daerah dalam pembangunan ekonomi menurut Pasal 29 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Pembangunan nasional identik dengan pembangunan daerah karena potensi ekonomi terdapat di daerah. Oleh karena itu, pembangunan ekonomi adalah pembangunan resource daerah."
-    },
-    {
-        "instruction": "Apa larangan bagi pembangunan proyek baru menurut Pasal 28 TAP MPRS No. XXIII/MPRS/1966?",
-        "input": "",
-        "output": "Selama rencana stabilisasi dan rehabilitasi belum selesai, tidak dibenarkan membangun proyek-proyek baru yang dapat mengganggu pelaksanaan program stabilisasi."
-    }
+  {
+    "instruction": "Apa inti keputusan dari TAP MPRS No. XXV/MPRS/1966?",
+    "context": "Ketetapan MPRS No. XXV/MPRS/1966 tentang Pembubaran Partai Komunis Indonesia, Pernyataan Sebagai Organisasi Terlarang, dan Larangan Menyebarkan Faham Komunisme/Marxisme-Leninisme.",
+    "response": "Keputusan utamanya adalah menerima baik dan menguatkan pembubaran Partai Komunis Indonesia (PKI) beserta seluruh organisasi mantelnya, serta menyatakan PKI sebagai organisasi terlarang di seluruh wilayah Republik Indonesia."
+  },
+  {
+    "instruction": "Apa keputusan utama dari TAP MPRS No. XXVI/MPRS/1966?",
+    "context": "Ketetapan MPRS No. XXVI/MPRS/1966 tentang Penetapan dan Pengesahan Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua (1969-1974).",
+    "response": "Keputusan utamanya adalah menerima dan mengesahkan Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua untuk periode 1969-1974 sebagai pedoman bagi penyusunan rencana pembangunan tahunan dan lima tahunan."
+  },
+  {
+    "instruction": "Apa tujuan utama dari Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua menurut TAP MPRS No. XXVI/MPRS/1966?",
+    "context": "Bagian 'Menimbang', Ketetapan MPRS No. XXVI/MPRS/1966.",
+    "response": "Tujuan utamanya adalah mempercepat pembangunan nasional guna mencapai masyarakat adil dan makmur berdasarkan Pancasila, serta meningkatkan kesejahteraan rakyat secara merata di seluruh wilayah Indonesia."
+  },
+  {
+    "instruction": "Apa saja bidang prioritas dalam Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua menurut TAP MPRS No. XXVI/MPRS/1966?",
+    "context": "Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua (1969-1974) yang disahkan dalam TAP MPRS No. XXVI/MPRS/1966.",
+    "response": "Bidang prioritas meliputi: pertanian, industri, pendidikan, kesehatan, infrastruktur, dan pertahanan keamanan, dengan fokus pada peningkatan produksi pangan, pengembangan industri ringan, dan peningkatan kualitas sumber daya manusia."
+  },
+  {
+    "instruction": "Bagaimana Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua diharapkan mempengaruhi kesejahteraan rakyat menurut TAP MPRS No. XXVI/MPRS/1966?",
+    "context": "Bagian 'Menimbang', Ketetapan MPRS No. XXVI/MPRS/1966.",
+    "response": "Rencana ini diharapkan dapat meningkatkan kesejahteraan rakyat secara signifikan melalui peningkatan pendapatan per kapita, pengurangan kemiskinan, dan pemerataan pembangunan di seluruh wilayah Indonesia."
+  },
+  {
+    "instruction": "Apa peran pemerintah dalam pelaksanaan Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua menurut TAP MPRS No. XXVI/MPRS/1966?",
+    "context": "Rencana Pembangunan Nasional Jangka Panjang Tahapan Kedua (1969-1974) yang disahkan dalam TAP MPRS No. XXVI/MPRS/1966.",
+    "response": "Pemerintah berperan sebagai perencana, pelaksana, dan pengawas utama dalam pembangunan nasional, serta bertanggung jawab untuk memastikan bahwa rencana tersebut dijalankan secara efektif dan efisien."
+  },
+  {
+    "instruction": "Mengapa faham Komunisme/Marxisme-Leninisme dilarang menurut TAP MPRS No. XXV/MPRS/1966?",
+    "context": "Bagian Menimbang, Ketetapan MPRS No. XXV/MPRS/1966.",
+    "response": "Faham ini dilarang karena pada hakekatnya bertentangan dengan Pancasila. Selain itu, penganut faham ini (khususnya PKI) terbukti secara sejarah telah beberapa kali berusaha merobohkan kekuasaan Pemerintah RI yang sah dengan jalan kekerasan."
+  },
+  {
+    "instruction": "Apakah faham Komunisme/Marxisme-Leninisme boleh dipelajari menurut TAP MPRS No. XXV/MPRS/1966?",
+    "context": "Pasal 4, Ketetapan MPRS No. XXV/MPRS/1966.",
+    "response": "Kegiatan menyebarkan faham tersebut dilarang. Namun, mempelajarinya secara ilmiah (seperti di Universitas) dalam rangka mengamankan Pancasila dapat dilakukan secara terpimpin, dengan ketentuan harus diatur dalam perundang-undangan oleh Pemerintah dan DPR-GR."
+  },
+  {
+    "instruction": "Apa isi Pasal 2 dalam TAP MPRS No. XXV/MPRS/1966 mengenai media penyebaran?",
+    "context": "Pasal 2, Ketetapan MPRS No. XXV/MPRS/1966.",
+    "response": "Pasal 2 melarang setiap kegiatan untuk menyebarkan atau mengembangkan faham Komunisme/Marxisme-Leninisme dalam segala bentuk dan manifestasinya, termasuk penggunaan segala macam aparatur serta media bagi penyebaran faham tersebut."
+  },
+  {
+    "instruction": "Apa tujuan utama TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Ketetapan MPRS No. XXIII/MPRS/1966 tentang Pembaruan Kebijaksanaan Landasan Ekonomi, Keuangan, dan Pembangunan.",
+    "response": "Tujuannya adalah melakukan pembaharuan kebijaksanaan landasan ekonomi, keuangan, dan pembangunan untuk menanggulangi kemerosotan ekonomi akibat mismanagement, pemborosan, birokrasi, dan pemberontakan G.30.S/PKI."
+  },
+  {
+    "instruction": "Apa penyebab kemerosotan ekonomi Indonesia menurut Pasal 1 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 1, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Penyebab utamanya adalah penyelewengan dari pelaksanaan UUD 1945 secara murni, tidak adanya pengawasan efektif dari lembaga perwakilan rakyat, dan dikesampingkannya prinsip-prinsip ekonomi rasional demi kepentingan politik."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan Demokrasi Ekonomi menurut Pasal 5 dan 6 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 5 dan 6, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Demokrasi Ekonomi adalah sistem ekonomi terpimpin berdasarkan Pancasila di mana perekonomian disusun sebagai usaha bersama atas asas kekeluargaan. Ciri positifnya meliputi: tidak ada pertentangan kelas, cabang produksi vital dikuasai negara, hak milik perorangan diakui (fungsi sosial), dan fakir miskin dijamin negara."
+  },
+  {
+    "instruction": "Sebutkan ciri-ciri negatif yang harus dihindari dalam Demokrasi Ekonomi menurut Pasal 7 TAP MPRS No. XXIII/MPRS/1966.",
+    "context": "Pasal 7, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Ciri-ciri negatif yang harus dihindari adalah: 1) Sistem 'free-fight liberalism' (eksploitasi manusia), 2) Sistem 'etatisme' (negara mematikan potensi swasta), dan 3) Monopoli yang merugikan masyarakat."
+  },
+  {
+    "instruction": "Apa skala prioritas nasional untuk pembangunan jangka pendek menurut Pasal 15 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 15, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Skala prioritasnya adalah: (a) Pengendalian inflasi, (b) Pencukupan kebutuhan pangan, (c) Rehabilitasi prasarana ekonomi, (d) Peningkatan kegiatan ekspor, dan (e) Pencukupan kebutuhan sandang."
+  },
+  {
+    "instruction": "Bagaimana kebijakan anggaran negara (budget) diatur dalam Pasal 47 dan 52 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 47 dan 52, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Penyusunan anggaran harus mengusahakan penghapusan defisit untuk menekan inflasi. Anggaran Moneter hanya boleh terdiri dari anggaran rutin, pembangunan, devisa, dan kredit. 'Anggaran Khusus' (non-budgeter) dihapuskan dan diintegrasikan."
+  },
+  {
+    "instruction": "Apa pandangan TAP MPRS No. XXIII/MPRS/1966 mengenai modal asing dan kredit luar negeri?",
+    "context": "Pasal 55-57, Ketetapan MPRS No. XXIII/MPRS/1966 (Masalah Perkreditan Luar Negeri dan Modal Asing).",
+    "response": "Mengingat modal dalam negeri terbatas, Undang-undang mengenai modal asing perlu segera ditetapkan. Kredit luar negeri dapat dibenarkan asalkan merupakan bagian integral dari rencana stabilisasi, tidak memberatkan rakyat di kemudian hari, dan benar-benar rasional."
+  },
+  {
+    "instruction": "Apakah Indonesia akan kembali bergabung dengan lembaga ekonomi internasional menurut TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 65, Ketetapan MPRS No. XXIII/MPRS/1966 (Hubungan dengan Badan-Badan Internasional).",
+    "response": "Ya, Pasal 65 menyatakan agar Indonesia segera kembali menjadi anggota lembaga-lembaga ekonomi internasional seperti International Monetary Fund (IMF) dan International Bank for Reconstruction and Development (Bank Dunia)."
+  },
+  {
+    "instruction": "Bagaimana peran pemerintah dalam ekonomi menurut Pasal 40 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 40, Ketetapan MPRS No. XXIII/MPRS/1966 (Peranan Pemerintah).",
+    "response": "Pemerintah harus lebih menekankan pada pengawasan arah kegiatan ekonomi, bukan penguasaan sebanyak mungkin kegiatan ekonomi. Perlu dilakukan de-birokratisasi dan dekonsentrasi manajemen perusahaan negara."
+  },
+  {
+    "instruction": "Apa peran pihak Swasta Nasional menurut Pasal 44 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 44, Ketetapan MPRS No. XXIII/MPRS/1966 (Peranan Swasta).",
+    "response": "Golongan Swasta Nasional memiliki kebebasan memilih bidang usaha yang tidak menguasai hajat hidup rakyat banyak dan tidak strategis. Pemerintah berkewajiban memberikan pelayanan, pengayoman, dan bantuan wajar kepada swasta."
+  },
+  {
+    "instruction": "Apa mandat Pasal 1 TAP MPRS No. XXIV/MPRS/1966 mengenai pertahanan?",
+    "context": "Pasal 1, Ketetapan MPRS No. XXIV/MPRS/1966 tentang Kebijaksanaan dalam Bidang Pertahanan Keamanan.",
+    "response": "Pasal 1 memandatkan peninjauan kembali semua Ketetapan/Keputusan dan Resolusi MPRS yang menyangkut Bidang Pertahanan dan Keamanan demi pelaksanaan UUD 1945 secara murni dan konsekuen."
+  },
+  {
+    "instruction": "Sebutkan 4 marta (dimensi) pertahanan/keamanan menurut TAP MPRS No. XXIV/MPRS/1966.",
+    "context": "Pasal 3 Ayat 6, Ketetapan MPRS No. XXIV/MPRS/1966.",
+    "response": "Empat marta tersebut adalah: (a) Pertahanan Darat Nasional, (b) Pertahanan Maritim Nasional, (c) Pertahanan Udara Nasional, dan (d) Keamanan dan Ketertiban Masyarakat. Pelaksanaannya dilakukan secara gabungan antara ABRI dan Rakyat."
+  },
+  {
+    "instruction": "Apa landasan sistem persenjataan menurut Pasal 3 TAP MPRS No. XXIV/MPRS/1966?",
+    "context": "Pasal 3 Ayat 7, Ketetapan MPRS No. XXIV/MPRS/1966.",
+    "response": "Sistem persenjataan terdiri dari: 1) Sistem persenjataan fisik/teknologis berintikan ABRI dengan prinsip 'flexible response', dan 2) Sistem persenjataan sosial/politik yang melibatkan seluruh rakyat (Pertahanan Rakyat Semesta) sesuai Pasal 30 UUD 1945."
+  },
+  {
+    "instruction": "Apa fokus kebijakan Kesejahteraan Rakyat dalam TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Ketetapan MPRS No. XXVIII/MPRS/1966 tentang Kebijaksanaan Peningkatan Kesejahteraan Rakyat.",
+    "response": "Fokusnya meliputi intensifikasi rehabilitasi penderita cacat, penyatuan lembaga sosial desa, dan perhatian penuh pada jaminan sosial untuk perintis kemerdekaan, pejuang revolusi, dan sukarelawan."
+  },
+  {
+    "instruction": "Undang-undang apa yang diminta segera diadakan menurut Pasal 1 dan 2 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 1 dan 2, Ketetapan MPRS No. XXVIII/MPRS/1966.",
+    "response": "MPRS meminta segera diadakan Undang-undang Pokok Kesejahteraan, Undang-undang Perkawinan, dan Undang-undang Pokok Perburuhan (Tenaga Kerja) yang mengatur penempatan, pelatihan, serta demokrasi upah."
+  },
+  {
+    "instruction": "Apa kebijakan kesehatan yang diatur dalam Pasal 3 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 3, Ketetapan MPRS No. XXVIII/MPRS/1966 (Bidang Kesehatan).",
+    "response": "Segera melaksanakan Undang-undang tentang HYGIENE tahun 1965 dan mengintensifkan pemberantasan penyakit menular/rakyat seperti malaria, cacar, dan T.B.C."
+  },
+  {
+    "instruction": "Bagaimana pandangan mengenai Transmigrasi dalam Pasal 4 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 4, Ketetapan MPRS No. XXVIII/MPRS/1966 (Bidang Transmigrasi).",
+    "response": "Transmigrasi dianggap sebagai cara meningkatkan martabat kemanusiaan dan mengatasi pengangguran di daerah padat. Pelaksanaannya harus digiatkan dalam rangka kerja sama dan pembangunan daerah."
+  },
+  {
+    "instruction": "Apa prioritas pembangunan daerah menurut Pasal 30 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 30, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Prioritas utama pembangunan daerah diberikan kepada rehabilitasi dan penyempurnaan sistem perhubungan (termasuk Jalan Lintas Sumatera) dan pembangunan Masyarakat Desa."
+  },
+  {
+    "instruction": "Apa kebijakan tentang Impor menurut Pasal 58 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 58, Ketetapan MPRS No. XXIII/MPRS/1966 (Kebijaksanaan Impor).",
+    "response": "Kebijaksanaan impor harus ditujukan kepada pemasukan barang-barang yang langsung dapat mempertinggi produksi atau barang-barang yang sangat diperlukan oleh rakyat banyak."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Program Penyelamatan' dalam ekonomi menurut Pasal 16 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 16, Ketetapan MPRS No. XXIII/MPRS/1966 (Program Penyelamatan).",
+    "response": "Program Penyelamatan adalah program yang mendahului program stabilisasi, dengan sasaran mengatasi kemacetan produksi pangan, ekspor, sandang, dan prasarana dengan menyediakan bahan baku/spare-parts dalam jumlah minimum."
+  },
+  {
+    "instruction": "Apa hubungan antara kepentingan politik luar negeri dan ekonomi menurut Pasal 11 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 11, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Kepentingan dalam negeri, khususnya kepentingan ekonomi, harus tegas-tegas didahulukan daripada kepentingan politik luar negeri."
+  },
+  {
+    "instruction": "Bagaimana status proyek-proyek Mandataris (Anggaran Khusus) menurut TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 50 dan 53, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Anggaran Khusus dihapuskan. Proyek-proyek yang selama ini dibiayai anggaran khusus harus diintegrasikan atau disesuaikan dengan anggaran rutin/pembangunan, dan proyek yang tidak ekonomis/produktif harus ditunda."
+  },
+  {
+    "instruction": "Siapa yang berwenang melakukan pemeriksaan keuangan negara menurut Pasal 54 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 54, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Badan Pemeriksa Keuangan (BPK) wajib meningkatkan tindakannya dalam memeriksa tanggung jawab kekayaan/keuangan negara sesuai wewenang dalam UUD 1945, dan melaporkannya kepada DPR."
+  },
+  {
+    "instruction": "Apa landasan idiil sistem ekonomi Indonesia menurut Pasal 4 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 4, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Landasan idiilnya adalah Pancasila dan UUD 1945, terutama pasal-pasal 23, 27, 33, dan 34 beserta penjelasannya."
+  },
+  {
+    "instruction": "Apa kewajiban pemerintah terhadap Koperasi menurut Pasal 43 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 43, Ketetapan MPRS No. XXIII/MPRS/1966 (Peranan Koperasi).",
+    "response": "Pemerintah berkewajiban memberikan bimbingan, pengawasan, fasilitas, dan perlindungan terhadap Koperasi agar mampu menjurus ke arah pelaksanaan Pasal 33 UUD 1945."
+  },
+  {
+    "instruction": "Bagaimana pengaturan perimbangan keuangan pusat dan daerah menurut Pasal 32 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 32, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Perlu segera dilaksanakan ketentuan mengenai pemberian otonomi luas pada daerah, dekonsentrasi manajemen ekonomi, dan perimbangan keuangan antara pusat dan daerah."
+  },
+  {
+    "instruction": "Apa yang harus dilakukan terhadap aparatur pemerintahan menurut Pasal 66 dan 67 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 66 dan 67, Ketetapan MPRS No. XXIII/MPRS/1966 (Aparatur Pemerintah).",
+    "response": "Perangkat pemerintahan perlu disempurnakan menjadi 'Team' yang serasi, berjiwa Pancasila, pengemban Ampera, ahli, dipercaya rakyat, serta memiliki struktur yang sederhana, efisien, dan efektif."
+  },
+  {
+    "instruction": "Apa kebijakan Austerity Program yang disebutkan dalam Pasal 51 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 51, Ketetapan MPRS No. XXIII/MPRS/1966 (Penghematan).",
+    "response": "Penghematan sungguh-sungguh harus diselenggarakan melalui rencana penghematan (austerity program) yang drastis dan konsekuen, berlaku baik bagi pengeluaran sipil maupun militer."
+  },
+  {
+    "instruction": "Apa dasar pertimbangan kebijakan pertahanan dalam Pasal 3 ayat 1 TAP MPRS No. XXIV/MPRS/1966?",
+    "context": "Pasal 3 Ayat 1, Ketetapan MPRS No. XXIV/MPRS/1966.",
+    "response": "Dasar pertimbangannya adalah Keterangan Waperdam/Hankam di depan DPR-GR yang menegaskan kedudukan ABRI sebagai alat Revolusi dan alat Negara."
+  },
+  {
+    "instruction": "Bagaimana integrasi lembaga sosial desa diatur dalam Pasal 1 ayat 2 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 1 Ayat 2, Ketetapan MPRS No. XXVIII/MPRS/1966.",
+    "response": "Lembaga Sosial Desa, Pendidikan Masyarakat, dan Pembangunan Masyarakat Desa harus diintegrasikan menjadi satu badan demi efisiensi biaya dan tenaga."
+  },
+  {
+    "instruction": "Apa perhatian khusus untuk Irian Barat dalam Pasal 36 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 36, Ketetapan MPRS No. XXIII/MPRS/1966 (Pembangunan Daerah).",
+    "response": "Perhatian khusus perlu diberikan pada pembangunan daerah Irian Barat dalam semua bidang demi peningkatan taraf hidup dan keserasian tingkatan dengan daerah-daerah lain."
+  },
+  {
+    "instruction": "Apa sanksi bagi penyimpangan prinsip efisiensi ekonomi pemerintah menurut Pasal 41 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 41, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Penyimpangan dari prinsip-prinsip efisiensi dalam kegiatan Pemerintah di bidang ekonomi wajib dikenakan sanksi."
+  },
+  {
+    "instruction": "Apa definisi kekuatan ekonomi potensial Indonesia menurut Pasal 8 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 8, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Kekuatan ekonomi potensial terdiri dari: (1) Potensi dan daya kreasi Rakyat, dan (2) Kekayaan alam yang tersedia potensial."
+  },
+  {
+    "instruction": "Bagaimana strategi pembangunan jangka panjang ekonomi menurut Pasal 26 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 26, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Sisa Rencana Pembangunan Nasional Semesta Berencana 8 Tahun (peninggalan era sebelumnya) dijadikan rencana jangka panjang, namun disesuaikan dengan prioritas baru: pertanian, prasarana, dan industri/pertambangan."
+  },
+  {
+    "instruction": "Apa syarat pelaksanaan Transmigrasi menurut Pasal 4 ayat 2 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 4 Ayat 2, Ketetapan MPRS No. XXVIII/MPRS/1966.",
+    "response": "Transmigrasi harus digiatkan dan disempurnakan organisasinya, serta dilaksanakan dalam rangka kerja sama dan pembangunan daerah."
+  },
+  {
+    "instruction": "Apa instruksi mengenai penjara/lembaga pemasyarakatan dalam Pasal 1 ayat 6 TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 1 Ayat 6, Ketetapan MPRS No. XXVIII/MPRS/1966.",
+    "response": "Wawasan perikemanusiaan harus sungguh-sungguh diwujudkan dalam Lembaga-lembaga Pemasyarakatan."
+  },
+  {
+    "instruction": "Apa instruksi mengenai Suku Terasing dalam TAP MPRS No. XXVIII/MPRS/1966?",
+    "context": "Pasal 1 Ayat 3, Ketetapan MPRS No. XXVIII/MPRS/1966.",
+    "response": "Pemerintah diinstruksikan untuk mengintensifkan pemasyarakatan suku-suku terasing."
+  },
+  {
+    "instruction": "Apa fungsi koordinasi dalam pertahanan menurut Pasal 3 ayat 10 TAP MPRS No. XXIV/MPRS/1966?",
+    "context": "Pasal 3 Ayat 10, Ketetapan MPRS No. XXIV/MPRS/1966.",
+    "response": "Harus terjamin koordinasi efektif atas semua sarana dalam usaha prevensi, deteksi, dan tindakan atas setiap jenis subversi baik di waktu damai maupun perang."
+  },
+  {
+    "instruction": "Apa yang harus dilakukan terhadap Peraturan Pemerintah No. 10 Tahun 1959 menurut Pasal 63 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 63, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Peraturan Pemerintah No. 10 tahun 1959 (tentang pedagang asing di pedesaan) hendaknya diperbaharui dan ditingkatkan menjadi Undang-undang."
+  },
+  {
+    "instruction": "Bagaimana peranan daerah dalam pembangunan ekonomi menurut Pasal 29 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 29, Ketetapan MPRS No. XXIII/MPRS/1966.",
+    "response": "Pembangunan nasional identik dengan pembangunan daerah karena potensi ekonomi terdapat di daerah. Oleh karena itu, pembangunan ekonomi adalah pembangunan resource daerah."
+  },
+  {
+    "instruction": "Apa larangan bagi pembangunan proyek baru menurut Pasal 28 TAP MPRS No. XXIII/MPRS/1966?",
+    "context": "Pasal 28, Ketetapan MPRS No. XXIII/MPRS/1966 (Usaha Rehabilitasi).",
+    "response": "Selama rencana stabilisasi dan rehabilitasi belum selesai, tidak dibenarkan membangun proyek-proyek baru yang dapat mengganggu pelaksanaan program stabilisasi."
+  }
 ]
