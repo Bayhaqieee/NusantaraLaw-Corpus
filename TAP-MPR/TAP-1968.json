@@ -1,32 +1,47 @@
 [
-    {
-        "instruction": "Apa tujuan pembentukan Kabinet Pembangunan menurut TAP MPRS No. XLI/MPRS/1968?",
-        "input": "",
-        "output": "Kabinet Pembangunan dibentuk untuk melaksanakan Garis-Garis Besar Haluan Negara dan Rencana Pembangunan Lima Tahun. Kabinet ini harus berpegang pada asas Negara Hukum, Sistem Konstitusional, dan Demokrasi Pancasila demi stabilisasi dan pembangunan nasional."
-    },
-    {
-        "instruction": "Sebutkan 5 tugas pokok Kabinet Pembangunan (Panca Krida) dalam Pasal 1 TAP MPRS No. XLI/MPRS/1968.",
-        "input": "",
-        "output": "Tugas pokoknya adalah: 1) Menciptakan stabilisasi politik dan ekonomi; 2) Menyusun dan melaksanakan Rencana Pembangunan Lima Tahun; 3) Melaksanakan Pemilihan Umum; 4) Mengembalikan ketertiban dan keamanan dengan mengikis habis sisa-sisa G-30-S/PKI; dan 5) Melanjutkan penyempurnaan dan pembersihan aparatur negara."
-    },
-    {
-        "instruction": "Kapan batas waktu pembentukan Kabinet Pembangunan menurut Pasal 2 TAP MPRS No. XLI/MPRS/1968?",
-        "input": "",
-        "output": "Selambat-lambatnya tanggal 5 Juli 1968, Kabinet Pembangunan harus sudah dibentuk untuk menggantikan Kabinet Ampera."
-    },
-    {
-        "instruction": "Apa syarat-syarat untuk menjadi Menteri dalam Kabinet Pembangunan menurut Pasal 3 TAP MPRS No. XLI/MPRS/1968?",
-        "input": "",
-        "output": "Syarat-syaratnya adalah: a) Bertaqwa pada Tuhan YME; b) Setia pada Revolusi 17 Agustus 1945, NKRI, dan Pancasila-UUD 1945; c) Berwibawa; d) Jujur dalam pengabdian pada rakyat; e) Cakap dan ahli di bidangnya; f) Mendapat dukungan rakyat; dan g) Tidak terlibat G-30-S/PKI."
-    },
-    {
-        "instruction": "Apa mandat mengenai Pemilihan Umum dalam tugas pokok Kabinet Pembangunan?",
-        "input": "",
-        "output": "Salah satu tugas pokoknya adalah melaksanakan Pemilihan Umum sesuai dengan Ketetapan MPRS Nomor XLII/MPRS/1968."
-    },
-    {
-        "instruction": "Bagaimana sikap Kabinet Pembangunan terhadap aparatur negara menurut Pasal 1 huruf e TAP MPRS No. XLI/MPRS/1968?",
-        "input": "",
-        "output": "Kabinet Pembangunan bertugas melanjutkan penyempurnaan dan pembersihan secara menyeluruh Aparatur Negara dari tingkat Pusat sampai Daerah."
-    }
+  {
+    "instruction": "Apa tujuan pembentukan Kabinet Pembangunan menurut bagian Menimbang TAP MPRS No. XLI/MPRS/1968?",
+    "context": "Bagian Menimbang huruf a dan b, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Kabinet Pembangunan dibentuk untuk melaksanakan Garis-Garis Besar Haluan Negara dan Rencana Pembangunan Lima Tahun[cite: 14]. Kabinet ini harus berpegang pada asas dan sendi Undang-Undang Dasar 1945, yakni: Negara Hukum, Sistem Konstitusional, dan Demokrasi Pancasila[cite: 15]."
+  },
+  {
+    "instruction": "Apa hubungan tugas Kabinet Pembangunan dengan Kabinet Ampera?",
+    "context": "Pasal 1, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Tugas pokok Kabinet Pembangunan adalah melanjutkan tugas-tugas Kabinet Ampera dengan perincian tugas-tugas lanjutan yang ditetapkan dalam pasal tersebut[cite: 32, 33]."
+  },
+  {
+    "instruction": "Sebutkan 5 tugas pokok Kabinet Pembangunan (Panca Krida) dalam Pasal 1 TAP MPRS No. XLI/MPRS/1968.",
+    "context": "Pasal 1 huruf a sampai e, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Tugas pokoknya adalah: 1) Menciptakan stabilisasi politik dan ekonomi; 2) Menyusun dan melaksanakan Rencana Pembangunan Lima Tahun; 3) Melaksanakan Pemilihan Umum sesuai TAP MPRS No. XLII/MPRS/1968; 4) Mengembalikan ketertiban dan keamanan masyarakat dengan mengikis habis sisa-sisa G-30-S/PKI dan setiap perongrongan Pancasila/UUD 1945; dan 5) Melanjutkan penyempurnaan dan pembersihan secara menyeluruh Aparatur Negara dari tingkat Pusat sampai Daerah[cite: 35, 43, 44, 45, 46, 47]."
+  },
+  {
+    "instruction": "Apa yang dianggap sebagai syarat mutlak bagi keberhasilan Rencana Pembangunan Lima Tahun dan Pemilihan Umum?",
+    "context": "Pasal 1 huruf a, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Syarat mutlak bagi keberhasilan Rencana Pembangunan Lima Tahun dan Pemilihan Umum adalah terciptanya stabilisasi politik dan ekonomi[cite: 35, 43]."
+  },
+  {
+    "instruction": "Kapan batas waktu pembentukan Kabinet Pembangunan menurut Pasal 2 TAP MPRS No. XLI/MPRS/1968?",
+    "context": "Pasal 2, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Selambat-lambatnya tanggal 5 Juli 1968, Kabinet Pembangunan harus sudah dibentuk untuk menggantikan Kabinet Ampera berdasarkan Ketetapan ini[cite: 49]."
+  },
+  {
+    "instruction": "Apa syarat-syarat untuk menjadi Menteri dalam Kabinet Pembangunan menurut Pasal 3 TAP MPRS No. XLI/MPRS/1968?",
+    "context": "Pasal 3, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Syarat-syaratnya adalah: a) Bertaqwa pada Tuhan Yang Maha Esa; b) Setia pada Revolusi 17 Agustus 1945, Negara Kesatuan Republik Indonesia, serta Pancasila-UUD 1945; c) Berwibawa; d) Jujur dalam pengabdiannya demi kepentingan Rakyat; e) Cakap dan ahli di bidang Kementerian yang dipimpin; f) Mendapat dukungan dari Rakyat; dan g) Tidak terlibat baik langsung maupun tidak langsung dalam gerakan G-30-S/PKI[cite: 55, 56, 58, 64, 66, 69, 70]."
+  },
+  {
+    "instruction": "Apa mandat mengenai Pemilihan Umum dalam tugas pokok Kabinet Pembangunan?",
+    "context": "Pasal 1 huruf c, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Salah satu tugas pokoknya adalah melaksanakan Pemilihan Umum sesuai dengan Ketetapan MPRS Nomor XLII/MPRS/1968[cite: 45]."
+  },
+  {
+    "instruction": "Bagaimana sikap Kabinet Pembangunan terhadap aparatur negara menurut Pasal 1 huruf e TAP MPRS No. XLI/MPRS/1968?",
+    "context": "Pasal 1 huruf e, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Kabinet Pembangunan bertugas melanjutkan penyempurnaan dan pembersihan secara menyeluruh Aparatur Negara dari tingkat Pusat sampai Daerah[cite: 47]."
+  },
+  {
+    "instruction": "Siapa saja pimpinan MPRS yang menandatangani Ketetapan MPRS No. XLI/MPRS/1968?",
+    "context": "Bagian Penutup/Tanda Tangan, Ketetapan MPRS No. XLI/MPRS/1968.",
+    "response": "Ketetapan ini ditandatangani oleh Ketua Dr. A.H. Nasution (Jenderal TNI) dan para Wakil Ketua: Osa Maliki, H. M. Subchan Z.E., M. Siregar, dan Mashudi (May. Jen. TNI)[cite: 77, 78, 84, 87, 89, 92, 93]."
+  }
 ]
