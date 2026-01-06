@@ -1,23 +1,23 @@
 [
   {
-    "instruction": "Apa inti dari Ketetapan MPRS Nomor V/MPRS/1965?",
-    "context": "Ketetapan MPRS Nomor V/MPRS/1965 ditetapkan pada Sidang Umum MPRS ke-III di Bandung tanggal 16 April 1965. Ketetapan ini mengesahkan Amanat Politik Presiden/Pemimpin Besar Revolusi/Mandataris MPRS tanggal 11 April 1965 yang berjudul 'BERDIKARI' sebagai dokumen politik negara.",
-    "response": "Ketetapan ini menetapkan Amanat Politik Presiden tanggal 11 April 1965 yang berjudul 'BERDIKARI' sebagai penegasan Revolusi Indonesia dalam bidang politik, pedoman pelaksanaan Manipol, dan landasan program perjuangan rakyat Indonesia. [cite: 289, 307]"
+    "instruction": "Apa inti dan signifikansi dari Ketetapan MPRS Nomor V/MPRS/1965?",
+    "context": "Ketetapan MPRS Nomor V/MPRS/1965 ditetapkan pada Sidang Umum MPRS ke-III di Bandung tanggal 16 April 1965. Ketetapan ini mengesahkan dan menetapkan Amanat Politik Presiden/Pemimpin Besar Revolusi/Mandataris MPRS tanggal 11 April 1965 berjudul 'BERDIKARI' sebagai dokumen politik negara yang mengkonsolidasikan arah revolusi di bidang politik dan ekonomi nasional.",
+    "response": "Ketetapan ini menetapkan Amanat Politik Presiden tanggal 11 April 1965 yang berjudul 'BERDIKARI' (Berdiri Diatas Kaki Sendiri) sebagai: (1) Penegasan Revolusi Indonesia dalam bidang politik dan ekonomi; (2) Pedoman pelaksanaan Manifesto Politik Republik Indonesia (MANIPOL) yang telah ditetapkan dalam TAP I/MPRS/1960; (3) Landasan program perjuangan rakyat Indonesia menghadapi kolonialisme baru (neocolonialism) dan imperialisme; (4) Reorientasi kebijakan pembangunan nasional menuju kemandirian ekonomi Indonesia. TAP V menjadi dasar filosofis bagi TAP VI/MPRS/1965 yang mengatur operasionalisasi ekonomi perjuangan."
   },
   {
     "instruction": "Bagaimana TAP MPRS No. V/MPRS/1965 menggambarkan tahap Revolusi Indonesia saat itu?",
-    "context": "Mukadimah TAP MPRS No. V/MPRS/1965 menjelaskan posisi historis Revolusi Indonesia dalam garis pertumbuhannya menuju tujuan akhir berdasarkan Pancasila.",
-    "response": "Revolusi Indonesia digambarkan hampir selesai dengan tahap pertamanya (tahap Nasional-Demokratis) dan mulai memasuki tahap keduanya, yaitu tahap Sosialisme Indonesia berdasarkan Pancasila. [cite: 294]"
+    "context": "Mukadimah (preamble) TAP MPRS No. V/MPRS/1965 menjelaskan posisi historis Revolusi Indonesia dalam garis pertumbuhannya menuju tujuan akhir berdasarkan Pancasila, dengan penekanan pada transisi dari tahap satu ke tahap dua revolusi.",
+    "response": "Revolusi Indonesia digambarkan telah melewati hampir selesai tahap pertamanya yang disebut tahap Nasional-Demokratis (pembebasan dari imperialisme-kolonialisme Belanda) dan mulai memasuki tahap keduanya, yaitu tahap Sosialisme Indonesia berdasarkan Pancasila. Tahap kedua ini merupakan revolusi sosial yang bertujuan menghapus struktur ekonomi semi-feodal dan semi-kolonial, membangun ekonomi yang mandiri (Berdikari), dan mewujudkan masyarakat sosialis yang adil dan makmur berdasarkan nilai-nilai Pancasila."
   },
   {
-    "instruction": "Apa tujuan dari kebijakan 'Banting Stir' dalam TAP MPRS No. VI/MPRS/1965?",
-    "context": "TAP MPRS No. VI/MPRS/1965 lahir sebagai penyesuaian Pola Pembangunan Nasional Semesta Berencana Tahap Pertama (1961–1969) terhadap perkembangan politik nasional dan internasional, khususnya konfrontasi terhadap nekolim.",
-    "response": "Tujuannya adalah untuk menyesuaikan pelaksanaan Pembangunan Nasional Semesta Berencana Tahap Pertama (1961-1969) dengan perkembangan politik, khususnya untuk menghadapi Nekolim, dengan landasan 'Berdiri Diatas Kaki Sendiri' (BERDIKARI) di bidang ekonomi dan pembangunan. [cite: 331, 336, 353]"
+    "instruction": "Apa tujuan dan makna dari kebijakan 'Banting Stir' (perubahan haluan) dalam TAP MPRS No. VI/MPRS/1965?",
+    "context": "TAP MPRS No. VI/MPRS/1965 ditetapkan sebagai penyesuaian fundamental terhadap Pola Pembangunan Nasional Semesta Berencana Tahap Pertama (1961–1969) menghadapi perkembangan ekonomi, politik nasional dan internasional yang pesat, khususnya krisis ekonomi Indonesia dan konfrontasi terhadap negara-negara imperialistik dan kolonialistik (neocolonialism).",
+    "response": "Tujuannya adalah untuk melakukan 'banting stir' (perubahan arah haluan) strategis dalam pelaksanaan pembangunan dengan: (1) Menyesuaikan dengan krisis ekonomi Indonesia yang dalam (inflasi tinggi, defisit neraca pembayaran); (2) Menghadapi neocolonialism dengan strategi kemandirian ekonomi; (3) Melakukan reorientasi dari ketergantungan modal asing ke pembangunan berdikari; (4) Mengembalikan fokus pada sektor-sektor strategis (pangan, sandang, pertahanan). Kebijakan ini didasarkan pada prinsip BERDIKARI yang menjadi ideologi ekonomi Demokrasi Terpimpin tahap lanjut."
   },
   {
-    "instruction": "Apa definisi prinsip 'Berdiri Diatas Kaki Sendiri' menurut Pasal 1 TAP MPRS No. VI/MPRS/1965?",
-    "context": "Pasal 1 TAP MPRS No. VI/MPRS/1965 merumuskan prinsip dasar ekonomi nasional dalam kerangka Revolusi Indonesia.",
-    "response": "Prinsip ini berarti percaya pada kesanggupan dan kemampuan sendiri untuk memenuhi kebutuhan materiil dan spiritual rakyat dengan menggunakan kekuatan sendiri sebagai sandaran. [cite: 362]"
+    "instruction": "Apa definisi komprehensif dari prinsip 'Berdiri Diatas Kaki Sendiri' (BERDIKARI) menurut Pasal 1 TAP MPRS No. VI/MPRS/1965?",
+    "context": "Pasal 1 TAP MPRS No. VI/MPRS/1965 merumuskan prinsip dasar ekonomi nasional dalam kerangka Revolusi Indonesia, sebagai fondasi ideologis pengembangan strategi pembangunan ekonomi nasional yang mandiri.",
+    "response": "BERDIKARI didefinisikan sebagai: (1) Prinsip percaya pada kesanggupan dan kemampuan sendiri untuk memenuhi kebutuhan materiil dan spiritual rakyat Indonesia; (2) Penggunaan kekuatan sendiri sebagai sandaran utama dalam pembangunan ekonomi, meminimalkan ketergantungan pada modal asing; (3) Komitmen untuk menghapus struktur ekonomi semi-feodal dan semi-kolonial yang masih tertanam sejak era penjajahan; (4) Strategi ekonomi yang berlandaskan pada hukum ekonomi revolusioner yang mengubah hubungan produksi dari kapitalistik menjadi sosial-nasional; (5) Sikap nasional menolak dominasi ekonomi dari kekuatan eksternal (neocolonialism dan imperialisme) dan membangun kemandirian ekonomi."
   },
   {
     "instruction": "Apa strategi dasar ekonomi 'Berdikari' yang disebutkan dalam Pasal 1 TAP MPRS No. VI/MPRS/1965?",
@@ -35,19 +35,19 @@
     "response": "Kebijakannya tegas: Sistim proyek B yang menggantungkan diri pada modal asing dihapuskan. Pembiayaan harus didasarkan pada kekuatan sendiri. [cite: 433, 435]"
   },
   {
-    "instruction": "Siapa saja yang termasuk dalam 'kekuatan ekonomi nyata' Indonesia menurut TAP MPRS No. VI/MPRS/1965?",
-    "context": "Pasal 1 Ayat (3) TAP MPRS No. VI/MPRS/1965 merinci elemen-elemen kekuatan ekonomi nasional yang menjadi sandaran prinsip Berdikari.",
-    "response": "Kekuatan ekonomi nyata meliputi: Proyek Nation and Character Building, tenaga kerja rakyat (Buruh, Tani, Nelayan, Angkatan Bersenjata), unit ekonomi negara/daerah, unit ekonomi koperasi, unit ekonomi swasta progresif, dan proyek pembangunan yang hampir selesai. [cite: 365, 367, 369, 372, 375, 377]"
+    "instruction": "Siapa saja yang termasuk dalam 'kekuatan ekonomi nyata' (real economic forces) Indonesia menurut Pasal 1 Ayat (3) TAP MPRS No. VI/MPRS/1965?",
+    "context": "Pasal 1 Ayat (3) merinci elemen-elemen kekuatan ekonomi nasional yang menjadi sandaran prinsip Berdikari. Konsep 'kekuatan ekonomi nyata' merujuk pada sektor-sektor produksi yang dikuasai atau dapat dikontrol oleh negara dan rakyat, bukan oleh kekuatan imperialis.",
+    "response": "Kekuatan ekonomi nyata terdiri dari: (1) Proyek Nation and Character Building (membangun kesadaran revolusioner rakyat); (2) Tenaga kerja rakyat produktif: Buruh (pekerja industri), Tani (petani penggarap), Nelayan (nelayan tradisional), dan Angkatan Bersenjata (pertahanan dan pengayom revolusi); (3) Unit ekonomi negara dan daerah (BUMN, perusahaan daerah); (4) Unit ekonomi koperasi (koperasi produksi, tani, nelayan); (5) Unit ekonomi swasta progresif (pengusaha swasta yang mendukung revolusi); (6) Proyek-proyek pembangunan yang hampir selesai. Gabungan elemen-elemen ini membentuk pusat gravitasi ekonomi revolusioner Indonesia."
   },
   {
     "instruction": "Bagaimana pengaturan Impor dan Ekspor dalam Pasal 9 TAP MPRS No. VI/MPRS/1965?",
-    "context": "Pasal 9 TAP MPRS No. VI/MPRS/1965 mengatur secara ketat peran swasta dalam kegiatan impor dan ekspor.",
-    "response": "Di bidang impor, pengusaha swasta dilarang melakukan impor kecuali atas nama Pemerintah. Di bidang ekspor, swasta hanya boleh menjadi produsen ekspor di bawah pimpinan Pemerintah. [cite: 464, 466]"
+    "context": "Pasal 9 mengatur secara ketat peran swasta dalam kegiatan impor dan ekspor, menerapkan kontrol negara untuk mencegah ketergantungan ekonomi pada kekuatan asing.",
+    "response": "Pengaturannya menerapkan kontrol negara ketat: (1) Di bidang IMPOR: Pengusaha swasta dilarang melakukan impor secara mandiri, kecuali atas nama Pemerintah (sebagai broker atau distributor resmi). Semua keputusan impor strategis harus melalui persetujuan dan koordinasi negara untuk melindungi industri dalam negeri; (2) Di bidang EKSPOR: Swasta hanya boleh bertindak sebagai produsen ekspor (menghasilkan barang untuk ekspor) yang berada di bawah pimpinan, pengawasan, dan koordinasi Pemerintah. Negara mengendalikan strategi ekspor, penetapan harga, dan alokasi divisa dari hasil ekspor. Kebijakan ini dirancang untuk menghindari sistem export-oriented yang menguntungkan asing dan menciptakan ekonomi yang tergantung pada pertukaran komoditas mentah dengan produk industri mahal."
   },
   {
     "instruction": "Apa tindakan terhadap perusahaan asing yang bermusuhan menurut Pasal 10 TAP MPRS No. VI/MPRS/1965?",
-    "context": "Pasal 10 TAP MPRS No. VI/MPRS/1965 memberikan dasar hukum bagi tindakan negara terhadap perusahaan asing yang dianggap menghambat Revolusi Indonesia.",
-    "response": "Melaksanakan nasionalisasi dan bila perlu menyita semua perusahaan asing yang bermusuhan demi mencapai kebebasan penuh di bidang ekonomi. [cite: 468]"
+    "context": "Pasal 10 memberikan dasar hukum bagi tindakan negara terhadap perusahaan asing yang dianggap menghambat revolusi atau melayani kepentingan neocolonial, sebagai bagian dari pembebasan ekonomi nasional.",
+    "response": "Pasal 10 mengamanatkan tindakan tegas: Melaksanakan nasionalisasi dan bila perlu menyita semua perusahaan asing yang bermusuhan atau menghambat proses revolusi Indonesia demi mencapai kebebasan penuh di bidang ekonomi. Perusahaan asing yang 'bermusuhan' mencakup: (1) Perusahaan yang melayani kepentingan modal asing/imperialis; (2) Perusahaan yang merugikan ekonomi rakyat melalui ekstraksi keuntungan besar tanpa investasi sosial; (3) Perusahaan yang melakukan praktik colonial exploitation (perampasan hasil alam tanpa kompensasi wajar); (4) Perusahaan yang mengambil alih fungsi ekonomi yang seharusnya dikuasai negara. Nasionalisasi ini merupakan realisasi dari cita-cita bebas dari dominasi ekonomi asing."
   },
   {
     "instruction": "Apa kebijakan perlindungan industri dalam negeri dalam Pasal 14 TAP MPRS No. VI/MPRS/1965?",
@@ -86,8 +86,8 @@
   },
   {
     "instruction": "Apa yang dimaksud dengan 'Iklim Ekonomi' yang harus diciptakan menurut Pasal 5 TAP MPRS No. VI/MPRS/1965?",
-    "context": "Pasal 5 TAP MPRS No. VI/MPRS/1965 mengatur kondisi ekonomi yang harus diwujudkan untuk mendukung Revolusi.",
-    "response": "Iklim ekonomi yang memperkuat ketahanan Revolusi menghadapi nekolim, meliputi rehabilitasi alat produksi, stabilisasi harga, pemberantasan inflasi dan ongkos gelap, serta pelaksanaan Landreform (UUPA/UUPBH) secara konsekuen. [cite: 420, 421, 425, 426]"
+    "context": "Pasal 5 mengatur kondisi ekonomi makro yang harus diwujudkan untuk mendukung revolusi dan melindungi dari neocolonialism. 'Iklim Ekonomi' merujuk pada keseluruhan kebijakan dan situasi ekonomi yang mendukung transformasi sosial-ekonomi.",
+    "response": "Iklim Ekonomi yang harus diciptakan adalah kondisi ekonomi yang memperkuat ketahanan Revolusi menghadapi ancaman neocolonialism, meliputi: (1) Rehabilitasi dan peningkatan alat-alat produksi yang rusak selama transisi; (2) Stabilisasi harga barang-barang pokok untuk melindungi daya beli rakyat dari inflasi; (3) Pemberantasan inflasi yang merampas nilai uang dan tabungan rakyat; (4) Penghapusan 'ongkos gelap' (pungutan liar, korupsi dalam sistem perpajakan); (5) Pelaksanaan Landreform (UUPA dan UUPBH) untuk mengubah kepemilikan tanah dan hasil pertanian; (6) Harmonisasi kebijakan sektoral untuk mendukung tujuan revolusi ekonomi."
   },
   {
     "instruction": "Apa pedoman penyusunan Anggaran Moneter menurut Pasal 17 TAP MPRS No. VI/MPRS/1965?",

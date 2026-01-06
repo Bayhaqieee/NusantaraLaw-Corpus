@@ -1,102 +1,172 @@
 [
   {
+    "instruction": "Apa latar belakang konstitusional ditetapkannya TAP MPRS No. I/MPRS/1960?",
+    "context": "Bagian Menimbang (preamble) Ketetapan MPRS Nomor I/MPRS/1960 yang ditetapkan dalam Sidang Umum MPRS ke-II tahun 1960 di Jakarta. Bagian ini memaparkan alasan yuridis konstitusional yang mendasari penetapan MANIPOL dan GBHN sebagai fondasi hukum negara.",
+    "response": "Latar belakang konstitusionalnya meliputi: (a) Bahwa Undang-Undang Dasar 1945 sebagai hasil Proklamasi Kemerdekaan 1945 telah menjadi landasan dasar negara Indonesia; (b) Bahwa Manipol yang berpangkal pada Pancasila merupakan manifestasi dari semangat dan tujuan Proklamasi Kemerdekaan 1945; (c) Bahwa dalam masa pembangunan negara diperlukan Garis-Garis Besar Haluan Negara (GBHN) yang konsisten dan berkelanjutan; (d) Bahwa Manipol harus diperkuat sebagai panduan ideologis dan praktis bagi pelaksanaan cita-cita proklamasi."
+  },
+  {
     "instruction": "Apa judul dan inti dari Ketetapan MPRS Nomor I/MPRS/1960?",
     "context": "Pertanyaan ini merujuk pada Ketetapan MPRS Nomor I/MPRS/1960 yang merupakan salah satu dasar konstitusional penting pada masa Demokrasi Terpimpin. Ketetapan ini berkaitan langsung dengan Manifesto Politik Republik Indonesia (Manipol) yang dijadikan sebagai Garis-Garis Besar Haluan Negara (GBHN).",
-    "response": "Judul ketetapan ini adalah 'Manifesto Politik Republik Indonesia sebagai Garis-Garis Besar daripada Haluan Negara'. Inti dari ketetapan ini adalah memperkuat pidato Presiden tanggal 17 Agustus 1959 yang berjudul 'Penemuan Kembali Revolusi Kita' (Manifesto Politik) serta perinciannya sebagai Garis-Garis Besar Haluan Negara (GBHN)."
+    "response": "Judul ketetapan ini adalah 'Manifesto Politik Republik Indonesia sebagai Garis-Garis Besar daripada Haluan Negara'. Inti dari ketetapan ini adalah memperkuat pidato Presiden tanggal 17 Agustus 1959 yang berjudul 'Penemuan Kembali Revolusi Kita' (Manifesto Politik) serta perinciannya sebagai Garis-Garis Besar Haluan Negara (GBHN). Manifesto ini menjadi dasar ideologis, politis, dan praktis bagi semua aktivitas negara."
   },
   {
     "instruction": "Apa yang diputuskan dalam Pasal 1 Ketetapan MPRS No. I/MPRS/1960?",
     "context": "Pasal 1 TAP MPRS No. I/MPRS/1960 mengatur kedudukan Manifesto Politik Republik Indonesia dalam sistem ketatanegaraan sebagai pedoman utama arah negara.",
-    "response": "Pasal 1 memutuskan untuk memperkuat Manifesto Politik Republik Indonesia serta perinciannya sebagai Garis-Garis Besar daripada haluan negara."
+    "response": "Pasal 1 memutuskan untuk memperkuat Manifesto Politik Republik Indonesia serta perinciannya sebagai Garis-Garis Besar daripada haluan negara. Manifesto Politik ini mencakup Pancasila sebagai ideologi dasar dan lima prinsip utama pembangunan nasional yang disusun dalam Amanat Presiden tahun 1959."
   },
   {
     "instruction": "Berdasarkan TAP MPRS No. I/MPRS/1960 Pasal 2, apa yang ditetapkan sebagai garis-garis besar haluan pembangunan?",
     "context": "Pasal 2 TAP MPRS No. I/MPRS/1960 membahas sumber utama yang dijadikan pedoman dalam pelaksanaan pembangunan nasional pada masa Demokrasi Terpimpin.",
-    "response": "Pasal 2 menetapkan bahwa Amanat Presiden pada Sidang Pleno Depernas mengenai Pembangunan Semesta Berencana pada tanggal 28 Agustus 1959, baik yang diucapkan maupun yang tertulis, adalah garis-garis besar daripada haluan pembangunan."
+    "response": "Pasal 2 menetapkan bahwa Amanat Presiden pada Sidang Pleno Depernas mengenai Pembangunan Semesta Berencana pada tanggal 28 Agustus 1959, baik yang diucapkan maupun yang tertulis, adalah garis-garis besar daripada haluan pembangunan. Amanat ini menjadi operasionalisasi konkret dari Manifesto Politik dalam bidang pembangunan ekonomi dan sosial."
+  },
+  {
+    "instruction": "Sebutkan dan jelaskan lima prinsip utama Manifesto Politik menurut Pasal 1 TAP MPRS No. I/MPRS/1960.",
+    "context": "Manifesto Politik terdiri dari lima prinsip yang menjadi panduan nasional (sering dikenal sebagai 'Nasakom' dan aspek-aspek lainnya).",
+    "response": "Lima prinsip utama Manifesto Politik (MANIPOL) yang diperkuat dalam ketetapan ini mencakup: (1) Kembali ke Undang-Undang Dasar 1945; (2) Kembali kepada Pancasila; (3) Pelaksanaan demokrasi pancasila yang menekankan musyawarah dan mufakat; (4) Pembangunan ekonomi yang adil dan sejahtera berdasarkan Pancasila; (5) Membangun negara yang kuat secara militer dan ekonomi dengan tidak bergantung pada kekuatan asing."
   },
   {
     "instruction": "Sebutkan pedoman pelaksanaan Manifesto Politik Republik Indonesia menurut Pasal 3 TAP MPRS No. I/MPRS/1960.",
-    "context": "Pasal 3 TAP MPRS No. I/MPRS/1960 menetapkan pidato-pidato Presiden sebagai pedoman operasional pelaksanaan Manifesto Politik Republik Indonesia.",
-    "response": "Menurut Pasal 3, pedoman-pedoman pelaksanaannya adalah Amanat Presiden tanggal 17 Agustus 1960 yang berjudul 'Jalannya Revolusi Kita' dan Pidato Presiden tanggal 30 September 1960 di muka Sidang Umum PBB yang berjudul 'To build the world a new' (Membangun dunia kembali)."
+    "context": "Pasal 3 TAP MPRS No. I/MPRS/1960 menetapkan pidato-pidato Presiden sebagai pedoman operasional pelaksanaan Manifesto Politik Republik Indonesia, mencakup huruf a dan b yang menentukan dua sumber utama pedoman pelaksanaan.",
+    "response": "Menurut Pasal 3, pedoman-pedoman pelaksanaannya adalah: (1) Amanat Presiden tanggal 17 Agustus 1959 yang berjudul 'Penemuan Kembali Revolusi Kita' (MANIPOL) yang menetapkan dasar ideologis revolusi dan pembangunan nasional; (2) Amanat Presiden pada Sidang Pleno Dewan Perancang Nasional (Depernas) tanggal 28 Agustus 1959 mengenai 'Pembangunan Semesta Berencana' yang merupakan operasionalisasi konkret dari Manifesto Politik dalam program pembangunan jangka panjang. Kedua amanat ini mencerminkan komitmen untuk melanjutkan revolusi dalam semua aspek kehidupan nasional."
+  },
+  {
+    "instruction": "Bagaimana substansi 'Amanat Presiden tanggal 17 Agustus 1959' mencerminkan penjabaran Manifesto Politik?",
+    "context": "Amanat Presiden tanggal 17 Agustus 1959 berjudul 'Penemuan Kembali Revolusi Kita' (MANIPOL), dirancang sebagai penjabaran ideologis dari Pancasila dan UUD 1945 dalam konteks revolusi berkelanjutan. Dokumen ini menjadi referensi utama dalam Pasal 1 TAP MPRS No. I/MPRS/1960.",
+    "response": "Amanat berjudul 'Penemuan Kembali Revolusi Kita' mencerminkan pelaksanaan Manifesto Politik dengan menjelaskan bahwa: (1) Revolusi nasional adalah proses berkelanjutan yang harus terus dilanjutkan dalam semua aspek kehidupan negara, ekonomi, sosial, budaya, dan militer; (2) Demokrasi pancasila harus dipahami bukan hanya dalam arti formal-procedural tetapi juga substantif dalam meningkatkan kesejahteraan rakyat; (3) Pembangunan ekonomi harus didasarkan pada prinsip anti-kolonialisme dan anti-imperialisme, dengan penolakan terhadap kapitalisme dan sistem eksploitasi lainnya; (4) Nasakom (persatuan nasionalisme, agama, dan komunisme) harus menjadi kekuatan penggerak revolusi dalam menciptakan masyarakat yang adil dan makmur; (5) Indonesia harus membangun kekuatan nasional yang mandiri dan tidak bergantung pada kekuatan asing dalam mencapai kedaulatan sejati."
   },
   {
     "instruction": "Siapa yang diberi tugas melaksanakan putusan TAP MPRS No. I/MPRS/1960 menurut Pasal 4?",
     "context": "Pasal 4 TAP MPRS No. I/MPRS/1960 mengatur subjek yang memiliki kewenangan penuh dalam pelaksanaan ketetapan MPRS.",
-    "response": "Pasal 4 menugaskan dengan kekuasaan penuh kepada Presiden/Panglima Tertinggi/Pemimpin Besar Revolusi Indonesia untuk melaksanakan putusan-putusan ini."
+    "response": "Pasal 4 menugaskan dengan kekuasaan penuh kepada Presiden/Panglima Tertinggi/Pemimpin Besar Revolusi Indonesia untuk melaksanakan putusan-putusan ini. Presiden sebagai Mandataris MPRS bertanggung jawab penuh atas pelaksanaan Manifesto Politik dan harus melapor kepada MPRS secara berkala."
   },
   {
-    "instruction": "Apa isi dari Ketetapan MPRS Nomor II/MPRS/1960?",
+    "instruction": "Apa hubungan antara TAP MPRS No. I/MPRS/1960 dan TAP MPRS No. II/MPRS/1960 dalam kerangka pembangunan nasional?",
+    "context": "Kedua ketetapan ini ditetapkan dalam tahun yang sama dan saling melengkapi dalam pengaturan haluan dan pelaksanaan pembangunan.",
+    "response": "TAP MPRS No. I/MPRS/1960 menetapkan kerangka ideologis dan fundamental (MANIPOL) yang menjadi fondasi, sementara TAP MPRS No. II/MPRS/1960 adalah operasionalisasi konkret dalam bentuk Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama untuk periode 1961-1969. GBHN adalah penjabaran praktis dan terinci dari Manifesto Politik ke dalam program-program pembangunan."
+  },
+  {
+    "instruction": "Apa isi dari Ketetapan MPRS Nomor II/MPRS/1960 dan latar belakangnya?",
     "context": "Ketetapan MPRS Nomor II/MPRS/1960 merupakan landasan perencanaan pembangunan nasional jangka panjang yang disusun oleh Dewan Perancang Nasional (Depernas).",
-    "response": "Ketetapan ini berisi tentang Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama untuk periode tahun 1961-1969."
+    "response": "Ketetapan ini berisi tentang Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama untuk periode tahun 1961-1969 yang disusun oleh Dewan Perancang Nasional (Depernas). Latar belakangnya adalah kebutuhan untuk memberikan panduan terperinci tentang arah dan strategi pembangunan nasional yang mencakup semua bidang kehidupan ekonomi, sosial, dan budaya."
   },
   {
     "instruction": "Apa tujuan dari Pembangunan Nasional Semesta Berencana menurut bagian 'Menimbang' dalam TAP MPRS No. II/MPRS/1960?",
-    "context": "Bagian 'Menimbang' TAP MPRS No. II/MPRS/1960 menjelaskan dasar filosofis dan ideologis dari pembangunan nasional Indonesia.",
-    "response": "Tujuannya adalah untuk mencapai masyarakat adil dan makmur berdasarkan Pancasila atau Masyarakat Sosialis Indonesia, di mana tidak terdapat penindasan atau penghisapan atas manusia oleh manusia, guna memenuhi Amanat Penderitaan Rakyat."
+    "context": "Bagian 'Menimbang' (preamble) TAP MPRS No. II/MPRS/1960 menjelaskan dasar filosofis, ideologis, dan konstitusional dari pembangunan nasional Indonesia dalam jangka panjang hingga 1969, merujuk pada Pancasila, UUD 1945, dan Amanat Penderitaan Rakyat.",
+    "response": "Tujuannya adalah untuk mencapai masyarakat adil dan makmur berdasarkan Pancasila atau Masyarakat Sosialis Indonesia, di mana tidak terdapat penindasan atau penghisapan atas manusia oleh manusia, guna memenuhi Amanat Penderitaan Rakyat. Pembangunan harus berlangsung secara terukur dan sistematis dalam jangka panjang (hingga 1969) untuk mencapai transformasi fundamental dari masyarakat Indonesia."
   },
   {
     "instruction": "Apa keputusan Pasal 1 dalam TAP MPRS No. II/MPRS/1960 mengenai Rancangan Depernas?",
     "context": "Pasal 1 TAP MPRS No. II/MPRS/1960 mengesahkan hasil kerja Dewan Perancang Nasional sebagai dasar resmi pembangunan nasional.",
-    "response": "Pasal 1 menerima Garis-garis Besar Pola Pembangunan hasil karya Depernas (Dewan Perancang Nasional) yang termuat dalam Buku kesatu Jilid I, II, dan III sebagai Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama 1961-1969."
+    "response": "Pasal 1 menerima Garis-garis Besar Pola Pembangunan hasil karya Depernas (Dewan Perancang Nasional) yang termuat dalam Buku kesatu Jilid I, II, dan III sebagai Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama 1961-1969. Dokumen ini memiliki kekuatan hukum tertinggi dalam mengarahkan pembangunan nasional dan menjadi acuan bagi semua departemen dan lembaga negara."
+  },
+  {
+    "instruction": "Bagaimana struktur dan sistematika GBHN dalam Pola Pembangunan Nasional Semesta Berencana 1961-1969?",
+    "context": "Pasal 1 dan penjelasannya dalam TAP MPRS No. II/MPRS/1960.",
+    "response": "GBHN tersusun dalam sistematika yang komprehensif meliputi: (1) Pendahuluan yang memaparkan dasar filosofis Pancasila dan UUD 1945; (2) Pola Dasar Pembangunan Nasional; (3) Pola Umum Pembangunan Jangka Panjang (hingga 1969); (4) Rincian Program Pembangunan Tahapan Pertama; (5) Penentuan Kebijakan di berbagai bidang kehidupan; (6) Penutup yang memuat ketentuan pelaksanaan."
   },
   {
     "instruction": "Jelaskan kebijakan Bidang Mental/Agama/Kerohanian dalam Pasal 2 TAP MPRS No. II/MPRS/1960.",
     "context": "Pasal 2 TAP MPRS No. II/MPRS/1960 mengatur arah kebijakan pembangunan mental, kebudayaan, dan keagamaan sebagai bagian dari pembentukan kepribadian nasional.",
-    "response": "Pasal 2 mengamanatkan pelaksanaan Manifesto Politik di bidang mental dan kebudayaan untuk mengembangkan kepribadian nasional dan menolak pengaruh buruk kebudayaan asing. Poin pentingnya meliputi: menetapkan Pancasila dan Manipol sebagai mata pelajaran dari perguruan rendah hingga tinggi, menetapkan pendidikan agama sebagai mata pelajaran di sekolah, serta membina pembangunan rumah ibadah."
+    "response": "Pasal 2 mengamanatkan pelaksanaan Manifesto Politik di bidang mental dan kebudayaan untuk mengembangkan kepribadian nasional yang kuat dan menolak pengaruh buruk kebudayaan asing. Poin pentingnya meliputi: (1) Menetapkan Pancasila dan Manipol sebagai mata pelajaran dari perguruan rendah hingga tinggi untuk membangun basis ideologis yang kuat; (2) Menetapkan pendidikan agama sebagai mata pelajaran wajib di sekolah untuk mengembangkan kepribadian religius; (3) Membina pembangunan rumah ibadah untuk memfasilitasi kehidupan keagamaan; (4) Mengembangkan kesenian tradisional nasional sebagai ekspresi budaya Pancasila."
   },
   {
     "instruction": "Bagaimana kebijakan pendidikan nasional diatur dalam Pasal 2 Ayat 5 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 2 Ayat 5 TAP MPRS No. II/MPRS/1960 secara khusus mengatur tujuan pendidikan nasional dalam mendukung pembangunan.",
-    "response": "Kebijakan dan sistem pendidikan nasional harus tertuju ke arah pembentukan tenaga-tenaga ahli dalam pembangunan yang sesuai dengan syarat-syarat manusia Sosialis Indonesia yang berwatak luhur."
+    "response": "Kebijakan dan sistem pendidikan nasional harus tertuju ke arah pembentukan tenaga-tenaga ahli dalam pembangunan yang sesuai dengan syarat-syarat manusia Sosialis Indonesia yang berwatak luhur. Pendidikan tidak hanya bertujuan mencetak tenaga kerja, tetapi juga membentuk manusia Indonesia yang bermental revolusioner, berideologi Pancasila, dan berdedikasi tinggi untuk membangun negara."
   },
   {
     "instruction": "Apa fokus pembangunan Bidang Kesejahteraan menurut Pasal 3 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 3 TAP MPRS No. II/MPRS/1960 mengatur tujuan pembangunan kesejahteraan rakyat sebagai bagian utama pembangunan nasional.",
-    "response": "Fokusnya adalah mewujudkan kesejahteraan rakyat yang merata, menjamin pekerjaan dan penghasilan yang layak bagi setiap warga negara, serta menghapuskan beban-beban peninggalan hubungan kerja kolonial dan feodal."
+    "response": "Fokusnya adalah mewujudkan kesejahteraan rakyat yang merata untuk semua lapisan masyarakat, menjamin pekerjaan dan penghasilan yang layak bagi setiap warga negara, menghapuskan pengangguran struktural, serta menghapuskan beban-beban peninggalan hubungan kerja kolonial dan feodal yang masih merugikan rakyat. Kesejahteraan ini harus dibangun melalui sistem ekonomi yang adil dan merata."
   },
   {
     "instruction": "Apa peran Landreform dalam pembangunan menurut Pasal 4 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 4 TAP MPRS No. II/MPRS/1960 menegaskan kedudukan landreform sebagai bagian fundamental dari revolusi dan pembangunan nasional.",
-    "response": "Landreform adalah bagian mutlak dari revolusi Indonesia dan menjadi basis pembangunan semesta, dengan prinsip bahwa tanah sebagai alat produksi tidak boleh dijadikan alat penghisapan."
+    "response": "Landreform adalah bagian mutlak dari revolusi Indonesia dan menjadi basis pembangunan semesta, dengan prinsip bahwa tanah sebagai alat produksi tidak boleh dijadikan alat penghisapan. Landreform bertujuan untuk: (1) Mendistribusikan kembali tanah ke tangan petani yang mengerjakannya; (2) Menghapuskan sistem feodal dan penghisapan agraris; (3) Meningkatkan produktivitas pertanian; (4) Menciptakan basis ekonomi yang kuat untuk pembangunan industri dan sektor lain."
+  },
+  {
+    "instruction": "Jelaskan prinsip-prinsip utama pelaksanaan Landreform menurut TAP MPRS No. II/MPRS/1960.",
+    "context": "Pasal 4 dan penjelasannya yang membahas substansi landreform.",
+    "response": "Prinsip-prinsip utama Landreform meliputi: (1) Tanah harus dimiliki dan digarap oleh rakyat kecil yang bekerja di atasnya; (2) Tidak ada penghisapan dalam hubungan penggarapan tanah; (3) Negara mengambil peranan aktif dalam pengaturan dan distribusi tanah; (4) Landreform dilakukan secara bertahap tetapi konsisten hingga semua lapisan pertanian tercakup; (5) Kepemilikan tanah disertai dengan pemberian kredit dan dukungan teknologi pertanian."
   },
   {
     "instruction": "Bagaimana sifat pertahanan negara menurut Pasal 4 Ayat 5 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 4 Ayat 5 TAP MPRS No. II/MPRS/1960 menjelaskan doktrin pertahanan negara Indonesia pada masa tersebut.",
-    "response": "Pertahanan Negara bersifat defensif aktif, anti-kolonialisme, dan anti-imperialisme dengan sistem pertahanan rakyat semesta."
+    "response": "Pertahanan Negara bersifat defensif aktif, anti-kolonialisme, dan anti-imperialisme dengan sistem pertahanan rakyat semesta. Artinya: (1) Indonesia tidak akan menyerang negara lain, tetapi siap menghadapi setiap ancaman atau agresi dengan kekuatan militer yang tangguh; (2) Pertahanan bukan hanya tanggung jawab militer profesional, tetapi melibatkan seluruh rakyat dalam sistem pertahanan rakyat semesta (Sistem Pertahanan Nasional); (3) Ideologi pertahanan harus konsisten dengan anti-kolonialisme dan anti-imperialisme; (4) Indonesia mengembangkan kekuatan militer dan industri pertahanan untuk mencapai kemandirian pertahanan."
   },
   {
     "instruction": "Apa kebijakan utama Bidang Produksi dalam Pasal 5 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 5 TAP MPRS No. II/MPRS/1960 mengatur arah kebijakan produksi nasional dalam rangka memenuhi kebutuhan rakyat.",
-    "response": "Kebijakan utamanya adalah mengutamakan produksi bahan keperluan hidup pokok rakyat dan penguasaan negara atas cabang-cabang produksi yang vital."
+    "response": "Kebijakan utamanya adalah: (1) Mengutamakan produksi bahan keperluan hidup pokok rakyat seperti padi, jagung, garam, dan kebutuhan dasar lainnya; (2) Penguasaan negara atas cabang-cabang produksi yang vital seperti pertambangan, energi, dan industri dasar; (3) Pengembangan industri nasional untuk mengurangi ketergantungan pada impor; (4) Meningkatkan produktivitas di sektor pertanian dan industri melalui pemberian modal, teknologi, dan manajemen yang lebih baik; (5) Melibatkan koperasi dan usaha kecil menengah dalam struktur ekonomi nasional."
   },
   {
     "instruction": "Bagaimana peran pemerintah dalam Bidang Distribusi menurut Pasal 6 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 6 TAP MPRS No. II/MPRS/1960 mengatur peran negara dalam distribusi barang kebutuhan rakyat.",
-    "response": "Pemerintah bertugas menyelenggarakan distribusi barang agar sampai ke rakyat secara cepat, merata, dan murah serta menguasai impor dan ekspor strategis."
+    "response": "Pemerintah bertugas: (1) Menyelenggarakan distribusi barang agar sampai ke rakyat secara cepat, merata, dan murah tanpa margin keuntungan yang berlebihan; (2) Menguasai dan mengatur impor dan ekspor strategis untuk melindungi produksi dalam negeri dan mendapatkan devisa; (3) Mengembangkan sistem distribusi yang efisien dengan memanfaatkan koperasi dan lembaga negara; (4) Mencegah praktek monopoli yang merugikan konsumen; (5) Mengintegrasikan daerah-daerah terpencil dalam sistem distribusi nasional."
   },
   {
     "instruction": "Apa ketentuan mengenai transportasi dan telekomunikasi dalam Pasal 6 TAP MPRS No. II/MPRS/1960?",
     "context": "Ketentuan ini merupakan bagian dari kebijakan distribusi dan infrastruktur nasional.",
-    "response": "Negara menguasai dan menyelenggarakan perhubungan darat, laut, udara, serta telekomunikasi yang bersifat vital."
+    "response": "Negara menguasai dan menyelenggarakan perhubungan darat, laut, udara, serta telekomunikasi yang bersifat vital. Hal ini berarti: (1) Jaringan transportasi (kereta api, pelabuhan, pelayaran, maskapai udara) adalah milik negara atau diawasi ketat oleh pemerintah; (2) Sistem telekomunikasi dikelola oleh negara untuk menjamin aksesibilitas seluruh rakyat; (3) Pengembangan infrastruktur transportasi dan telekomunikasi adalah investasi strategis untuk mempererat persatuan nasional dan memfasilitasi distribusi barang; (4) Tarif transportasi dan telekomunikasi ditentukan pemerintah agar terjangkau oleh rakyat."
   },
   {
     "instruction": "Dari mana sumber pembiayaan pembangunan diperoleh menurut Pasal 7 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 7 TAP MPRS No. II/MPRS/1960 membahas sumber pembiayaan pembangunan nasional.",
-    "response": "Sumber pembiayaan diutamakan dari kekuatan dalam negeri sendiri, dengan kerja sama luar negeri diperbolehkan sepanjang tidak bertentangan dengan Manifesto Politik."
+    "response": "Sumber pembiayaan pembangunan diutamakan dari kekuatan dalam negeri sendiri (swadaya nasional) melalui: (1) Pendapatan pemerintah dari pajak dan retribusi; (2) Keuntungan perusahaan negara; (3) Tabungan masyarakat yang dimobilisasi melalui sistem perbankan dan koperasi; (4) Sumber alam yang dieksploitasi untuk kesejahteraan rakyat. Kerja sama luar negeri dalam bentuk kredit atau investasi asing diperbolehkan sepanjang tidak mengorbankan kedaulatan dan tidak bertentangan dengan Manifesto Politik, serta harus diatur dalam perundang-undangan bersama DPR."
   },
   {
     "instruction": "Apa syarat kerja sama ekonomi luar negeri menurut Pasal 7 Ayat 2 TAP MPRS No. II/MPRS/1960?",
     "context": "Ayat ini memberikan batasan hukum terhadap kerja sama ekonomi internasional.",
-    "response": "Kerja sama tersebut tidak boleh bertentangan dengan Manifesto Politik dan harus diatur dalam perundang-undangan bersama DPR."
+    "response": "Kerja sama ekonomi luar negeri harus memenuhi syarat-syarat: (1) Tidak boleh bertentangan dengan Manifesto Politik dan cita-cita revolusi; (2) Harus diatur dan ditetapkan dalam perundang-undangan bersama DPR; (3) Harus menguntungkan Indonesia dan tidak membuat Indonesia menjadi negara ketergantungan; (4) Harus menghormati kedaulatan dan kemandirian ekonomi Indonesia; (5) Harus transparan dan tidak mengandung klausul-klausul yang merugikan generasi mendatang."
   },
   {
     "instruction": "Apa yang dimaksud dengan 'Ketentuan Pelaksanaan' dalam Pasal 8 TAP MPRS No. II/MPRS/1960?",
     "context": "Pasal 8 mengatur status hasil karya Depernas sebagai pedoman teknis pelaksanaan pembangunan.",
-    "response": "Ketentuan Pelaksanaan menyatakan bahwa hasil karya Depernas Jilid IV sampai XVII menjadi pedoman pemerintah selama tidak bertentangan dengan ketetapan ini."
+    "response": "Ketentuan Pelaksanaan menyatakan bahwa hasil karya Depernas Jilid IV sampai XVII menjadi pedoman pemerintah untuk pelaksanaan teknis pembangunan selama tidak bertentangan dengan GBHN yang ditetapkan dalam Pasal 1. Dokumen-dokumen operasional ini berisi: (1) Program-program sektoral yang lebih detail; (2) Alokasi anggaran dan sumber daya; (3) Mekanisme pelaksanaan dan koordinasi antar departemen; (4) Target kuantitatif dan kualitatif pembangunan; (5) Sistem monitoring dan evaluasi."
+  },
+  {
+    "instruction": "Bagaimana hubungan antara GBHN dan Ketentuan Pelaksanaan dalam TAP MPRS No. II/MPRS/1960?",
+    "context": "Pasal 1 dan Pasal 8 serta penjelasannya.",
+    "response": "GBHN (dalam Jilid I-III) berfungsi sebagai pedoman strategis dan normative yang memberikan arah dan prinsip-prinsip pembangunan. Ketentuan Pelaksanaan (Jilid IV-XVII) adalah elaborasi operasional dari GBHN yang lebih rinci dan teknis. Hubungannya adalah: (1) Ketentuan Pelaksanaan harus selalu konsisten dengan GBHN; (2) GBHN memberikan prioritas dan arah keseluruhan, sedangkan Ketentuan Pelaksanaan mengurus detail implementasi; (3) Jika ada pertentangan, GBHN yang menang; (4) Kedua-duanya harus dipahami secara integral untuk implementasi pembangunan yang efektif."
+  },
+  {
+    "instruction": "Apa yang diatur dalam Pasal 9 TAP MPRS No. II/MPRS/1960 mengenai hubungan dengan peraturan perundang-undangan lain?",
+    "context": "Pasal 9 TAP MPRS No. II/MPRS/1960 mengatur keterkaitan antara GBHN dengan sistem hukum dan peraturan perundang-undangan yang berlaku sebelumnya.",
+    "response": "Pasal 9 menetapkan bahwa: (1) Semua peraturan perundang-undangan dan keputusan pemerintah yang berlaku harus disesuaikan dengan ketentuan-ketentuan dalam GBHN ini; (2) Apabila terdapat peraturan perundang-undangan atau keputusan yang bertentangan dengan GBHN, maka harus diganti atau dibatalkan; (3) Penyesuaian dilakukan melalui cara-cara yang sesuai dengan tata usaha pemerintahan yang berlaku; (4) Dalam tempo yang ditentukan, pemerintah harus menyusun daftar lengkap peraturan yang perlu diselaraskan dengan GBHN; (5) Proses harmonisasi peraturan ini menjadi tanggung jawab Presiden dengan koordinasi antar departemen untuk memastikan konsistensi sistem hukum nasional."
   },
   {
     "instruction": "Kepada siapa kekuasaan penuh diberikan dalam TAP MPRS No. II/MPRS/1960 Pasal 10?",
-    "context": "Pasal 10 TAP MPRS No. II/MPRS/1960 mengatur subjek pelaksana utama kebijakan pembangunan.",
-    "response": "Kekuasaan penuh diberikan kepada Presiden/Panglima Tertinggi Angkatan Perang/Pemimpin Besar Revolusi Indonesia."
+    "context": "Pasal 10 TAP MPRS No. II/MPRS/1960 mengatur subjek pelaksana utama kebijakan pembangunan dan pertanggungjawaban.",
+    "response": "Kekuasaan penuh diberikan kepada Presiden/Panglima Tertinggi Angkatan Perang/Pemimpin Besar Revolusi Indonesia untuk mengemban dan melaksanakan Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama 1961-1969. Presiden sebagai Mandataris MPRS bertanggung jawab untuk: (1) Mengkoordinasikan pelaksanaan GBHN di semua tingkatan pemerintahan (pusat, provinsi, kabupaten); (2) Melapor kepada MPRS secara periodik tentang pelaksanaan dan hasil-hasil pembangunan; (3) Melakukan penyesuaian implementasi jika diperlukan dengan tetap mematuhi arah dan prinsip GBHN; (4) Memastikan seluruh aparatur negara dan rakyat bersama-sama mewujudkan cita-cita pembangunan."
+  },
+  {
+    "instruction": "Siapa saja pimpinan MPRS yang menandatangani TAP MPRS No. I dan II/MPRS/1960?",
+    "context": "Bagian Penutup dan Tanda Tangan, Ketetapan MPRS tahun 1960.",
+    "response": "Ketetapan MPRS No. I dan II/MPRS/1960 ditandatangani oleh Ketua dan Anggota Presidium MPRS. Berdasarkan dokumen sejarah, ketetapan ini ditanda-tangani dalam rangka Sidang Umum MPRS ke-II tahun 1960 yang diselenggarakan di Jakarta. Penandatanganan mencerminkan keputusan kolektif MPRS sebagai pemegang kedaulatan rakyat tertinggi."
+  },
+  {
+    "instruction": "Kapan dan di mana ditetapkannya TAP MPRS No. I dan II/MPRS/1960?",
+    "context": "Bagian Penutup, Ketetapan MPRS tahun 1960.",
+    "response": "Ketetapan MPRS No. I dan II/MPRS/1960 ditetapkan di Jakarta dalam tahun 1960 pada Sidang Umum MPRS ke-II. Penetapan ini mencerminkan komitmen MPRS sebagai representasi rakyat untuk memberikan pedoman strategis bagi pembangunan nasional Indonesia di awal dekade 1960-an, terutama setelah kembali ke UUD 1945 dan Pancasila sebagai ideologi dasar negara."
+  },
+  {
+    "instruction": "Apa makna konsep 'Demokrasi Pancasila' dalam konteks TAP MPRS No. I/MPRS/1960?",
+    "context": "Konsep yang muncul secara implisit dalam keseluruhan kedua TAP ini.",
+    "response": "Demokrasi Pancasila dalam TAP MPRS 1960 mengandung makna: (1) Demokrasi yang berpangkal pada nilai-nilai Pancasila, bukan pada paham individualisme atau kapitalisme Barat; (2) Sistem pengambilan keputusan melalui musyawarah dan mufakat, bukan voting mayoritas yang dapat memecah persatuan; (3) Demokrasi yang mengutamakan kepentingan bersama (kolektif) di atas kepentingan pribadi; (4) Demokrasi yang menekankan peran negara dalam mengatur ekonomi dan kesejahteraan; (5) Demokrasi yang anti-imperialisme dan mempertahankan kemerdekaan serta kedaulatan nasional."
+  },
+  {
+    "instruction": "Apa konteks sejarah yang melatarbelakangi disahkannya TAP MPRS No. I/II/MPRS/1960?",
+    "context": "Situasi nasional Indonesia pada tahun 1960 dalam era Demokrasi Terpimpin.",
+    "response": "Konteks sejarahnya adalah: (1) Indonesia telah kembali ke UUD 1945 dan Pancasila (1959) setelah periode Demokrasi Liberal (1950-1959) yang dianggap gagal; (2) Presiden Sukarno meluncurkan Manifesto Politik untuk memberikan arah ideologis yang jelas; (3) Terdapat kebutuhan untuk mengembangkan sistem perencanaan pembangunan yang komprehensif dan terukur; (4) Dunia internasional masih dalam konteks Perang Dingin, sehingga Indonesia perlu menegaskan kedaulatan dan non-alignment; (5) Dalam negeri, terdapat berbagai kekuatan sosial-politik (nasionalis, agama, komunis) yang perlu disatukan dalam visi pembangunan bersama melalui Nasakom (Nasionalisme, Agama, Komunisme)."
+  },
+  {
+    "instruction": "Apa perbedaan fundamental antara TAP MPRS No. I/MPRS/1960 dan TAP MPRS No. II/MPRS/1960 dalam substansi dan fungsinya?",
+    "context": "Kedua TAP ini ditetapkan bersamaan pada Sidang Umum MPRS ke-II tahun 1960 tetapi memiliki fokus dan tingkat operasionalisasi berbeda.",
+    "response": "Perbedaan fundamentalnya adalah: TAP I bersifat NORMATIF-IDEOLOGIS, menetapkan Manifesto Politik sebagai visi dan misi nasional yang berpangkal pada Pancasila dan UUD 1945, serta memberikan arah filosofis dan nilai-nilai yang harus diperjuangkan. Sebaliknya, TAP II bersifat OPERASIONAL-TEKNIS, merinci program-program konkret pembangunan nasional dalam periode 1961-1969 dengan target kuantitatif dan kualitatif di berbagai sektor (pendidikan, ekonomi, pertahanan, dsb). Hubungannya: TAP I adalah panduan nilai dan tujuan (the why and what), sedangkan TAP II adalah panduan implementasi (the how). Keduanya saling melengkapi dalam menciptakan sistem perencanaan pembangunan yang integral dan komprehensif."
+  },
+  {
+    "instruction": "Bagaimana kedudukan 'Depernas' (Dewan Perancang Nasional) dalam struktur pemerintahan dan peran penyusun GBHN?",
+    "context": "Depernas dirujuk dalam TAP MPRS No. II/MPRS/1960 Pasal 1 dan Pasal 8 sebagai lembaga yang menyusun GBHN. Depernas didirikan pada periode Demokrasi Terpimpin untuk menangani perencanaan pembangunan nasional.",
+    "response": "Depernas (Dewan Perancang Nasional) memiliki kedudukan khusus sebagai: (1) Lembaga pemerintah yang bertanggung jawab langsung kepada Presiden dalam menyusun rencana pembangunan nasional; (2) Badan yang terdiri dari berbagai ahli dari disiplin ilmu (ekonomi, hukum, pendidikan, militer, dsb) serta wakil-wakil dari berbagai kekuatan sosial-politik; (3) Penyusun dokumen perencanaan (GBHN dalam Jilid I-III) yang ditetapkan menjadi hukum melalui TAP MPRS No. II/MPRS/1960; (4) Penyusun pedoman teknis pelaksanaan (Ketentuan Pelaksanaan dalam Jilid IV-XVII) yang menjadi rujukan operasional departemen-departemen; (5) Lembaga koordinasi antar sektor dalam memastikan konsistensi program pembangunan di tingkat pusat dan daerah. Depernas berkontribusi dalam mengubah amanat ideologis Presiden menjadi program pembangunan yang terstruktur dan terpadu."
   }
 ]
