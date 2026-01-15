@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "Apa definisi Data Pribadi menurut Undang-Undang Nomor 27 Tahun 2022?",
+    "context": "Untuk menjawab pertanyaan ini, perlu merujuk pada Bab I Ketentuan Umum, khususnya Pasal 1 angka 1 yang memberikan definisi legal mengenai Data Pribadi.",
+    "response": "Berdasarkan Pasal 1 angka 1, Data Pribadi adalah data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lainnya baik secara langsung maupun tidak langsung melalui sistem elektronik atau nonelektronik."
+  },
+  {
+    "instruction": "Jelaskan apa yang dimaksud dengan Pengendali Data Pribadi dan Prosesor Data Pribadi!",
+    "context": "Perbedaan antara Pengendali dan Prosesor Data Pribadi dijelaskan dalam ketentuan umum Pasal 1 angka 4 dan angka 5.",
+    "response": "Sesuai Pasal 1 angka 4, Pengendali Data Pribadi adalah setiap orang, badan publik, dan organisasi internasional yang bertindak sendiri-sendiri atau bersama-sama dalam menentukan tujuan dan melakukan kendali pemrosesan Data Pribadi. Sedangkan menurut Pasal 1 angka 5, Prosesor Data Pribadi adalah setiap orang, badan publik, dan organisasi internasional yang bertindak sendiri-sendiri atau bersama-sama dalam melakukan pemrosesan Data Pribadi atas nama Pengendali Data Pribadi."
+  },
+  {
+    "instruction": "Siapa saja yang menjadi subjek hukum atau wilayah berlakunya Undang-Undang Pelindungan Data Pribadi ini?",
+    "context": "Ruang lingkup keberlakuan undang-undang diatur dalam Pasal 2, yang mencakup keberlakuan di dalam dan di luar wilayah hukum Indonesia.",
+    "response": "Berdasarkan Pasal 2 ayat (1), Undang-Undang ini berlaku untuk Setiap Orang, Badan Publik, dan Organisasi Internasional yang melakukan perbuatan hukum yang berada di wilayah hukum Negara Republik Indonesia; dan di luar wilayah hukum Negara Republik Indonesia, yang memiliki akibat hukum di wilayah hukum Negara Republik Indonesia, dan/atau bagi Subjek Data Pribadi warga negara Indonesia di luar wilayah hukum Negara Republik Indonesia."
+  },
+  {
+    "instruction": "Apa saja asas yang melandasi Undang-Undang Pelindungan Data Pribadi?",
+    "context": "Asas-asas pelindungan data pribadi tercantum secara eksplisit dalam Bab II Pasal 3.",
+    "response": "Mengacu pada Pasal 3, Undang-Undang ini berasaskan: a. pelindungan; b. kepastian hukum; c. kepentingan umum; d. kemanfaatan; e. kehati-hatian; f. keseimbangan; g. pertanggungjawaban; dan h. kerahasiaan."
+  },
+  {
+    "instruction": "Sebutkan jenis-jenis Data Pribadi yang bersifat spesifik!",
+    "context": "Klasifikasi data pribadi dibagi menjadi umum dan spesifik. Rincian data spesifik terdapat dalam Pasal 4 ayat (2).",
+    "response": "Menurut Pasal 4 ayat (2), Data Pribadi yang bersifat spesifik meliputi: a. data dan informasi kesehatan; b. data biometrik; c. data genetika; d. catatan kejahatan; e. data anak; f. data keuangan pribadi; dan/atau g. data lainnya sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Apa saja yang termasuk dalam kategori Data Pribadi yang bersifat umum?",
+    "context": "Rincian mengenai data pribadi yang bersifat umum diatur dalam Pasal 4 ayat (3).",
+    "response": "Berdasarkan Pasal 4 ayat (3), Data Pribadi yang bersifat umum meliputi: a. nama lengkap; b. jenis kelamin; c. kewarganegaraan; d. agama; e. status perkawinan; dan/atau f. Data Pribadi yang dikombinasikan untuk mengidentifikasi seseorang."
+  },
+  {
+    "instruction": "Apa hak Subjek Data Pribadi terkait informasi data dirinya?",
+    "context": "Hak subjek data untuk mendapatkan informasi diatur dalam Bab IV Pasal 5.",
+    "response": "Sesuai Pasal 5, Subjek Data Pribadi berhak mendapatkan Informasi tentang kejelasan identitas, dasar kepentingan hukum, tujuan permintaan dan penggunaan Data Pribadi, dan akuntabilitas pihak yang meminta Data Pribadi."
+  },
+  {
+    "instruction": "Apakah Subjek Data Pribadi berhak memperbaiki kesalahan pada datanya?",
+    "context": "Hak untuk melakukan koreksi atau perbaikan data diatur dalam Pasal 6.",
+    "response": "Ya, menurut Pasal 6, Subjek Data Pribadi berhak melengkapi, memperbarui, dan/atau memperbaiki kesalahan dan/atau ketidakakuratan Data Pribadi tentang dirinya sesuai dengan tujuan pemrosesan Data Pribadi."
+  },
+  {
+    "instruction": "Bagaimana hak Subjek Data Pribadi terkait akses dan salinan datanya?",
+    "context": "Hak akses dan memperoleh salinan data diatur dalam Pasal 7.",
+    "response": "Pasal 7 menyatakan bahwa Subjek Data Pribadi berhak mendapatkan akses dan memperoleh salinan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Apakah Subjek Data Pribadi dapat meminta penghapusan datanya?",
+    "context": "Hak untuk menghapus atau memusnahkan data diatur dalam Pasal 8.",
+    "response": "Berdasarkan Pasal 8, Subjek Data Pribadi berhak untuk mengakhiri pemrosesan, menghapus, dan/atau memusnahkan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Jelaskan hak Subjek Data Pribadi untuk menarik kembali persetujuan pemrosesan data!",
+    "context": "Hak penarikan persetujuan (withdrawal of consent) diatur dalam Pasal 9.",
+    "response": "Mengacu pada Pasal 9, Subjek Data Pribadi berhak menarik kembali persetujuan pemrosesan Data Pribadi tentang dirinya yang telah diberikan kepada Pengendali Data Pribadi."
+  },
+  {
+    "instruction": "Apa hak subjek data terkait pengambilan keputusan otomatis (automated decision making)?",
+    "context": "Hak untuk mengajukan keberatan terhadap keputusan otomatis diatur dalam Pasal 10.",
+    "response": "Pasal 10 ayat (1) menyebutkan bahwa Subjek Data Pribadi berhak untuk mengajukan keberatan atas tindakan pengambilan keputusan yang hanya didasarkan pada pemrosesan secara otomatis, termasuk pemrofilan, yang menimbulkan akibat hukum atau berdampak signifikan pada Subjek Data Pribadi."
+  },
+  {
+    "instruction": "Apakah pemrosesan data pribadi dapat ditunda oleh subjek data?",
+    "context": "Hak menunda atau membatasi pemrosesan diatur dalam Pasal 11.",
+    "response": "Ya, Pasal 11 menyatakan Subjek Data Pribadi berhak menunda atau membatasi pemrosesan Data Pribadi secara proporsional sesuai dengan tujuan pemrosesan Data Pribadi."
+  },
+  {
+    "instruction": "Apa hak subjek data jika terjadi pelanggaran pemrosesan data pribadi?",
+    "context": "Hak untuk menggugat dan menuntut ganti rugi diatur dalam Pasal 12.",
+    "response": "Menurut Pasal 12 ayat (1), Subjek Data Pribadi berhak menggugat dan menerima ganti rugi atas pelanggaran pemrosesan Data Pribadi tentang dirinya sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Jelaskan hak portabilitas data (data portability) menurut undang-undang ini!",
+    "context": "Hak untuk memindahkan data ke pengendali lain diatur dalam Pasal 13 ayat (2).",
+    "response": "Berdasarkan Pasal 13 ayat (2), Subjek Data Pribadi berhak menggunakan dan mengirimkan Data Pribadi tentang dirinya ke Pengendali Data Pribadi lainnya, sepanjang sistem yang digunakan dapat saling berkomunikasi secara aman sesuai dengan prinsip Pelindungan Data Pribadi berdasarkan Undang-Undang ini."
+  },
+  {
+    "instruction": "Bagaimana cara Subjek Data Pribadi mengajukan hak-haknya?",
+    "context": "Mekanisme pengajuan hak subjek data diatur dalam Pasal 14.",
+    "response": "Pasal 14 menjelaskan bahwa pelaksanaan hak Subjek Data Pribadi diajukan melalui permohonan tercatat yang disampaikan secara elektronik atau nonelektronik kepada Pengendali Data Pribadi."
+  },
+  {
+    "instruction": "Dalam kondisi apa hak-hak Subjek Data Pribadi dapat dikecualikan?",
+    "context": "Pengecualian terhadap hak subjek data diatur dalam Pasal 15 untuk kepentingan-kepentingan tertentu.",
+    "response": "Sesuai Pasal 15 ayat (1), hak-hak subjek data dikecualikan untuk: a. kepentingan pertahanan dan keamanan nasional; b. kepentingan proses penegakan hukum; c. kepentingan umum dalam rangka penyelenggaraan negara; d. kepentingan pengawasan sektor jasa keuangan, moneter, sistem pembayaran, dan stabilitas sistem keuangan; atau e. kepentingan statistik dan penelitian ilmiah."
+  },
+  {
+    "instruction": "Apa saja kegiatan yang termasuk dalam Pemrosesan Data Pribadi?",
+    "context": "Definisi cakupan aktivitas pemrosesan data diuraikan dalam Pasal 16 ayat (1).",
+    "response": "Menurut Pasal 16 ayat (1), Pemrosesan Data Pribadi meliputi: a. pemerolehan dan pengumpulan; b. pengolahan dan penganalisisan; c. penyimpanan; d. perbaikan dan pembaruan; e. penampilan, pengumuman, transfer, penyebarluasan, atau pengungkapan; dan/atau f. penghapusan atau pemusnahan."
+  },
+  {
+    "instruction": "Sebutkan prinsip-prinsip yang harus dipatuhi dalam pemrosesan Data Pribadi!",
+    "context": "Prinsip pemrosesan data yang baik diatur dalam Pasal 16 ayat (2).",
+    "response": "Berdasarkan Pasal 16 ayat (2), pemrosesan harus dilakukan: a. secara terbatas, spesifik, sah, dan transparan; b. sesuai tujuan; c. menjamin hak subjek data; d. akurat, lengkap, tidak menyesatkan, mutakhir, dapat dipertanggungjawabkan; e. melindungi keamanan data; f. memberitahukan tujuan dan kegagalan pelindungan; g. dimusnahkan setelah masa retensi berakhir; dan h. bertanggung jawab dan dapat dibuktikan."
+  },
+  {
+    "instruction": "Apa syarat pemasangan alat pemroses data visual (seperti CCTV) di tempat umum?",
+    "context": "Ketentuan mengenai alat pemroses visual di ruang publik diatur dalam Pasal 17.",
+    "response": "Pasal 17 ayat (1) mengatur bahwa pemasangan alat tersebut harus: a. untuk tujuan keamanan, pencegahan bencana, atau lalu lintas; b. menampilkan informasi pada area yang dipasang alat tersebut; dan c. tidak digunakan untuk mengidentifikasi seseorang (kecuali untuk penegakan hukum)."
+  },
+  {
+    "instruction": "Apakah pemrosesan data pribadi bisa dilakukan oleh lebih dari satu Pengendali Data?",
+    "context": "Ketentuan mengenai Pengendali Data gabungan (Joint Controllers) diatur dalam Pasal 18.",
+    "response": "Ya, Pasal 18 ayat (1) menyatakan pemrosesan dapat dilakukan oleh 2 atau lebih Pengendali Data Pribadi. Ayat (2) mensyaratkan adanya perjanjian yang memuat peran dan tanggung jawab, tujuan yang berkaitan, dan penunjukan narahubung bersama."
+  },
+  {
+    "instruction": "Apa saja dasar hukum (lawful basis) yang sah untuk pemrosesan Data Pribadi?",
+    "context": "Landasan hukum pemrosesan data diatur secara rinci dalam Pasal 20 ayat (2).",
+    "response": "Menurut Pasal 20 ayat (2), dasar pemrosesan meliputi: a. persetujuan sah dari Subjek Data; b. pemenuhan kewajiban perjanjian; c. pemenuhan kewajiban hukum Pengendali; d. pelindungan kepentingan vital Subjek Data; e. pelaksanaan tugas kepentingan umum/pelayanan publik; dan/atau f. pemenuhan kepentingan sah lainnya dengan mempertimbangkan keseimbangan hak."
+  },
+  {
+    "instruction": "Apa kewajiban Pengendali Data saat meminta persetujuan dari Subjek Data?",
+    "context": "Informasi yang wajib disampaikan saat meminta persetujuan diatur dalam Pasal 21 ayat (1).",
+    "response": "Berdasarkan Pasal 21 ayat (1), Pengendali Data wajib menyampaikan informasi mengenai: a. legalitas pemrosesan; b. tujuan pemrosesan; c. jenis dan relevansi data; d. jangka waktu retensi; e. rincian informasi yang dikumpulkan; f. jangka waktu pemrosesan; dan g. hak Subjek Data Pribadi."
+  },
+  {
+    "instruction": "Bagaimana ketentuan mengenai persetujuan (consent) dalam pemrosesan data?",
+    "context": "Bentuk dan syarat sahnya persetujuan diatur dalam Pasal 22.",
+    "response": "Pasal 22 menyebutkan persetujuan dilakukan tertulis atau terekam, baik elektronik maupun nonelektronik. Jika memuat tujuan lain, permintaan persetujuan harus dapat dibedakan, formatnya mudah dipahami, dan menggunakan bahasa sederhana. Persetujuan yang tidak memenuhi ketentuan ini dinyatakan batal demi hukum."
+  },
+  {
+    "instruction": "Apakah sah jika klausul persetujuan pemrosesan data disembunyikan dalam perjanjian?",
+    "context": "Ketentuan mengenai klausul baku atau tersembunyi terkait data pribadi diatur dalam Pasal 23.",
+    "response": "Tidak sah. Pasal 23 menegaskan bahwa klausul perjanjian yang di dalamnya terdapat permintaan pemrosesan Data Pribadi yang tidak memuat persetujuan yang sah secara eksplisit dari Subjek Data Pribadi dinyatakan batal demi hukum."
+  },
+  {
+    "instruction": "Bagaimana aturan pemrosesan Data Pribadi anak?",
+    "context": "Perlindungan khusus untuk data anak diatur dalam Pasal 25.",
+    "response": "Pasal 25 menyatakan pemrosesan Data Pribadi anak diselenggarakan secara khusus dan wajib mendapat persetujuan dari orang tua anak dan/atau wali anak sesuai dengan ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Bagaimana aturan pemrosesan Data Pribadi penyandang disabilitas?",
+    "context": "Perlindungan khusus untuk data penyandang disabilitas diatur dalam Pasal 26.",
+    "response": "Menurut Pasal 26, pemrosesan diselenggarakan secara khusus melalui komunikasi dengan cara tertentu, dan wajib mendapat persetujuan dari penyandang disabilitas dan/atau wali mereka sesuai ketentuan peraturan perundang-undangan."
+  },
+  {
+    "instruction": "Apa kewajiban Pengendali Data terkait akurasi data?",
+    "context": "Kewajiban memastikan akurasi data diatur dalam Pasal 29.",
+    "response": "Pasal 29 mewajibkan Pengendali Data Pribadi untuk memastikan akurasi, kelengkapan, dan konsistensi Data Pribadi serta melakukan verifikasi."
+  },
+  {
+    "instruction": "Berapa lama waktu yang diberikan kepada Pengendali Data untuk memperbarui data yang salah?",
+    "context": "Batas waktu perbaikan data diatur dalam Pasal 30 ayat (1).",
+    "response": "Sesuai Pasal 30 ayat (1), Pengendali Data Pribadi wajib memperbarui dan/atau memperbaiki kesalahan data paling lambat 3 x 24 jam terhitung sejak menerima permintaan perbaikan."
+  },
+  {
+    "instruction": "Apakah Pengendali Data wajib merekam kegiatan pemrosesan?",
+    "context": "Kewajiban perekaman kegiatan (record of processing activities) diatur dalam Pasal 31.",
+    "response": "Ya, Pasal 31 menyatakan Pengendali Data Pribadi wajib melakukan perekaman terhadap seluruh kegiatan pemrosesan Data Pribadi."
+  },
+  {
+    "instruction": "Berapa lama batas waktu pemberian akses data kepada Subjek Data yang memintanya?",
+    "context": "Batas waktu pemenuhan hak akses diatur dalam Pasal 32 ayat (2).",
+    "response": "Berdasarkan Pasal 32 ayat (2), akses diberikan paling lambat 3 x 24 jam terhitung sejak Pengendali Data Pribadi menerima permintaan akses."
+  },
+  {
+    "instruction": "Kapan Pengendali Data wajib menolak memberikan akses perubahan data?",
+    "context": "Alasan penolakan akses diatur dalam Pasal 33.",
+    "response": "Menurut Pasal 33, akses wajib ditolak jika: a. membahayakan keamanan/kesehatan fisik atau mental subjek data/orang lain; b. berdampak pada pengungkapan data orang lain; dan/atau c. bertentangan dengan kepentingan pertahanan dan keamanan nasional."
+  },
+  {
+    "instruction": "Kapan Penilaian Dampak Pelindungan Data Pribadi (DPIA) wajib dilakukan?",
+    "context": "Kewajiban melakukan DPIA diatur dalam Pasal 34 ayat (1).",
+    "response": "Pasal 34 ayat (1) mewajibkan penilaian dampak jika pemrosesan Data Pribadi memiliki potensi risiko tinggi terhadap Subjek Data Pribadi."
+  },
+  {
+    "instruction": "Apa saja kriteria pemrosesan data yang dianggap memiliki risiko tinggi?",
+    "context": "Kriteria risiko tinggi untuk DPIA dirinci dalam Pasal 34 ayat (2).",
+    "response": "Sesuai Pasal 34 ayat (2), risiko tinggi meliputi: a. pengambilan keputusan otomatis dengan akibat hukum; b. pemrosesan data spesifik; c. skala besar; d. evaluasi/pemantauan sistematis; e. pencocokan/penggabungan data; f. penggunaan teknologi baru; dan/atau g. pembatasan pelaksanaan hak subjek data."
+  },
+  {
+    "instruction": "Apa kewajiban Pengendali Data terkait keamanan data?",
+    "context": "Kewajiban keamanan data diatur dalam Pasal 35.",
+    "response": "Pasal 35 mewajibkan Pengendali Data untuk melindungi dan memastikan keamanan data dengan: a. menyusun dan menerapkan langkah teknis operasional; dan b. menentukan tingkat keamanan dengan memperhatikan sifat dan risiko data."
+  },
+  {
+    "instruction": "Apa kewajiban Pengendali Data terkait kerahasiaan data?",
+    "context": "Kewajiban menjaga kerahasiaan diatur secara tegas dalam Pasal 36.",
+    "response": "Pasal 36 menyatakan bahwa dalam melakukan pemrosesan Data Pribadi, Pengendali Data Pribadi wajib menjaga kerahasiaan Data Pribadi."
+  },
+  {
+    "instruction": "Apa yang harus dilakukan Pengendali Data jika terjadi kegagalan pelindungan data (data breach)?",
+    "context": "Prosedur notifikasi kebocoran data diatur dalam Pasal 46.",
+    "response": "Menurut Pasal 46 ayat (1), Pengendali Data wajib menyampaikan pemberitahuan tertulis paling lambat 3 x 24 jam kepada Subjek Data Pribadi dan lembaga pengawas. Pemberitahuan harus memuat data yang terungkap, waktu dan cara terungkap, serta upaya penanganan."
+  },
+  {
+    "instruction": "Apa kewajiban Pengendali Data saat terjadi merger atau akuisisi perusahaan?",
+    "context": "Kewajiban notifikasi saat aksi korporasi diatur dalam Pasal 48.",
+    "response": "Pasal 48 mewajibkan Pengendali Data berbentuk badan hukum yang melakukan penggabungan, pemisahan, pengambilalihan, peleburan, atau pembubaran untuk menyampaikan pemberitahuan pengalihan Data Pribadi kepada Subjek Data Pribadi sebelum dan sesudah aksi korporasi tersebut."
+  },
+  {
+    "instruction": "Apa saja kewajiban Pengendali Data yang dikecualikan untuk kepentingan publik atau hukum tertentu?",
+    "context": "Pengecualian kewajiban pengendali diatur dalam Pasal 50.",
+    "response": "Pasal 50 mengecualikan beberapa kewajiban (seperti perbaikan data, akses, kerahasiaan, pengakhiran, penghapusan, dan notifikasi kegagalan) untuk kepentingan: a. pertahanan dan keamanan nasional; b. proses penegakan hukum; c. kepentingan umum penyelenggaraan negara; atau d. pengawasan sektor jasa keuangan/moneter."
+  },
+  {
+    "instruction": "Apa kewajiban Prosesor Data Pribadi?",
+    "context": "Peran dan kewajiban Prosesor Data diatur dalam Pasal 51.",
+    "response": "Berdasarkan Pasal 51, Prosesor Data Pribadi wajib melakukan pemrosesan berdasarkan perintah Pengendali Data Pribadi. Jika Prosesor memproses di luar perintah, tanggung jawab beralih kepada Prosesor. Prosesor juga wajib mendapatkan persetujuan tertulis Pengendali sebelum melibatkan prosesor lain."
+  },
+  {
+    "instruction": "Kapan Pengendali Data wajib menunjuk Pejabat Pelindungan Data Pribadi (DPO)?",
+    "context": "Syarat penunjukan DPO (Data Protection Officer) diatur dalam Pasal 53 ayat (1).",
+    "response": "Sesuai Pasal 53 ayat (1), DPO wajib ditunjuk dalam hal: a. pemrosesan untuk kepentingan pelayanan publik; b. kegiatan inti memerlukan pemantauan teratur dan sistematis skala besar; dan c. kegiatan inti terdiri dari pemrosesan data spesifik dan/atau data pidana dalam skala besar."
+  },
+  {
+    "instruction": "Apa tugas dari Pejabat atau Petugas yang Melaksanakan Fungsi Pelindungan Data Pribadi (DPO)?",
+    "context": "Tugas DPO dirinci dalam Pasal 54 ayat (1).",
+    "response": "Menurut Pasal 54 ayat (1), tugasnya meliputi: a. menginformasikan dan memberi saran kepatuhan UU; b. memantau dan memastikan kepatuhan; c. memberi saran mengenai penilaian dampak (DPIA) dan memantau kinerjanya; dan d. berkoordinasi dan bertindak sebagai narahubung isu data pribadi."
+  },
+  {
+    "instruction": "Apakah Pengendali Data boleh mentransfer data ke pengendali lain di dalam wilayah Indonesia?",
+    "context": "Ketentuan transfer data domestik diatur dalam Pasal 55.",
+    "response": "Ya, Pasal 55 ayat (1) memperbolehkan transfer data antar Pengendali Data Pribadi dalam wilayah hukum Indonesia, dengan kewajiban bagi kedua belah pihak untuk melakukan pelindungan data sesuai UU ini."
+  },
+  {
+    "instruction": "Apa syarat melakukan transfer Data Pribadi ke luar negeri?",
+    "context": "Syarat transfer data lintas batas (cross-border) diatur dalam Pasal 56.",
+    "response": "Pasal 56 mensyaratkan Pengendali Data untuk: 1. Memastikan negara tujuan memiliki tingkat pelindungan setara atau lebih tinggi; 2. Jika tidak terpenuhi, pastikan ada pelindungan memadai yang mengikat; 3. Jika kedua hal tersebut tidak terpenuhi, wajib mendapatkan persetujuan Subjek Data Pribadi."
+  },
+  {
+    "instruction": "Apa sanksi administratif bagi pelanggar ketentuan pelindungan data pribadi?",
+    "context": "Jenis sanksi administratif diatur dalam Pasal 57 ayat (2).",
+    "response": "Sesuai Pasal 57 ayat (2), sanksi administratif berupa: a. peringatan tertulis; b. penghentian sementara kegiatan pemrosesan; c. penghapusan atau pemusnahan data; dan/atau d. denda administratif."
+  },
+  {
+    "instruction": "Berapa besaran denda administratif maksimal yang dapat dikenakan?",
+    "context": "Besaran denda administratif diatur dalam Pasal 57 ayat (3).",
+    "response": "Pasal 57 ayat (3) menyatakan denda administratif paling tinggi 2% (dua persen) dari pendapatan tahunan atau penerimaan tahunan terhadap variabel pelanggaran."
+  },
+  {
+    "instruction": "Siapa yang berwenang melakukan pengawasan penyelenggaraan pelindungan data pribadi?",
+    "context": "Lembaga pengawas diatur dalam Bab IX Pasal 58.",
+    "response": "Menurut Pasal 58, penyelenggaraan pelindungan data pribadi dilaksanakan oleh lembaga yang ditetapkan oleh dan bertanggung jawab kepada Presiden."
+  },
+  {
+    "instruction": "Apa saja larangan bagi Setiap Orang dalam penggunaan Data Pribadi?",
+    "context": "Larangan pidana terkait data pribadi diatur dalam Pasal 65.",
+    "response": "Pasal 65 melarang: 1. Memperoleh/mengumpulkan data bukan miliknya secara melawan hukum untuk menguntungkan diri/orang lain; 2. Mengungkapkan data bukan miliknya secara melawan hukum; 3. Menggunakan data bukan miliknya secara melawan hukum."
+  },
+  {
+    "instruction": "Apa ancaman pidana bagi orang yang memalsukan Data Pribadi?",
+    "context": "Ketentuan pidana pemalsuan data diatur dalam Pasal 66 dan Pasal 68.",
+    "response": "Pasal 66 melarang pembuatan data palsu atau pemalsuan data. Sesuai Pasal 68, pelanggarnya dipidana penjara paling lama 6 tahun dan/atau pidana denda paling banyak Rp6.000.000.000,00 (enam miliar rupiah)."
+  },
+  {
+    "instruction": "Bagaimana ketentuan pidana jika tindak pidana dilakukan oleh Korporasi?",
+    "context": "Pidana korporasi diatur dalam Pasal 70.",
+    "response": "Pasal 70 menyatakan pidana dapat dijatuhkan kepada pengurus, pemegang kendali, pemberi perintah, pemilik manfaat, dan/atau Korporasi. Korporasi hanya dikenai pidana denda, dengan jumlah paling banyak 10 kali dari maksimal pidana denda yang diancamkan, serta dapat dikenai pidana tambahan seperti penutupan usaha atau pembubaran."
+  }
+]
