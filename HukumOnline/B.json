@@ -1,0 +1,147 @@
+[
+    {
+        "instruction": "Apa definisi dari \"B3\" dalam konteks lingkungan hidup?",
+        "context": "Menurut Permen LHK dan UU Nomor 32 Tahun 2009, B3 (Bahan Beracun dan Berbahaya) adalah zat, energi, dan/atau komponen lain yang karena sifat, konsentrasi, dan/atau jumlahnya, baik secara langsung maupun tidak langsung, dapat mencemarkan, merusak lingkungan hidup, dan/atau membahayakan kesehatan serta kelangsungan hidup manusia dan makhluk hidup lain.",
+        "response": "B3"
+    },
+    {
+        "instruction": "Jelaskan penggunaan istilah \"Badan\" dalam berbagai peraturan pemerintah.",
+        "context": "Istilah ini merujuk pada berbagai institusi tergantung konteks undang-undangnya, antara lain: instansi yang bertanggung jawab di bidang Meteorologi, Klimatologi, dan Geofisika; lembaga kebahasaan; lembaga pelaksana pelindungan pekerja migran; atau lembaga informasi geospasial (UU 18/2017, UU 4/2011, PP 57/2014).",
+        "response": "Badan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Amil Zakat Nasional\"?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2011 dan PP Nomor 14 Tahun 2014, ini adalah lembaga yang melakukan pengelolaan zakat secara nasional.",
+        "response": "Badan Amil Zakat Nasional"
+    },
+    {
+        "instruction": "Siapa yang termasuk dalam kategori \"Badan Dan/Atau Pejabat Pemerintahan\"?",
+        "context": "Menurut UU Nomor 30 Tahun 2014, ini mencakup unsur yang melaksanakan Fungsi Pemerintahan, baik di lingkungan pemerintah maupun penyelenggara negara lainnya.",
+        "response": "Badan Dan/Atau Pejabat Pemerintahan"
+    },
+    {
+        "instruction": "Apa tugas dari \"Badan Geologi\"?",
+        "context": "Sesuai Permen ESDM Nomor 36 Tahun 2017, Badan Geologi bertugas menyelenggarakan penelitian, penyelidikan, dan pelayanan di bidang sumber daya geologi, vulkanologi, mitigasi bencana geologi, air tanah, dan geologi lingkungan.",
+        "response": "Badan Geologi"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Hukum Indonesia\"?",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2018 dan UU Nomor 31 Tahun 2009, ini adalah badan usaha milik negara, badan usaha milik daerah, atau badan usaha berbentuk badan hukum yang diakui sebagai subjek hukum Indonesia.",
+        "response": "Badan Hukum Indonesia"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Hukum Asing\"?",
+        "context": "Menurut PP Nomor 14 Tahun 2018, Badan Hukum Asing adalah badan yang tercatat atau terdaftar pada otoritas negara lain sebagai suatu badan hukum.",
+        "response": "Badan Hukum Asing"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Badan hukum\" dalam konteks perumahan.",
+        "context": "Sesuai UU Nomor 1 Tahun 2011 dan PP Nomor 64 Tahun 2016, ini merujuk pada badan hukum yang didirikan oleh warga negara Indonesia yang kegiatannya di bidang penyelenggaraan perumahan dan kawasan permukiman.",
+        "response": "Badan hukum"
+    },
+    {
+        "instruction": "Apa saja yang termasuk \"Badan Hukum Swasta\"?",
+        "context": "Dalam RUU Pelindungan Data Pribadi Tahun 2022, Badan Hukum Swasta mencakup perseroan terbatas (PT), yayasan, dan koperasi.",
+        "response": "Badan Hukum Swasta"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Kepegawaian Negara\"?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014, ini adalah lembaga pemerintah nonkementerian yang diberi kewenangan melakukan pembinaan dan menyelenggarakan Manajemen ASN secara nasional.",
+        "response": "Badan Kepegawaian Negara"
+    },
+    {
+        "instruction": "Apa itu \"Badan Koordinasi Penanaman Modal\"?",
+        "context": "Merujuk pada regulasi terkait, ini adalah lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal.",
+        "response": "Badan Koordinasi Penanaman Modal"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Pemeriksa Keuangan\"?",
+        "context": "Sesuai UU Nomor 15 Tahun 2004, ini adalah Badan Pemeriksa Keuangan (BPK) sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+        "response": "Badan Pemeriksa Keuangan"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Nasional Pencarian dan Pertolongan\"?",
+        "context": "Menurut PP Nomor 21 Tahun 2017, ini adalah lembaga pemerintah nonkementerian yang menyelenggarakan urusan pemerintahan di bidang Pencarian dan Pertolongan (SAR).",
+        "response": "Badan Nasional Pencarian dan Pertolongan"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Badan Layanan Umum\".",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2004 dan PP Nomor 23 Tahun 2005, Badan Layanan Umum adalah instansi pemerintah yang dibentuk untuk memberikan pelayanan (barang/jasa) kepada masyarakat tanpa mengutamakan keuntungan, dengan prinsip efisiensi dan produktivitas.",
+        "response": "Badan Layanan Umum"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Pengatur\" dalam sektor migas?",
+        "context": "Sesuai Perpres Nomor 191 Tahun 2014, ini merujuk pada badan pengatur sebagaimana dimaksud dalam Undang-Undang Nomor 22 Tahun 2001 tentang Minyak dan Gas Bumi.",
+        "response": "Badan Pengatur"
+    },
+    {
+        "instruction": "Apa peran \"Badan Pengawas Pemilihan Umum\"?",
+        "context": "Menurut UU Nomor 8 Tahun 2015, ini adalah lembaga penyelenggara pemilu yang bertugas mengawasi penyelenggaraan pemilihan umum di seluruh wilayah Negara Kesatuan Republik Indonesia.",
+        "response": "Badan Pengawas Pemilihan Umum"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Pengawas Pemilu Kabupaten/Kota\"?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017, ini adalah badan yang bertugas mengawasi Penyelenggaraan Pemilu di wilayah kabupaten/kota.",
+        "response": "Badan Pengawas Pemilu Kabupaten/Kota"
+    },
+    {
+        "instruction": "Apa itu \"Badan Pengawas Sistem Resi Gudang\"?",
+        "context": "Sesuai UU Nomor 9 Tahun 2011, ini adalah unit organisasi di bawah Menteri yang berwenang melakukan pembinaan, pengaturan, dan pengawasan pelaksanaan Sistem Resi Gudang.",
+        "response": "Badan Pengawas Sistem Resi Gudang"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Pengawas Perdagangan Berjangka Komoditi\"?",
+        "context": "Menurut PP Nomor 49 Tahun 2014, ini adalah lembaga pemerintah yang tugas pokoknya melakukan pembinaan, pengaturan, pengembangan, dan pengawasan Perdagangan Berjangka.",
+        "response": "Badan Pengawas Perdagangan Berjangka Komoditi"
+    },
+    {
+        "instruction": "Apa definisi \"Bawaslu\" (Badan Pengawas Pemilu)?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2011, Bawaslu adalah lembaga penyelenggara Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di seluruh wilayah Negara Kesatuan Republik Indonesia.",
+        "response": "Badan Pengawas Pemilu, selanjutnya disingkat Bawaslu"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Pengawas Tenaga Nuklir\"?",
+        "context": "Sesuai PP Nomor 58 Tahun 2015 dan peraturan terkait, ini adalah instansi yang bertugas melaksanakan pengawasan melalui peraturan, perizinan, dan inspeksi terhadap segala kegiatan Pemanfaatan Tenaga Nuklir.",
+        "response": "Badan Pengawas Tenaga Nuklir"
+    },
+    {
+        "instruction": "Siapakah \"Badan Pengawasan Keuangan dan Pembangunan\"?",
+        "context": "Menurut PP Nomor 60 Tahun 2008, ini adalah aparat pengawasan intern pemerintah (APIP) yang bertanggung jawab langsung kepada Presiden.",
+        "response": "Badan Pengawasan Keuangan dan Pembangunan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Pengelola Dana\"?",
+        "context": "Berdasarkan PP Nomor 24 Tahun 2015, ini adalah badan yang dibentuk oleh Pemerintah untuk menghimpun, mengadministrasikan, mengelola, menyimpan, dan menyalurkan Dana.",
+        "response": "Badan Pengelola Dana"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Pengelola Keuangan Haji\"?",
+        "context": "Sesuai UU Nomor 34 Tahun 2014, ini adalah lembaga yang melakukan pengelolaan Keuangan Haji.",
+        "response": "Badan Pengelola Keuangan Haji"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Pengelola Dana Perkebunan Kelapa Sawit\"?",
+        "context": "Menurut Permen ESDM Nomor 48 Tahun 2017, ini adalah badan yang dibentuk pemerintah untuk menghimpun, mengelola, dan menyalurkan dana pembiayaan biodiesel (dan sawit).",
+        "response": "Badan Pengelola Dana Perkebunan Kelapa Sawit"
+    },
+    {
+        "instruction": "Apa itu \"Badan Pengelola Dana Abadi Umat\"?",
+        "context": "Berdasarkan PP Nomor 79 Tahun 2012, ini adalah badan yang bertugas menghimpun, mengelola, dan mengembangkan Dana Abadi Umat (DAU).",
+        "response": "Badan Pengelola Dana Abadi Umat"
+    },
+    {
+        "instruction": "Apa wilayah kerja \"Badan Pengelola Migas Aceh\"?",
+        "context": "Sesuai PP Nomor 23 Tahun 2015, ini adalah badan Pemerintah untuk pengelolaan bersama usaha hulu migas di wilayah kewenangan Aceh (0 s.d. 12 mil laut).",
+        "response": "Badan Pengelola Migas Aceh"
+    },
+    {
+        "instruction": "Apa itu \"Badan Pengelola Tapera\"?",
+        "context": "Menurut UU Nomor 4 Tahun 2016 dan PP Nomor 25 Tahun 2020, ini adalah badan hukum yang dibentuk untuk mengelola Tapera (Tabungan Perumahan Rakyat).",
+        "response": "Badan Pengelola Tapera"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Pengembangan dan Pembinaan Bahasa\"?",
+        "context": "Berdasarkan PP Nomor 57 Tahun 2014, ini adalah lembaga kebahasaan di bawah Menteri yang bertugas melaksanakan pengembangan, pembinaan, dan pelindungan bahasa dan sastra Indonesia.",
+        "response": "Badan Pengembangan dan Pembinaan Bahasa"
+    }
+]
