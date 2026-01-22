@@ -143,5 +143,155 @@
         "instruction": "Apa tugas \"Badan Pengembangan dan Pembinaan Bahasa\"?",
         "context": "Berdasarkan PP Nomor 57 Tahun 2014, ini adalah lembaga kebahasaan di bawah Menteri yang bertugas melaksanakan pengembangan, pembinaan, dan pelindungan bahasa dan sastra Indonesia.",
         "response": "Badan Pengembangan dan Pembinaan Bahasa"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Pengusahaan Kawasan\"?",
+        "context": "Menurut PP Nomor 65 Tahun 2014 dan PP Nomor 6 Tahun 2011, ini adalah lembaga/instansi pemerintah pusat yang dibentuk oleh Dewan Kawasan untuk melaksanakan pengelolaan, pengembangan, dan pembangunan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam.",
+        "response": "Badan Pengusahaan Kawasan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas\"?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021, ini adalah badan yang dibentuk untuk melaksanakan pengelolaan, pengembangan, dan pembangunan KPBPB (Kawasan Perdagangan Bebas dan Pelabuhan Bebas).",
+        "response": "Badan Pengusahaan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam\"?",
+        "context": "Sesuai PP Nomor 65 Tahun 2014, ini adalah lembaga/instansi pemerintah pusat yang dibentuk oleh Dewan Kawasan untuk melaksanakan pengelolaan, pengembangan, dan pembangunan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam.",
+        "response": "Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam"
+    },
+    {
+        "instruction": "Apa itu \"Badan Pengusahaan Kawasan Sabang\"?",
+        "context": "Menurut PP Nomor 83 Tahun 2010, ini adalah Badan Pengelola dan Pengembangan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang.",
+        "response": "Badan Pengusahaan Kawasan Sabang"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Penyelenggara Jaminan Produk Halal\"?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014, ini adalah badan yang dibentuk oleh Pemerintah untuk menyelenggarakan JPH (Jaminan Produk Halal).",
+        "response": "Badan Penyelenggara Jaminan Produk Halal"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Penyelenggara Jaminan Sosial\" (BPJS)?",
+        "context": "Merujuk pada UU No. 40 Tahun 2004, UU No. 24 Tahun 2011, dan beberapa PP terkait, BPJS adalah badan hukum yang dibentuk untuk menyelenggarakan program jaminan sosial (termasuk untuk Pekerja Migran).",
+        "response": "Badan Penyelenggara Jaminan Sosial"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Penyelenggara Jaminan Sosial Kesehatan\"?",
+        "context": "Sesuai Perpres Nomor 82 Tahun 2018 dan PP Nomor 86 Tahun 2013, ini adalah badan hukum yang dibentuk untuk menyelenggarakan program Jaminan Kesehatan.",
+        "response": "Badan Penyelenggara Jaminan Sosial Kesehatan"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Penyelenggara Jaminan Sosial Ketenagakerjaan\"?",
+        "context": "Menurut PP Nomor 86 Tahun 2013, ini adalah badan hukum yang dibentuk untuk menyelenggarakan program Jaminan Kecelakaan Kerja, Jaminan Hari Tua, Jaminan Pensiun, dan Jaminan Kematian.",
+        "response": "Badan Penyelenggara Jaminan Sosial Ketenagakerjaan"
+    },
+    {
+        "instruction": "Apa itu \"Badan Penyelenggara JPH\"?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014, ini adalah badan yang dibentuk oleh Pemerintah untuk menyelenggarakan JPH (Jaminan Produk Halal).",
+        "response": "Badan Penyelenggara JPH"
+    },
+    {
+        "instruction": "Apa yang termasuk dalam \"Badan Peradilan\"?",
+        "context": "Sesuai UU Nomor 18 Tahun 2011, ini adalah penyelenggara peradilan di bawah Mahkamah Agung dalam lingkungan peradilan umum, agama, militer, dan tata usaha negara, serta pengadilan khusus yang berada di dalamnya.",
+        "response": "Badan Peradilan"
+    },
+    {
+        "instruction": "Apa tugas \"Badan Perencanaan Pembangunan Daerah\" (Bappeda)?",
+        "context": "Menurut PP Nomor 40 Tahun 2006, Bappeda adalah satuan kerja perangkat daerah yang bertanggung jawab terhadap pelaksanaan tugas dan fungsi perencanaan pembangunan di Daerah Provinsi, Kabupaten, atau Kota.",
+        "response": "Badan Perencanaan Pembangunan Daerah"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Permusyawaratan Desa\"?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2014, ini adalah lembaga yang melaksanakan fungsi pemerintahan yang anggotanya merupakan wakil dari penduduk Desa berdasarkan keterwakilan wilayah dan ditetapkan secara demokratis.",
+        "response": "Badan Permusyawaratan Desa"
+    },
+    {
+        "instruction": "Apa itu \"Badan Pertanahan Nasional Republik Indonesia\" (BPN)?",
+        "context": "Sesuai Perpres Nomor 71 Tahun 2012, BPN adalah Lembaga Pertanahan sebagaimana dimaksud dalam Undang-Undang Nomor 2 Tahun 2012 tentang Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum.",
+        "response": "Badan Pertanahan Nasional Republik Indonesia"
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai \"Badan Publik\"?",
+        "context": "Dalam RUU Pelindungan Data Pribadi Tahun 2022, Badan Publik adalah lembaga eksekutif, legislatif, yudikatif, dan badan lain yang fungsi dan tugas pokoknya berkaitan dengan penyelenggaraan negara, yang sebagian atau seluruh dananya bersumber dari APBN dan/atau APBD.",
+        "response": "Badan Publik"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Tenaga Nuklir Nasional\" (BATAN)?",
+        "context": "Menurut PP Nomor 61 Tahun 2013, ini adalah badan pelaksana sebagaimana dimaksud dalam Undang-Undang Nomor 10 Tahun 1997 tentang Ketenaganukliran.",
+        "response": "Badan Tenaga Nuklir Nasional"
+    },
+    {
+        "instruction": "Jelaskan berbagai definisi \"Badan Usaha\" dalam peraturan.",
+        "context": "Secara umum (berdasarkan PP 42/2021, UU 18/2002, PP 71/2019), Badan Usaha adalah perusahaan atau bentuk usaha (baik berbadan hukum maupun tidak, seperti PT, CV, Koperasi, BUMN, BUMD) yang melakukan kegiatan usaha bersifat tetap, terus-menerus, untuk memperoleh laba.",
+        "response": "Badan Usaha"
+    },
+    {
+        "instruction": "Apa itu \"Badan Usaha Bahan Bakar Minyak\"?",
+        "context": "Sesuai Permen ESDM Nomor 48 Tahun 2017, ini adalah badan usaha yang telah memperoleh izin usaha untuk melakukan kegiatan usaha niaga umum bahan bakar minyak jenis minyak solar.",
+        "response": "Badan Usaha Bahan Bakar Minyak"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Usaha Bandar Udara\"?",
+        "context": "Menurut PP Nomor 40 Tahun 2012 dan PP Nomor 41 Tahun 2021, ini adalah BUMN, BUMD, atau badan hukum Indonesia (PT/Koperasi) yang kegiatan utamanya mengoperasikan Bandar Udara untuk pelayanan umum, atau unit kerja Badan Pengusahaan di Bandara Hang Nadim.",
+        "response": "Badan Usaha Bandar Udara"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Usaha Milik Desa\"?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2014, ini adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh Desa melalui penyertaan langsung dari kekayaan Desa yang dipisahkan guna mengelola aset dan usaha untuk kesejahteraan masyarakat Desa.",
+        "response": "Badan Usaha Milik Desa"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari \"BUM Desa\"?",
+        "context": "Sesuai PP Nomor 43 Tahun 2014, Badan Usaha Milik Desa yang disebut BUM Desa adalah badan usaha yang seluruh/sebagian besar modalnya dimiliki oleh Desa untuk mengelola aset dan usaha guna kesejahteraan masyarakat Desa.",
+        "response": "Badan Usaha Milik Desa, selanjutnya disebut BUM Desa"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"BUMN\" (Badan Usaha Milik Negara).",
+        "context": "Menurut PP 63/2019, PP 23/2020, dan regulasi lainnya, BUMN adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh negara melalui penyertaan secara langsung yang berasal dari kekayaan negara yang dipisahkan.",
+        "response": "Badan Usaha Milik Negara, selanjutnya disingkat BUMN"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Usaha Pelabuhan\"?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021, ini adalah badan usaha yang kegiatan usahanya khusus di bidang pengusahaan terminal dan fasilitas pelabuhan lainnya di KPBPB.",
+        "response": "Badan Usaha Pelabuhan"
+    },
+    {
+        "instruction": "Apa itu \"Badan Usaha Pelaksana KPBU\"?",
+        "context": "Sesuai Perpres Nomor 38 Tahun 2015, ini adalah Perseroan Terbatas yang didirikan oleh Badan Usaha pemenang lelang atau yang ditunjuk langsung untuk melaksanakan KPBU (Kerjasama Pemerintah dengan Badan Usaha).",
+        "response": "Badan Usaha Pelaksana Kpbu"
+    },
+    {
+        "instruction": "Apa definisi \"Badan Usaha Pelaksana Proyek Strategis Nasional Melalui Skema KPBU\"?",
+        "context": "Menurut PP Nomor 42 Tahun 2021, ini adalah perseroan terbatas yang didirikan untuk mengikuti tahapan pemilihan dan melaksanakan perjanjian kerja sama dengan pemerintah, atau PT yang didirikan oleh pemenang pemilihan.",
+        "response": "Badan Usaha Pelaksana Proyek Strategis Nasional Melalui Skema Kpbu"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Badan Usaha Perorangan\"?",
+        "context": "Dalam RUU Pelindungan Data Pribadi Tahun 2022, ini didefinisikan sebagai badan usaha yang kepemilikannya dimiliki oleh satu orang.",
+        "response": "Badan Usaha Perorangan"
+    },
+    {
+        "instruction": "Apa kriteria \"Badan Usaha Swasta Nasional\"?",
+        "context": "Sesuai PP Nomor 23 Tahun 2010, ini adalah badan usaha (baik berbadan hukum maupun tidak) yang kepemilikan sahamnya 100% dalam negeri.",
+        "response": "Badan Usaha Swasta Nasional"
+    },
+    {
+        "instruction": "Apa fungsi \"Badan Wakaf Indonesia\"?",
+        "context": "Menurut UU Nomor 41 Tahun 2004, ini adalah lembaga independen untuk mengembangkan perwakafan di Indonesia.",
+        "response": "Badan Wakaf Indonesia"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Bagian Anggaran Bendahara Umum Negara\".",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2014 dan UU Nomor 27 Tahun 2014, ini adalah bagian anggaran yang dikelola oleh Menteri Keuangan selaku pengelola fiskal.",
+        "response": "Bagian Anggaran Bendahara Umum Negara"
+    },
+    {
+        "instruction": "Apa definisi \"Bahan Bakar Minyak\" (BBM)?",
+        "context": "Menurut PP Nomor 67 Tahun 2002, BBM adalah bahan bakar yang berasal dan/atau diolah dari Minyak Bumi.",
+        "response": "Bahan Bakar Minyak"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bahan Baku\"?",
+        "context": "Sesuai PP Nomor 29 Tahun 2018, Bahan Baku adalah bahan mentah, barang setengah jadi, atau barang jadi yang dapat diolah menjadi barang yang mempunyai nilai ekonomi lebih tinggi.",
+        "response": "Bahan Baku"
     }
 ]
