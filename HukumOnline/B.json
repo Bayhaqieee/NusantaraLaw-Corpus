@@ -293,5 +293,155 @@
         "instruction": "Apa yang dimaksud dengan \"Bahan Baku\"?",
         "context": "Sesuai PP Nomor 29 Tahun 2018, Bahan Baku adalah bahan mentah, barang setengah jadi, atau barang jadi yang dapat diolah menjadi barang yang mempunyai nilai ekonomi lebih tinggi.",
         "response": "Bahan Baku"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bahasa Asing\" dalam undang-undang?",
+        "context": "Menurut UU Nomor 24 Tahun 2009, Bahasa Asing didefinisikan sebagai bahasa selain Bahasa Indonesia dan bahasa daerah.",
+        "response": "Bahasa Asing"
+    },
+    {
+        "instruction": "Apa definisi \"Bahasa Daerah\"?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2009, Bahasa Daerah adalah bahasa yang digunakan secara turun-temurun oleh warga negara Indonesia di daerah-daerah di wilayah Negara Kesatuan Republik Indonesia.",
+        "response": "Bahasa Daerah"
+    },
+    {
+        "instruction": "Apa fungsi \"Balai Pemasyarakatan\"?",
+        "context": "Sesuai UU Nomor 11 Tahun 2012, Balai Pemasyarakatan adalah unit pelaksana teknis pemasyarakatan yang melaksanakan tugas dan fungsi penelitian kemasyarakatan, pembimbingan, pengawasan, dan pendampingan.",
+        "response": "Balai Pemasyarakatan"
+    },
+    {
+        "instruction": "Apa itu \"Bandar Antariksa\"?",
+        "context": "Menurut UU Nomor 21 Tahun 2013, Bandar Antariksa adalah kawasan di daratan yang digunakan sebagai landasan dan/atau peluncuran Wahana Antariksa yang dilengkapi dengan fasilitas keamanan, keselamatan, serta fasilitas penunjang lainnya.",
+        "response": "Bandar Antariksa"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Bandar Udara\".",
+        "context": "Berdasarkan PP Nomor 40 Tahun 2012, Bandar Udara adalah kawasan di daratan dan/atau perairan yang digunakan sebagai tempat pesawat udara mendarat dan lepas landas, naik turun penumpang, bongkar muat barang, dan perpindahan moda transportasi.",
+        "response": "Bandar Udara"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Banding\" dalam konteks hukum?",
+        "context": "Istilah ini memiliki dua konteks utama: 1) Upaya hukum terhadap putusan Majelis Pengawas Wilayah Notaris (Permenkumham 15/2020); 2) Upaya hukum oleh Wajib Pajak terhadap keputusan yang dapat diajukan banding sesuai peraturan perpajakan (UU 14/2002).",
+        "response": "Banding"
+    },
+    {
+        "instruction": "Apa itu \"Banding administratif\" bagi PNS?",
+        "context": "Menurut PP Nomor 53 Tahun 2010, ini adalah upaya administratif ke Badan Pertimbangan Kepegawaian yang dapat ditempuh oleh PNS yang tidak puas terhadap hukuman disiplin berat berupa pemberhentian.",
+        "response": "Banding administratif"
+    },
+    {
+        "instruction": "Apa definisi umum dari \"Bank\"?",
+        "context": "Sesuai PP Nomor 21 Tahun 2018, Bank adalah badan usaha sebagaimana dimaksud dalam Undang-Undang mengenai Perbankan dan Undang-Undang mengenai Perbankan Syariah.",
+        "response": "Bank"
+    },
+    {
+        "instruction": "Siapakah \"Bank Indonesia\"?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2011, Bank Indonesia adalah bank sentral Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Republik Indonesia Tahun 1945.",
+        "response": "Bank Indonesia"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bank Konvensional\"?",
+        "context": "Menurut UU Nomor 21 Tahun 2008, ini adalah Bank yang menjalankan kegiatan usahanya secara konvensional, yang terdiri atas Bank Umum Konvensional dan Bank Perkreditan Rakyat.",
+        "response": "Bank Konvensional"
+    },
+    {
+        "instruction": "Apa tugas \"Bank Kustodian\"?",
+        "context": "Merujuk pada PP 63/2019 dan UU 4/2016, Bank Kustodian adalah bank umum yang memperoleh persetujuan Otoritas Jasa Keuangan (OJK) untuk menjalankan usaha jasa penitipan efek, harta terkait, menerima dividen, dan menyelesaikan transaksi efek.",
+        "response": "Bank Kustodian"
+    },
+    {
+        "instruction": "Apa itu \"Bank Pelaksana\" dalam program pemulihan ekonomi?",
+        "context": "Sesuai PP Nomor 23 Tahun 2020, ini adalah bank umum (konvensional/syariah) yang menerapkan restrukturisasi kredit atau memberikan tambahan modal kerja bagi BPR/BPRS dan perusahaan pembiayaan.",
+        "response": "Bank Pelaksana"
+    },
+    {
+        "instruction": "Apa definisi \"Bank Pembiayaan Rakyat Syariah\" (BPRS)?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008, BPRS adalah Bank Syariah yang dalam kegiatannya tidak memberikan jasa dalam lalu lintas pembayaran.",
+        "response": "Bank Pembiayaan Rakyat Syariah"
+    },
+    {
+        "instruction": "Siapa \"Bank Penerima Setoran Biaya Penyelenggaraan Ibadah Haji\"?",
+        "context": "Menurut UU Nomor 34 Tahun 2014, ini adalah Bank Umum Syariah dan/atau Unit Usaha Syariah yang ditunjuk oleh Badan Pengelola Keuangan Haji (BPKH).",
+        "response": "Bank Penerima Setoran Biaya Penyelenggaraan Ibadah Haji"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi \"Bank Penerima Setoran BPIH\"?",
+        "context": "Sesuai UU Nomor 34 Tahun 2014, Bank Penerima Setoran BPIH adalah Bank Umum Syariah dan/atau Unit Usaha Syariah yang ditunjuk oleh BPKH.",
+        "response": "Bank Penerima Setoran BPIH"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bank Perkreditan Rakyat\" (BPR)?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008, BPR adalah Bank Konvensional yang dalam kegiatannya tidak memberikan jasa dalam lalu lintas pembayaran.",
+        "response": "Bank Perkreditan Rakyat"
+    },
+    {
+        "instruction": "Apa fungsi \"Bank Persepsi\"?",
+        "context": "Menurut UU Nomor 11 Tahun 2016, Bank Persepsi adalah bank umum yang ditunjuk oleh Menteri untuk menerima setoran penerimaan negara, termasuk uang tebusan pengampunan pajak.",
+        "response": "Bank Persepsi"
+    },
+    {
+        "instruction": "Apa itu \"Bank Peserta\"?",
+        "context": "Sesuai PP Nomor 23 Tahun 2020, Bank Peserta adalah bank yang menerima Penempatan Dana Pemerintah dan menyediakan dana penyangga likuiditas bagi Bank Pelaksana yang membutuhkan.",
+        "response": "Bank Peserta"
+    },
+    {
+        "instruction": "Apa definisi \"Bank Sentral\"?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2004, Bank Sentral adalah lembaga negara sebagaimana dimaksud dalam UUD 1945.",
+        "response": "Bank Sentral"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bank Syariah\"?",
+        "context": "Menurut UU Nomor 21 Tahun 2008, Bank Syariah adalah Bank yang menjalankan kegiatan usahanya berdasarkan Prinsip Syariah, terdiri atas Bank Umum Syariah dan Bank Pembiayaan Rakyat Syariah.",
+        "response": "Bank Syariah"
+    },
+    {
+        "instruction": "Apa definisi \"Bank Umum\"?",
+        "context": "Sesuai PP Nomor 39 Tahun 2007, Bank Umum adalah bank yang melaksanakan kegiatan usaha secara konvensional dan/atau syariah yang dalam kegiatannya memberikan jasa dalam lalu lintas pembayaran.",
+        "response": "Bank Umum"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Bank Umum Konvensional\".",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008, ini adalah Bank Konvensional yang dalam kegiatannya memberikan jasa dalam lalu lintas pembayaran.",
+        "response": "Bank Umum Konvensional"
+    },
+    {
+        "instruction": "Apa itu \"Bank Umum Syariah\"?",
+        "context": "Menurut UU Nomor 34 Tahun 2014 dan UU Nomor 21 Tahun 2008, Bank Umum Syariah adalah bank yang menjalankan kegiatan berdasarkan prinsip syariah dan memberikan jasa dalam lalu lintas pembayaran.",
+        "response": "Bank Umum Syariah"
+    },
+    {
+        "instruction": "Apa definisi \"Bantuan Hukum\"?",
+        "context": "Merujuk pada UU Nomor 16 Tahun 2011 dan UU Nomor 18 Tahun 2003, Bantuan Hukum adalah jasa hukum yang diberikan oleh Pemberi Bantuan Hukum (Advokat) secara cuma-cuma kepada Penerima Bantuan Hukum (klien tidak mampu).",
+        "response": "Bantuan Hukum"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bantuan Hukum Secara Cuma-Cuma\"?",
+        "context": "Sesuai PP Nomor 83 Tahun 2008, ini adalah jasa hukum (konsultasi, pendampingan, pembelaan) yang diberikan Advokat tanpa menerima pembayaran honorarium untuk pencari keadilan yang tidak mampu.",
+        "response": "Bantuan Hukum Secara Cuma-Cuma"
+    },
+    {
+        "instruction": "Apa itu \"Bantuan Iuran\" dalam jaminan sosial?",
+        "context": "Menurut UU Nomor 40 Tahun 2004, PP 73/2016, dan UU 24/2011, Bantuan Iuran adalah iuran jaminan sosial yang dibayar oleh Pemerintah bagi fakir miskin dan orang tidak mampu.",
+        "response": "Bantuan Iuran"
+    },
+    {
+        "instruction": "Jelaskan istilah \"Bantuan Kedinasan\".",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2014, Bantuan Kedinasan adalah kerja sama antara Badan dan/atau Pejabat Pemerintahan guna kelancaran pelayanan Administrasi Pemerintahan.",
+        "response": "Bantuan Kedinasan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bantuan Pendanaan PTN Badan Hukum\"?",
+        "context": "Sesuai PP Nomor 26 Tahun 2015, ini adalah subsidi dari APBN yang diberikan oleh Pemerintah kepada Perguruan Tinggi Negeri (PTN) Badan Hukum untuk penyelenggaraan pendidikan tinggi.",
+        "response": "Bantuan Pendanaan PTN Badan Hukum"
+    },
+    {
+        "instruction": "Apa definisi \"Bantuan Sosial\" (Bansos)?",
+        "context": "Berdasarkan berbagai Undang-Undang (UU 11/2011, UU 2/2010, dll), Bantuan Sosial adalah semua pengeluaran negara dalam bentuk transfer uang/barang yang diberikan kepada masyarakat guna melindungi masyarakat dari kemungkinan terjadinya berbagai risiko sosial.",
+        "response": "Bantuan Sosial"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi \"Bapas\"?",
+        "context": "Sesuai PP Nomor 65 Tahun 2015, Bapas (Balai Pemasyarakatan) adalah unit pelaksana teknis pemasyarakatan yang melaksanakan penelitian kemasyarakatan, pembimbingan, pengawasan, dan pendampingan.",
+        "response": "Bapas"
     }
 ]
