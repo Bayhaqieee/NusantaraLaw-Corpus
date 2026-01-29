@@ -443,5 +443,155 @@
         "instruction": "Apa singkatan dan definisi \"Bapas\"?",
         "context": "Sesuai PP Nomor 65 Tahun 2015, Bapas (Balai Pemasyarakatan) adalah unit pelaksana teknis pemasyarakatan yang melaksanakan penelitian kemasyarakatan, pembimbingan, pengawasan, dan pendampingan.",
         "response": "Bapas"
+    },
+    {
+        "instruction": "Apa itu \"BAPETEN\"?",
+        "context": "BAPETEN adalah badan pengawas tenaga nuklir sebagaimana dimaksud dalam Undang-Undang Nomor 10 Tahun 1997 tentang Ketenaganukliran (PP No. 58 Tahun 2015, PP No. 29 Tahun 2008).",
+        "response": "BAPETEN"
+    },
+    {
+        "instruction": "Apa tugas \"Bappebti\"?",
+        "context": "Sesuai UU Nomor 10 Tahun 2011, Bappebti adalah lembaga pemerintah yang tugas pokoknya melakukan pembinaan, pengaturan, pengembangan, dan pengawasan Perdagangan Berjangka.",
+        "response": "Bappebti"
+    },
+    {
+        "instruction": "Apa fungsi \"Bappeda\"?",
+        "context": "Menurut PP Nomor 40 Tahun 2006, Bappeda adalah satuan kerja perangkat daerah yang bertanggung jawab terhadap pelaksanaan tugas dan fungsi perencanaan pembangunan di Daerah Provinsi, Kabupaten, atau Kota.",
+        "response": "Bappeda"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Barang Ekspor\"?",
+        "context": "Berdasarkan PP Nomor 35 Tahun 2005, Barang Ekspor adalah barang yang dikeluarkan dari daerah pabean.",
+        "response": "Barang Ekspor"
+    },
+    {
+        "instruction": "Apa definisi \"Barang Dan Jasa\" dalam konteks BUMN?",
+        "context": "Sesuai Permen BUMN Nomor PER-08/MBU/12/2019, ini mencakup semua bentuk produk dan/atau layanan yang dibutuhkan oleh Pengguna Barang dan Jasa.",
+        "response": "Barang Dan Jasa"
+    },
+    {
+        "instruction": "Jelaskan definisi hukum dari \"Barang\".",
+        "context": "Merujuk pada PP Nomor 80 Tahun 2019 dan PP Nomor 34 Tahun 2018, Barang adalah setiap benda (berwujud/tidak, bergerak/tidak, dapat dihabiskan/tidak) yang dapat diperdagangkan, dipakai, digunakan, atau dimanfaatkan oleh Konsumen atau Pelaku Usaha.",
+        "response": "Barang"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Barang Kebutuhan Pokok\"?",
+        "context": "Menurut PP Nomor 29 Tahun 2021, ini adalah barang yang menyangkut hajat hidup orang banyak dengan skala pemenuhan kebutuhan yang tinggi serta menjadi faktor pendukung kesejahteraan masyarakat.",
+        "response": "Barang Kebutuhan Pokok"
+    },
+    {
+        "instruction": "Apa kriteria \"Barang Kena Cukai\"?",
+        "context": "Sesuai PP Nomor 41 Tahun 2021, ini adalah barang tertentu yang konsumsinya perlu dikendalikan, peredarannya diawasi, pemakaiannya berdampak negatif, atau perlu pembebanan pungutan negara demi keadilan.",
+        "response": "Barang Kena Cukai"
+    },
+    {
+        "instruction": "Apa definisi \"Barang Kena Pajak\"?",
+        "context": "Berdasarkan UU Nomor 42 Tahun 2009, Barang Kena Pajak adalah barang yang dikenai pajak berdasarkan peraturan perundang-undangan mengenai pajak pertambahan nilai (PPN) dan pajak penjualan atas barang mewah (PPnBM).",
+        "response": "Barang Kena Pajak"
+    },
+    {
+        "instruction": "Apa itu \"Barang Milik Desa\"?",
+        "context": "Menurut PP Nomor 43 Tahun 2014, Barang Milik Desa adalah kekayaan milik Desa berupa barang bergerak dan barang tidak bergerak.",
+        "response": "Barang Milik Desa"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Barang Milik Daerah\"?",
+        "context": "Sesuai UU Nomor 23 Tahun 2014, ini adalah semua barang yang dibeli atau diperoleh atas beban APBD atau berasal dari perolehan lainnya yang sah.",
+        "response": "Barang Milik Daerah"
+    },
+    {
+        "instruction": "Apa definisi \"Barang Konsumsi\"?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021, Barang Konsumsi adalah barang yang digunakan untuk keperluan konsumsi Penduduk.",
+        "response": "Barang Konsumsi"
+    },
+    {
+        "instruction": "Apa itu \"Barang Milik Negara\"?",
+        "context": "Menurut UU Nomor 6 Tahun 2021 dan UU Nomor 9 Tahun 2020, ini adalah semua barang yang dibeli atau diperoleh atas beban APBN atau berasal dari perolehan lainnya yang sah.",
+        "response": "Barang Milik Negara"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Barang Penting\"?",
+        "context": "Sesuai PP Nomor 29 Tahun 2021, Barang Penting adalah barang strategis yang berperan penting dalam menentukan kelancaran pembangunan nasional.",
+        "response": "Barang Penting"
+    },
+    {
+        "instruction": "Apa definisi \"Barang Tertentu\" dalam konteks pabean dan perdagangan?",
+        "context": "Istilah ini merujuk pada barang yang pengangkutannya dalam Daerah Pabean diawasi (PP No. 3 Tahun 2009) atau barang yang termasuk dalam kelompok barang yang dibatasi ekspor dan impor (Permendag No. 16 Tahun 2021).",
+        "response": "Barang Tertentu"
+    },
+    {
+        "instruction": "Apa definisi \"Batubara\"?",
+        "context": "Menurut PP Nomor 22 Tahun 2010, Batubara adalah endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan.",
+        "response": "Batubara"
+    },
+    {
+        "instruction": "Apa tugas \"Bawaslu\"?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017, Bawaslu adalah lembaga Penyelenggara Pemilu yang bertugas mengawasi Penyelenggaraan Pemilu di seluruh wilayah Negara Kesatuan Republik Indonesia.",
+        "response": "Bawaslu"
+    },
+    {
+        "instruction": "Apa fungsi \"Bawaslu Provinsi\"?",
+        "context": "Sesuai UU Nomor 7 Tahun 2017 dan UU Nomor 8 Tahun 2015, ini adalah badan/lembaga yang bertugas mengawasi Penyelenggaraan Pemilu (termasuk Pilkada) di wilayah provinsi.",
+        "response": "Bawaslu Provinsi"
+    },
+    {
+        "instruction": "Apa itu \"BAZNAS\"?",
+        "context": "Menurut PP Nomor 14 Tahun 2014 dan UU Nomor 23 Tahun 2011, BAZNAS adalah lembaga yang melakukan pengelolaan zakat secara nasional.",
+        "response": "BAZNAS"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bea Balik Nama Kendaraan Bermotor\"?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022, ini adalah pajak atas penyerahan hak milik kendaraan bermotor akibat perjanjian dua pihak (jual beli, tukar menukar, hibah) atau perbuatan sepihak (waris).",
+        "response": "Bea Balik Nama Kendaraan Bermotor"
+    },
+    {
+        "instruction": "Apa definisi \"Bea Keluar\"?",
+        "context": "Sesuai UU Nomor 17 Tahun 2006, Bea Keluar adalah pungutan negara yang dikenakan terhadap barang ekspor.",
+        "response": "Bea Keluar"
+    },
+    {
+        "instruction": "Apa definisi \"Bea Masuk\"?",
+        "context": "Menurut UU Nomor 17 Tahun 2006, Bea Masuk adalah pungutan negara yang dikenakan terhadap barang yang diimpor.",
+        "response": "Bea Masuk"
+    },
+    {
+        "instruction": "Apa itu \"Bea Meterai\"?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2020, Bea Meterai adalah pajak yang dikenakan atas Dokumen.",
+        "response": "Bea Meterai"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bea Perolehan Hak atas Tanah dan Bangunan\"?",
+        "context": "Sesuai UU Nomor 28 Tahun 2009, ini adalah pajak yang dikenakan atas perolehan hak atas tanah dan/atau bangunan.",
+        "response": "Bea Perolehan Hak atas Tanah dan Bangunan"
+    },
+    {
+        "instruction": "Apa pengertian \"Bela Negara\"?",
+        "context": "Menurut UU Nomor 23 Tahun 2019, Bela Negara adalah tekad, sikap, perilaku, dan tindakan warga negara dalam menjaga kedaulatan, keutuhan wilayah, dan keselamatan bangsa yang dijiwai kecintaan pada NKRI.",
+        "response": "Bela Negara"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Belanja Daerah\".",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2004 dan UU Nomor 32 Tahun 2004, Belanja Daerah adalah semua kewajiban Daerah yang diakui sebagai pengurang nilai kekayaan bersih dalam periode tahun anggaran yang bersangkutan.",
+        "response": "Belanja Daerah"
+    },
+    {
+        "instruction": "Apa itu \"Belanja Hibah\"?",
+        "context": "Sesuai UU Nomor 11 Tahun 2011, Belanja Hibah adalah belanja Pemerintah Pusat (uang/barang/jasa) kepada BUMN, Pemda, atau pihak lain yang bersifat sukarela, tidak wajib, tidak mengikat, dan tidak perlu dibayar kembali.",
+        "response": "Belanja Hibah"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Belanja Modal\"?",
+        "context": "Menurut UU Nomor 11 Tahun 2011, Belanja Modal adalah belanja Pemerintah Pusat yang dilakukan dalam rangka pembentukan modal (aset) dalam bentuk tanah, peralatan, mesin, gedung, bangunan, jaringan, dan fisik lainnya.",
+        "response": "Belanja Modal"
+    },
+    {
+        "instruction": "Apa definisi \"Belanja Negara\"?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2012, Belanja Negara adalah semua pengeluaran negara yang digunakan untuk membiayai belanja Pemerintah Pusat dan transfer ke daerah.",
+        "response": "Belanja Negara"
+    },
+    {
+        "instruction": "Apa pengertian \"Belanja Pegawai\"?",
+        "context": "Sesuai UU Nomor 11 Tahun 2011, Belanja Pegawai adalah belanja Pemerintah Pusat untuk kompensasi (uang/barang) bagi pegawai, pensiunan, TNI/Polri, dan pejabat negara sebagai imbalan kerja, kecuali yang berkaitan dengan pembentukan modal.",
+        "response": "Belanja Pegawai"
     }
 ]
