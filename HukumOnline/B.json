@@ -593,5 +593,155 @@
         "instruction": "Apa pengertian \"Belanja Pegawai\"?",
         "context": "Sesuai UU Nomor 11 Tahun 2011, Belanja Pegawai adalah belanja Pemerintah Pusat untuk kompensasi (uang/barang) bagi pegawai, pensiunan, TNI/Polri, dan pejabat negara sebagai imbalan kerja, kecuali yang berkaitan dengan pembentukan modal.",
         "response": "Belanja Pegawai"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Belanja Pemerintah Pusat\"?",
+        "context": "Menurut UU Nomor 29 Tahun 2002 dan UU Nomor 19 Tahun 2001, ini adalah semua pengeluaran negara untuk membiayai pengeluaran rutin dan pengeluaran pembangunan.",
+        "response": "Belanja Pemerintah Pusat"
+    },
+    {
+        "instruction": "Jelaskan klasifikasi \"Belanja Pemerintah Pusat Menurut Fungsi\".",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2021 dan peraturan terkait, ini adalah belanja pemerintah yang dikelompokkan berdasarkan tujuannya, seperti fungsi pelayanan umum, pertahanan, ketertiban, ekonomi, lingkungan hidup, perumahan, kesehatan, pariwisata, agama, pendidikan, dan perlindungan sosial. ",
+        "response": "Belanja Pemerintah Pusat Menurut Fungsi"
+    },
+    {
+        "instruction": "Apa saja yang termasuk dalam \"Belanja Pemerintah Pusat Menurut Jenis\"?",
+        "context": "Sesuai UU Nomor 4 Tahun 2012 dan UU Nomor 11 Tahun 2011, belanja ini digunakan untuk membiayai belanja pegawai, belanja barang, belanja modal, pembayaran bunga utang, subsidi, belanja hibah, bantuan sosial, dan belanja lain-lain.",
+        "response": "Belanja Pemerintah Pusat Menurut Jenis"
+    },
+    {
+        "instruction": "Apa definisi \"Belanja Pemerintah Pusat Menurut Organisasi\"?",
+        "context": "Menurut UU Nomor 6 Tahun 2021, ini adalah belanja Pemerintah Pusat yang dialokasikan kepada kementerian negara/lembaga dan Bendahara Umum Negara.",
+        "response": "Belanja Pemerintah Pusat Menurut Organisasi"
+    },
+    {
+        "instruction": "Jelaskan tentang \"Belanja Pemerintah Pusat Menurut Program\".",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2021, ini adalah belanja yang dialokasikan untuk mencapai hasil (outcome) tertentu pada Bagian Anggaran kementerian negara/lembaga dan Bagian Anggaran Bendahara Umum Negara.",
+        "response": "Belanja Pemerintah Pusat Menurut Program"
+    },
+    {
+        "instruction": "Apa definisi \"Bencana Sosial\"?",
+        "context": "Sesuai UU Nomor 24 Tahun 2007, Bencana Sosial adalah bencana yang diakibatkan oleh peristiwa atau serangkaian peristiwa yang diakibatkan oleh manusia, meliputi konflik sosial antarkelompok atau antarkomunitas masyarakat, dan teror.",
+        "response": "Bencana Sosial"
+    },
+    {
+        "instruction": "Siapakah \"Bendahara Umum Negara\"?",
+        "context": "Menurut UU Nomor 9 Tahun 2018 dan UU Nomor 1 Tahun 2004, ini adalah pejabat yang diberi tugas untuk melaksanakan fungsi bendahara umum negara (biasanya Menteri Keuangan).",
+        "response": "Bendahara Umum Negara"
+    },
+    {
+        "instruction": "Apa definisi yang tercantum untuk \"Bendera Negara\" dalam data ini?",
+        "context": "Berdasarkan teks sumber dari UU Nomor 24 Tahun 2009 yang disediakan, entri ini didefinisikan sebagai bahasa resmi nasional yang digunakan di seluruh wilayah Negara Kesatuan Republik Indonesia.",
+        "response": "Bendera Negara"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bentuk-Bentuk Pengamanan Swakarsa\"?",
+        "context": "Sesuai PP Nomor 43 Tahun 2012, ini adalah bentuk pengamanan yang diadakan atas kemauan, kesadaran, dan kepentingan masyarakat sendiri yang kemudian memperoleh pengukuhan dari Kepolisian Negara Republik Indonesia (Polri).",
+        "response": "Bentuk-Bentuk Pengamanan Swakarsa"
+    },
+    {
+        "instruction": "Jelaskan konsep \"Bentuk usaha tetap\" (BUT).",
+        "context": "Menurut UU Nomor 30 Tahun 2007 dan PP Nomor 23 Tahun 2015, BUT adalah badan usaha yang didirikan dan berbadan hukum di luar wilayah Indonesia namun melakukan kegiatan dan berkedudukan di wilayah Indonesia, serta wajib mematuhi hukum Indonesia. ",
+        "response": "Bentuk usaha tetap"
+    },
+    {
+        "instruction": "Apa itu \"Berita Resmi Merek\"?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016, ini adalah media resmi yang diterbitkan secara berkala oleh Menteri melalui sarana elektronik/non-elektronik yang memuat ketentuan mengenai Merek.",
+        "response": "Berita Resmi Merek"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari \"BI\"?",
+        "context": "BI adalah singkatan dari Bank Indonesia, yaitu bank sentral Republik Indonesia sebagaimana dimaksud dalam UUD 1945 (PP Nomor 33 Tahun 2020).",
+        "response": "BI"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Biaya Hak Penggunaan Frekuensi Radio\"?",
+        "context": "Sesuai Permen Kominfo Nomor 7 Tahun 2018, ini adalah kewajiban bayar yang dikenakan kepada setiap pengguna frekuensi radio.",
+        "response": "Biaya Hak Penggunaan Frekuensi Radio"
+    },
+    {
+        "instruction": "Apa definisi \"Biaya Penyelenggaraan Ibadah Haji\" (BPIH)?",
+        "context": "Menurut UU Nomor 34 Tahun 2014, BPIH adalah sejumlah dana yang harus dibayar oleh warga negara yang akan menunaikan ibadah haji.",
+        "response": "Biaya Penyelenggaraan Ibadah Haji"
+    },
+    {
+        "instruction": "Apa itu \"Bidang-Bidang Usaha Tertentu\"?",
+        "context": "Berdasarkan PP Nomor 78 Tahun 2019, ini adalah bidang usaha di sektor kegiatan ekonomi yang mendapat prioritas tinggi dalam skala nasional.",
+        "response": "Bidang-Bidang Usaha Tertentu"
+    },
+    {
+        "instruction": "Apa definisi umum \"Bidang Usaha\"?",
+        "context": "Sesuai Perpres Nomor 10 Tahun 2021, Bidang Usaha adalah segala bentuk kegiatan usaha yang dilakukan untuk memproduksi barang atau jasa pada sektor-sektor ekonomi.",
+        "response": "Bidang Usaha"
+    },
+    {
+        "instruction": "Apa kriteria \"Bidang Usaha Tertentu Di Daerah Tertentu\"?",
+        "context": "Menurut PP Nomor 78 Tahun 2019, ini merujuk pada bidang usaha yang mendapat prioritas tinggi nasional dan berada di daerah yang secara ekonomis mempunyai potensi layak dikembangkan.",
+        "response": "Bidang Usaha Tertentu Di Daerah Tertentu"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"BLU\" (Badan Layanan Umum).",
+        "context": "Berdasarkan PP 63/2019 dan PP 23/2005, BLU adalah instansi pemerintah yang dibentuk untuk memberikan pelayanan (barang/jasa) kepada masyarakat tanpa mengutamakan keuntungan, didasarkan pada prinsip efisiensi dan produktivitas.",
+        "response": "BLU"
+    },
+    {
+        "instruction": "Apa definisi \"BMN\" (Barang Milik Negara)?",
+        "context": "Sesuai UU Nomor 12 Tahun 2018 dan UU Nomor 20 Tahun 2019, BMN adalah semua barang yang dibeli atau diperoleh atas beban APBN atau berasal dari perolehan lainnya yang sah.",
+        "response": "BMN"
+    },
+    {
+        "instruction": "Apa itu \"BNP2TKI\"?",
+        "context": "Merujuk pada PP Nomor 4 Tahun 2013, ini adalah Lembaga Pemerintah Non Kementerian sebagaimana dimaksud dalam UU No. 39 Tahun 2004 tentang Penempatan dan Perlindungan Tenaga Kerja Indonesia di Luar Negeri.",
+        "response": "BNP2TKI"
+    },
+    {
+        "instruction": "Apa fungsi \"BNPB\"?",
+        "context": "Sesuai PP Nomor 44 Tahun 2012, BNPB (Badan Nasional Penanggulangan Bencana) adalah lembaga pemerintah nonkementerian sesuai ketentuan peraturan perundang-undangan.",
+        "response": "BNPB"
+    },
+    {
+        "instruction": "Apa tugas \"BNPT\"?",
+        "context": "Menurut PP Nomor 77 Tahun 2019, BNPT adalah badan yang menyelenggarakan urusan di bidang penanggulangan Terorisme.",
+        "response": "BNPT"
+    },
+    {
+        "instruction": "Apa peran \"BNSP\"?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2006, BNSP (Badan Nasional Sertifikasi Profesi) adalah lembaga independen yang bertugas melaksanakan sertifikasi kompetensi.",
+        "response": "BNSP"
+    },
+    {
+        "instruction": "Apa itu \"BP Tapera\"?",
+        "context": "Sesuai UU Nomor 4 Tahun 2016, BP Tapera adalah badan hukum yang dibentuk untuk mengelola Tapera (Tabungan Perumahan Rakyat).",
+        "response": "BP Tapera"
+    },
+    {
+        "instruction": "Apa fungsi \"BP2MI\"?",
+        "context": "Menurut PP Nomor 10 Tahun 2020, BP2MI adalah lembaga pemerintah nonkementerian yang bertugas sebagai pelaksana kebijakan dalam pelayanan dan pelindungan Pekerja Migran Indonesia secara terpadu.",
+        "response": "BP2MI"
+    },
+    {
+        "instruction": "Apa itu \"BPBD\"?",
+        "context": "Sesuai PP Nomor 22 Tahun 2008, BPBD (Badan Penanggulangan Bencana Daerah) adalah badan pemerintah daerah yang melakukan penyelenggaraan penanggulangan bencana.",
+        "response": "BPBD"
+    },
+    {
+        "instruction": "Jelaskan definisi \"BPHTB\".",
+        "context": "Menurut UU Nomor 1 Tahun 2022 dan UU Nomor 28 Tahun 2009, BPHTB adalah pajak yang dikenakan atas perbuatan atau peristiwa hukum yang mengakibatkan diperolehnya hak atas tanah dan/atau bangunan oleh orang pribadi atau badan. ",
+        "response": "BPHTB"
+    },
+    {
+        "instruction": "Apa tugas \"BPJPH\"?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014, BPJPH adalah badan yang dibentuk oleh Pemerintah untuk menyelenggarakan JPH (Jaminan Produk Halal).",
+        "response": "BPJPH"
+    },
+    {
+        "instruction": "Apa definisi umum \"BPJS\"?",
+        "context": "Sesuai berbagai peraturan pemerintah (PP 73/2016, PP 88/2013), BPJS adalah badan hukum yang dibentuk untuk menyelenggarakan program jaminan sosial.",
+        "response": "BPJS"
+    },
+    {
+        "instruction": "Apa itu \"BPJS Kesehatan\"?",
+        "context": "Menurut PP Nomor 73 Tahun 2016, BPJS Kesehatan adalah badan hukum yang dibentuk khusus untuk menyelenggarakan program Jaminan Kesehatan.",
+        "response": "BPJS Kesehatan"
     }
 ]
