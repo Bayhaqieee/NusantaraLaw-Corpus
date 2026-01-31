@@ -743,5 +743,95 @@
         "instruction": "Apa itu \"BPJS Kesehatan\"?",
         "context": "Menurut PP Nomor 73 Tahun 2016, BPJS Kesehatan adalah badan hukum yang dibentuk khusus untuk menyelenggarakan program Jaminan Kesehatan.",
         "response": "BPJS Kesehatan"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"BPJS Ketenagakerjaan\"?",
+        "context": "Berdasarkan PP Nomor 73 Tahun 2016 dan PP Nomor 86 Tahun 2013, ini adalah badan hukum yang dibentuk untuk menyelenggarakan program jaminan kecelakaan kerja, jaminan hari tua, jaminan pensiun, dan jaminan kematian.",
+        "response": "BPJS Ketenagakerjaan"
+    },
+    {
+        "instruction": "Apa itu \"BPJT\"?",
+        "context": "Menurut UU Nomor 2 Tahun 2022 dan UU Nomor 38 Tahun 2004, BPJT (Badan Pengatur Jalan Tol) adalah badan yang dibentuk oleh Menteri, berada di bawah dan bertanggung jawab kepada Menteri yang melaksanakan sebagian wewenang Pemerintah Pusat dalam penyelenggaraan jalan tol.",
+        "response": "BPJT"
+    },
+    {
+        "instruction": "Apa tugas \"BPK\" (Badan Pemeriksa Keuangan)?",
+        "context": "Sesuai UU Nomor 17 Tahun 2014 dan UU Nomor 15 Tahun 2006, BPK adalah lembaga negara yang bertugas memeriksa pengelolaan dan pertanggungjawaban keuangan negara sebagaimana dimaksud dalam UUD 1945.",
+        "response": "BPK"
+    },
+    {
+        "instruction": "Apa fungsi \"BPKP\"?",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2008, BPKP (Badan Pengawasan Keuangan dan Pembangunan) adalah aparat pengawasan intern pemerintah yang bertanggung jawab langsung kepada Presiden.",
+        "response": "BPKP"
+    },
+    {
+        "instruction": "Apa itu \"BPM PTSP Kabupaten/Kota\"?",
+        "context": "Menurut Perpres Nomor 4 Tahun 2016, ini adalah penyelenggara PTSP (Pelayanan Terpadu Satu Pintu) di tingkat kabupaten/kota.",
+        "response": "Bpm Ptsp Kabupaten/Kota"
+    },
+    {
+        "instruction": "Apa itu \"BPM PTSP Provinsi\"?",
+        "context": "Sesuai Perpres Nomor 4 Tahun 2016, ini adalah penyelenggara PTSP (Pelayanan Terpadu Satu Pintu) di tingkat provinsi.",
+        "response": "Bpm Ptsp Provinsi"
+    },
+    {
+        "instruction": "Jelaskan definisi \"BPYBDS\".",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2018, BPYBDS (Bantuan Pemerintah Yang Belum Ditetapkan Statusnya) adalah bantuan Pemerintah berupa Barang Milik Negara (BMN) dari APBN yang telah digunakan oleh BUMN berdasarkan Berita Acara Serah Terima namun masih tercatat pada laporan keuangan kementerian/lembaga atau BUMN.",
+        "response": "BPYBDS"
+    },
+    {
+        "instruction": "Apa peran \"BSN\" (Badan Standardisasi Nasional)?",
+        "context": "Menurut PP Nomor 34 Tahun 2018 dan UU Nomor 20 Tahun 2014, BSN adalah lembaga pemerintah nonkementerian yang bertugas dan bertanggung jawab di bidang Standardisasi dan Penilaian Kesesuaian.",
+        "response": "BSN"
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai \"Bukan Pekerja\" dalam jaminan kesehatan?",
+        "context": "Sesuai Perpres Nomor 82 Tahun 2018, ini adalah setiap orang yang bukan termasuk kelompok Pekerja Penerima Upah (PPU), Pekerja Bukan Penerima Upah (PBPU), Penerima Bantuan Iuran (PBI) Jaminan Kesehatan, dan penduduk yang didaftarkan oleh Pemerintah Daerah.",
+        "response": "Bukan Pekerja"
+    },
+    {
+        "instruction": "Apa definisi \"Bukti Pelanggaran\" (Tilang)?",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2012, Bukti Pelanggaran adalah alat bukti pelanggaran tertentu di bidang Lalu Lintas dan Angkutan Jalan dengan format tertentu yang ditetapkan.",
+        "response": "Bukti Pelanggaran"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bukti Permulaan\" dalam perpajakan?",
+        "context": "Menurut UU Nomor 28 Tahun 2007, Bukti Permulaan adalah keadaan, perbuatan, dan/atau bukti (keterangan, tulisan, benda) yang memberikan petunjuk adanya dugaan kuat tindak pidana perpajakan yang menimbulkan kerugian pendapatan negara.",
+        "response": "Bukti Permulaan"
+    },
+    {
+        "instruction": "Apa definisi \"BUMD\" (Badan Usaha Milik Daerah)?",
+        "context": "Sesuai PP Nomor 54 Tahun 2017 dan UU Nomor 23 Tahun 2014, BUMD adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh Daerah.",
+        "response": "BUMD"
+    },
+    {
+        "instruction": "Apa pengertian \"Bumi\" dalam pajak daerah?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009, Bumi didefinisikan sebagai permukaan bumi yang meliputi tanah dan perairan pedalaman serta laut wilayah kabupaten/kota.",
+        "response": "Bumi"
+    },
+    {
+        "instruction": "Jelaskan definisi \"BUMN\" (Badan Usaha Milik Negara).",
+        "context": "Menurut PP Nomor 42 Tahun 2021 dan UU Nomor 19 Tahun 2003, BUMN adalah badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh negara melalui penyertaan secara langsung yang berasal dari kekayaan negara yang dipisahkan.",
+        "response": "BUMN"
+    },
+    {
+        "instruction": "Apa kriteria \"BUMN Di Bidang Industri Strategis\"?",
+        "context": "Sesuai Permen ESDM Nomor 37 Tahun 2015, ini adalah BUMN yang bergerak di bidang industri yang menguasai hajat hidup orang banyak, meningkatkan nilai tambah sumber daya alam strategis, atau berkaitan dengan pertahanan dan keamanan negara.",
+        "response": "BUMN Di Bidang Industri Strategis"
+    },
+    {
+        "instruction": "Apa definisi \"Bupati/Wali Kota\"?",
+        "context": "Berdasarkan PP Nomor 58 Tahun 2009, Bupati/Wali Kota adalah kepala pemerintah daerah kabupaten/kota yang dipilih melalui proses demokratis berdasarkan asas langsung, umum, bebas, rahasia, jujur, dan adil.",
+        "response": "Bupati/Wali Kota"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Bupati/Walikota\"?",
+        "context": "Menurut Permen PUPR Nomor 28 Tahun 2015, ini adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah tingkat kabupaten/kota.",
+        "response": "Bupati/Walikota"
+    },
+    {
+        "instruction": "Apa itu \"Bursa Berjangka\"?",
+        "context": "Sesuai PP Nomor 49 Tahun 2014, Bursa Berjangka adalah badan usaha yang menyelenggarakan dan menyediakan sistem dan/atau sarana untuk kegiatan jual beli Komoditi berdasarkan Kontrak Berjangka atau Derivatif lainnya.",
+        "response": "Bursa Berjangka"
     }
 ]
