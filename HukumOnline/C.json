@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan \"Cacat Total Tetap\"?",
+        "context": "Berdasarkan PP Nomor 45 Tahun 2015 tentang Jaminan Dana Pensiun, Cacat Total Tetap didefinisikan sebagai cacat yang mengakibatkan ketidakmampuan seseorang untuk melakukan pekerjaan.",
+        "response": "Cacat Total Tetap"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Cagar Budaya\".",
+        "context": "Menurut UU Nomor 11 Tahun 2010, Cagar Budaya adalah warisan budaya bersifat kebendaan berupa Benda, Bangunan, Struktur, Situs, dan Kawasan Cagar Budaya di darat dan/atau di air yang perlu dilestarikan karena memiliki nilai penting bagi sejarah, ilmu pengetahuan, pendidikan, agama, dan/atau kebudayaan melalui proses penetapan. ",
+        "response": "Cagar Budaya"
+    },
+    {
+        "instruction": "Apa itu \"Cagar Budaya Nasional\"?",
+        "context": "Sesuai UU Nomor 11 Tahun 2010, ini adalah Cagar Budaya peringkat nasional yang ditetapkan oleh Menteri sebagai prioritas nasional.",
+        "response": "Cagar Budaya Nasional"
+    },
+    {
+        "instruction": "Siapakah \"Calon Pekerja Migran Indonesia\"?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017 dan PP Nomor 10 Tahun 2020, ini adalah setiap tenaga kerja Indonesia yang memenuhi syarat sebagai pencari kerja yang akan bekerja di luar negeri dan terdaftar di instansi pemerintah kabupaten/kota yang bertanggung jawab di bidang ketenagakerjaan.",
+        "response": "Calon Pekerja Migran Indonesia"
+    },
+    {
+        "instruction": "Apa definisi \"Calon Tenaga Kerja Indonesia\" (CTKI)?",
+        "context": "Merujuk pada UU Nomor 39 Tahun 2004 dan peraturan terkait, CTKI adalah setiap warga negara Indonesia yang memenuhi syarat sebagai pencari kerja yang akan bekerja di luar negeri dan terdaftar di instansi pemerintah kabupaten/kota yang bertanggung jawab di bidang ketenagakerjaan.",
+        "response": "Calon Tenaga Kerja Indonesia"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Cipta Kerja\".",
+        "context": "Menurut UU Nomor 11 Tahun 2020, Cipta Kerja adalah upaya penciptaan kerja melalui usaha kemudahan, perlindungan, dan pemberdayaan koperasi dan UMKM, peningkatan ekosistem investasi dan kemudahan berusaha, serta investasi Pemerintah Pusat dan percepatan proyek strategis nasional. ",
+        "response": "Cipta Kerja"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Ciptaan\" dalam hukum hak cipta?",
+        "context": "Sesuai UU Nomor 28 Tahun 2014, Ciptaan adalah setiap hasil karya cipta di bidang ilmu pengetahuan, seni, dan sastra yang dihasilkan atas inspirasi, kemampuan, pikiran, imajinasi, kecekatan, keterampilan, atau keahlian yang diekspresikan dalam bentuk nyata.",
+        "response": "Ciptaan"
+    },
+    {
+        "instruction": "Apa definisi \"Cukai\"?",
+        "context": "Berdasarkan UU Nomor 39 Tahun 2007, Cukai adalah pungutan negara yang dikenakan terhadap barang-barang tertentu yang mempunyai sifat atau karakteristik yang ditetapkan dalam undang-undang (misalnya konsumsinya perlu dikendalikan). ",
+        "response": "Cukai"
+    },
+    {
+        "instruction": "Apa pengertian \"Cuti\" dalam konteks pemilu?",
+        "context": "Menurut PP Nomor 18 Tahun 2013, Cuti adalah keadaan tidak masuk kerja berdasarkan izin dari pejabat yang berwenang dalam rangka kampanye Pemilu (DPR, DPD, DPRD, Presiden, dan Wakil Presiden).",
+        "response": "Cuti"
+    }
+]
