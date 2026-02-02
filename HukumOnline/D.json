@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan \"Daerah Aliran Sungai\"?",
+        "context": "Berdasarkan PP No. 26/2020 dan PP No. 69/2014, ini adalah wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak sungainya, yang berfungsi menampung, menyimpan, dan mengalirkan air hujan ke danau atau laut secara alami, dengan batas di darat berupa pemisah topografis dan batas di laut hingga daerah perairan yang masih terpengaruh aktivitas daratan. ",
+        "response": "Daerah Aliran Sungai"
+    },
+    {
+        "instruction": "Apa definisi \"Daerah Lingkungan Pengamatan\"?",
+        "context": "Menurut UU Nomor 31 Tahun 2009, ini adalah wilayah di sekitar stasiun pengamatan yang mempunyai pengaruh langsung terhadap hasil pengamatan.",
+        "response": "Daerah Lingkungan Pengamatan"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Daerah Otonom\".",
+        "context": "Sesuai UU No. 15/2014 dan UU No. 14/2013, Daerah Otonom adalah kesatuan masyarakat hukum yang mempunyai batas wilayah yang berwenang mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem NKRI. ",
+        "response": "Daerah Otonom"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Daerah otonom\" (sebagai daerah)?",
+        "context": "Berdasarkan UU No. 16/2014 dan UU No. 14/2014, istilah ini merujuk pada kesatuan masyarakat hukum dengan batas wilayah tertentu yang berwenang mengatur urusan pemerintahan dan kepentingan masyarakat setempat secara mandiri dalam sistem NKRI.",
+        "response": "Daerah otonom, selanjutnya disebut daerah"
+    },
+    {
+        "instruction": "Apa definisi \"Daerah Pabean\"?",
+        "context": "Menurut UU No. 42/2009 dan UU No. 39/2007, Daerah Pabean adalah wilayah Republik Indonesia yang meliputi wilayah darat, perairan, dan ruang udara di atasnya, serta tempat-tempat tertentu di ZEE dan landas kontinen yang di dalamnya berlaku undang-undang kepabeanan.",
+        "response": "Daerah Pabean"
+    },
+    {
+        "instruction": "Apa itu \"Daftar Hitam Penyelenggara\"?",
+        "context": "Sesuai Permen Kominfo No. 7 Tahun 2018, ini adalah daftar yang memuat identitas direksi, pengurus, dan/atau badan hukum yang dikenai sanksi administratif sesuai peraturan perundang-undangan.",
+        "response": "Daftar Hitam Penyelenggara"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Daftar Yayasan\"?",
+        "context": "Berdasarkan PP Nomor 63 Tahun 2008, ini adalah daftar yang diadakan oleh Menteri yang memuat catatan resmi mengenai hal-hal yang berkaitan dengan Yayasan.",
+        "response": "Daftar Yayasan"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"DAK\" (Dana Alokasi Khusus).",
+        "context": "Menurut UU No. 6/2021 dan UU No. 9/2020, DAK adalah dana yang bersumber dari APBN kepada daerah tertentu dengan tujuan untuk membantu mendanai kegiatan khusus yang merupakan urusan daerah dan sesuai dengan prioritas nasional.",
+        "response": "DAK"
+    },
+    {
+        "instruction": "Apa definisi \"Dampak Lingkungan Hidup\"?",
+        "context": "Sesuai UU Nomor 32 Tahun 2009, ini adalah pengaruh perubahan pada lingkungan hidup yang diakibatkan oleh suatu usaha dan/atau kegiatan.",
+        "response": "Dampak Lingkungan Hidup"
+    },
+    {
+        "instruction": "Apa itu \"Dana Abadi Daerah\"?",
+        "context": "Menurut UU Nomor 1 Tahun 2022, Dana Abadi Daerah adalah dana yang bersumber dari APBD yang bersifat abadi dan dana hasil pengelolaannya dapat digunakan untuk Belanja Daerah dengan tidak mengurangi dana pokok.",
+        "response": "Dana Abadi Daerah"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dana Abadi Umat\"?",
+        "context": "Berdasarkan UU No. 34/2014 dan PP No. 79/2012, ini adalah sejumlah dana yang diperoleh dari hasil pengembangan DAU dan/atau sisa biaya operasional penyelenggaraan ibadah haji serta sumber lain yang halal dan tidak mengikat.",
+        "response": "Dana Abadi Umat"
+    },
+    {
+        "instruction": "Apa definisi \"Dana alokasi khusus\"?",
+        "context": "Sesuai UU No. 12/2018 dan UU No. 20/2019, ini adalah dana yang bersumber dari APBN kepada daerah tertentu untuk membantu mendanai kegiatan khusus yang merupakan urusan daerah dan sesuai dengan prioritas nasional.",
+        "response": "Dana alokasi khusus"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Dana alokasi umum\".",
+        "context": "Menurut UU No. 12/2018 dan UU No. 20/2019, ini adalah dana yang bersumber dari APBN kepada daerah dengan tujuan pemerataan kemampuan keuangan antardaerah untuk mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
+        "response": "Dana alokasi umum"
+    },
+    {
+        "instruction": "Apa singkatan dan definisi \"DAU\"?",
+        "context": "Berdasarkan PP Nomor 54 Tahun 2005, Dana Alokasi Umum yang disebut DAU adalah dana dari APBN yang dialokasikan untuk pemerataan kemampuan keuangan antar Daerah guna mendanai kebutuhan Daerah dalam rangka Desentralisasi.",
+        "response": "Dana Alokasi Umum, selanjutnya disebut DAU"
+    },
+    {
+        "instruction": "Apa itu \"Dana Asuransi\"?",
+        "context": "Sesuai UU Nomor 40 Tahun 2014, Dana Asuransi adalah kumpulan dana yang berasal dari premi yang dibentuk untuk memenuhi kewajiban yang timbul dari polis yang diterbitkan atau dari klaim asuransi.",
+        "response": "Dana Asuransi"
+    },
+    {
+        "instruction": "Apa definisi \"Dana bagi hasil\"?",
+        "context": "Menurut UU No. 6/2021 dan UU No. 9/2020, ini adalah dana yang bersumber dari APBN kepada daerah berdasarkan angka persentase tertentu dari pendapatan negara untuk mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
+        "response": "Dana bagi hasil"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dana Desa\"?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2014, Dana Desa adalah dana dari APBN yang diperuntukkan bagi Desa, ditransfer melalui APBD kabupaten/kota, dan digunakan untuk membiayai pemerintahan, pembangunan, pembinaan, dan pemberdayaan masyarakat desa.",
+        "response": "Dana Desa"
+    },
+    {
+        "instruction": "Apa itu \"Dana Haji\"?",
+        "context": "Sesuai UU Nomor 34 Tahun 2014, Dana Haji mencakup dana setoran biaya haji, dana efisiensi, dana abadi umat, serta nilai manfaat yang dikuasai negara untuk penyelenggaraan haji dan kemaslahatan umat.",
+        "response": "Dana Haji"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Dana Investasi Pemerintah\".",
+        "context": "Menurut UU No. 4/2012 dan UU No. 11/2011, ini adalah dukungan Pemerintah dalam bentuk kompensasi finansial atau bentuk lain yang diberikan kepada Badan Usaha dan Badan Layanan Umum (BLU).",
+        "response": "Dana Investasi Pemerintah"
+    },
+    {
+        "instruction": "Apa definisi \"Dana Jaminan Sosial\"?",
+        "context": "Sesuai PP No. 73/2016 dan UU No. 24/2011, ini adalah dana amanat milik seluruh peserta (himpunan iuran dan hasil pengembangannya) yang dikelola oleh BPJS untuk pembayaran manfaat dan operasional program jaminan sosial.",
+        "response": "Dana Jaminan Sosial"
+    },
+    {
+        "instruction": "Apa itu \"Dana Kompensasi\" dalam perdagangan berjangka?",
+        "context": "Berdasarkan PP Nomor 49 Tahun 2014, ini adalah dana untuk membayar ganti rugi kepada Nasabah yang bukan Anggota Bursa Berjangka karena cedera janji/kesalahan Anggota Bursa Berjangka.",
+        "response": "Dana Kompensasi"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Dana Kompensasi Penggunaan TKA\" (DKPTKA).",
+        "context": "Menurut PP No. 34/2021 dan UU No. 1/2022, ini adalah kompensasi yang harus dibayar oleh pemberi kerja Tenaga Kerja Asing (TKA) sebagai Penerimaan Negara Bukan Pajak (PNBP) atau pendapatan daerah.",
+        "response": "Dana Kompensasi Penggunaan Tka"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dana Otonomi Khusus\"?",
+        "context": "Sesuai UU No. 6/2021, ini adalah dana dari APBN untuk membiayai pelaksanaan otonomi khusus suatu daerah, seperti yang ditetapkan dalam Undang-Undang Otonomi Khusus bagi Provinsi Papua dan Pemerintahan Aceh.",
+        "response": "Dana Otonomi Khusus"
+    },
+    {
+        "instruction": "Apa itu \"Dana penanggulangan bencana\"?",
+        "context": "Berdasarkan PP Nomor 22 Tahun 2008, ini adalah dana yang digunakan bagi penanggulangan bencana untuk tahap pra bencana, saat tanggap darurat, dan/atau pasca bencana.",
+        "response": "Dana penanggulangan bencana"
+    },
+    {
+        "instruction": "Apa definisi \"Dana Penanggulangan Pencemaran dan/atau Kerusakan dan Pemulihan Lingkungan Hidup\"?",
+        "context": "Menurut PP Nomor 46 Tahun 2017, ini adalah dana yang disiapkan oleh Pemerintah Pusat/Daerah untuk menanggulangi dan memulihkan pencemaran atau kerusakan lingkungan hidup.",
+        "response": "Dana Penanggulangan Pencemaran dan/atau Kerusakan dan Pemulihan Lingkungan Hidup"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dana Pensiun\"?",
+        "context": "Sesuai UU Nomor 21 Tahun 2011, Dana Pensiun adalah badan hukum yang mengelola dan menjalankan program yang menjanjikan manfaat pensiun.",
+        "response": "Dana Pensiun"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Dana perimbangan\".",
+        "context": "Berdasarkan UU No. 12/2018 dan UU No. 20/2019, Dana Perimbangan adalah dana dari APBN kepada daerah untuk mendanai kebutuhan daerah dalam rangka desentralisasi, yang terdiri atas Dana Transfer Umum dan Dana Transfer Khusus. ",
+        "response": "Dana perimbangan"
+    },
+    {
+        "instruction": "Apa itu \"Dana Tabarru\"?",
+        "context": "Menurut UU Nomor 40 Tahun 2014, Dana Tabarru adalah kumpulan dana yang berasal dari kontribusi para peserta yang mekanisme penggunaannya sesuai dengan perjanjian Asuransi Syariah.",
+        "response": "Dana Tabarru"
+    },
+    {
+        "instruction": "Apa definisi \"Dana Transfer Khusus\"?",
+        "context": "Sesuai UU No. 15/2017, ini adalah dana yang dialokasikan dalam APBN kepada daerah dengan tujuan untuk membantu mendanai kegiatan khusus, baik fisik maupun nonfisik yang merupakan urusan daerah.",
+        "response": "Dana Transfer Khusus"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dana Transfer Umum\"?",
+        "context": "Berdasarkan UU No. 15/2017, ini adalah dana yang dialokasikan dalam APBN kepada daerah untuk digunakan sesuai dengan kewenangan daerah guna mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
+        "response": "Dana Transfer Umum"
+    }
+]
