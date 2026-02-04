@@ -598,5 +598,35 @@
         "instruction": "Siapakah \"Dosen\"?",
         "context": "Menurut UU No. 12/2012 dan PP terkait, Dosen adalah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan IPTEK melalui Tri Dharma Perguruan Tinggi (Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat).",
         "response": "Dosen"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"DPD\"?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2019 dan UU Nomor 17 Tahun 2014, DPD adalah Dewan Perwakilan Daerah sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+        "response": "DPD"
+    },
+    {
+        "instruction": "Apa definisi \"DPR\"?",
+        "context": "Sesuai UU Nomor 15 Tahun 2019 dan UU Nomor 1 Tahun 2014, DPR adalah Dewan Perwakilan Rakyat sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+        "response": "DPR"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"DPRD\".",
+        "context": "Menurut PP Nomor 54 Tahun 2017 dan UU Nomor 15 Tahun 2019, DPRD (Dewan Perwakilan Rakyat Daerah) adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai unsur penyelenggara pemerintahan daerah.",
+        "response": "DPRD"
+    },
+    {
+        "instruction": "Apa definisi \"DPRD Provinsi\"?",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2015, ini adalah lembaga perwakilan rakyat daerah di provinsi yang berkedudukan sebagai unsur penyelenggara Pemerintahan Daerah.",
+        "response": "DPRD Provinsi"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"DPRK\"?",
+        "context": "Sesuai UU Nomor 2 Tahun 2021 dan UU Nomor 8 Tahun 2015, DPRK adalah lembaga perwakilan rakyat daerah kabupaten/kota yang berkedudukan sebagai salah satu unsur penyelenggara pemerintahan daerah kabupaten/kota (biasanya terkait daerah otonomi khusus).",
+        "response": "DPRK"
+    },
+    {
+        "instruction": "Apa itu \"DPRP\"?",
+        "context": "Menurut UU Nomor 21 Tahun 2001, DPRP adalah Dewan Perwakilan Rakyat Daerah Provinsi Papua yang bertindak sebagai badan legislatif Daerah Provinsi Papua.",
+        "response": "DPRP"
     }
 ]
