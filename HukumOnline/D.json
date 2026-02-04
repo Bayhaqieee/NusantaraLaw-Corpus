@@ -448,5 +448,155 @@
         "instruction": "Siapakah \"Direktur\" dalam konteks regulasi kehutanan ini?",
         "context": "Sesuai Permenhut Nomor P.30/MENHUT-II/2014, Direktur adalah pejabat yang diserahi tugas dan bertanggung jawab di bidang bina usaha hutan tanaman.",
         "response": "Direktur"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Direktur Jenderal\"?",
+        "context": "Menurut PP No. 90/2019, Permenkumham No. 15/2019, dan PermenLHK No. P.101/2018, ini adalah pejabat eselon I yang memimpin Direktorat Jenderal, misalnya Direktur Jenderal Administrasi Hukum Umum atau yang bertanggung jawab di bidang pengelolaan Limbah B3.",
+        "response": "Direktur Jenderal"
+    },
+    {
+        "instruction": "Apa definisi \"Disinsentif\" dalam konteks lingkungan hidup?",
+        "context": "Berdasarkan PP Nomor 46 Tahun 2017, Disinsentif adalah pengenaan beban atau ancaman (moneter/non-moneter) kepada orang/pemerintah untuk mengurangi kegiatan yang berdampak negatif pada sumber daya alam dan lingkungan hidup.",
+        "response": "Disinsentif"
+    },
+    {
+        "instruction": "Jelaskan pengertian \"Disiplin Militer\".",
+        "context": "Sesuai UU Nomor 25 Tahun 2014, Disiplin Militer adalah kesadaran, kepatuhan, dan ketaatan untuk melaksanakan peraturan perundang-undangan, peraturan kedinasan, dan tata kehidupan yang berlaku bagi Militer.",
+        "response": "Disiplin Militer"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Disiplin Pegawai Negeri Sipil\"?",
+        "context": "Menurut PP Nomor 53 Tahun 2010, ini adalah kesanggupan PNS untuk menaati kewajiban dan menghindari larangan yang ditentukan dalam peraturan, yang jika dilanggar akan dijatuhi hukuman disiplin.",
+        "response": "Disiplin Pegawai Negeri Sipil"
+    },
+    {
+        "instruction": "Apa definisi \"Disiplin PNS\"?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2010, Disiplin PNS adalah kesanggupan Pegawai Negeri Sipil untuk menaati kewajiban dan menghindari larangan yang ditentukan dalam peraturan perundang-undangan dan/atau peraturan kedinasan.",
+        "response": "Disiplin PNS"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Diskresi\" dalam administrasi negara.",
+        "context": "Menurut UU Nomor 30 Tahun 2014, Diskresi adalah keputusan/tindakan Pejabat Pemerintahan untuk mengatasi persoalan konkret ketika peraturan perundang-undangan tidak mengatur, tidak lengkap, tidak jelas, atau terjadi stagnasi pemerintahan. ",
+        "response": "Diskresi"
+    },
+    {
+        "instruction": "Apa definisi \"Diskriminasi\" terhadap penyandang disabilitas?",
+        "context": "Sesuai UU Nomor 8 Tahun 2016, Diskriminasi adalah setiap pembedaan, pengecualian, pembatasan, pelecehan, atau pengucilan atas dasar disabilitas yang bermaksud/berdampak pada pembatasan hak Penyandang Disabilitas.",
+        "response": "Diskriminasi"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Diskriminasi ras dan etnis\"?",
+        "context": "Berdasarkan PP No. 56/2010 dan UU No. 40/2008, ini adalah segala bentuk pembedaan, pengecualian, pembatasan, atau pemilihan berdasarkan ras dan etnis yang mengakibatkan pencabutan/pengurangan hak asasi manusia.",
+        "response": "Diskriminasi ras dan etnis"
+    },
+    {
+        "instruction": "Apa definisi \"Dispensasi\"?",
+        "context": "Menurut UU Nomor 30 Tahun 2014, Dispensasi adalah keputusan Pejabat Pemerintahan yang merupakan wujud persetujuan atas permohonan warga sebagai pengecualian terhadap suatu larangan atau perintah sesuai peraturan.",
+        "response": "Dispensasi"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Distribusi\".",
+        "context": "Sesuai UU No. 7/2014 dan PP No. 29/2021, Distribusi adalah kegiatan penyaluran Barang secara langsung atau tidak langsung kepada konsumen. ",
+        "response": "Distribusi"
+    },
+    {
+        "instruction": "Siapakah \"Distributor\"?",
+        "context": "Berdasarkan PP No. 29/2021 dan Permendag No. 22/2016, Distributor adalah Pelaku Usaha Distribusi yang bertindak atas namanya sendiri dan/atau atas penunjukan dari Produsen/Importir untuk melakukan pemasaran Barang.",
+        "response": "Distributor"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Distrik\" di Papua?",
+        "context": "Menurut UU Nomor 21 Tahun 2001, Distrik adalah wilayah kerja Kepala Distrik sebagai perangkat daerah Kabupaten/Kota (setingkat kecamatan).",
+        "response": "Distrik"
+    },
+    {
+        "instruction": "Jelaskan perubahan istilah \"Distrik, yang dahulu dikenal dengan kecamatan\".",
+        "context": "Sesuai UU Nomor 23 Tahun 2012, ini merujuk pada wilayah kerja sebagaimana dimaksud dalam UU Otonomi Khusus bagi Provinsi Papua (menggantikan istilah kecamatan).",
+        "response": "Distrik, yang dahulu dikenal dengan kecamatan"
+    },
+    {
+        "instruction": "Apa definisi \"Diversifikasi energi\"?",
+        "context": "Berdasarkan UU No. 30/2007 dan PP No. 79/2014, Diversifikasi energi adalah penganekaragaman pemanfaatan sumber energi.",
+        "response": "Diversifikasi energi"
+    },
+    {
+        "instruction": "Apa itu \"Diversifikasi Usaha\" dalam pertanian?",
+        "context": "Menurut Permentan Nomor 98 Tahun 2013, ini adalah penganekaragaman usaha untuk memaksimalkan keuntungan dengan mengutamakan usaha di bidang perkebunan.",
+        "response": "Diversifikasi Usaha"
+    },
+    {
+        "instruction": "Apa definisi \"Divestasi\"?",
+        "context": "Sesuai PP Nomor 63 Tahun 2019, Divestasi adalah penjualan surat berharga dan/atau kepemilikan Pemerintah baik sebagian atau keseluruhan kepada pihak lain.",
+        "response": "Divestasi"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Divestasi saham\"?",
+        "context": "Berdasarkan PP No. 23/2010 dan Permen ESDM No. 25/2018, Divestasi saham adalah jumlah saham asing yang harus ditawarkan untuk dijual kepada peserta Indonesia (dalam usaha pertambangan).",
+        "response": "Divestasi saham"
+    },
+    {
+        "instruction": "Apa fungsi \"DJSN\" (Dewan Jaminan Sosial Nasional)?",
+        "context": "Menurut PP No. 88/2013 dan UU No. 24/2011, DJSN adalah dewan yang berfungsi membantu Presiden dalam perumusan kebijakan umum dan sinkronisasi penyelenggaraan Sistem Jaminan Sosial Nasional.",
+        "response": "DJSN"
+    },
+    {
+        "instruction": "Apa tugas \"DKPP\"?",
+        "context": "Sesuai UU No. 7/2017 dan UU No. 8/2015, DKPP (Dewan Kehormatan Penyelenggara Pemilu) adalah lembaga yang bertugas menangani pelanggaran kode etik Penyelenggara Pemilu.",
+        "response": "DKPP"
+    },
+    {
+        "instruction": "Apa itu \"DMO\" (Domestic Market Obligation)?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2017, DMO adalah kewajiban penyerahan bagian Kontraktor berupa Minyak Bumi dan/atau Gas Bumi untuk memenuhi kebutuhan dalam negeri.",
+        "response": "DMO"
+    },
+    {
+        "instruction": "Jelaskan definisi \"Dokumen\".",
+        "context": "Menurut UU No. 10/2020 dan Permenkes No. 269/2008, Dokumen adalah sesuatu yang ditulis/tulisan (termasuk elektronik) yang dapat dipakai sebagai alat bukti, atau catatan medis/kesehatan.",
+        "response": "Dokumen"
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan \"Dokumen Cukai\"?",
+        "context": "Sesuai UU Nomor 39 Tahun 2007, Dokumen Cukai adalah dokumen yang digunakan dalam rangka pelaksanaan undang-undang cukai dalam bentuk formulir atau media elektronik.",
+        "response": "Dokumen Cukai"
+    },
+    {
+        "instruction": "Apa definisi \"Dokumen Elektronik\"?",
+        "context": "Berdasarkan PP No. 71/2019 dan peraturan terkait lainnya, Dokumen Elektronik adalah setiap Informasi Elektronik (analog/digital) yang dapat dilihat/didengar melalui komputer/sistem elektronik, termasuk tulisan, suara, gambar, peta, rancangan, dll.",
+        "response": "Dokumen Elektronik"
+    },
+    {
+        "instruction": "Apa saja yang termasuk \"Dokumen Keimigrasian\"?",
+        "context": "Menurut PP Nomor 31 Tahun 2013, ini mencakup Dokumen Perjalanan Republik Indonesia dan Izin Tinggal yang dikeluarkan oleh Pejabat Imigrasi atau Pejabat Dinas Luar Negeri.",
+        "response": "Dokumen Keimigrasian"
+    },
+    {
+        "instruction": "Apa itu \"Dokumen Kependudukan\"?",
+        "context": "Sesuai UU Nomor 23 Tahun 2006, Dokumen Kependudukan adalah dokumen resmi yang diterbitkan oleh Instansi Pelaksana yang mempunyai kekuatan hukum sebagai alat bukti autentik hasil pelayanan Pendaftaran Penduduk dan Pencatatan Sipil (misal: KTP, KK).",
+        "response": "Dokumen Kependudukan"
+    },
+    {
+        "instruction": "Apa definisi \"Dokumen Lingkungan Hidup\"?",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2009, ini adalah dokumen yang berisi upaya pengelolaan dan pemantauan lingkungan hidup (AMDAL, UKL-UPL) sesuai persyaratan perundang-undangan.",
+        "response": "Dokumen Lingkungan Hidup"
+    },
+    {
+        "instruction": "Jelaskan apa itu \"Dokumen pengelolaan lingkungan hidup\".",
+        "context": "Sesuai PP Nomor 37 Tahun 2010, ini adalah dokumen yang berisi upaya pengelolaan dan pemantauan lingkungan hidup, terdiri atas dokumen AMDAL atau dokumen UKL-UPL.",
+        "response": "Dokumen pengelolaan lingkungan hidup"
+    },
+    {
+        "instruction": "Apa definisi \"Dokumen Perjalanan\"?",
+        "context": "Menurut PP Nomor 31 Tahun 2013, Dokumen Perjalanan adalah dokumen resmi yang dikeluarkan oleh pejabat berwenang (negara/PBB) untuk perjalanan antarnegara yang memuat identitas pemegangnya, termasuk Paspor RI dan Surat Perjalanan Laksana Paspor.",
+        "response": "Dokumen Perjalanan"
+    },
+    {
+        "instruction": "Apa saja yang termasuk \"Dokumen Perjalanan Republik Indonesia\"?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2011 dan PP Nomor 31 Tahun 2013, ini terdiri dari Paspor Republik Indonesia dan Surat Perjalanan Laksana Paspor Republik Indonesia. ",
+        "response": "Dokumen Perjalanan Republik Indonesia"
+    },
+    {
+        "instruction": "Siapakah \"Dosen\"?",
+        "context": "Menurut UU No. 12/2012 dan PP terkait, Dosen adalah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan IPTEK melalui Tri Dharma Perguruan Tinggi (Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat).",
+        "response": "Dosen"
     }
 ]
