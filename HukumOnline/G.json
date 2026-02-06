@@ -1,0 +1,147 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Gaji menurut UU Nomor 4 Tahun 2016?",
+        "context": "Pertanyaan ini merujuk pada definisi kompensasi bagi pekerja dalam konteks Pembiayaan dan Pendanaan.",
+        "response": "Gaji adalah kompensasi dasar berupa honorarium sesuai dengan beban kerja, tanggung jawab jabatan, dan risiko pekerjaan."
+    },
+    {
+        "instruction": "Jelaskan definisi Gaji berdasarkan PP Nomor 25 Tahun 2020.",
+        "context": "Penjelasan mengenai imbalan kerja dalam kerangka regulasi Jaminan Sosial.",
+        "response": "Gaji merupakan kompensasi dasar berupa honorarium sesuai dengan beban kerja, tanggung jawab jabatan, dan risiko pekerjaan."
+    },
+    {
+        "instruction": "Apa definisi dari Gaji atau Upah dalam aturan Jaminan Kesehatan?",
+        "context": "Merujuk pada Peraturan Presiden Nomor 82 Tahun 2018 mengenai hak pekerja.",
+        "response": "Gaji atau Upah adalah hak Pekerja yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari Pemberi Kerja kepada Pekerja yang ditetapkan dan dibayar menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan, termasuk tunjangan bagi Pekerja dan keluarganya atas suatu pekerjaan dan/atau jasa yang telah atau akan dilakukan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Gampong menurut UU Nomor 11 Tahun 2006?",
+        "context": "Definisi satuan masyarakat hukum di wilayah Daerah Khusus Aceh.",
+        "response": "Gampong Atau Nama Lain adalah kesatuan masyarakat hukum yang berada di bawah mukim dan dipimpin oleh keuchik atau nama lain yang berhak menyelenggarakan urusan rumah tangga sendiri."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 18 Tahun 2001 mendefinisikan Gampong?",
+        "context": "Penjelasan mengenai organisasi pemerintahan terendah di Aceh.",
+        "response": "Gampong Atau Nama Lain adalah kesatuan masyarakat hukum yang merupakan organisasi pemerintahan terendah langsung di bawah Mukim atau nama lain yang menempati wilayah tertentu, yang dipimpin oleh Keuchik atau nama lain dan berhak menyelenggarakan urusan rumah tangganya sendiri."
+    },
+    {
+        "instruction": "Apa pengertian Ganti Kerugian dalam proses pengadaan tanah?",
+        "context": "Berdasarkan Undang-Undang Nomor 2 Tahun 2012 tentang Pemanfaatan Pertanahan.",
+        "response": "Ganti Kerugian adalah penggantian yang layak dan adil kepada pihak yang berhak dalam proses pengadaan tanah."
+    },
+    {
+        "instruction": "Sebutkan definisi Ganti rugi menurut Perpres Nomor 71 Tahun 2012.",
+        "context": "Konteks pembayaran dalam proses Pengadaan Tanah.",
+        "response": "Ganti rugi adalah penggantian yang layak dan adil kepada Pihak yang Berhak dalam proses Pengadaan Tanah."
+    },
+    {
+        "instruction": "Apa definisi Ganti rugi dalam konteks transportasi udara?",
+        "context": "Merujuk pada Peraturan Menteri Perhubungan Nomor PM.77 Tahun 2011.",
+        "response": "Ganti rugi adalah uang yang dibayarkan atau sebagai pengganti atas suatu kerugian."
+    },
+    {
+        "instruction": "Apa itu Ganti rugi hak atas tanah menurut PP Nomor 25 Tahun 2021?",
+        "context": "Terkait dengan pelepasan hak atas tanah di bidang Energi & Sumber Daya Mineral.",
+        "response": "Ganti rugi hak atas tanah adalah penggantian atas pelepasan atau penyerahan hak atas tanah berikut bangunan, tanaman, and/atau benda lain yang terdapat di atas tanah tersebut."
+    },
+    {
+        "instruction": "Jelaskan definisi Ganti rugi hak atas tanah menurut UU Nomor 20 Tahun 2002.",
+        "context": "Konteks kompensasi dalam sektor Ketenagalistrikan.",
+        "response": "Ganti rugi hak atas tanah adalah penggantian atas nilai tanah berikut bangunan, tanaman, dan/atau benda-benda lain yang terkait dengan tanah sebagai akibat pelepasan atau penyerahan hak atas tanah."
+    },
+    {
+        "instruction": "Apa pengertian Ganti rugi hak atas tanah berdasarkan PP Nomor 14 Tahun 2012?",
+        "context": "Definisi dalam lingkup Pembinaan Pengusahaan.",
+        "response": "Ganti rugi hak atas tanah adalah penggantian atas pelepasan atau penyerahan hak atas tanah berikut bangunan, tanaman, dan/atau benda lain yang terdapat di atas tanah tersebut."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Gas Bumi menurut Permen ESDM Nomor 4 Tahun 2018?",
+        "context": "Penjelasan mengenai hidrokarbon dalam fasa gas pada kegiatan hilir.",
+        "response": "Gas Bumi adalah hasil proses alami berupa hidrokarbon yang dalam kondisi tekanan dan temperatur atmosfer berupa fasa gas yang diperoleh dari proses penambangan Minyak dan Gas Bumi, dan/atau gas bumi yang telah diproses secara fisika dalam bentuk Compressed Natural Gas atau Liquefied Natural Gas."
+    },
+    {
+        "instruction": "Sebutkan definisi Gas Bumi menurut Permen ESDM Nomor 17 Tahun 2017.",
+        "context": "Definisi teknis dasar hidrokarbon fasa gas.",
+        "response": "Gas Bumi adalah hasil proses alami berupa hidrokarbon yang dalam kondisi tekanan dan temperatur atmosfer berupa fasa gas yang diperoleh dari proses penambangan Minyak dan Gas Bumi."
+    },
+    {
+        "instruction": "Bagaimana Permen ESDM Nomor 37 Tahun 2015 mendefinisikan Gas Bumi?",
+        "context": "Konteks perencanaan kebijakan energi termasuk gas non konvensional.",
+        "response": "Gas Bumi adalah hasil proses alami berupa hidrokarbon yang dalam kondisi tekanan dan temperature atmosfer berupa fasa gas yang diperoleh dari proses penambangan minyak dan gas bumi termasuk gas bumi non konvensional dan gas suar bakar."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Gas Bumi Non Konvensional?",
+        "context": "Merujuk pada teknologi ekstrasi tertentu seperti fracturing.",
+        "response": "Gas Bumi Non Konvensional adalah Gas Bumi yang diusahakan dari reservoir tempat terbentuknya Gas Bumi dengan permeabilitas yang rendah (low permeability) antara lain shale gas, tight sand gas, gas metana batubara, dan methane hydrate dengan menggunakan teknologi tertentu seperti fracturing."
+    },
+    {
+        "instruction": "Apa definisi Gas Metana Batubara (Coalbed Methane)?",
+        "context": "Berdasarkan Peraturan Pemerintah Nomor 35 Tahun 2004.",
+        "response": "Gas Metana Batubara (Coalbed Methane) adalah gas bumi (hidrokarbon) dimana gas metana merupakan komponen utamanya yang terjadi secara alamiah dalam proses pembentukan batubara (coalification) dalam kondisi terperangkap dan terserap (terabsorbsi) di dalam batubara dan/atau lapisan batubara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Gas Pengotor?",
+        "context": "Konteks senyawa non hidrokarbon dalam produksi gas bumi.",
+        "response": "Gas Pengotor adalah senyawa non hidrokarbon yang terkandung dalam Gas Bumi yang merupakan produk sampingan yang dihasilkan oleh kegiatan eksplorasi dan produksi atau pengolahan minyak atau Gas Bumi."
+    },
+    {
+        "instruction": "Jelaskan definisi Gas Suar Bakar.",
+        "context": "Terkait dengan gas sisa hasil kegiatan eksplorasi yang dibakar.",
+        "response": "Gas Suar Bakar adalah gas yang dihasilkan oleh kegiatan eksplorasi dan produksi atau pengolahan minyak atau Gas Bumi yang dibakar karena tidak dapat ditangani oleh fasilitas produksi atau pengolahan yang tersedia sehingga belum termanfaatkan."
+    },
+    {
+        "instruction": "Apa definisi Gerakan Bersenjata menurut UU Nomor 34 Tahun 2004?",
+        "context": "Konteks perlawanan terhadap pemerintahan yang sah dalam hukum militer.",
+        "response": "Gerakan Bersenjata adalah gerakan sekelompok warga negara suatu negara yang bertindak melawan pemerintahan yang sah dengan melakukan perlawanan bersenjata."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Giro menurut PP Nomor 136 Tahun 2000?",
+        "context": "Definisi simpanan dalam konteks hukum penyitaan.",
+        "response": "Giro adalah simpanan yang penarikannya dapat dilakukan setiap saat dengan menggunakan cek, bilyet giro, sarana perintah pembayaran lainnya, atau dengan pemindahbukuan."
+    },
+    {
+        "instruction": "Apa definisi Giro dalam Perbankan Syariah?",
+        "context": "Berdasarkan Undang-Undang Nomor 21 Tahun 2008 menggunakan akad Wadiah.",
+        "response": "Giro adalah Simpanan berdasarkan Akad wadiah atau Akad lain yang tidak bertentangan dengan Prinsip Syariah yang penarikannya dapat dilakukan setiap saat dengan menggunakan cek, bilyet giro, sarana perintah pembayaran lainnya, atau dengan perintah pemindahbukuan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Grasi menurut UU Nomor 22 Tahun 2002?",
+        "context": "Wewenang Presiden dalam hal pengampunan pidana.",
+        "response": "Grasi adalah pengampunan berupa perubahan, peringanan, pengurangan, atau penghapusan pelaksanaan pidana kepada terpidana yang diberikan oleh Presiden."
+    },
+    {
+        "instruction": "Apa definisi Grosir menurut PP Nomor 29 Tahun 2021?",
+        "context": "Konteks distribusi barang dalam partai besar.",
+        "response": "Grosir adalah Pelaku Usaha Distribusi yang menjual berbagai macam Barang dalam partai besar dan tidak secara eceran."
+    },
+    {
+        "instruction": "Sebutkan pengertian Grosir menurut Permendag Nomor 22 Tahun 2016.",
+        "context": "Definisi pelaku usaha distribusi.",
+        "response": "Grosir adalah Pelaku Usaha Distribusi yang menjual berbagai macam Barang dalam partai besar dan tidak secara eceran."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Grosse Akta dalam UU Nomor 2 Tahun 2014?",
+        "context": "Terkait kekuatan eksekutorial salinan akta notaris.",
+        "response": "Grosse Akta adalah salah satu salinan Akta untuk pengakuan utang dengan kepala Akta \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA\", yang mempunyai kekuatan eksekutorial."
+    },
+    {
+        "instruction": "Apa pengertian Grosse Akta menurut UU Nomor 30 Tahun 2004?",
+        "context": "Definisi hukum mengenai salinan akta pengakuan utang.",
+        "response": "Grosse Akta adalah salah satu salinan akta untuk pengakuan utang dengan kepala akta \"DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA\", yang mempunyai kekuatan eksekutorial."
+    },
+    {
+        "instruction": "Apa definisi Gubernur menurut Permen PUPR Nomor 28 Tahun 2015?",
+        "context": "Konteks kepala daerah tingkat provinsi.",
+        "response": "Gubernur adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah tingkat provinsi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Gugatan Perwakilan menurut UU Nomor 1 Tahun 2014?",
+        "context": "Konteks perlindungan hukum masyarakat di wilayah pesisir.",
+        "response": "Gugatan Perwakilan adalah gugatan yang berupa hak kelompok kecil Masyarakat untuk bertindak mewakili Masyarakat dalam jumlah besar dalam upaya mengajukan tuntutan berdasarkan kesamaan permasalahan, fakta hukum, dan tuntutan ganti kerugian."
+    },
+    {
+        "instruction": "Jelaskan definisi Gugatan Perwakilan dalam UU Nomor 27 Tahun 2007.",
+        "context": "Mengenai hak masyarakat dalam pengelolaan pulau-pulau kecil.",
+        "response": "Gugatan Perwakilan adalah gugatan yang berupa hak kelompok kecil Masyarakat untuk bertindak mewakili Masyarakat dalam jumlah besar dalam upaya mengajukan tuntutan berdasarkan kesamaan permasalahan, fakta hukum, dan tuntutan ganti kerugian."
+    }
+]
