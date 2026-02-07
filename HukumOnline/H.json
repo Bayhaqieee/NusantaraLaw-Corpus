@@ -1,0 +1,177 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Akses dalam sistem elektronik?",
+        "context": "Definisi ini merujuk pada Peraturan Menteri Perdagangan Nomor 110 Tahun 2018 mengenai interaksi sistem.",
+        "response": "Hak Akses adalah hak yang diberikan untuk melakukan interaksi dengan sistem elektronik yang berdiri sendiri atau dengan jaringan."
+    },
+    {
+        "instruction": "Jelaskan definisi Hak Amil berdasarkan PP Nomor 14 Tahun 2014.",
+        "context": "Pertanyaan ini berkaitan dengan pengelolaan zakat sesuai syariat Islam.",
+        "response": "Hak Amil adalah bagian tertentu dari zakat yang dapat dimanfaatkan untuk biaya operasional dalam pengelolaan zakat sesuai dengan syariat Islam."
+    },
+    {
+        "instruction": "Apa pengertian Hak Amil menurut UU Nomor 23 Tahun 2011?",
+        "context": "Konteks tugas dan fungsi Badan Amil Zakat Nasional (BAZNAS).",
+        "response": "Hak Amil adalah bagian tertentu dari zakat yang dapat dimanfaatkan untuk biaya operasional dalam pengelolaan zakat sesuai syariat Islam."
+    },
+    {
+        "instruction": "Bagaimana PP Nomor 59 Tahun 2019 mendefinisikan Hak Anak?",
+        "context": "Terkait dengan perlindungan hak asasi manusia oleh berbagai elemen negara dan masyarakat.",
+        "response": "Hak anak adalah bagian dari hak asasi manusia yang wajib dijamin, dilindungi, dan dipenuhi oleh orang tua, keluarga, masyarakat, negara, pemerintah, dan pemerintah daerah."
+    },
+    {
+        "instruction": "Sebutkan definisi Hak Anak menurut UU Nomor 23 Tahun 2002.",
+        "context": "Konteks perlindungan dasar bagi anak dalam hukum Indonesia.",
+        "response": "Hak anak adalah bagian dari hak asasi manusia yang wajib dijamin, dilindungi, dan dipenuhi oleh orang tua, keluarga, masyarakat, pemerintah, dan negara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Atas Indikasi Geografis?",
+        "context": "Berdasarkan Undang-Undang Nomor 20 Tahun 2016 tentang Merek.",
+        "response": "Hak Atas Indikasi Geografis adalah hak eksklusif yang diberikan oleh negara kepada pemegang hak Indikasi Geografis yang terdaftar, selama reputasi, kualitas, dan karakteristik yang menjadi dasar diberikannya pelindungan atas Indikasi Geografis tersebut masih ada."
+    },
+    {
+        "instruction": "Apa pengertian Hak Atas Merek?",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2016 mengenai perlindungan kekayaan intelektual.",
+        "response": "Hak Atas Merek adalah hak eksklusif yang diberikan oleh negara kepada pemilik Merek yang terdaftar untuk jangka waktu tertentu dengan menggunakan sendiri Merek tersebut atau memberikan izin kepada pihak lain untuk menggunakannya."
+    },
+    {
+        "instruction": "Apa definisi Hak atas Tanah menurut UU Nomor 1 Tahun 2022?",
+        "context": "Konteks regulasi Keuangan Daerah.",
+        "response": "Hak atas Tanah adalah hak atas tanah, termasuk hak pengelolaan, beserta Bangunan."
+    },
+    {
+        "instruction": "Bagaimana Perpres Nomor 71 Tahun 2012 mendefinisikan Hak atas Tanah?",
+        "context": "Terkait dengan regulasi pertanahan dan UU Nomor 5 Tahun 1960.",
+        "response": "Hak atas Tanah adalah hak atas tanah sebagaimana dimaksud dalam Undang-Undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria dan hak lain yang akan ditetapkan dengan undang-undang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Atas Tanah Dan/Atau Bangunan?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009 tentang Pajak & Retribusi Daerah.",
+        "response": "Hak Atas Tanah Dan/Atau Bangunan adalah hak atas tanah, termasuk hak pengelolaan, beserta bangunan di atasnya, sebagaimana dimaksud dalam undang-undang di bidang pertanahan dan bangunan."
+    },
+    {
+        "instruction": "Apa definisi Hak Cipta menurut PP Nomor 16 Tahun 2020?",
+        "context": "Menjelaskan tentang sifat otomatis dan prinsip deklaratif dalam perlindungan karya.",
+        "response": "Hak Cipta adalah hak eksklusif Pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu Ciptaan diwujudkan dalam bentuk nyata tanpa mengurangi pembatasan sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Jelaskan pengertian Hak Cipta berdasarkan UU Nomor 28 Tahun 2014.",
+        "context": "Merujuk pada peraturan perundang-undangan pokok mengenai hak cipta.",
+        "response": "Hak Cipta adalah hak eksklusif pencipta yang timbul secara otomatis berdasarkan prinsip deklaratif setelah suatu ciptaan diwujudkan dalam bentuk nyata tanpa mengurangi pembatasan sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Hak Desain Tata Letak Sirkuit Terpadu?",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2006 tentang kekayaan intelektual teknologi.",
+        "response": "Hak Desain Tata Letak Sirkuit Terpadu adalah hak eksklusif yang diberikan oleh negara Republik Indonesia kepada Pendesain atas hasil kreasinya, untuk selama waktu tertentu melaksanakan sendiri, atau memberikan persetujuannya kepada pihak lain untuk melaksanakan hak tersebut."
+    },
+    {
+        "instruction": "Apa definisi Hak Distribusi Eksklusif menurut PP Nomor 29 Tahun 2021?",
+        "context": "Konteks tata kelola distribusi barang di Indonesia.",
+        "response": "Hak Distribusi Eksklusif adalah hak untuk mendistribusikan Barang yang dimiliki oleh hanya satu perusahaan dalam wilayah Indonesia yang didapat dari perjanjian secara langsung maupun tidak langsung dengan pemilik hak Distribusi merek dagang atau dari kepemilikan atas merek dagang."
+    },
+    {
+        "instruction": "Sebutkan definisi Hak Distribusi Eksklusif menurut Permendag Nomor 22 Tahun 2016.",
+        "context": "Penjelasan dalam kerangka hukum distributor.",
+        "response": "Hak Distribusi Eksklusif adalah hak mendistribusikan barang yang dimiliki oleh hanya satu perusahaan dalam wilayah Indonesia yang didapat dari perjanjian secara langsung maupun tidak langsung dengan pemilik hak distribusi merek dagang atau dari kepemilikan atas merek dagang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Eksklusif bagi agen tunggal?",
+        "context": "Berdasarkan Permendag Nomor 11 Tahun 2006.",
+        "response": "Hak Eksklusif adalah hak istimewa yang diberikan oleh prinsipal kepada perusahaan perdagangan nasional sebagai agen tunggal atau distributor tunggal."
+    },
+    {
+        "instruction": "Apa definisi Hak Guna Air menurut UU Nomor 7 Tahun 2004?",
+        "context": "Konteks pengelolaan sumber daya air secara umum.",
+        "response": "Hak Guna Air adalah hak untuk memperoleh dan memakai atau mengusahakan air untuk berbagai keperluan."
+    },
+    {
+        "instruction": "Bagaimana definisi alternatif Hak Guna Air dalam UU yang sama?",
+        "context": "Merujuk pada hak memperoleh dan memakai air secara sederhana.",
+        "response": "Hak Guna Air adalah hak untuk memperoleh dan memakai air."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Guna Pakai Air?",
+        "context": "Berdasarkan PP Nomor 69 Tahun 2014.",
+        "response": "Hak Guna Pakai Air adalah hak untuk memperoleh dan memakai Air."
+    },
+    {
+        "instruction": "Jelaskan definisi Hak Guna Usaha Air.",
+        "context": "Sesuai dengan UU Nomor 7 Tahun 2004 tentang pengusahaan air.",
+        "response": "Hak Guna Usaha Air adalah hak untuk memperoleh dan mengusahakan air."
+    },
+    {
+        "instruction": "Apa pengertian Hak Jaminan dalam sistem Resi Gudang?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2006.",
+        "response": "Hak Jaminan adalah hak jaminan yang dibebankan pada Resi Gudang untuk pelunasan utang, yang memberikan kedudukan untuk diutamakan bagi penerima hak jaminan terhadap kreditor yang lain."
+    },
+    {
+        "instruction": "Apa definisi Hak Jaminan atas Resi Gudang menurut UU Nomor 9 Tahun 2011?",
+        "context": "Konteks kedudukan kreditur yang diutamakan.",
+        "response": "Hak Jaminan atas Resi Gudang adalah hak jaminan yang dibebankan pada Resi Gudang untuk pelunasan utang, yang memberikan kedudukan untuk diutamakan bagi penerima hak jaminan terhadap kreditor yang lain."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Kekayaan Intelektual menurut UU Nomor 18 Tahun 2002?",
+        "context": "Konteks perlindungan hukum atas kekayaan intelektual.",
+        "response": "Hak Kekayaan Intelektual adalah hak memperoleh perlindungan secara hukum atas kekayaan intelektual sesuai dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa definisi Hak Khusus dalam pengangkutan Gas Bumi?",
+        "context": "Berdasarkan Permen ESDM Nomor 4 Tahun 2018.",
+        "response": "Hak Khusus adalah hak yang diberikan Badan Pengatur kepada Badan Usaha untuk mengoperasikan pipa pada Ruas Transmisi dan/atau Wilayah Jaringan Distribusi tertentu dalam rangka kegiatan usaha Pengangkutan Gas Bumi melalui pipa dengan tujuan memperoleh keuntungan dan/atau laba berdasarkan mekanisme lelang oleh Badan Pengatur atau penugasan dari Menteri."
+    },
+    {
+        "instruction": "Apa pengertian Hak Labuh (Landing Right) Satelit?",
+        "context": "Merujuk pada Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Hak Labuh (Landing Right) Satelit adalah hak untuk menggunakan satelit asing yang diberikan oleh Menteri kepada Penyelenggara Telekomunikasi atau Lembaga Penyiaran."
+    },
+    {
+        "instruction": "Jelaskan apa itu Hak Manfaat dalam konteks aset.",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2008 tentang Obligasi.",
+        "response": "Hak Manfaat adalah hak untuk memiliki dan mendapatkan hak penuh atas pemanfaatan suatu aset tanpa perlu dilakukan pendaftaran atas kepemilikan dan hak tersebut."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Negara Lainnya?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2018 tentang PNBP.",
+        "response": "Hak Negara Lainnya adalah hak negara selain dari Pemanfaatan Sumber Daya Alam, Pelayanan, Pengelolaan Kekayaan Negara Dipisahkan, Pengelolaan Barang Milik Negara, Pengelolaan Dana, dan yang diatur sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa definisi Hak Pengelolaan menurut UU Nomor 2 Tahun 2012?",
+        "context": "Terkait pelimpahan kewenangan menguasai negara.",
+        "response": "Hak Pengelolaan adalah hak menguasai dari negara yang kewenangan pelaksanaannya sebagian dilimpahkan kepada pemegangnya."
+    },
+    {
+        "instruction": "Apa itu Hak Pengelolaan Atas Tanah menurut PP Nomor 61 Tahun 2009?",
+        "context": "Konteks kepentingan pihak lain dalam transportasi air.",
+        "response": "Hak Pengelolaan Atas Tanah adalah hak yang diberikan kepada Pemerintah, pemerintah daerah, atau badan usaha milik negara yang dapat digunakan untuk kepentingan pihak lain."
+    },
+    {
+        "instruction": "Apa pengertian Hak Perlindungan Varietas Tanaman?",
+        "context": "Merujuk pada PP Nomor 13 Tahun 2004.",
+        "response": "Hak Perlindungan Varietas Tanaman adalah hak khusus yang diberikan negara kepada pemulia dan/atau pemegang hak Perlindungan Varietas Tanaman untuk menggunakan sendiri Varietas Hasil Pemuliaannya atau memberi persetujuan kepada orang atau badan hukum lain untuk menggunakannya selama waktu tertentu."
+    },
+    {
+        "instruction": "Jelaskan definisi Hak Prioritas dalam pengajuan merek.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016 terkait Paris Convention.",
+        "response": "Hak Prioritas adalah hak Pemohon untuk mengajukan Permohonan yang berasal dari negara yang tergabung dalam Konvensi Paris tentang Pelindungan Kekayaan Industri atau Persetujuan Pembentukan Organisasi Perdagangan Dunia untuk memperoleh pengakuan bahwa Tanggal Penerimaan di negara asal merupakan tanggal prioritas di negara tujuan yang juga anggota salah satu dari kedua perjanjian itu, selama pengajuan tersebut dilakukan dalam kurun waktu yang telah ditentukan berdasarkan perjanjian internasional dimaksud."
+    },
+    {
+        "instruction": "Apa definisi Hak PVT?",
+        "context": "Sesuai dengan PP Nomor 13 Tahun 2004 tentang Paten.",
+        "response": "Hak PVT adalah hak khusus yang diberikan negara kepada pemulia dan/atau pemegang hak Perlindungan Varietas Tanaman untuk menggunakan sendiri Varietas Hasil Pemuliaannya atau memberi persetujuan kepada orang atau badan hukum lain untuk menggunakannya selama waktu tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hak Ulayat?",
+        "context": "Berdasarkan UU Nomor 39 Tahun 2014 tentang Pertanian dan Perkebunan.",
+        "response": "Hak Ulayat adalah kewenangan masyarakat hukum adat untuk mengatur secara bersama-sama pemanfaatan Tanah, wilayah, dan sumber daya alam yang ada di wilayah masyarakat hukum adat yang bersangkutan yang menjadi sumber kehidupan dan mata pencahariannya."
+    },
+    {
+        "instruction": "Apa definisi Hakim menurut PP Nomor 94 Tahun 2012?",
+        "context": "Terkait jabatan pada badan peradilan di bawah Mahkamah Agung.",
+        "response": "Hakim adalah hakim pada badan peradilan yang berada dibawah Mahkamah Agung dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, dan lingkungan peradilan tata usaha negara."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Hakim ad hoc?",
+        "context": "Berdasarkan UU Nomor 46 Tahun 2009 tentang Pengadilan Korupsi.",
+        "response": "Hakim ad hoc adalah seseorang yang diangkat berdasarkan persyaratan yang ditentukan dalam Undang-Undang ini sebagai hakim tindak pidana korupsi."
+    }
+]
