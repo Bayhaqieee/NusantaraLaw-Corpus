@@ -173,5 +173,205 @@
         "instruction": "Siapakah yang dimaksud dengan Hakim ad hoc?",
         "context": "Berdasarkan UU Nomor 46 Tahun 2009 tentang Pengadilan Korupsi.",
         "response": "Hakim ad hoc adalah seseorang yang diangkat berdasarkan persyaratan yang ditentukan dalam Undang-Undang ini sebagai hakim tindak pidana korupsi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hakim Anggota dalam Peradilan Pajak?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2002 tentang tata cara persidangan di pengadilan pajak.",
+        "response": "Hakim Anggota adalah Hakim dalam suatu Majelis yang ditunjuk oleh Ketua untuk menjadi anggota dalam Majelis."
+    },
+    {
+        "instruction": "Sebutkan definisi Hakim Banding menurut UU Nomor 11 Tahun 2012.",
+        "context": "Konteks hukum yang melibatkan sistem peradilan pidana anak.",
+        "response": "Hakim Banding adalah hakim banding Anak."
+    },
+    {
+        "instruction": "Apa definisi Hakim Karier menurut UU Nomor 46 Tahun 2009?",
+        "context": "Konteks penetapan hakim khusus pada pengadilan tindak pidana korupsi.",
+        "response": "Hakim Karier adalah hakim pada pengadilan negeri, pengadilan tinggi, dan Mahkamah Agung yang ditetapkan sebagai hakim tindak pidana korupsi."
+    },
+    {
+        "instruction": "Apa pengertian Hakim Kasasi dalam konteks peradilan anak?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2012 mengenai perlindungan anak.",
+        "response": "Hakim Kasasi adalah hakim kasasi Anak."
+    },
+    {
+        "instruction": "Jelaskan definisi Hakim Kasasi menurut UU Nomor 2 Tahun 2004.",
+        "context": "Konteks penyelesaian perselisihan hubungan industrial di tingkat Mahkamah Agung.",
+        "response": "Hakim Kasasi adalah Hakim Agung dan Hakim Ad-Hoc pada Mahkamah Agung yang berwenang memeriksa, mengadili dan memberi putusan terhadap perselisihan hubungan industrial."
+    },
+    {
+        "instruction": "Siapa yang dimaksud dengan Hakim Ketua?",
+        "context": "Merujuk pada peran kepemimpinan sidang dalam UU Nomor 14 Tahun 2002.",
+        "response": "Hakim Ketua adalah Hakim Anggota yang ditunjuk oleh Ketua untuk memimpin sidang."
+    },
+    {
+        "instruction": "Apa peran Hakim Pengawas dalam kasus kepailitan?",
+        "context": "Berdasarkan UU Nomor 37 Tahun 2004 tentang kurator dan pailit.",
+        "response": "Hakim Pengawas adalah hakim yang ditunjuk oleh Pengadilan dalam putusan pailit atau putusan penundaan kewajiban pembayaran utang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hakim Tunggal?",
+        "context": "Konteks pemeriksaan sengketa pajak dengan acara cepat menurut UU Nomor 14 Tahun 2002.",
+        "response": "Hakim Tunggal adalah Hakim yang ditunjuk oleh Ketua untuk memeriksa dan memutus Sengketa Pajak dengan acara cepat."
+    },
+    {
+        "instruction": "Bagaimana definisi Halal menurut PP Nomor 95 Tahun 2012?",
+        "context": "Terkait dengan kondisi produk hewan dalam kerangka syariat Islam.",
+        "response": "Halal adalah suatu kondisi produk Hewan atau tindakan yang telah dinyatakan Halal sesuai dengan syariat Islam."
+    },
+    {
+        "instruction": "Apa definisi HAM menurut UU Nomor 2 Tahun 2021?",
+        "context": "Menjelaskan hak dasar manusia dalam kerangka otonomi daerah khusus.",
+        "response": "HAM adalah seperangkat hak yang melekat pada hakikat dan keberadaan manusia sebagai makhluk ciptaan Tuhan Yang Maha Esa dan merupakan anugerah-Nya yang wajib dihormati, dijunjung tinggi, dan dilindungi oleh negara, hukum, pemerintah, dan setiap orang demi kehormatan serta pelindungan harkat dan martabat manusia."
+    },
+    {
+        "instruction": "Jelaskan pengertian HAM berdasarkan UU Nomor 21 Tahun 2001.",
+        "context": "Konteks hak asasi dalam peraturan daerah khusus dan istimewa.",
+        "response": "HAM adalah seperangkat hak yang melekat pada hakikat dan keberadaan manusia sebagai makhluk ciptaan Tuhan Yang Maha Esa dan merupakan anugerah-Nya yang wajib dihormati, dijunjung tinggi, dan dilindungi oleh negara, hukum, pemerintah, dan setiap orang demi kehormatan serta perlindungan harkat dan martabat manusia."
+    },
+    {
+        "instruction": "Apa itu Harga Patokan Batubara?",
+        "context": "Berdasarkan Permen ESDM Nomor 25 Tahun 2018 mengenai pengusahaan tambang.",
+        "response": "Harga Patokan Batubara adalah harga Batubara yang ditentukan pada suatu titik serah Penjualan (at sale point) secara Free on Board."
+    },
+    {
+        "instruction": "Apa definisi Harga Patokan Mineral Logam?",
+        "context": "Penentuan harga jual komoditas tambang mineral logam sesuai Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "Harga Patokan Mineral Logam adalah harga Mineral logam yang ditentukan pada suatu titik serah Penjualan (at sale point) secara Free on Board untuk masing-masing komoditas tambang Mineral logam."
+    },
+    {
+        "instruction": "Apa pengertian Harta menurut UU Nomor 11 Tahun 2016?",
+        "context": "Konteks tambahan kemampuan ekonomis dalam hukum pajak.",
+        "response": "Harta adalah akumulasi tambahan kemampuan ekonomis berupa seluruh kekayaan, baik berwujud maupun tidak berwujud, baik bergerak maupun tidak bergerak, baik yang digunakan untuk usaha maupun bukan untuk usaha, yang berada di dalam dan/atau di luar wilayah Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Harta Benda Wakaf?",
+        "context": "Berdasarkan UU Nomor 41 Tahun 2004 mengenai perdata Islam.",
+        "response": "Harta Benda Wakaf adalah harta benda yang memiliki daya tahan lama dan/atau manfaat jangka panjang serta mempunyai nilai ekonomi menurut syariah yang diwakafkan oleh Wakif."
+    },
+    {
+        "instruction": "Jelaskan definisi Hasil Pemeriksaan menurut UU Nomor 8 Tahun 2010.",
+        "context": "Terkait transaksi keuangan mencurigakan dalam ranah pidana.",
+        "response": "Hasil Pemeriksaan adalah penilaian akhir dari seluruh proses identifikasi masalah, analisis dan evaluasi Transaksi Keuangan Mencurigakan yang dilakukan secara independen, objektif, dan profesional yang disampaikan kepada penyidik."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 15 Tahun 2006 mendefinisikan Hasil Pemeriksaan?",
+        "context": "Terkait dengan laporan hasil pemeriksaan oleh Badan Pemeriksa Keuangan (BPK).",
+        "response": "Hasil Pemeriksaan adalah hasil akhir dari proses penilaian kebenaran, kepatuhan, kecermatan, kredibilitas, dan keandalan data/informasi mengenai pengelolaan dan tanggung jawab keuangan negara yang dilakukan secara independen, objektif, dan profesional berdasarkan Standar Pemeriksaan, yang dituangkan dalam laporan hasil pemeriksaan sebagai keputusan BPK."
+    },
+    {
+        "instruction": "Apa itu Hasil perkebunan menurut UU Nomor 39 Tahun 2014?",
+        "context": "Konteks produk tanaman perkebunan dan pengolahannya.",
+        "response": "Hasil perkebunan adalah semua produk Tanaman Perkebunan dan pengolahannya yang terdiri atas produk utama, produk olahan untuk memperpanjang daya simpan, produk sampingan, dan produk ikutan."
+    },
+    {
+        "instruction": "Sebutkan definisi Hasil perkebunan menurut UU Nomor 18 Tahun 2004.",
+        "context": "Mencakup barang dan jasa yang dihasilkan dari sektor perkebunan.",
+        "response": "Hasil perkebunan adalah semua barang dan jasa yang berasal dari perkebunan yang terdiri dari produk utama, produk turunan, produk sampingan, produk ikutan, dan produk lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hasil tindak pidana?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2006 tentang hukum internasional.",
+        "response": "Hasil tindak pidana adalah setiap harta kekayaan yang diperoleh secara langsung maupun tidak langsung dari suatu tindak pidana, termasuk kekayaan yang ke dalamnya kemudian dikonversi, diubah, atau digabungkan dengan kekayaan yang dihasilkan atau diperoleh langsung dari tindak pidana tersebut, termasuk pendapatan, modal, atau keuntungan ekonomi lainnya yang diperoleh dari kekayaan tersebut dari waktu ke waktu sejak terjadinya tindak pidana tersebut."
+    },
+    {
+        "instruction": "Apa itu HGPA?",
+        "context": "Singkatan atau istilah yang digunakan dalam PP Nomor 69 Tahun 2014 terkait air.",
+        "response": "HGPA adalah hak untuk memperoleh dan memakai Air."
+    },
+    {
+        "instruction": "Apa pengertian HGUA?",
+        "context": "Merujuk pada pengelolaan air dalam PP Nomor 69 Tahun 2014.",
+        "response": "HGUA adalah hak untuk memperoleh dan mengusahakan Air."
+    },
+    {
+        "instruction": "Apa definisi Hibah dalam konteks Koperasi menurut UU Nomor 17 Tahun 2012?",
+        "context": "Terkait pemberian modal usaha secara sukarela.",
+        "response": "Hibah adalah pemberian uang dan/atau barang kepada Koperasi dengan sukarela tanpa imbalan jasa, sebagai modal usaha."
+    },
+    {
+        "instruction": "Jelaskan definisi Hibah menurut PP Nomor 57 Tahun 2005.",
+        "context": "Konteks penerimaan daerah dari berbagai sumber luar dan dalam negeri.",
+        "response": "Hibah adalah Penerimaan Daerah yang berasal dari pemerintah negara asing, badan/lembaga asing, badan/lembaga internasional, pemerintah, badan/lembaga dalam negeri atau perorangan, baik dalam bentuk devisa, rupiah maupun barang dan atau jasa, termasuk tenaga ahli dan pelatihan yang tidak perlu di bayar kembali."
+    },
+    {
+        "instruction": "Apa itu Hibah Luar Negeri?",
+        "context": "Berdasarkan PP Nomor 2 Tahun 2006 tentang keuangan negara.",
+        "response": "Hibah Luar Negeri adalah setiap penerimaan negara baik dalam bentuk devisa dan/atau devisa yang dirupiahkan, rupiah, maupun dalam bentuk barang dan/atau jasa yang diperoleh dari pemberi hibah luar negeri yang tidak perlu dibayar kembali."
+    },
+    {
+        "instruction": "Apa pengertian Hipotek Kapal?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2008 mengenai pelayaran.",
+        "response": "Hipotek Kapal adalah hak agunan kebendaan atas kapal yang terdaftar untuk menjamin pelunasan utang tertentu yang memberikan kedudukan yang diutamakan kepada kreditor tertentu terhadap kreditor lain."
+    },
+    {
+        "instruction": "Sebutkan definisi HKI menurut PP Nomor 20 Tahun 2017.",
+        "context": "Terkait pengawasan kepabeanan.",
+        "response": "HKI adalah hak eksklusif yang diberikan oleh negara berdasarkan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa definisi HKI dalam PP Nomor 12 Tahun 2010?",
+        "context": "Konteks penelitian dan pengembangan kekayaan intelektual.",
+        "response": "HKI adalah hak memperoleh perlindungan secara hukum atas kekayaan intelektual sesuai dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Honorarium Advokat?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2003 tentang jasa hukum.",
+        "response": "Honorarium adalah imbalan atas jasa hukum yang diterima oleh Advokat berdasarkan kesepakatan dengan Klien."
+    },
+    {
+        "instruction": "Jelaskan definisi Hubungan industrial.",
+        "context": "Sesuai dengan UU Nomor 13 Tahun 2003 tentang ketenagakerjaan.",
+        "response": "Hubungan industrial adalah suatu sistem hubungan yang terbentuk antara para pelaku dalam proses produksi barang dan/atau jasa yang terdiri dari unsur pengusaha, pekerja/buruh, dan pemerintah yang didasarkan pada nilai-nilai Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa pengertian Hubungan kerja menurut PP Nomor 78 Tahun 2015?",
+        "context": "Terkait unsur-unsur dalam perjanjian kerja.",
+        "response": "Hubungan kerja adalah hubungan antara pengusaha dengan pekerja/buruh berdasarkan perjanjian kerja, yang mempunyai unsur pekerjaan, upah, dan perintah."
+    },
+    {
+        "instruction": "Apa itu Hubungan Keuangan Antara Pemerintah Pusat Dan Pemerintah Daerah menurut UU Nomor 1 Tahun 2022?",
+        "context": "Sistem penyelenggaraan keuangan yang dilaksanakan secara adil.",
+        "response": "Hubungan Keuangan Antara Pemerintah Pusat Dan Pemerintah Daerah adalah suatu sistem penyelenggaraan keuangan yang mengatur hak dan kewajiban keuangan antara pemerintah pusat dan pemerintahan daerah yang dilaksanakan secara adil."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 23 Tahun 2014 mendefinisikan Hubungan Keuangan Pusat dan Daerah?",
+        "context": "Konteks pembagian keuangan dalam pemerintahan daerah.",
+        "response": "Hubungan Keuangan Antara Pemerintah Pusat Dan Pemerintah Daerah adalah suatu sistem pembagian keuangan yang adil, proporsional, demokratis, transparan, dan bertanggung jawab."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hukum Adat?",
+        "context": "Berdasarkan draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Hukum Adat adalah seperangkat norma dan aturan, baik yang tertulis maupun tidak tertulis, yang hidup dan berlaku untuk mengatur kehidupan Masyarakat Hukum Adat, dan atas pelanggarannya dikenakan sanksi adat."
+    },
+    {
+        "instruction": "Apa definisi Hukum Disiplin Militer?",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2014 untuk membina militer.",
+        "response": "Hukum Disiplin Militer adalah peraturan dan norma untuk mengatur, membina, menegakkan disiplin, dan tata kehidupan yang berlaku bagi Militer."
+    },
+    {
+        "instruction": "Apa pengertian Hukuman disiplin bagi PNS?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2010.",
+        "response": "Hukuman disiplin adalah hukuman yang dijatuhkan kepada PNS karena melanggar peraturan disiplin PNS."
+    },
+    {
+        "instruction": "Sebutkan definisi Hukuman Disiplin Militer.",
+        "context": "Penjatuhan hukuman oleh atasan menurut UU Nomor 25 Tahun 2014.",
+        "response": "Hukuman Disiplin Militer adalah hukuman yang dijatuhkan oleh atasan yang berhak menghukum kepada bawahan yang berada di bawah wewenang komandonya karena melakukan pelanggaran Hukum Disiplin Militer."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Hutan Kota?",
+        "context": "Berdasarkan PP Nomor 26 Tahun 2020 di wilayah perkotaan.",
+        "response": "Hutan Kota adalah suatu hamparan lahan yang bertumbuhan pohon-pohon yang kompak dan rapat di dalam wilayah perkotaan baik pada tanah negara maupun tanah hak, yang ditetapkan sebagai Hutan Kota oleh pejabat yang berwenang."
+    },
+    {
+        "instruction": "Jelaskan definisi Hutan lindung menurut PP Nomor 24 Tahun 2010.",
+        "context": "Fungsi pokok perlindungan sistem penyangga kehidupan.",
+        "response": "Hutan lindung adalah kawasan hutan yang mempunyai fungsi pokok sebagai perlindungan sistem penyangga kehidupan untuk mengatur tata air, mencegah banjir, mengendalikan erosi, mencegah intrusi air laut, dan memelihara kesuburan tanah."
+    },
+    {
+        "instruction": "Apa itu Hutan produksi?",
+        "context": "Berdasarkan PP Nomor 24 Tahun 2010 mengenai pengelolaan hutan.",
+        "response": "Hutan produksi adalah kawasan hutan yang mempunyai fungsi pokok memproduksi hasil hutan."
     }
 ]
