@@ -183,5 +183,310 @@
         "instruction": "Apa definisi Inkubasi menurut PP Nomor 7 Tahun 2021?",
         "context": "Konteks pembinaan lembaga inkubator kepada tenant.",
         "response": "Inkubasi adalah suatu proses pembinaan, pendampingan, dan pengembangan yang diberikan oleh lembaga inkubator kepada peserta inkubasi (tenant)."
+    },
+    {
+        "instruction": "Apa definisi Insentif menurut PP Nomor 25 Tahun 2014?",
+        "context": "Terkait dengan stimulus bagi Pelaku Usaha Hortikultura.",
+        "response": "Insentif adalah stimulan yang diberikan oleh Pemerintah dan/atau Pemerintah Daerah kepada Pelaku Usaha untuk meningkatkan motivasi dan kinerja Usaha Hortikultura."
+    },
+    {
+        "instruction": "Jelaskan pengertian Insentif dalam konteks Lahan Pertanian Pangan Berkelanjutan.",
+        "context": "Berdasarkan PP Nomor 12 Tahun 2012 mengenai penghargaan kepada Petani.",
+        "response": "Insentif adalah pemberian penghargaan kepada Petani yang mempertahankan dan tidak mengalihfungsikan Lahan Pertanian Pangan Berkelanjutan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Insentif dalam pemungutan Pajak dan Retribusi Daerah?",
+        "context": "Merujuk pada PP Nomor 69 Tahun 2010 mengenai penghargaan kinerja pemungutan.",
+        "response": "Insentif adalah tambahan penghasilan yang diberikan sebagai penghargaan atas kinerja tertentu dalam melaksanakan pemungutan Pajak dan Retribusi."
+    },
+    {
+        "instruction": "Apa itu Instalasi Karantina?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2019 tentang Karantina Kesehatan Pertanian.",
+        "response": "Instalasi Karantina adalah bangunan atau ruangan berikut peralatan, lahan, dan sarana pendukung lain yang diperlukan sebagai tempat melaksanakan tindakan Karantina."
+    },
+    {
+        "instruction": "Definisikan Instalasi Pemanfaatan Tenaga Listrik.",
+        "context": "Merujuk pada PP Nomor 62 Tahun 2012 tentang pemanfaatan listrik konsumen.",
+        "response": "Instalasi Pemanfaatan Tenaga Listrik adalah instalasi tenaga listrik yang digunakan untuk pemanfaatan tenaga listrik oleh konsumen akhir."
+    },
+    {
+        "instruction": "Apa pengertian Instalasi Penyediaan Tenaga Listrik?",
+        "context": "Berdasarkan PP Nomor 62 Tahun 2012 mencakup pembangkitan hingga distribusi.",
+        "response": "Instalasi Penyediaan Tenaga Listrik adalah instalasi tenaga listrik yang digunakan untuk pengadaan tenaga listrik meliputi instalasi pembangkitan, instalasi transmisi, dan instalasi distribusi tenaga listrik."
+    },
+    {
+        "instruction": "Jelaskan definisi Instalasi tenaga listrik secara umum.",
+        "context": "Merujuk pada PP Nomor 14 Tahun 2012 mengenai bangunan sipil dan mesin peralatan listrik.",
+        "response": "Instalasi tenaga listrik adalah bangunan-bangunan sipil dan elektromekanik, mesin-mesin peralatan, saluran-saluran dan perlengkapannya yang digunakan untuk pembangkitan, konversi, transformasi, penyaluran, distribusi, dan pemanfaatan tenaga listrik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Instansi Daerah?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 tentang Kepegawaian.",
+        "response": "Instansi Daerah adalah perangkat daerah provinsi dan perangkat daerah kabupaten/kota yang meliputi sekretariat daerah, sekretariat dewan perwakilan rakyat daerah, dinas daerah, dan lembaga teknis daerah."
+    },
+    {
+        "instruction": "Apa definisi Instansi Pelaksana dalam Administrasi Kependudukan?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2006 mengenai pelayanan kependudukan.",
+        "response": "Instansi Pelaksana adalah perangkat pemerintah kabupaten/kota yang bertanggung jawab dan berwenang melaksanakan pelayanan dalam urusan Administrasi Kependudukan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Instansi Pemerintah?",
+        "context": "Berdasarkan Perpres Nomor 27 Tahun 2014.",
+        "response": "Instansi Pemerintah adalah Kementerian dan Lembaga Pemerintah Non Kementerian."
+    },
+    {
+        "instruction": "Apa pengertian Instansi Penyelenggara Negara?",
+        "context": "Sesuai dengan PP Nomor 71 Tahun 2019 dan Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Instansi Penyelenggara Negara adalah institusi legislatif, eksekutif, dan yudikatif di tingkat pusat dan daerah dan instansi lain yang dibentuk dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Definisikan apa itu Instansi Pusat.",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 mengenai lingkup kementerian dan lembaga negara.",
+        "response": "Instansi Pusat adalah kementerian, lembaga pemerintah nonkementerian, kesekretariatan lembaga negara, dan kesekretariatan lembaga nonstruktural."
+    },
+    {
+        "instruction": "Apa tugas Instansi Teknis Keamanan Bendungan?",
+        "context": "Merujuk pada PP Nomor 37 Tahun 2010.",
+        "response": "Instansi Teknis Keamanan Bendungan adalah instansi yang bertugas membantu Menteri dalam penanganan keamanan bendungan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Institusi Pendidikan dalam keperawatan?",
+        "context": "Berdasarkan UU Nomor 38 Tahun 2014.",
+        "response": "Institusi Pendidikan adalah perguruan tinggi yang menyelenggarakan pendidikan Keperawatan."
+    },
+    {
+        "instruction": "Apa definisi Institusi Penerima Wajib Lapor?",
+        "context": "Terkait rehabilitasi medis dan sosial menurut PP Nomor 25 Tahun 2011.",
+        "response": "Institusi Penerima Wajib Lapor adalah pusat kesehatan masyarakat, rumah sakit, dan/atau lembaga rehabilitasi medis dan lembaga rehabilitasi sosial yang ditunjuk oleh Pemerintah."
+    },
+    {
+        "instruction": "Jelaskan definisi Intelijen menurut UU Nomor 17 Tahun 2011.",
+        "context": "Konteks keamanan nasional dan deteksi dini ancaman.",
+        "response": "Intelijen adalah pengetahuan, organisasi, dan kegiatan yang terkait dengan perumusan kebijakan, strategi nasional, dan pengambilan keputusan berdasarkan analisis dari informasi dan fakta yang terkumpul melalui metode kerja untuk pendeteksian dan peringatan dini dalam rangka pencegahan, penangkalan, dan penanggulangan setiap ancaman terhadap keamanan nasional."
+    },
+    {
+        "instruction": "Apa itu Intelijen Keimigrasian?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013.",
+        "response": "Intelijen Keimigrasian adalah kegiatan penyelidikan Keimigrasian dan pengamanan Keimigrasian dalam rangka proses penyajian informasi melalui analisis guna menetapkan perkiraan keadaan Keimigrasian yang dihadapi atau yang akan dihadapi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Intelijen Negara?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2011.",
+        "response": "Intelijen Negara adalah penyelenggara Intelijen yang merupakan bagian integral dari sistem keamanan nasional yang memiliki wewenang untuk menyelenggarakan fungsi dan kegiatan Intelijen Negara."
+    },
+    {
+        "instruction": "Sebutkan definisi Intensitas Energi.",
+        "context": "Berdasarkan PP Nomor 79 Tahun 2014.",
+        "response": "Intensitas Energi adalah jumlah total konsumsi Energi per unit produk domestik bruto."
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai Inventor?",
+        "context": "Berdasarkan PP Nomor 46 Tahun 2020 dan UU Nomor 11 Tahun 2019.",
+        "response": "Inventor adalah seorang atau beberapa orang yang secara bersama-sama melaksanakan ide yang dituangkan ke dalam kegiatan yang menghasilkan invensi."
+    },
+    {
+        "instruction": "Apa definisi Investasi dalam Perbankan Syariah?",
+        "context": "Merujuk pada UU Nomor 21 Tahun 2008 mengenai dana nasabah.",
+        "response": "Investasi adalah dana yang dipercayakan oleh Nasabah kepada Bank Syariah dan/atau UUS berdasarkan Akad mudharabah atau Akad lain yang tidak bertentangan dengan Prinsip Syariah dalam bentuk Deposito, Tabungan, atau bentuk lainnya yang dipersamakan dengan itu."
+    },
+    {
+        "instruction": "Apa pengertian Investasi Pemerintah?",
+        "context": "Berdasarkan PP Nomor 23 Tahun 2020 mengenai penempatan dana jangka panjang.",
+        "response": "Investasi Pemerintah adalah penempatan sejumlah dana dan/atau aset keuangan dalam jangka panjang untuk investasi dalam bentuk saham, surat utang, dan/atau investasi langsung guna memperoleh manfaat ekonomi, sosial, dan/atau manfaat lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Isolasi dalam Karantina Kesehatan?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018.",
+        "response": "Isolasi adalah pemisahan orang sakit dari orang sehat yang dilakukan di fasilitas pelayanan kesehatan untuk mendapatkan pengobatan dan perawatan."
+    },
+    {
+        "instruction": "Apa definisi IUP (Izin Usaha Pertambangan)?",
+        "context": "Sesuai dengan UU Nomor 3 Tahun 2020 dan Permen ESDM Nomor 48 Tahun 2017.",
+        "response": "IUP adalah izin untuk melaksanakan Usaha Pertambangan."
+    },
+    {
+        "instruction": "Apa itu IUP Eksplorasi?",
+        "context": "Merujuk pada tahapan awal pertambangan menurut Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "IUP Eksplorasi adalah izin usaha yang diberikan untuk melakukan tahapan kegiatan Penyelidikan Umum, Eksplorasi, dan Studi Kelayakan."
+    },
+    {
+        "instruction": "Definisikan IUP Khusus.",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009.",
+        "response": "IUP Khusus adalah izin untuk melaksanakan usaha pertambangan di wilayah izin usaha pertambangan khusus."
+    },
+    {
+        "instruction": "Apa pengertian IUP Operasi Produksi?",
+        "context": "Izin yang diberikan setelah tahap eksplorasi selesai menurut UU Nomor 4 Tahun 2009.",
+        "response": "IUP Operasi Produksi adalah izin usaha yang diberikan setelah selesai pelaksanaan IUP Eksplorasi untuk melakukan tahapan kegiatan operasi produksi."
+    },
+    {
+        "instruction": "Apa itu IUP Operasi Produksi Khusus Untuk Pengolahan Dan/Atau Pemurnian?",
+        "context": "Berdasarkan Permen ESDM Nomor 48 Tahun 2017.",
+        "response": "IUP Operasi Produksi Khusus Untuk Pengolahan Dan/Atau Pemurnian adalah izin usaha yang diberikan untuk membeli, mengangkut, mengolah, dan memurnikan termasuk menjual komoditas tambang mineral atau batubara hasil olahannya."
+    },
+    {
+        "instruction": "Apa definisi IUPK?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2020 dan peraturan pemerintah terkait wilayah khusus.",
+        "response": "IUPK adalah izin untuk melaksanakan usaha pertambangan di wilayah izin usaha pertambangan khusus."
+    },
+    {
+        "instruction": "Jelaskan mengenai IUPK Eksplorasi.",
+        "context": "Berdasarkan Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "IUPK Eksplorasi adalah izin usaha yang diberikan untuk melakukan tahapan kegiatan penyelidikan umum, eksplorasi, dan Studi Kelayakan di wilayah izin usaha pertambangan khusus."
+    },
+    {
+        "instruction": "Apa pengertian IUPK Operasi Produksi?",
+        "context": "Tahapan lanjutan setelah eksplorasi khusus menurut Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "IUPK Operasi Produksi adalah izin usaha yang diberikan setelah selesai pelaksanaan IUPK Eksplorasi untuk melakukan tahapan kegiatan operasi produksi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan IUPK Sebagai Kelanjutan Operasi Kontrak/Perjanjian?",
+        "context": "Izin perpanjangan setelah kontrak karya selesai menurut UU Nomor 3 Tahun 2020.",
+        "response": "IUPK Sebagai Kelanjutan Operasi Kontrak/Perjanjian adalah izin usaha yang diberikan sebagai perpanjangan setelah selesainya pelaksanaan kontrak karya atau perjanjian karya pengusahaan pertambangan batubara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Iuran dalam program jaminan sosial menurut PP Nomor 73 Tahun 2016?",
+        "context": "Pertanyaan ini merujuk pada definisi kewajiban finansial peserta dalam program jaminan sosial.",
+        "response": "Iuran adalah sejumlah uang yang dibayar secara teratur oleh Peserta, pemberi kerja, dan/atau Pemerintah dalam rangka program jaminan sosial."
+    },
+    {
+        "instruction": "Jelaskan definisi Iuran Jaminan Kesehatan berdasarkan Perpres Nomor 82 Tahun 2018.",
+        "context": "Konteks pembayaran rutin untuk mendapatkan manfaat layanan kesehatan nasional.",
+        "response": "Iuran Jaminan Kesehatan adalah sejumlah uang yang dibayarkan secara teratur oleh Peserta, Pemberi Kerja, dan/atau Pemerintah Pusat atau Pemerintah Daerah untuk program Jaminan Kesehatan."
+    },
+    {
+        "instruction": "Apa itu Iuran Jaminan Pensiun menurut PP Nomor 45 Tahun 2015?",
+        "context": "Kewajiban pembayaran rutin untuk program dana pensiun.",
+        "response": "Iuran Jaminan Pensiun adalah sejumlah uang yang dibayar secara teratur oleh peserta dan pemberi kerja."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 30 Tahun 2014 mendefinisikan Izin dalam administrasi negara?",
+        "context": "Definisi izin sebagai wujud persetujuan dari pejabat pemerintahan.",
+        "response": "Izin adalah Keputusan Pejabat Pemerintahan yang berwenang sebagai wujud persetujuan atas permohonan Warga Masyarakat sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Edar untuk alat kesehatan?",
+        "context": "Merujuk pada Peraturan Menteri Kesehatan Nomor 1189 Tahun 2010 mengenai legalitas produk.",
+        "response": "Izin Edar adalah izin yang dikeluarkan kepada perusahaan untuk produk alat kesehatan atau perbekalan kesehatan rumah tangga, yang akan diimpor dan/atau digunakan dan/atau diedarkan di wilayah Republik Indonesia, berdasarkan penilaian terhadap mutu, keamanan, dan kemanfaatan."
+    },
+    {
+        "instruction": "Apa definisi Izin Komersial Atau Operasional?",
+        "context": "Berdasarkan Permen ESDM Nomor 39 Tahun 2018 terkait lembaga OSS.",
+        "response": "Izin Komersial Atau Operasional adalah izin yang diterbitkan oleh lembaga OSS untuk dan atas nama Menteri atau gubernur setelah pelaku usaha mendapatkan Izin Usaha dan untuk melakukan kegiatan komersial atau operasional dengan memenuhi persyaratan dan/atau Komitmen."
+    },
+    {
+        "instruction": "Jelaskan apa itu Izin Lingkungan menurut UU Nomor 32 Tahun 2009.",
+        "context": "Prasyarat izin usaha bagi kegiatan yang wajib Amdal atau UKL-UPL.",
+        "response": "Izin Lingkungan adalah izin yang diberikan kepada setiap orang yang melakukan usaha dan/atau kegiatan yang wajib amdal atau UKL-UPL dalam rangka perlindungan dan pengelolaan lingkungan hidup sebagai prasyarat untuk memperoleh izin usaha dan/atau kegiatan."
+    },
+    {
+        "instruction": "Apa definisi Izin Lokasi dalam pengelolaan kelautan?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2014 mengenai pemanfaatan perairan pesisir.",
+        "response": "Izin Lokasi adalah izin yang diberikan untuk memanfaatkan ruang dari sebagian Perairan Pesisir yang mencakup permukaan laut dan kolom air sampai dengan permukaan dasar laut pada batas keluasan tertentu dan/atau untuk memanfaatkan sebagian pulau-pulau kecil."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Masuk Kembali dalam hukum keimigrasian?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013 bagi pemegang ITAS dan ITAP.",
+        "response": "Izin Masuk Kembali adalah izin tertulis yang diberikan oleh Pejabat Imigrasi kepada Orang Asing pemegang Izin Tinggal terbatas dan Izin Tinggal Tetap untuk masuk kembali ke Wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa itu Izin operasi dalam sektor ketenagalistrikan?",
+        "context": "Definisi berdasarkan PP Nomor 14 Tahun 2012 mengenai penyediaan listrik mandiri.",
+        "response": "Izin operasi adalah izin untuk melakukan penyediaan tenaga listrik untuk kepentingan sendiri."
+    },
+    {
+        "instruction": "Definisikan Izin Panas Bumi.",
+        "context": "Merujuk pada Permen ESDM Nomor 48 Tahun 2017 untuk pemanfaatan tidak langsung.",
+        "response": "Izin Panas Bumi adalah izin melakukan pengusahaan panas bumi untuk pemanfaatan tidak langsung pada wilayah kerja tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Pemanfaatan Hasil Hutan Kayu?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2013 mengenai pengusahaan kayu di hutan produksi.",
+        "response": "Izin Pemanfaatan Hasil Hutan Kayu adalah izin usaha yang diberikan oleh Menteri untuk memanfaatkan hasil hutan berupa kayu pada hutan produksi melalui kegiatan pemanenan atau penebangan, pengayaan, pemeliharaan, dan pemasaran."
+    },
+    {
+        "instruction": "Apa itu Izin Pemanfaatan Jaringan Tenaga Listrik Untuk Kepentingan Telekomunikasi?",
+        "context": "Sesuai dengan Permen ESDM Nomor 39 Tahun 2018.",
+        "response": "Izin Pemanfaatan Jaringan Tenaga Listrik Untuk Kepentingan Telekomunikasi adalah izin yang diberikan kepada pemegang Izin Usaha Penyediaan Tenaga Listrik atau Izin Operasi sebagai pemilik jaringan."
+    },
+    {
+        "instruction": "Apa definisi Izin Pemanfaatan Langsung dalam panas bumi?",
+        "context": "Merujuk pada UU Nomor 21 Tahun 2014.",
+        "response": "Izin Pemanfaatan Langsung adalah izin untuk melakukan pengusahaan Panas Bumi untuk Pemanfaatan Langsung pada lokasi tertentu."
+    },
+    {
+        "instruction": "Jelaskan apa itu Izin Pemanfaatan Ruang menurut UU Nomor 26 Tahun 2007.",
+        "context": "Terkait dengan regulasi tata ruang.",
+        "response": "Izin Pemanfaatan Ruang adalah izin yang dipersyaratkan dalam kegiatan pemanfaatan ruang sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Izin Pengangkutan Dan Penjualan dalam sektor Minerba?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2020.",
+        "response": "Izin Pengangkutan Dan Penjualan adalah izin usaha yang diberikan kepada perusahaan untuk membeli, mengangkut, dan menjual komoditas tambang Mineral atau Batubara."
+    },
+    {
+        "instruction": "Apa pengertian Izin Pengelolaan wilayah pesisir?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2014.",
+        "response": "Izin Pengelolaan adalah izin yang diberikan untuk melakukan kegiatan pemanfaatan sumber daya Perairan Pesisir dan perairan pulau-pulau kecil."
+    },
+    {
+        "instruction": "Apa itu Izin Penyelenggaraan Penyiaran?",
+        "context": "Definisi hak siar berdasarkan UU Nomor 32 Tahun 2002.",
+        "response": "Izin Penyelenggaraan Penyiaran adalah hak yang diberikan oleh negara kepada lembaga penyiaran untuk menyelenggarakan penyiaran."
+    },
+    {
+        "instruction": "Apa definisi Izin Perlindungan Dan Pengelolaan Lingkungan Hidup?",
+        "context": "Merujuk pada Permen LHK Nomor P.87 Tahun 2016.",
+        "response": "Izin Perlindungan Dan Pengelolaan Lingkungan Hidup adalah izin yang diberikan kepada setiap orang yang melakukan Usaha dan/atau Kegiatan yang wajib memiliki Izin Lingkungan, sebagai prasyarat dalam melakukan perlindungan dan pengelolaan lingkungan hidup terhadap dampak yang dihasilkan dari usaha dan/atau kegiatannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Pertambangan Rakyat (IPR)?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2020 mengenai investasi terbatas.",
+        "response": "Izin Pertambangan Rakyat adalah izin untuk melaksanakan Usaha Pertambangan dalam wilayah pertambangan rakyat dengan luas wilayah dan investasi terbatas."
+    },
+    {
+        "instruction": "Definisikan Izin Pita Frekuensi Radio.",
+        "context": "Berdasarkan Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Izin Pita Frekuensi Radio adalah izin stasiun radio untuk penggunaan spektrum frekuensi radio dalam bentuk pita frekuensi radio berdasarkan persyaratan tertentu."
+    },
+    {
+        "instruction": "Apa itu Izin Stasiun Radio?",
+        "context": "Penggunaan spektrum dalam bentuk kanal frekuensi menurut Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Izin Stasiun Radio adalah izin stasiun radio untuk penggunaan spektrum frekuensi radio dalam bentuk kanal frekuensi radio berdasarkan persyaratan tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Tinggal bagi Orang Asing?",
+        "context": "Sesuai dengan PP Nomor 31 Tahun 2013.",
+        "response": "Izin Tinggal adalah izin yang diberikan kepada Orang Asing oleh Pejabat Imigrasi atau Pejabat Dinas Luar Negeri untuk berada di Wilayah Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Izin Tinggal Terbatas (ITAS).",
+        "context": "Konteks penggunaan tenaga kerja asing menurut Perpres Nomor 20 Tahun 2018.",
+        "response": "Izin Tinggal Terbatas adalah izin yang diberikan kepada orang asing tertentu untuk berada dan tinggal di Wilayah Indonesia dalam jangka waktu tertentu untuk bekerja."
+    },
+    {
+        "instruction": "Apa itu Izin Tinggal Tetap (ITAP)?",
+        "context": "Definisi bagi warga asing untuk menetap menurut PP Nomor 31 Tahun 2013.",
+        "response": "Izin Tinggal Tetap adalah izin yang diberikan kepada Orang Asing tertentu untuk bertempat tinggal dan menetap di Wilayah Indonesia sebagai penduduk Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Izin Usaha menurut Permen ESDM Nomor 39 Tahun 2018?",
+        "context": "Izin melalui lembaga OSS untuk memulai usaha.",
+        "response": "Izin Usaha adalah izin yang diterbitkan oleh lembaga OSS untuk dan atas nama Menteri atau gubernur setelah pelaku usaha melakukan pendaftaran dan untuk memulai usaha dan/atau kegiatan sampai sebelum pelaksanaan komersial atau operasional dengan memenuhi persyaratan dan/atau Komitmen."
+    },
+    {
+        "instruction": "Apa itu Izin Usaha dan/atau Kegiatan menurut PP Nomor 27 Tahun 2012?",
+        "context": "Izin yang diterbitkan oleh instansi teknis.",
+        "response": "Izin Usaha dan/atau Kegiatan adalah izin yang diterbitkan oleh instansi teknis untuk melakukan Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Definisikan Izin Usaha Industri.",
+        "context": "Berdasarkan PP Nomor 107 Tahun 2015 mengenai legalitas kegiatan industri.",
+        "response": "Izin Usaha Industri adalah izin yang diberikan kepada setiap orang untuk melakukan kegiatan usaha Industri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Usaha Jasa Konstruksi?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2017.",
+        "response": "Izin Usaha Jasa Konstruksi adalah izin yang diberikan kepada badan usaha untuk menyelenggarakan kegiatan Jasa Konstruksi."
     }
 ]
