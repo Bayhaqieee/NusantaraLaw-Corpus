@@ -488,5 +488,90 @@
         "instruction": "Apa yang dimaksud dengan Izin Usaha Jasa Konstruksi?",
         "context": "Berdasarkan UU Nomor 2 Tahun 2017.",
         "response": "Izin Usaha Jasa Konstruksi adalah izin yang diberikan kepada badan usaha untuk menyelenggarakan kegiatan Jasa Konstruksi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Usaha Jasa Penunjang Tenaga Listrik?",
+        "context": "Berdasarkan Permen ESDM Nomor 39 Tahun 2018 mengenai investasi dan pendanaan tenaga listrik.",
+        "response": "Izin Usaha Jasa Penunjang Tenaga Listrik adalah izin untuk melakukan usaha jasa penunjang tenaga listrik."
+    },
+    {
+        "instruction": "Jelaskan definisi Izin Usaha Jasa Pertambangan menurut UU Nomor 3 Tahun 2020.",
+        "context": "Terkait dengan kegiatan usaha jasa pertambangan inti dalam sektor Minerba.",
+        "response": "Izin Usaha Jasa Pertambangan adalah izin yang diberikan untuk melakukan kegiatan usaha jasa pertambangan inti yang berkaitan dengan tahapan dan/atau bagian kegiatan Usaha Pertambangan."
+    },
+    {
+        "instruction": "Apa itu Izin Usaha Kawasan Industri berdasarkan PP Nomor 2 Tahun 2017?",
+        "context": "Mengenai pengembangan dan pengelolaan area industri.",
+        "response": "Izin Usaha Kawasan Industri adalah izin yang diberikan untuk melakukan pengembangan dan pengelolaan Kawasan Industri."
+    },
+    {
+        "instruction": "Apa pengertian Izin Usaha Niaga Minyak dan Gas Bumi?",
+        "context": "Merujuk pada Permen ESDM Nomor 4 Tahun 2018 mengenai kegiatan usaha hilir.",
+        "response": "Izin Usaha Niaga Minyak dan Gas Bumi adalah izin yang diberikan kepada Badan Usaha untuk melaksanakan kegiatan usaha Niaga Minyak dan Gas Bumi dengan tujuan memperoleh keuntungan dan/atau laba."
+    },
+    {
+        "instruction": "Apa definisi Izin Usaha Pengangkutan Minyak dan Gas Bumi?",
+        "context": "Berdasarkan Permen ESDM Nomor 4 Tahun 2018 untuk badan usaha yang mencari laba.",
+        "response": "Izin Usaha Pengangkutan Minyak dan Gas Bumi adalah izin yang diberikan kepada Badan Usaha untuk melaksanakan kegiatan usaha Pengangkutan Minyak dan Gas Bumi dengan tujuan memperoleh keuntungan dan/atau laba."
+    },
+    {
+        "instruction": "Jelaskan definisi Izin Usaha Penunjang Tenaga Listrik menurut UU Nomor 20 Tahun 2002.",
+        "context": "Konteks pelaksanaan kegiatan pendukung di sektor ketenagalistrikan.",
+        "response": "Izin Usaha Penunjang Tenaga Listrik adalah izin untuk melaksanakan satu atau lebih kegiatan usaha penunjang tenaga listrik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin usaha penyediaan jasa wisata alam?",
+        "context": "Merujuk pada PP Nomor 36 Tahun 2010 tentang pariwisata.",
+        "response": "Izin usaha penyediaan jasa wisata alam adalah izin usaha yang diberikan untuk penyediaan jasa wisata alam pada kegiatan pariwisata alam."
+    },
+    {
+        "instruction": "Apa definisi Izin usaha penyediaan sarana wisata alam?",
+        "context": "Berdasarkan PP Nomor 36 Tahun 2010 mengenai fasilitas dan pelayanan wisata.",
+        "response": "Izin usaha penyediaan sarana wisata alam adalah izin usaha yang diberikan untuk penyediaan fasilitas sarana serta pelayanannya yang diperlukan dalam kegiatan pariwisata alam."
+    },
+    {
+        "instruction": "Apa pengertian Izin usaha penyediaan tenaga listrik menurut PP Nomor 42 Tahun 2012?",
+        "context": "Terkait dengan usaha penyediaan listrik untuk kepentingan umum.",
+        "response": "Izin usaha penyediaan tenaga listrik adalah izin untuk melakukan usaha penyediaan tenaga listrik untuk kepentingan umum."
+    },
+    {
+        "instruction": "Sebutkan definisi Izin usaha penyediaan tenaga listrik menurut Permen ESDM Nomor 39 Tahun 2018.",
+        "context": "Definisi dalam kerangka investasi dan pendanaan tenaga listrik.",
+        "response": "Izin usaha penyediaan tenaga listrik adalah izin untuk melakukan usaha penyediaan tenaga listrik untuk kepentingan umum."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 20 Tahun 2002 mendefinisikan Izin usaha penyediaan tenaga listrik?",
+        "context": "Konteks regulasi ketenagalistrikan untuk kepentingan umum.",
+        "response": "Izin usaha penyediaan tenaga listrik adalah izin untuk melakukan usaha penyediaan tenaga listrik untuk kepentingan umum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Usaha Perkebunan (IUP)?",
+        "context": "Berdasarkan Permentan Nomor 98 Tahun 2013 mengenai integrasi budidaya dan pengolahan.",
+        "response": "Izin Usaha Perkebunan adalah izin tertulis dari Pejabat yang berwenang dan wajib dimiliki oleh perusahaan perkebunan yang melakukan usaha budidaya perkebunan dan terintegrasi dengan usaha industri pengolahan hasil perkebunan."
+    },
+    {
+        "instruction": "Apa definisi Izin Usaha Perkebunan Untuk Budidaya?",
+        "context": "Sesuai dengan Peraturan Menteri Pertanian Nomor 98 Tahun 2013.",
+        "response": "Izin Usaha Perkebunan Untuk Budidaya adalah izin tertulis dari Pejabat yang berwenang dan wajib dimiliki oleh perusahaan perkebunan yang melakukan usaha budidaya perkebunan."
+    },
+    {
+        "instruction": "Apa itu Izin Usaha Perkebunan Untuk Pengolahan?",
+        "context": "Merujuk pada regulasi perizinan industri pengolahan hasil perkebunan.",
+        "response": "Izin Usaha Perkebunan Untuk Pengolahan adalah izin tertulis dari Pejabat yang berwenang dan wajib dimiliki oleh perusahaan perkebunan yang melakukan usaha industri pengolahan hasil perkebunan."
+    },
+    {
+        "instruction": "Jelaskan definisi Izin Usaha Pertambangan menurut Permen ESDM Nomor 25 Tahun 2018.",
+        "context": "Konteks rujukan pada Undang-Undang Nomor 4 Tahun 2009.",
+        "response": "Izin Usaha Pertambangan adalah sebagaimana dimaksud dalam Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara."
+    },
+    {
+        "instruction": "Apa pengertian Izin Usaha Pertambangan Khusus?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009 mengenai wilayah izin usaha pertambangan khusus.",
+        "response": "Izin Usaha Pertambangan Khusus adalah izin untuk melaksanakan usaha pertambangan di wilayah izin usaha pertambangan khusus."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Izin Usaha Pertambangan Panas Bumi (IUP)?",
+        "context": "Sesuai dengan Undang-Undang Nomor 27 Tahun 2003.",
+        "response": "Izin Usaha Pertambangan Panas Bumi, selanjutnya disebut IUP adalah izin untuk melaksanakan Usaha Pertambangan Panas Bumi."
     }
 ]
