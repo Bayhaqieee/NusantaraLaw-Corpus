@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Jabatan Administrasi menurut UU Kepegawaian?",
+        "context": "Pertanyaan ini merujuk pada pengelompokan jabatan dalam administrasi pemerintahan berdasarkan UU Nomor 5 Tahun 2014.",
+        "response": "Jabatan Administrasi adalah sekelompok jabatan yang berisi fungsi dan tugas berkaitan dengan pelayanan publik serta administrasi pemerintahan dan pembangunan."
+    },
+    {
+        "instruction": "Jelaskan definisi Jabatan Fungsional dalam lingkup ASN.",
+        "context": "Definisi ini mencakup peran yang mengutamakan keahlian dan keterampilan tertentu sesuai PP Nomor 41 Tahun 2020.",
+        "response": "Jabatan Fungsional adalah sekelompok jabatan yang berisi fungsi dan tugas berkaitan dengan pelayanan fungsional yang berdasarkan pada keahlian dan keterampilan tertentu."
+    },
+    {
+        "instruction": "Apa itu Jabatan Pimpinan Tinggi di Instansi Pemerintah?",
+        "context": "Merujuk pada posisi manajerial tertinggi menurut UU Nomor 5 Tahun 2014.",
+        "response": "Jabatan Pimpinan Tinggi adalah sekelompok jabatan tinggi pada Instansi Pemerintah."
+    },
+    {
+        "instruction": "Bagaimana definisi Jabatan struktural bagi PNS?",
+        "context": "Berdasarkan PP Nomor 100 Tahun 2000 mengenai jenjang karier memimpin satuan organisasi.",
+        "response": "Jabatan struktural adalah suatu kedudukan yang menunjukkan tugas, tanggung jawab, wewenang, dan hak seorang Pegawai Negeri Sipil dalam rangka memimpin suatu satuan organisasi negara."
+    },
+    {
+        "instruction": "Apa definisi Jaksa menurut UU Nomor 11 Tahun 2021?",
+        "context": "Konteks profesi hukum dalam lembaga Kejaksaan Agung.",
+        "response": "Jaksa adalah pegawai negeri sipil dengan jabatan fungsional yang memiliki kekhususan dan melaksanakan tugas, fungsi, dan kewenangannya berdasarkan Undang-Undang."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Jaksa Agung?",
+        "context": "Merujuk pada struktur kepemimpinan tertinggi Kejaksaan menurut UU Nomor 1 Tahun 2006.",
+        "response": "Jaksa Agung adalah pimpinan dan penanggung jawab tertinggi kejaksaan yang memimpin, mengendalikan pelaksanaan tugas, dan wewenang kejaksaan."
+    },
+    {
+        "instruction": "Apa pengertian Jalan dalam konteks penyelenggaraan transportasi?",
+        "context": "Definisi teknis prasarana lalu lintas umum berdasarkan PP Nomor 30 Tahun 2021.",
+        "response": "Jalan adalah seluruh bagian jalan, termasuk bangunan pelengkap dan perlengkapannya yang diperuntukkan bagi Lalu Lintas umum, yang berada pada permukaan tanah, di atas permukaan tanah, di bawah permukaan tanah dan/atau air, serta di atas permukaan air, kecuali jalan rel dan jalan kabel."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Jaminan Fidusia?",
+        "context": "Konteks hak agunan kebendaan menurut PP Nomor 21 Tahun 2015.",
+        "response": "Jaminan Fidusia adalah hak jaminan atas benda bergerak baik yang berwujud maupun yang tidak berwujud dan benda tidak bergerak khususnya bangunan yang tidak dapat dibebani hak tanggungan sebagaimana dimaksud dalam Undang-Undang Nomor 4 Tahun 1996 tentang Hak Tanggungan yang tetap berada dalam penguasaan Pemberi Fidusia, sebagai agunan bagi pelunasan utang tertentu, yang memberikan kedudukan yang diutamakan kepada Penerima Fidusia terhadap kreditor lainnya."
+    },
+    {
+        "instruction": "Apa manfaat dari Jaminan Kecelakaan Kerja (JKK)?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2015 mengenai perlindungan risiko kerja.",
+        "response": "Jaminan Kecelakaan Kerja adalah manfaat berupa uang tunai dan/atau pelayanan kesehatan yang diberikan pada saat peserta mengalami kecelakaan kerja atau penyakit yang disebabkan oleh lingkungan kerja."
+    },
+    {
+        "instruction": "Jelaskan definisi Jaminan Kesehatan nasional.",
+        "context": "Merujuk pada Perpres Nomor 82 Tahun 2018 terkait perlindungan kebutuhan dasar kesehatan.",
+        "response": "Jaminan Kesehatan adalah jaminan berupa perlindungan kesehatan agar Peserta memperoleh manfaat pemeliharaan kesehatan dan perlindungan dalam memenuhi kebutuhan dasar kesehatan yang diberikan kepada setiap orang yang telah membayar Iuran Jaminan Kesehatan atau Iuran Jaminan Kesehatannya dibayar oleh Pemerintah Pusat atau Pemerintah Daerah."
+    },
+    {
+        "instruction": "Apa itu Jaminan Pemerintah dalam Proyek Strategis Nasional?",
+        "context": "Berdasarkan PP Nomor 42 Tahun 2021 mengenai skema pembagian risiko keuangan.",
+        "response": "Jaminan Pemerintah adalah jaminan yang diberikan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara untuk meningkatkan kelayakan proyek dengan skema pembagian risiko dalam rangka mendukung percepatan pelaksanaan Proyek Strategis Nasional."
+    },
+    {
+        "instruction": "Apa tujuan dari Jaminan Pensiun?",
+        "context": "Sesuai dengan PP Nomor 45 Tahun 2015 untuk mempertahankan derajat kehidupan layak.",
+        "response": "Jaminan Pensiun adalah jaminan sosial yang bertujuan untuk mempertahankan derajat kehidupan yang layak bagi peserta dan/atau ahli warisnya dengan memberikan penghasilan setelah peserta memasuki usia pensiun, mengalami cacat total tetap, atau meninggal dunia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Jaminan Produk Halal (JPH)?",
+        "context": "Konteks perlindungan konsumen berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "Jaminan Produk Halal adalah kepastian hukum terhadap kehalalan suatu Produk yang dibuktikan dengan Sertifikat Halal."
+    },
+    {
+        "instruction": "Jelaskan definisi umum Jaminan Sosial.",
+        "context": "Berdasarkan PP Nomor 10 Tahun 2020 mengenai perlindungan pemenuhan kebutuhan dasar.",
+        "response": "Jaminan Sosial adalah salah satu bentuk pelindungan sosial untuk menjamin seluruh rakyat agar dapat memenuhi kebutuhan dasar hidupnya yang layak."
+    },
+    {
+        "instruction": "Apa itu Jaminan Sosial Penyandang Disabilitas?",
+        "context": "Merujuk pada skema perlindungan khusus dalam PP Nomor 52 Tahun 2019.",
+        "response": "Jaminan Sosial Penyandang Disabilitas adalah skema yang melembaga untuk menjamin seluruh Penyandang Disabilitas agar dapat memenuhi kebutuhan dasar hidupnya yang layak."
+    },
+    {
+        "instruction": "Apa pengertian Jaring Kontrol Gayaberat Nasional?",
+        "context": "Terkait tata ruang pertanahan dan geodesi menurut UU Nomor 4 Tahun 2011.",
+        "response": "Jaring Kontrol Gayaberat Nasional adalah sebaran titik kontrol geodesi gayaberat yang terhubung satu sama lain dalam satu kerangka referensi."
+    },
+    {
+        "instruction": "Definisikan Jaring Kontrol Horizontal Nasional.",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2011 mengenai sebaran titik geodesi horizontal.",
+        "response": "Jaring Kontrol Horizontal Nasional adalah sebaran titik kontrol geodesi horizontal yang terhubung satu sama lain dalam satu kerangka referensi."
+    },
+    {
+        "instruction": "Apa itu Jaring Kontrol Vertikal Nasional?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2011 mengenai referensi tinggi geodesi.",
+        "response": "Jaring Kontrol Vertikal Nasional adalah sebaran titik kontrol geodesi vertikal yang terhubung satu sama lain dalam satu kerangka referensi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Jaringan Jalan?",
+        "context": "Hubungan hierarkis sistem jalan menurut PP Nomor 32 Tahun 2011.",
+        "response": "Jaringan Jalan adalah satu kesatuan jaringan yang terdiri atas sistem jaringan jalan primer dan sistem jaringan jalan sekunder yang terjalin dalam hubungan hierarkis."
+    },
+    {
+        "instruction": "Jelaskan definisi Jaringan Pos.",
+        "context": "Rangkaian titik layanan pos menurut UU Nomor 38 Tahun 2009.",
+        "response": "Jaringan Pos adalah rangkaian titik layanan yang terintegrasi baik fisik maupun nonfisik dalam cakupan wilayah layanan tertentu dalam penyelenggaraan pos."
+    },
+    {
+        "instruction": "Apa itu Jaringan Sistem Elektronik?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2008 mengenai keterhubungan sistem.",
+        "response": "Jaringan Sistem Elektronik adalah terhubungnya dua Sistem Elektronik atau lebih, yang bersifat tertutup ataupun terbuka."
+    },
+    {
+        "instruction": "Apa definisi Jasa dalam konteks perdagangan?",
+        "context": "Merujuk pada PP Nomor 80 Tahun 2019 mengenai layanan yang diperdagangkan.",
+        "response": "Jasa adalah setiap layanan dan unjuk kerja berbentuk pekerjaan atau hasil kerja yang dicapai, yang diperdagangkan oleh satu pihak ke pihak lain dalam masyarakat untuk dimanfaatkan oleh Konsumen atau Pelaku Usaha."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Jasa Asuransi dalam perpajakan?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2021 mengenai jasa pertanggungan.",
+        "response": "Jasa Asuransi adalah jasa pertanggungan yang meliputi asuransi kerugian, asuransi jiwa, dan reasuransi, yang dilakukan oleh perusahaan asuransi kepada pemegang polis asuransi, tidak termasuk jasa penunjang asuransi seperti agen asuransi, penilai kerugian asuransi, dan konsultan asuransi."
+    },
+    {
+        "instruction": "Jelaskan definisi Jasa hortikultura.",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2010 mengenai pelayanan produk hortikultura.",
+        "response": "Jasa hortikultura adalah kegiatan berupa usaha dan pelayanan yang menyebabkan produk, fasilitas, atau kemanfaatan lainnya dari hortikultura dapat dinikmati."
+    },
+    {
+        "instruction": "Apa pengertian Jasa Hukum menurut UU Advokat?",
+        "context": "Konteks bantuan hukum oleh profesional menurut UU Nomor 18 Tahun 2003.",
+        "response": "Jasa Hukum adalah jasa yang diberikan Advokat berupa memberikan konsultasi hukum, bantuan hukum, menjalankan kuasa, mewakili, mendampingi, membela, dan melakukan tindakan hukum lain untuk kepentingan hukum klien."
+    },
+    {
+        "instruction": "Apa itu Jasa Kena Pajak?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021 terkait PPN dan PPnBM.",
+        "response": "Jasa Kena Pajak adalah jasa yang dikenai pajak berdasarkan ketentuan peraturan perundang-undangan yang mengatur mengenai pajak pertambahan nilai barang dan jasa dan pajak penjualan atas barang mewah."
+    },
+    {
+        "instruction": "Definisikan Jasa Konstruksi menurut UU Nomor 2 Tahun 2017.",
+        "context": "Mencakup layanan konsultansi dan pekerjaan fisik konstruksi.",
+        "response": "Jasa Konstruksi adalah layanan jasa konsultansi konstruksi dan/atau pekerjaan konstruksi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Jasa Pertambangan?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009 mengenai layanan penunjang tambang.",
+        "response": "Jasa Pertambangan adalah jasa penunjang yang berkaitan dengan kegiatan usaha pertambangan."
+    },
+    {
+        "instruction": "Apa definisi Jasa pornografi?",
+        "context": "Berdasarkan UU Nomor 44 Tahun 2008 mengenai layanan konten pornografi.",
+        "response": "Jasa pornografi adalah segala jenis layanan pornografi yang disediakan oleh orang perseorangan atau korporasi melalui pertunjukan langsung, televisi kabel, televisi teresterial, radio, telepon, internet, dan komunikasi elektronik lainnya serta surat kabar, majalah, dan barang cetakan lainnya."
+    },
+    {
+        "instruction": "Apa itu Jenis Bahan Bakar Minyak Khusus Penugasan?",
+        "context": "Konteks pendistribusian BBM non-subsidi di wilayah tertentu menurut Perpres Nomor 191 Tahun 2014.",
+        "response": "Jenis Bahan Bakar Minyak Khusus Penugasan adalah bahan bakar yang berasal dan/atau diolah dari Minyak Bumi dan/atau bahan bakar yang berasal dan/atau diolah dari Minyak Bumi yang telah dicampurkan dengan Bahan Bakar Nabati (Biofuel) sebagai Bahan Bakar Lain dengan jenis, standar dan mutu (spesifikasi) tertentu, yang didistribusikan di wilayah penugasan dan tidak diberikan subsidi."
+    },
+    {
+        "instruction": "Apa pengertian Jenis Bahan Bakar Minyak Tertentu?",
+        "context": "Berdasarkan Perpres Nomor 191 Tahun 2014 mengenai BBM bersubsidi.",
+        "response": "Jenis Bahan Bakar Minyak Tertentu adalah bahan bakar yang berasal dan/atau diolah dari Minyak Bumi dan/atau bahan bakar yang berasal dan/atau diolah dari Minyak Bumi yang telah dicampurkan dengan Bahan Bakar Nabati (Biofuel) sebagai Bahan Bakar Lain dengan jenis, standar dan mutu (spesifikasi), harga, volume, dan konsumen tertentu dan diberikan subsidi."
+    },
+    {
+        "instruction": "Apa itu Jenis Bahan Bakar Minyak Umum?",
+        "context": "Berdasarkan Perpres Nomor 191 Tahun 2014 mengenai BBM non-subsidi secara umum.",
+        "response": "Jenis Bahan Bakar Minyak Umum adalah bahan bakar yang berasal dan/atau diolah dari Minyak Bumi dan/atau bahan bakar yang berasal dan/atau diolah dari Minyak Bumi yang telah dicampurkan dengan Bahan Bakar Nabati (Biofuel) sebagai Bahan Bakar Lain dengan jenis, standar dan mutu (spesifikasi) tertentu dan tidak diberikan subsidi."
+    },
+    {
+        "instruction": "Definisikan Jenis Industri.",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2018 sesuai klasifikasi baku lapangan usaha.",
+        "response": "Jenis Industri adalah bagian dari cabang Industri yang mempunyai ciri khusus yang sama dan/atau hasilnya bersifat akhir dalam proses produksi, yang ditetapkan sesuai klasifikasi dalam klasifikasi baku lapangan usaha Indonesia."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi JHT?",
+        "context": "Terkait program Jaminan Dana Pensiun menurut PP Nomor 46 Tahun 2015.",
+        "response": "JHT (Jaminan Hari Tua) adalah manfaat uang tunai yang dibayarkan sekaligus pada saat peserta memasuki usia pensiun, meninggal dunia, atau mengalami cacat total tetap."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi JKK?",
+        "context": "Merujuk pada program Jamsostek dalam PP Nomor 44 Tahun 2015.",
+        "response": "JKK (Jaminan Kecelakaan Kerja) adalah manfaat berupa uang tunai dan/atau pelayanan kesehatan yang diberikan pada saat peserta mengalami kecelakaan kerja atau penyakit yang disebabkan oleh lingkungan kerja."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi JKM?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2015 mengenai kematian di luar kecelakaan kerja.",
+        "response": "JKM (Jaminan Kematian) adalah manfaat uang tunai yang diberikan kepada ahli waris ketika peserta meninggal dunia bukan akibat kecelakaan kerja."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi JPH?",
+        "context": "Terkait UU Perlindungan Konsumen Nomor 33 Tahun 2014.",
+        "response": "JPH (Jaminan Produk Halal) adalah kepastian hukum terhadap kehalalan suatu Produk yang dibuktikan dengan Sertifikat Halal."
+    },
+    {
+        "instruction": "Siapakah Juru Lelang itu?",
+        "context": "Definisi dalam kerangka pajak menurut UU Nomor 42 Tahun 2009.",
+        "response": "Juru Lelang adalah juru lelang Pemerintah atau yang ditunjuk oleh Pemerintah."
+    },
+    {
+        "instruction": "Apa peran Juru Sita Dan/Atau Juru Sita Pengganti?",
+        "context": "Berdasarkan UU Nomor 50 Tahun 2009 tentang Peradilan Agama.",
+        "response": "Juru Sita Dan/Atau Juru Sita Pengganti adalah juru sita dan/atau juru sita pengganti pada pengadilan agama."
+    },
+    {
+        "instruction": "Apa tugas seorang Jurusita Pajak?",
+        "context": "Berdasarkan PP Nomor 135 Tahun 2000 mengenai penagihan pajak paksa.",
+        "response": "Jurusita Pajak adalah pelaksana tindakan penagihan pajak yang meliputi penagihan seketika dan sekaligus, pemberitahuan Surat Paksa, penyitaan dan penyanderaan."
+    }
+]
