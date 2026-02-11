@@ -1,0 +1,292 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan KA dalam struktur organisasi universitas?",
+        "context": "Pertanyaan ini merujuk pada perangkat Majelis Wali Amanat (MWA) pada perguruan tinggi negeri badan hukum seperti Undip, ITS, atau Unhas.",
+        "response": "KA adalah perangkat MWA yang melakukan pengawasan di bidang nonakademik terhadap penyelenggaraan universitas (seperti Undip, ITS, atau Unhas)."
+    },
+    {
+        "instruction": "Jelaskan definisi Kabupaten/kota menurut PP Nomor 3 Tahun 2015.",
+        "context": "Definisi ini berkaitan dengan status satuan masyarakat hukum dalam sistem NKRI.",
+        "response": "Kabupaten/kota adalah bagian dari daerah provinsi sebagai suatu kesatuan masyarakat hukum yang diberi kewenangan khusus untuk mengatur dan mengurus sendiri urusan pemerintahan dan kepentingan masyarakat setempat sesuai dengan peraturan perundang-undangan dalam sistem dan prinsip Negara Kesatuan Republik Indonesia berdasarkan UUD 1945, yang dipimpin oleh seorang bupati/walikota."
+    },
+    {
+        "instruction": "Apa itu Kajian Lingkungan Hidup Strategis (KLHS)?",
+        "context": "Merujuk pada instrumen pencegahan pencemaran lingkungan menurut Permen LHK Nomor P.24 Tahun 2018.",
+        "response": "Kajian Lingkungan Hidup Strategis adalah rangkaian analisis yang sistematis, menyeluruh, dan partisipatif untuk memastikan bahwa prinsip pembangunan berkelanjutan telah menjadi dasar dan terintegrasi dalam pembangunan suatu wilayah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kajian Risiko Keamanan Pangan?",
+        "context": "Berdasarkan PP Nomor 86 Tahun 2019 mengenai aspek ilmiah keamanan pangan.",
+        "response": "Kajian Risiko Keamanan Pangan adalah bagian analisis risiko dalam bentuk kegiatan kajian ilmiah aspek Keamanan Pangan yang mencakup identifikasi bahaya, karakterisasi bahaya, kajian paparan, dan karakterisasi risiko."
+    },
+    {
+        "instruction": "Definisikan istilah Kalibrasi menurut PP Nomor 34 Tahun 2018.",
+        "context": "Konteks standardisasi dan pengendalian mutu industri.",
+        "response": "Kalibrasi adalah kegiatan yang dilakukan dalam kondisi tertentu untuk menentukan perbedaan antara nilai yang ditunjukkan pada alat ukur atau nilai standar ukuran dan nilai standar ukuran yang memiliki ketelitian lebih tinggi."
+    },
+    {
+        "instruction": "Apa pengertian Kampanye dalam Pemilu Kepala Daerah?",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2015 mengenai kegiatan meyakinkan pemilih.",
+        "response": "Kampanye adalah kegiatan untuk meyakinkan Pemilih dengan menawarkan visi, misi, dan program Calon Gubernur dan Calon Wakil Gubernur, Calon Bupati dan Calon Wakil Bupati, serta Calon Walikota dan Calon Wakil Walikota."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kampanye Pemilihan Umum?",
+        "context": "Merujuk pada cakupan kampanye legislatif dan eksekutif menurut PP Nomor 18 Tahun 2013.",
+        "response": "Kampanye Pemilihan Umum adalah Kampanye Pemilu Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah, serta Kampanye Pemilu Presiden dan Wakil Presiden."
+    },
+    {
+        "instruction": "Jelaskan definisi Kampanye Pemilu menurut UU Nomor 10 Tahun 2008.",
+        "context": "Kegiatan peserta pemilu untuk menarik suara pemilih.",
+        "response": "Kampanye Pemilu adalah kegiatan Peserta Pemilu untuk meyakinkan para pemilih dengan menawarkan visi, misi, dan program Peserta Pemilu."
+    },
+    {
+        "instruction": "Apa definisi Kantor Akuntan Publik (KAP)?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2011 tentang profesi akuntan.",
+        "response": "Kantor Akuntan Publik adalah badan usaha yang didirikan berdasarkan ketentuan peraturan perundang-undangan dan mendapatkan izin usaha berdasarkan Undang-Undang Akuntan Publik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kantor Akuntan Publik Asing (KAPA)?",
+        "context": "Merujuk pada badan usaha jasa audit luar negeri menurut UU Nomor 5 Tahun 2011.",
+        "response": "Kantor Akuntan Publik Asing adalah badan usaha yang didirikan berdasarkan hukum negara tempat KAPA berkedudukan dan melakukan kegiatan usaha sekurang-kurangnya di bidang jasa audit atas informasi keuangan historis."
+    },
+    {
+        "instruction": "Apa fungsi Kantor Imigrasi?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2011 mengenai keimigrasian.",
+        "response": "Kantor Imigrasi adalah unit pelaksana teknis yang menjalankan Fungsi Keimigrasian di daerah kabupaten, kota, atau kecamatan."
+    },
+    {
+        "instruction": "Apa itu Kantor Pabean?",
+        "context": "Lingkungan kerja DJBC menurut UU Nomor 17 Tahun 2006.",
+        "response": "Kantor Pabean adalah kantor dalam lingkungan Direktorat Jenderal Bea dan Cukai tempat dipenuhinya kewajiban pabean sesuai dengan ketentuan Undang-Undang."
+    },
+    {
+        "instruction": "Apa kegunaan Kantor Pendaftaran Fidusia?",
+        "context": "Berdasarkan PP Nomor 21 Tahun 2015 terkait jaminan benda bergerak.",
+        "response": "Kantor Pendaftaran Fidusia adalah kantor yang menerima permohonan pendaftaran Jaminan Fidusia dan menerbitkan Sertifikat Jaminan Fidusia secara elektronik."
+    },
+    {
+        "instruction": "Definisikan Kantor Pertanahan.",
+        "context": "Berdasarkan Perpres Nomor 71 Tahun 2012 mengenai struktur BPN di daerah.",
+        "response": "Kantor Pertanahan adalah BPN di Kabupaten/Kota yang dipimpin oleh Kepala Kantor Pertanahan yang berada di bawah dan bertanggung jawab kepada Kepala BPN melalui Kepala Kantor Wilayah BPN."
+    },
+    {
+        "instruction": "Apa tugas Kantor Urusan Agama (KUA) Kecamatan?",
+        "context": "Merujuk pada UU Nomor 24 Tahun 2013 mengenai pelayanan penduduk Muslim.",
+        "response": "Kantor Urusan Agama Kecamatan (Kuakec) adalah satuan kerja yang melaksanakan pencatatan nikah, talak, cerai, dan rujuk pada tingkat kecamatan bagi Penduduk yang beragama Islam."
+    },
+    {
+        "instruction": "Sebutkan definisi KAP (Kantor Akuntan Publik) menurut PP Nomor 20 Tahun 2015.",
+        "context": "Konteks badan usaha akuntan yang berizin.",
+        "response": "KAP adalah badan usaha yang didirikan berdasarkan ketentuan Peraturan Perundang-undangan dan mendapatkan izin usaha berdasarkan Undang-Undang Nomor 5 Tahun 2011 tentang Akuntan Publik."
+    },
+    {
+        "instruction": "Apa itu KAPA menurut PP Nomor 20 Tahun 2015?",
+        "context": "Definisi teknis mengenai kantor akuntan publik asing.",
+        "response": "KAPA adalah badan usaha yang didirikan berdasarkan hukum negara tempat KAPA berkedudukan dan melakukan kegiatan usaha sekurang-kurangnya di bidang jasa audit atas informasi keuangan historis."
+    },
+    {
+        "instruction": "Apa pengertian Kapal Asing?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2008 tentang pelayaran.",
+        "response": "Kapal Asing adalah kapal yang berbendera selain bendera Indonesia dan tidak dicatat dalam daftar kapal Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kapal Negara?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2008 mengenai fungsi penegakan hukum.",
+        "response": "Kapal Negara adalah kapal milik negara digunakan oleh instansi Pemerintah tertentu yang diberi fungsi dan kewenangan sesuai dengan ketentuan peraturan perundang-undangan untuk menegakkan hukum serta tugas-tugas Pemerintah lainnya."
+    },
+    {
+        "instruction": "Definisikan Kapal Niaga.",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2019 mengenai media bisnis air.",
+        "response": "Kapal Niaga adalah kapal yang digunakan untuk media bisnis oleh orang perseorangan atau badan usaha."
+    },
+    {
+        "instruction": "Apa itu Kapal Perang menurut UU Pelayaran?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2008.",
+        "response": "Kapal Perang adalah kapal Tentara Nasional Indonesia yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Sebutkan pengertian Kapal Perikanan.",
+        "context": "Berdasarkan UU Nomor 45 Tahun 2009 mencakup berbagai alat apung perikanan.",
+        "response": "Kapal Perikanan adalah kapal, perahu, atau alat apung lain yang digunakan untuk melakukan penangkapan ikan, mendukung operasi penangkapan ikan, pembudidayaan ikan, pengangkutan ikan, pengolahan ikan, pelatihan perikanan, dan penelitian/eksplorasi perikanan."
+    },
+    {
+        "instruction": "Siapakah Kapolri itu?",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2017 mengenai pimpinan Polri.",
+        "response": "Kapolri adalah pimpinan Kepolisian Negara Republik Indonesia dan penanggung jawab penyelenggaraan fungsi kepolisian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Karantina kesehatan?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018 untuk mencegah penyebaran penyakit.",
+        "response": "Karantina adalah pembatasan kegiatan dan/atau pemisahan seseorang yang terpapar penyakit menular meskipun belum menunjukkan gejala, serta pemisahan barang/alat angkut yang diduga terkontaminasi untuk mencegah penyebaran penyakit."
+    },
+    {
+        "instruction": "Apa definisi Karantina Rumah?",
+        "context": "Merujuk pada pembatasan di lingkup tempat tinggal menurut UU Nomor 6 Tahun 2018.",
+        "response": "Karantina Rumah adalah pembatasan penghuni dalam suatu rumah beserta isinya yang diduga terinfeksi penyakit dan/atau terkontaminasi sedemikian rupa untuk mencegah kemungkinan penyebaran penyakit atau kontaminasi."
+    },
+    {
+        "instruction": "Jelaskan istilah Karantina Rumah Sakit.",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018.",
+        "response": "Karantina Rumah Sakit adalah pembatasan seseorang dalam rumah sakit yang diduga terinfeksi penyakit dan/atau terkontaminasi sedemikian rupa untuk mencegah kemungkinan penyebaran penyakit atau kontaminasi."
+    },
+    {
+        "instruction": "Apa itu Karantina Wilayah?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018 mengenai pembatasan penduduk di suatu daerah.",
+        "response": "Karantina Wilayah adalah pembatasan penduduk dalam suatu wilayah termasuk wilayah Pintu Masuk beserta isinya yang diduga terinfeksi penyakit dan/atau terkontaminasi sedemikian rupa untuk mencegah kemungkinan penyebaran penyakit atau kontaminasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kartu Keluarga (KK)?",
+        "context": "Definisi identitas resmi keluarga menurut UU Nomor 23 Tahun 2006.",
+        "response": "Kartu Keluarga adalah kartu identitas keluarga yang memuat data tentang nama, susunan dan hubungan dalam keluarga, serta identitas anggota keluarga."
+    },
+    {
+        "instruction": "Apa kegunaan Kartu Kepesertaan BPJS Ketenagakerjaan?",
+        "context": "Berdasarkan PP Nomor 46 Tahun 2015 mengenai identitas tunggal jaminan sosial.",
+        "response": "Kartu Kepesertaan BPJS Ketenagakerjaan adalah kartu tanda kepesertaan BPJS Ketenagakerjaan yang memiliki nomor identitas tunggal yang berlaku untuk semua program jaminan sosial."
+    },
+    {
+        "instruction": "Jelaskan definisi Kartu Peserta BPJS Ketenagakerjaan menurut PP Nomor 44 Tahun 2015.",
+        "context": "Cakupan program jaminan yang menggunakan kartu ini.",
+        "response": "Kartu Peserta BPJS Ketenagakerjaan adalah kartu tanda kepesertaan BPJS Ketenagakerjaan yang memiliki nomor identitas tunggal yang berlaku untuk program JKK, JHT, JP, dan JKM."
+    },
+    {
+        "instruction": "Apa itu KTP-el?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2013 mengenai identitas resmi penduduk ber-cip.",
+        "response": "Kartu Tanda Penduduk Elektronik (Ktp-El) adalah Kartu Tanda Penduduk yang dilengkapi cip yang merupakan identitas resmi penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana."
+    },
+    {
+        "instruction": "Apa definisi KTP secara umum menurut UU Nomor 23 Tahun 2006?",
+        "context": "Identitas diri yang berlaku nasional.",
+        "response": "Kartu Tanda Penduduk adalah identitas resmi Penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana yang berlaku di seluruh wilayah Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kartu Tenaga Kerja Luar Negeri (KTKLN)?",
+        "context": "Identitas wajib bagi TKI menurut UU Nomor 39 Tahun 2004.",
+        "response": "Kartu Tenaga Kerja Luar Negeri adalah kartu identitas bagi TKI yang memenuhi persyaratan dan prosedur untuk bekerja di luar negeri."
+    },
+    {
+        "instruction": "Apa definisi Kas Daerah?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2004 tentang perbendaharaan negara.",
+        "response": "Kas Daerah adalah tempat penyimpanan uang daerah yang ditentukan oleh gubernur/bupati/walikota untuk menampung seluruh penerimaan daerah dan membayar seluruh pengeluaran daerah."
+    },
+    {
+        "instruction": "Apa itu Kas Haji?",
+        "context": "Berdasarkan UU Nomor 34 Tahun 2014 mengenai penampungan dana haji.",
+        "response": "Kas Haji adalah rekening BPKH pada Bank Umum Syariah dan/atau Unit Usaha Syariah yang digunakan untuk menampung Dana Haji."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi KASN?",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2014 mengenai lembaga kepegawaian.",
+        "response": "KASN adalah Komisi Aparatur Sipil Negara, yaitu lembaga nonstruktural yang mandiri dan bebas dari intervensi politik."
+    },
+    {
+        "instruction": "Apa pengertian Kawasan Cagar Budaya?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2010 mengenai tata ruang khas geografis.",
+        "response": "Kawasan Cagar Budaya adalah satuan ruang geografis yang memiliki dua Situs Cagar Budaya atau lebih yang letaknya berdekatan dan/atau memperlihatkan ciri tata ruang yang khas."
+    },
+    {
+        "instruction": "Apa itu Kawasan Ekonomi Khusus (KEK)?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2021 mengenai fungsi perekonomian khusus.",
+        "response": "Kawasan Ekonomi Khusus adalah kawasan dengan batas tertentu dalam wilayah hukum Negara Kesatuan Republik Indonesia yang ditetapkan untuk menyelenggarakan fungsi perekonomian dan memperoleh fasilitas tertentu."
+    },
+    {
+        "instruction": "Definisikan Kawasan hortikultura.",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2010 mengenai hamparan usaha tanaman.",
+        "response": "Kawasan hortikultura adalah hamparan sebaran usaha Hortikultura yang disatukan oleh faktor pengikat tertentu, baik faktor alamiah, sosial budaya, maupun faktor infrastruktur fisik buatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kawasan Hutan?",
+        "context": "Merujuk pada PP Nomor 26 Tahun 2020 sebagai hutan tetap.",
+        "response": "Kawasan Hutan adalah wilayah tertentu yang ditetapkan oleh Pemerintah Pusat untuk dipertahankan keberadaannya sebagai Hutan tetap."
+    },
+    {
+        "instruction": "Apa itu Kawasan Industri?",
+        "context": "Berdasarkan PP Nomor 2 Tahun 2017 mengenai pemusatan industri.",
+        "response": "Kawasan Industri adalah kawasan tempat pemusatan kegiatan Industri yang dilengkapi dengan sarana dan prasarana penunjang yang dikembangkan dan dikelola oleh perusahaan kawasan industri."
+    },
+    {
+        "instruction": "Jelaskan definisi Kawasan Karantina.",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2019 mengenai isolasi hama penyakit.",
+        "response": "Kawasan Karantina adalah suatu kawasan yang awalnya bebas hama namun ditemukan serangan hama tertentu yang terbatas penyebarannya sehingga harus diisolasi untuk mencegah penyebaran lebih luas."
+    },
+    {
+        "instruction": "Apa itu Kawasan khusus menurut PP Nomor 43 Tahun 2010?",
+        "context": "Wilayah untuk kepentingan nasional tertentu.",
+        "response": "Kawasan khusus adalah bagian wilayah dalam provinsi dan/atau kabupaten/kota yang ditetapkan oleh Pemerintah untuk menyelenggarakan fungsi-fungsi pemerintahan yang bersifat khusus bagi kepentingan nasional."
+    },
+    {
+        "instruction": "Apa definisi Kawasan Lindung?",
+        "context": "Merujuk pada Permen LHK Nomor P.38 Tahun 2019.",
+        "response": "Kawasan Lindung adalah wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan."
+    },
+    {
+        "instruction": "Apa pengertian Kawasan Pabean?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021 mengenai pengawasan Bea Cukai.",
+        "response": "Kawasan Pabean adalah kawasan dengan batas-batas tertentu di pelabuhan laut, bandar udara, atau tempat lain yang ditetapkan untuk lalu lintas barang yang sepenuhnya berada di bawah pengawasan Direktorat Jenderal Bea dan Cukai."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kawasan penggembalaan umum?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2009 mengenai ternak masyarakat.",
+        "response": "Kawasan penggembalaan umum adalah lahan negara atau yang disediakan Pemerintah diperuntukkan bagi penggembalaan ternak masyarakat skala kecil sehingga ternak dapat leluasa berkembang biak."
+    },
+    {
+        "instruction": "Definisikan Kawasan Perbatasan.",
+        "context": "Berdasarkan UU Nomor 43 Tahun 2008 mengenai batas wilayah negara.",
+        "response": "Kawasan Perbatasan adalah bagian dari Wilayah Negara yang terletak pada sisi dalam sepanjang batas wilayah Indonesia dengan negara lain (di darat berada di kecamatan)."
+    },
+    {
+        "instruction": "Apa itu Kawasan Perdagangan Bebas Dan Pelabuhan Bebas (KPBPB)?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021 mengenai pembebasan bea dan pajak.",
+        "response": "Kawasan Perdagangan Bebas Dan Pelabuhan Bebas adalah kawasan dalam wilayah hukum NKRI yang terpisah dari daerah pabean sehingga bebas dari pengenaan bea masuk, PPN, PPnBM, dan cukai."
+    },
+    {
+        "instruction": "Jelaskan mengenai KPBPB Batam.",
+        "context": "Merujuk pada PP Nomor 65 Tahun 2014.",
+        "response": "Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam adalah wilayah sebagaimana dimaksud dalam regulasi khusus KPBPB Batam (PP 46/2007)."
+    },
+    {
+        "instruction": "Apa definisi Kawasan Perdesaan menurut UU Nomor 41 Tahun 2009?",
+        "context": "Kawasan dengan kegiatan utama pertanian.",
+        "response": "Kawasan Perdesaan adalah wilayah yang mempunyai kegiatan utama pertanian termasuk pengelolaan sumber daya alam dengan susunan fungsi sebagai tempat permukiman, pelayanan jasa pemerintahan, sosial, dan ekonomi."
+    },
+    {
+        "instruction": "Apa itu Kawasan Perkotaan?",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2016.",
+        "response": "Kawasan Perkotaan adalah wilayah yang mempunyai kegiatan utama bukan pertanian dengan susunan fungsi kawasan sebagai tempat permukiman, pemusatan pelayanan jasa pemerintahan, sosial, dan ekonomi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kawasan permukiman?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2011 sebagai lingkungan hunian.",
+        "response": "Kawasan permukiman adalah bagian dari lingkungan hidup di luar kawasan lindung yang berfungsi sebagai lingkungan tempat tinggal atau hunian dan tempat kegiatan yang mendukung perikehidupan."
+    },
+    {
+        "instruction": "Apa itu Kawasan Pertanian Pangan Berkelanjutan?",
+        "context": "Merujuk pada UU Nomor 41 Tahun 2009 untuk kedaulatan pangan.",
+        "response": "Kawasan Pertanian Pangan Berkelanjutan adalah wilayah budidaya pertanian perdesaan yang memiliki hamparan lahan pangan berkelanjutan untuk mendukung kemandirian dan kedaulatan pangan nasional."
+    },
+    {
+        "instruction": "Definisikan Kawasan Peruntukan Industri.",
+        "context": "Berdasarkan PP Nomor 107 Tahun 2015 mengenai tata ruang industri.",
+        "response": "Kawasan Peruntukan Industri adalah bentangan lahan yang diperuntukkan bagi kegiatan Industri berdasarkan rencana tata ruang wilayah yang ditetapkan sesuai peraturan."
+    },
+    {
+        "instruction": "Apa pengertian Kawasan strategis nasional?",
+        "context": "Berdasarkan PP Nomor 1 Tahun 2011 mengenai prioritas tata ruang.",
+        "response": "Kawasan strategis nasional adalah wilayah yang penataan ruangnya diprioritaskan karena mempunyai pengaruh sangat penting secara nasional terhadap kedaulatan, pertahanan, ekonomi, sosial, dan budaya."
+    },
+    {
+        "instruction": "Apa itu Kawasan Strategis Pariwisata?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2009.",
+        "response": "Kawasan Strategis Pariwisata adalah kawasan yang memiliki fungsi utama pariwisata atau potensi pengembangan yang berpengaruh penting pada ekonomi, sosial, budaya, dan lingkungan."
+    },
+    {
+        "instruction": "Jelaskan prinsip Keadilan Restoratif.",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2012 mengenai penyelesaian pidana anak.",
+        "response": "Keadilan Restoratif adalah penyelesaian perkara tindak pidana dengan melibatkan pelaku, korban, dan pihak terkait untuk mencari penyelesaian adil dengan menekankan pemulihan kembali pada keadaan semula, bukan pembalasan."
+    },
+    {
+        "instruction": "Apa itu Keamanan Lalu Lintas Dan Angkutan Jalan?",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2011.",
+        "response": "Keamanan Lalu Lintas Dan Angkutan Jalan adalah suatu keadaan terbebasnya setiap orang, barang, dan/atau kendaraan dari gangguan perbuatan melawan hukum dan rasa takut dalam berlalu lintas."
+    }
+]
