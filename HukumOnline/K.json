@@ -288,5 +288,295 @@
         "instruction": "Apa itu Keamanan Lalu Lintas Dan Angkutan Jalan?",
         "context": "Berdasarkan PP Nomor 32 Tahun 2011.",
         "response": "Keamanan Lalu Lintas Dan Angkutan Jalan adalah suatu keadaan terbebasnya setiap orang, barang, dan/atau kendaraan dari gangguan perbuatan melawan hukum dan rasa takut dalam berlalu lintas."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keamanan Pangan menurut UU Nomor 18 Tahun 2012?",
+        "context": "Pertanyaan ini merujuk pada standar kelayakan pangan agar aman dikonsumsi manusia tanpa cemaran berbahaya.",
+        "response": "Keamanan Pangan adalah kondisi dan upaya yang diperlukan untuk mencegah Pangan dari kemungkinan cemaran biologis, kimia, dan benda lain yang dapat mengganggu, merugikan, dan membahayakan kesehatan manusia serta tidak bertentangan dengan agama, keyakinan, dan budaya masyarakat sehingga aman untuk dikonsumsi."
+    },
+    {
+        "instruction": "Jelaskan definisi Keamanan Penerbangan berdasarkan PP Nomor 40 Tahun 2012.",
+        "context": "Konteks perlindungan aktivitas penerbangan dari tindakan melawan hukum.",
+        "response": "Keamanan Penerbangan adalah suatu keadaan yang memberikan perlindungan kepada penerbangan dari tindakan melawan hukum melalui keterpaduan pemanfaatan sumber daya manusia, fasilitas, dan prosedur."
+    },
+    {
+        "instruction": "Apa itu Kebandarudaraan menurut PP Nomor 41 Tahun 2021?",
+        "context": "Definisi ini mencakup segala aspek operasional dan fungsi bandar udara.",
+        "response": "Kebandarudaraan adalah segala sesuatu yang berkaitan dengan penyelenggaraan Bandar Udara dan kegiatan lainnya dalam melaksanakan fungsi keselamatan, keamanan, kelancaran, dan ketertiban arus lalu lintas pesawat udara, penumpang, kargo dan/atau pos, tempat perpindahan intra dan/ atau antarmoda, serta meningkatkan pertumbuhan ekonomi nasional dan daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keberatan bagi PNS dalam lingkup disiplin?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2010 mengenai upaya administratif hukuman disiplin.",
+        "response": "Keberatan adalah upaya administratif yang dapat ditempuh oleh PNS yang tidak puas terhadap hukuman disiplin yang dijatuhkan oleh pejabat yang berwenang menghukum kepada atasan pejabat yang berwenang menghukum."
+    },
+    {
+        "instruction": "Sebutkan definisi Kebijakan energi nasional menurut UU Nomor 30 Tahun 2007.",
+        "context": "Prinsip dasar pengelolaan energi untuk kemandirian nasional.",
+        "response": "Kebijakan energi nasional adalah kebijakan pengelolaan energi yang berdasarkan prinsip berkeadilan, berkelanjutan, dan berwawasan lingkungan guna terciptanya kemandirian dan ketahanan energi nasional."
+    },
+    {
+        "instruction": "Apa definisi Kecamatan menurut UU Nomor 11 Tahun 2006?",
+        "context": "Wilayah kerja perangkat daerah di bawah kabupaten/kota.",
+        "response": "Kecamatan adalah suatu wilayah kerja camat sebagai perangkat daerah kabupaten/kota dalam penyelenggaraan pemerintahan kecamatan."
+    },
+    {
+        "instruction": "Apa pengertian Kecelakaan kerja dalam program Jaminan Kesehatan?",
+        "context": "Berdasarkan Perpres Nomor 82 Tahun 2018 termasuk perjalanan dari dan ke tempat kerja.",
+        "response": "Kecelakaan kerja adalah kecelakaan yang terjadi dalam hubungan kerja, termasuk kecelakaan yang terjadi dalam perjalanan dari rumah menuju tempat kerja atau sebaliknya, dan penyakit yang disebabkan oleh lingkungan kerja."
+    },
+    {
+        "instruction": "Apa definisi Kecelakaan Lalu Lintas menurut UU Nomor 22 Tahun 2009?",
+        "context": "Peristiwa tidak terduga di jalan yang melibatkan kendaraan.",
+        "response": "Kecelakaan Lalu Lintas adalah suatu peristiwa di Jalan yang tidak diduga dan tidak disengaja melibatkan Kendaraan dengan atau tanpa Pengguna Jalan lain yang mengakibatkan korban manusia dan/atau kerugian harta benda."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kecurangan (Fraud) dalam program Jaminan Kesehatan?",
+        "context": "Merujuk pada tindakan sengaja untuk keuntungan finansial secara tidak sah menurut Perpres Nomor 82 Tahun 2018.",
+        "response": "Kecurangan (Fraud) adalah tindakan yang dilakukan dengan sengaja, untuk mendapatkan keuntungan finansial dari program Jaminan Kesehatan dalam Sistem Jaminan Sosial Nasional melalui perbuatan curang yang tidak sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Definisikan Kedaruratan Keamanan Pangan.",
+        "context": "Berdasarkan PP Nomor 86 Tahun 2019 mengenai kondisi serius kesehatan masyarakat.",
+        "response": "Kedaruratan Keamanan Pangan adalah suatu kondisi serius yang diakibatkan oleh risiko Keamanan Pangan yang berdampak terhadap kesehatan masyarakat yang memerlukan tindakan segera, baik disengaja maupun tidak."
+    },
+    {
+        "instruction": "Apa itu Kedaruratan Kesehatan Masyarakat menurut UU Nomor 6 Tahun 2018?",
+        "context": "Kejadian luar biasa yang berpotensi menyebar lintas negara.",
+        "response": "Kedaruratan Kesehatan Masyarakat adalah kejadian kesehatan masyarakat yang bersifat luar biasa dengan ditandai penyebaran penyakit menular dan/atau kejadian yang disebabkan oleh radiasi nuklir, pencemaran biologi, kontaminasi kimia, bioterorisme, dan pangan yang menimbulkan bahaya kesehatan dan berpotensi menyebar lintas wilayah atau lintas negara."
+    },
+    {
+        "instruction": "Jelaskan pengertian Kedaulatan Pangan.",
+        "context": "Hak mandiri negara dalam menentukan kebijakan pangan sesuai UU Nomor 18 Tahun 2012.",
+        "response": "Kedaulatan Pangan adalah hak negara dan bangsa yang secara mandiri menentukan kebijakan Pangan yang menjamin hak atas Pangan bagi rakyat dan yang memberikan hak bagi masyarakat untuk menentukan sistem Pangan yang sesuai dengan potensi sumber daya lokal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kegagalan Bangunan menurut UU Nomor 2 Tahun 2017?",
+        "context": "Kondisi keruntuhan bangunan setelah penyerahan hasil jasa konstruksi.",
+        "response": "Kegagalan Bangunan adalah suatu keadaan keruntuhan bangunan dan/atau tidak berfungsinya bangunan setelah penyerahan akhir hasil Jasa Konstruksi."
+    },
+    {
+        "instruction": "Apa definisi Kegiatan Litbangrap Iptek yang Berbahaya?",
+        "context": "Merujuk pada PP Nomor 48 Tahun 2009 mengenai potensi bahaya bagi bangsa.",
+        "response": "Kegiatan Litbangrap Iptek yang Berbahaya adalah kegiatan penelitian, pengembangan, dan/atau penerapan ilmu pengetahuan dan teknologi yang berpotensi menimbulkan bahaya bagi keselamatan manusia, kelestarian fungsi lingkungan, kerukunan bermasyarakat, keselamatan bangsa, dan berpotensi merugikan negara."
+    },
+    {
+        "instruction": "Apa definisi Kegiatan Litbangrap Iptek yang Berisiko Tinggi?",
+        "context": "Berdasarkan PP Nomor 48 Tahun 2009 mengenai dampak langsung/tidak langsung ke lingkungan.",
+        "response": "Kegiatan Litbangrap Iptek yang Berisiko Tinggi adalah kegiatan penelitian, pengembangan, dan/atau penerapan ilmu pengetahuan dan teknologi yang karena sifat dan/atau konsentrasinya, baik secara langsung maupun tidak langsung, dapat membahayakan, mencemarkan dan/atau merusak lingkungan hidup manusia serta makhluk hidup lainnya."
+    },
+    {
+        "instruction": "Apa itu Kegiatan Pascatambang menurut UU Nomor 3 Tahun 2020?",
+        "context": "Upaya pemulihan fungsi alam setelah kegiatan pertambangan selesai.",
+        "response": "Kegiatan Pascatambang adalah kegiatan terencana, sistematis, dan berlanjut setelah sebagian atau seluruh kegiatan Usaha Pertambangan untuk memulihkan fungsi lingkungan alam dan fungsi sosial menurut kondisi lokal di seluruh wilayah Penambangan."
+    },
+    {
+        "instruction": "Jelaskan pengertian Kegiatan Pencegahan Bencana.",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2007.",
+        "response": "Kegiatan Pencegahan Bencana adalah serangkaian kegiatan yang dilakukan sebagai upaya untuk menghilangkan dan/atau mengurangi ancaman bencana."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kegiatan Usaha Hilir dalam sektor Migas?",
+        "context": "Fokus pada pengolahan hingga niaga menurut UU Nomor 22 Tahun 2001.",
+        "response": "Kegiatan Usaha Hilir adalah kegiatan usaha yang berintikan atau bertumpu pada kegiatan usaha Pengolahan, Pengangkutan, Penyimpanan, dan/atau Niaga."
+    },
+    {
+        "instruction": "Apa itu Kegiatan Usaha Hulu dalam sektor Migas?",
+        "context": "Fokus pada eksplorasi dan eksploitasi menurut UU Nomor 22 Tahun 2001.",
+        "response": "Kegiatan Usaha Hulu adalah kegiatan usaha yang berintikan atau bertumpu pada kegiatan usaha Eksplorasi dan Eksploitasi."
+    },
+    {
+        "instruction": "Definisikan Kegiatan Usaha Utama terkait fasilitas pajak.",
+        "context": "Berdasarkan PP Nomor 78 Tahun 2019 mengenai permohonan fasilitas PPh.",
+        "response": "Kegiatan Usaha Utama adalah bidang usaha dan jenis produksi/jasa pada saat pengajuan permohonan fasilitas Pajak Penghasilan oleh Wajib Pajak sebagaimana tercantum dalam izin prinsip, izin investasi, pendaftaran Penanaman Modal yang telah diterbitkan oleh BKPM atau izin usaha yang diterbitkan oleh Lembaga OSS yang diperoleh Wajib Pajak."
+    },
+    {
+        "instruction": "Apa pengertian Kehutanan?",
+        "context": "Sistem pengurusan terpadu hutan menurut draf RUU Tahun 2017.",
+        "response": "Kehutanan adalah sistem pengurusan yang bersangkut paut dengan hutan, kawasan hutan, dan hasil hutan yang diselenggarakan secara terpadu."
+    },
+    {
+        "instruction": "Jelaskan definisi Keimigrasian.",
+        "context": "Lalu lintas orang masuk/keluar wilayah RI menurut PP Nomor 31 Tahun 2013.",
+        "response": "Keimigrasian adalah hal ihwal lalu lintas orang yang masuk atau keluar Wilayah Indonesia serta pengawasannya dalam rangka menjaga tegaknya kedaulatan negara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kejadian Luar Biasa Keracunan Pangan?",
+        "context": "Berdasarkan PP Nomor 86 Tahun 2019 mengenai gejala serupa pada dua orang atau lebih.",
+        "response": "Kejadian Luar Biasa Keracunan Pangan adalah suatu kejadian yang terdapat dua orang atau lebih yang menderita sakit dengan gejala yang sama atau hampir sama setelah mengonsumsi Pangan, dan berdasarkan analisis epidemiologi, Pangan tersebut terbukti sebagai sumber keracunan."
+    },
+    {
+        "instruction": "Apa definisi Kejahatan Terorganisasi dalam tindak pidana Narkotika?",
+        "context": "Kelompok terstruktur tiga orang atau lebih menurut UU Nomor 35 Tahun 2009.",
+        "response": "Kejahatan Terorganisasi adalah kejahatan yang dilakukan oleh suatu kelompok yang terstruktur yang terdiri atas 3 (tiga) orang atau lebih yang telah ada untuk suatu waktu tertentu dan bertindak bersama dengan tujuan melakukan suatu tindak pidana Narkotika."
+    },
+    {
+        "instruction": "Apa pengertian Kejaksaan dalam UU Yayasan?",
+        "context": "Wilayah hukum yang mencakup kedudukan yayasan menurut UU Nomor 16 Tahun 2001.",
+        "response": "Kejaksaan adalah Kejaksaan Negeri yang daerah hukumnya meliputi tempat kedudukan Yayasan."
+    },
+    {
+        "instruction": "Definisikan Kejaksaan Republik Indonesia menurut UU Nomor 11 Tahun 2021.",
+        "context": "Lembaga penuntutan yang berkaitan dengan kekuasaan kehakiman.",
+        "response": "Kejaksaan Republik Indonesia adalah lembaga pemerintahan yang fungsinya berkaitan dengan kekuasaan kehakiman yang melaksanakan kekuasaan negara di bidang penuntutan serta kewenangan lain berdasarkan Undang-Undang."
+    },
+    {
+        "instruction": "Sebutkan definisi KEK (Kawasan Ekonomi Khusus).",
+        "context": "Wilayah dengan fungsi ekonomi dan fasilitas khusus menurut UU Nomor 39 Tahun 2009.",
+        "response": "KEK adalah kawasan dengan batas tertentu dalam wilayah hukum Negara Kesatuan Republik Indonesia yang ditetapkan untuk menyelenggarakan fungsi perekonomian dan memperoleh fasilitas tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kekarantinaan Kesehatan?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018 untuk menangkal faktor risiko kesehatan.",
+        "response": "Kekarantinaan Kesehatan adalah upaya mencegah dan menangkal keluar atau masuknya penyakit dan/atau faktor risiko kesehatan masyarakat yang berpotensi menimbulkan kedaruratan kesehatan masyarakat."
+    },
+    {
+        "instruction": "Apa itu Kekayaan Daerah Yang Dipisahkan?",
+        "context": "Penyertaan modal daerah pada BUMD menurut PP Nomor 54 Tahun 2017.",
+        "response": "Kekayaan Daerah Yang Dipisahkan adalah kekayaan Daerah yang berasal dari APBD untuk dijadikan penyertaan modal Daerah pada BUMD."
+    },
+    {
+        "instruction": "Definisikan Kekayaan Intelektual.",
+        "context": "Hasil olah pikir manusia menurut UU Nomor 11 Tahun 2019.",
+        "response": "Kekayaan Intelektual adalah kekayaan yang timbul karena hasil olah pikir manusia yang menghasilkan suatu produk atau proses yang berguna bagi kehidupan manusia."
+    },
+    {
+        "instruction": "Apa pengertian Kekerasan menurut UU Tindak Pidana Terorisme?",
+        "context": "Penyalahgunaan kekuatan fisik secara melawan hukum sesuai UU Nomor 5 Tahun 2018.",
+        "response": "Kekerasan adalah setiap perbuatan penyalahgunaan kekuatan fisik dengan atau tanpa menggunakan sarana secara melawan hukum dan menimbulkan bahaya bagi badan, nyawa, dan kemerdekaan orang, termasuk menjadikan orang pingsan atau tidak berdaya."
+    },
+    {
+        "instruction": "Apa itu Kekerasan Dalam Rumah Tangga?",
+        "context": "Perbuatan yang menimbulkan penderitaan dalam lingkup rumah tangga menurut UU Nomor 23 Tahun 2004.",
+        "response": "Kekerasan Dalam Rumah Tangga adalah setiap perbuatan terhadap seseorang terutama perempuan, yang berakibat timbulnya kesengsaraan atau penderitaan secara fisik, seksual, psikologis, dan/atau penelantaran rumah tangga termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum dalam lingkup rumah tangga."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kelancaran Lalu Lintas Dan Angkutan Jalan?",
+        "context": "Keadaan bebas hambatan di jalan menurut PP Nomor 32 Tahun 2011.",
+        "response": "Kelancaran Lalu Lintas Dan Angkutan Jalan adalah suatu keadaan berlalu lintas dan penggunaan angkutan yang bebas dari hambatan dan kemacetan di jalan."
+    },
+    {
+        "instruction": "Definisikan Kelompok (Group) Perusahaan Perkebunan.",
+        "context": "Kaitan kepemilikan antar badan usaha menurut Permentan Nomor 98 Tahun 2013.",
+        "response": "Kelompok (Group) Perusahaan Perkebunan adalah kumpulan orang atau badan usaha perkebunan yang satu sama lain mempunyai kaitan dalam hal kepemilikan, kepengurusan, dan/atau hubungan keuangan."
+    },
+    {
+        "instruction": "Apa itu Kelompok Penyelenggara Pemungutan Suara (KPPS)?",
+        "context": "Kelompok pelaksana pemungutan suara di TPS menurut UU Nomor 7 Tahun 2017.",
+        "response": "Kelompok Penyelenggara Pemungutan Suara adalah kelompok yang dibentuk oleh PPS untuk melaksanakan pemungutan suara di tempat pemungutan suara."
+    },
+    {
+        "instruction": "Sebutkan definisi Kelompok Penyelenggara Pemungutan Suara Luar Negeri (KPPSLN).",
+        "context": "Penyelenggara pemungutan suara di luar negeri menurut UU Nomor 15 Tahun 2011.",
+        "response": "Kelompok Penyelenggara Pemungutan Suara Luar Negeri adalah kelompok yang dibentuk oleh PPLN untuk melaksanakan pemungutan suara di tempat pemungutan suara luar negeri."
+    },
+    {
+        "instruction": "Apa pengertian Keluarga menurut UU Nomor 52 Tahun 2009?",
+        "context": "Unit terkecil masyarakat yang terdiri dari suami istri dan anak.",
+        "response": "Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri, atau suami, istri dan anaknya, atau ayah dan anaknya, atau ibu dan anaknya."
+    },
+    {
+        "instruction": "Apa itu Keluarga Berencana?",
+        "context": "Upaya mengatur kelahiran untuk mewujudkan keluarga berkualitas menurut UU Nomor 52 Tahun 2009.",
+        "response": "Keluarga Berencana adalah upaya mengatur kelahiran anak, jarak dan usia ideal melahirkan, mengatur kehamilan, melalui promosi, perlindungan, dan bantuan sesuai dengan hak reproduksi untuk mewujudkan keluarga yang berkualitas."
+    },
+    {
+        "instruction": "Definisikan Kelurahan.",
+        "context": "Wilayah kerja lurah menurut PP Nomor 73 Tahun 2005.",
+        "response": "Kelurahan adalah wilayah kerja lurah sebagai perangkat Daerah Kabupaten/Kota dalam wilayah kerja Kecamatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kemandirian Pangan?",
+        "context": "Kemampuan negara memproduksi pangan domestik secara bermartabat menurut UU Nomor 18 Tahun 2012.",
+        "response": "Kemandirian Pangan adalah kemampuan negara dan bangsa dalam memproduksi Pangan yang beraneka ragam dari dalam negeri yang dapat menjamin pemenuhan kebutuhan Pangan yang cukup sampai di tingkat perseorangan dengan memanfaatkan potensi sumber daya alam, manusia, sosial, ekonomi, dan kearifan lokal secara bermartabat."
+    },
+    {
+        "instruction": "Apa itu Kemasan Pangan?",
+        "context": "Bahan pembungkus pangan menurut UU Nomor 18 Tahun 2012.",
+        "response": "Kemasan Pangan adalah bahan yang digunakan untuk mewadahi dan/atau membungkus Pangan, baik yang bersentuhan langsung dengan Pangan maupun tidak."
+    },
+    {
+        "instruction": "Apa definisi Kementerian dalam konteks ESDM?",
+        "context": "Merujuk pada kementerian yang membantu Presiden di bidang energi dan mineral menurut Perpres Nomor 22 Tahun 2017.",
+        "response": "Kementerian adalah kementerian negara yang menyelenggarakan urusan pemerintahan di bidang energi dan sumber daya mineral."
+    },
+    {
+        "instruction": "Apa itu Kementerian atau Lembaga menurut PP Nomor 71 Tahun 2019?",
+        "context": "Instansi penyelenggara negara yang bertugas mengawasi sektor tertentu.",
+        "response": "Kementerian atau Lembaga adalah Instansi Penyelenggara Negara yang bertugas mengawasi dan mengeluarkan pengaturan terhadap sektornya."
+    },
+    {
+        "instruction": "Jelaskan definisi Kementerian lain dalam lingkup Pendidikan Tinggi.",
+        "context": "Merujuk pada kementerian penyelenggara pendidikan kedinasan menurut PP Nomor 4 Tahun 2014.",
+        "response": "Kementerian lain adalah perangkat pemerintah yang membidangi urusan pemerintahan di luar bidang pendidikan."
+    },
+    {
+        "instruction": "Apa tugas Kementerian Luar Negeri?",
+        "context": "Berdasarkan Permenlu Nomor 13 Tahun 2019.",
+        "response": "Kementerian Luar Negeri adalah kementerian yang menyelenggarakan urusan pemerintahan di bidang luar negeri."
+    },
+    {
+        "instruction": "Definisikan Kementerian Negara menurut UU Nomor 9 Tahun 2018.",
+        "context": "Perangkat pemerintah bidang tertentu.",
+        "response": "Kementerian Negara adalah perangkat Pemerintah yang membidangi urusan tertentu dalam pemerintahan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kemitraan UMKM?",
+        "context": "Kerja sama antara UMKM dengan usaha besar menurut PP Nomor 17 Tahun 2013.",
+        "response": "Kemitraan adalah kerja sama dalam keterkaitan usaha, baik langsung maupun tidak langsung, atas dasar prinsip saling memerlukan, mempercayai, memperkuat, dan menguntungkan yang melibatkan pelaku Usaha Mikro, Kecil, dan Menengah dengan Usaha Besar."
+    },
+    {
+        "instruction": "Apa itu Kemitraan Dengan Pola Rantai Pasok?",
+        "context": "Kerja sama efisien mencakup aliran barang mentah menjadi produk menurut PP Nomor 7 Tahun 2021.",
+        "response": "Kemitraan Dengan Pola Rantai Pasok adalah kerja sama antar usaha baik mikro, kecil, menengah dan besar yang memiliki ketergantungan dalam aliran barang dan jasa yang mengubah bahan mentah menjadi produk dalam upaya yang efisien dan ekonomis mencakup berbagai proses dari produksi hingga konsumen."
+    },
+    {
+        "instruction": "Apa definisi Kemitraan Usaha di bidang Peternakan?",
+        "context": "Kerja sama kecil dan menengah/besar menurut PP Nomor 6 Tahun 2013.",
+        "response": "Kemitraan Usaha adalah kerjasama yang saling menguntungkan dan saling memperkuat antara usaha kecil dan usaha menengah/besar di bidang Peternakan atau di bidang Kesehatan Hewan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kemudahan dalam Proyek Strategis Nasional?",
+        "context": "Bentuk dukungan perizinan dan pembiayaan menurut PP Nomor 42 Tahun 2021.",
+        "response": "Kemudahan adalah segala bentuk kemudahan perizinan/non-perizinan yang diberikan dalam rangka percepatan proses perencanaan, penyiapan, transaksi, konstruksi, dan kelancaran pengendalian operasi, termasuk di dalamnya mekanisme pembiayaan untuk Proyek Strategis Nasional."
+    },
+    {
+        "instruction": "Apa definisi Kendaraan menurut UU Nomor 22 Tahun 2009?",
+        "context": "Sarana angkut bermotor dan tidak bermotor di jalan.",
+        "response": "Kendaraan adalah suatu sarana angkut di jalan yang terdiri atas kendaraan bermotor dan kendaraan tidak bermotor."
+    },
+    {
+        "instruction": "Jelaskan definisi Kendaraan Bermotor.",
+        "context": "Sarana angkut dengan mesin selain rel menurut PP Nomor 30 Tahun 2021.",
+        "response": "Kendaraan Bermotor adalah setiap Kendaraan yang digerakkan oleh peralatan mekanik berupa mesin selain Kendaraan yang berjalan di atas rel."
+    },
+    {
+        "instruction": "Apa itu Kendaraan Bermotor Umum?",
+        "context": "Kendaraan angkutan berbayar menurut UU Nomor 22 Tahun 2009.",
+        "response": "Kendaraan Bermotor Umum adalah setiap Kendaraan yang digunakan untuk angkutan barang dan/atau orang dengan dipungut bayaran."
+    },
+    {
+        "instruction": "Definisikan Kendaraan Darat dalam konteks Karantina.",
+        "context": "Mencakup kendaraan rel dan tidak bermotor menurut UU Nomor 6 Tahun 2018.",
+        "response": "Kendaraan Darat adalah suatu sarana angkut di darat yang terdiri atas kendaraan bermotor termasuk kendaraan yang berjalan di atas rel dan kendaraan tidak bermotor."
+    },
+    {
+        "instruction": "Apa itu Kendaraan Perorangan Dinas?",
+        "context": "BMN/D untuk pejabat atau ASN dalam melaksanakan tugas menurut PP Nomor 84 Tahun 2014.",
+        "response": "Kendaraan Perorangan Dinas adalah Barang Milik Negara/Daerah berupa kendaraan bermotor yang digunakan oleh Pejabat Negara, pegawai Aparatur Sipil Negara, anggota TNI, dan anggota Polri untuk melaksanakan tugas dan fungsi pada jabatan yang diembannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kendaraan Tidak Bermotor?",
+        "context": "Digerakkan tenaga manusia/hewan menurut UU Nomor 22 Tahun 2009.",
+        "response": "Kendaraan Tidak Bermotor adalah setiap Kendaraan yang digerakkan oleh tenaga manusia dan/atau hewan."
+    },
+    {
+        "instruction": "Apa definisi Kepabeanan menurut UU Nomor 17 Tahun 2006?",
+        "context": "Pengawasan lalu lintas barang dan pemungutan bea.",
+        "response": "Kepabeanan adalah segala sesuatu yang berhubungan dengan pengawasan atas lalu lintas barang yang masuk atau keluar daerah pabean serta pemungutan bea masuk dan bea keluar."
+    },
+    {
+        "instruction": "Apa pengertian Kepailitan?",
+        "context": "Sita umum kekayaan debitor pailit di bawah pengawasan hakim menurut UU Nomor 37 Tahun 2004.",
+        "response": "Kepailitan adalah sita umum atas semua kekayaan Debitor Pailit yang pengurusan dan pemberesannya dilakukan oleh Kurator di bawah pengawasan Hakim Pengawas sebagaimana diatur dalam Undang-Undang."
     }
 ]
