@@ -578,5 +578,300 @@
         "instruction": "Apa pengertian Kepailitan?",
         "context": "Sita umum kekayaan debitor pailit di bawah pengawasan hakim menurut UU Nomor 37 Tahun 2004.",
         "response": "Kepailitan adalah sita umum atas semua kekayaan Debitor Pailit yang pengurusan dan pemberesannya dilakukan oleh Kurator di bawah pengawasan Hakim Pengawas sebagaimana diatur dalam Undang-Undang."
+    },
+    {
+        "instruction": "Apa tugas utama dari Kepala Atau Direktur Rumah Sakit?",
+        "context": "Berdasarkan Permenkes Nomor 66 Tahun 2016 mengenai tata kelola rumah sakit.",
+        "response": "Kepala Atau Direktur Rumah Sakit adalah pimpinan tertinggi di Rumah Sakit yang bertugas memimpin penyelenggaraan Rumah Sakit."
+    },
+    {
+        "instruction": "Definisikan peran Kepala Badan dalam Kementerian Kesehatan.",
+        "context": "Merujuk pada Permenkes Nomor 1796 Tahun 2011 terkait sumber daya manusia kesehatan.",
+        "response": "Kepala Badan adalah Kepala Badan pada Kementerian Kesehatan yang tugas dan tanggung jawabnya di bidang pengembangan dan pemberdayaan sumber daya manusia kesehatan."
+    },
+    {
+        "instruction": "Siapa saja yang termasuk dalam kategori Kepala Daerah dan Wakil Kepala Daerah?",
+        "context": "Sesuai dengan PP Nomor 18 Tahun 2013 mengenai pemilihan kepala daerah.",
+        "response": "Kepala Daerah dan Wakil Kepala Daerah meliputi gubernur dan wakil gubernur untuk provinsi, bupati dan wakil bupati untuk kabupaten, serta walikota dan wakil walikota untuk kota."
+    },
+    {
+        "instruction": "Apa wewenang Kepala Daerah sebagai pemegang kekuasaan tertinggi pada Perusahaan Umum Daerah?",
+        "context": "Berdasarkan Permendagri Nomor 118 Tahun 2018 tentang BUMD.",
+        "response": "Kepala Daerah tersebut merupakan organ perusahaan umum daerah yang memegang kekuasaan tertinggi dan memegang segala kewenangan yang tidak diserahkan kepada direksi atau dewan pengawas."
+    },
+    {
+        "instruction": "Jelaskan definisi Kepala Kepolisian Negara Republik Indonesia.",
+        "context": "Merujuk pada PP Nomor 23 Tahun 2007 mengenai struktur pimpinan Polri.",
+        "response": "Kepala Kepolisian Negara Republik Indonesia adalah Pimpinan Kepolisian Negara Republik Indonesia dan penanggung jawab penyelenggaraan fungsi kepolisian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kepala Perwakilan Ombudsman?",
+        "context": "Berdasarkan PP Nomor 21 Tahun 2011 mengenai kantor perwakilan daerah.",
+        "response": "Kepala Perwakilan Ombudsman adalah seseorang yang diangkat oleh Ketua Ombudsman untuk memimpin kantor perwakilan Ombudsman di daerah."
+    },
+    {
+        "instruction": "Apa tanggung jawab seorang Kepala PPATK?",
+        "context": "Sesuai dengan PP Nomor 38 Tahun 2013.",
+        "response": "Kepala PPATK adalah penanggung jawab yang memimpin dan mengendalikan pelaksanaan tugas, fungsi, dan wewenang PPATK."
+    },
+    {
+        "instruction": "Siapakah Kepala Satuan Kerja Pengelola Keuangan Daerah?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2007 mengenai pengelolaan APBD.",
+        "response": "Kepala Satuan Kerja Pengelola Keuangan Daerah adalah kepala badan/dinas/biro keuangan/bagian keuangan yang mempunyai tugas melaksanakan pengelolaan APBD dan bertindak sebagai Bendahara Umum Daerah."
+    },
+    {
+        "instruction": "Apa pengertian Kepelabuhanan menurut PP Nomor 41 Tahun 2021?",
+        "context": "Konteks pelaksanaan fungsi pelabuhan untuk kelancaran arus lintas kapal dan barang.",
+        "response": "Kepelabuhanan adalah segala sesuatu yang berkaitan dengan pelaksanaan fungsi pelabuhan untuk menunjang kelancaran, keamanan, dan ketertiban arus lalu lintas kapal, penumpang dan/ atau barang, keselamatan dan keamanan berlayar, tempat perpindahan intra dan/atau antarmoda, serta mendorong perekonomian nasional dan daerah."
+    },
+    {
+        "instruction": "Jelaskan cakupan istilah Kependudukan menurut UU Nomor 52 Tahun 2009.",
+        "context": "Terkait dengan berbagai aspek kondisi kesejahteraan penduduk.",
+        "response": "Kependudukan adalah hal ihwal yang berkaitan dengan jumlah, struktur, pertumbuhan, persebaran, mobilitas, penyebaran, kualitas, dan kondisi kesejahteraan yang menyangkut politik, ekonomi, sosial budaya, agama serta lingkungan penduduk setempat."
+    },
+    {
+        "instruction": "Apa definisi Kepolisian dalam peraturan perundang-undangan?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2012.",
+        "response": "Kepolisian adalah segala hal-ihwal yang berkaitan dengan fungsi dan lembaga polisi sesuai dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kepolisian Khusus?",
+        "context": "Merujuk pada instansi pemerintah dengan wewenang kepolisian teknis menurut PP Nomor 43 Tahun 2012.",
+        "response": "Kepolisian Khusus adalah instansi dan/atau badan pemerintah yang oleh atau atas kuasa undang-undang diberi wewenang untuk melaksanakan fungsi Kepolisian di bidang teknisnya masing-masing."
+    },
+    {
+        "instruction": "Definisikan Kepolisian Negara Republik Indonesia.",
+        "context": "Sesuai dengan PP Nomor 23 Tahun 2007 sebagai kesatuan kepolisian nasional.",
+        "response": "Kepolisian Negara Republik Indonesia adalah Kepolisian Nasional yang merupakan satu kesatuan dalam melaksanakan peran memelihara keamanan dan ketertiban masyarakat, menegakkan hukum, serta memberikan perlindungan, pengayoman dan pelayanan kepada masyarakat."
+    },
+    {
+        "instruction": "Apa pengertian Keprotokolan menurut UU Nomor 9 Tahun 2010?",
+        "context": "Terkait aturan dalam acara kenegaraan atau resmi.",
+        "response": "Keprotokolan adalah serangkaian kegiatan yang berkaitan dengan aturan dalam acara kenegaraan atau acara resmi yang meliputi Tata Tempat, Tata Upacara, dan Tata Penghormatan sebagai bentuk penghormatan kepada seseorang sesuai dengan jabatannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keputusan di bidang perpajakan?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002 mengenai penagihan pajak.",
+        "response": "Keputusan adalah suatu penetapan tertulis di bidang perpajakan yang dikeluarkan oleh pejabat yang berwenang berdasarkan peraturan perundang-undangan perpajakan dan dalam rangka pelaksanaan Undang-undang Penagihan Pajak dengan Surat Paksa."
+    },
+    {
+        "instruction": "Apa itu Keputusan Administrasi Pemerintahan?",
+        "context": "Definisi ketetapan tertulis menurut UU Nomor 30 Tahun 2014.",
+        "response": "Keputusan Administrasi Pemerintahan adalah ketetapan tertulis yang dikeluarkan oleh Badan dan/atau Pejabat Pemerintahan dalam penyelenggaraan pemerintahan."
+    },
+    {
+        "instruction": "Jelaskan definisi Kerangka Kualifikasi Nasional Indonesia (KKNI).",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2006 mengenai penyetaraan kualifikasi kompetensi.",
+        "response": "Kerangka Kualifikasi Nasional Indonesia adalah kerangka penjenjangan kualifikasi kompetensi yang dapat menyandingkan, menyetarakan dan mengintegrasikan antara bidang pendidikan, bidang pelatihan kerja, serta pengalaman kerja dalam rangka pemberian pengakuan kompetensi kerja."
+    },
+    {
+        "instruction": "Apa pengertian Kerja Sama Internasional Di Bidang Industri?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2018.",
+        "response": "Kerja Sama Internasional Di Bidang Industri adalah bentuk hubungan kerja sama yang dilakukan lintas batas negara dalam rangka pengembangan Industri nasional oleh Pemerintah Pusat, badan usaha, organisasi masyarakat, atau warga negara Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kertas Uang?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2011 tentang mata uang Rupiah.",
+        "response": "Kertas Uang adalah bahan baku yang digunakan untuk membuat Rupiah kertas yang mengandung unsur pengaman dan yang tahan lama."
+    },
+    {
+        "instruction": "Definisikan istilah Kerugian menurut UU Nomor 21 Tahun 2013.",
+        "context": "Terkait dampak negatif terhadap nyawa dan harta benda.",
+        "response": "Kerugian adalah suatu keadaan yang menimbulkan kematian, luka-luka, atau bentuk lain dari terganggunya kesehatan seseorang, hilang atau rusaknya harta milik negara, milik pribadi, atau badan hukum."
+    },
+    {
+        "instruction": "Apa pengertian Kerugian Negara menurut UU Nomor 15 Tahun 2006?",
+        "context": "Konteks kekurangan aset negara akibat perbuatan melawan hukum.",
+        "response": "Kerugian Negara adalah kekurangan uang, surat berharga, dan barang, yang nyata dan pasti jumlahnya sebagai akibat perbuatan melawan hukum baik sengaja maupun lalai."
+    },
+    {
+        "instruction": "Apa definisi Kesehatan menurut UU Nomor 36 Tahun 2009?",
+        "context": "Kondisi sehat secara holistik untuk hidup produktif.",
+        "response": "Kesehatan adalah keadaan sehat, baik secara fisik, mental, spiritual maupun sosial yang memungkinkan setiap orang untuk hidup produktif secara sosial dan ekonomis."
+    },
+    {
+        "instruction": "Jelaskan apa itu Kesehatan Kerja.",
+        "context": "Berdasarkan Permenkes Nomor 66 Tahun 2016 mengenai perlindungan kesehatan pekerja.",
+        "response": "Kesehatan Kerja adalah upaya peningkatan dan pemeliharaan derajat kesehatan yang setinggi-tingginya bagi pekerja di semua jabatan, pencegahan penyimpangan kesehatan, perlindungan dari risiko pekerjaan, serta penempatan kerja yang sesuai dengan kondisi manusia."
+    },
+    {
+        "instruction": "Apa pengertian Kesejahteraan pekerja/buruh?",
+        "context": "Sesuai dengan UU Nomor 13 Tahun 2003 tentang Ketenagakerjaan.",
+        "response": "Kesejahteraan pekerja/buruh adalah suatu pemenuhan kebutuhan yang bersifat jasmaniah dan rohaniah, baik di dalam maupun di luar hubungan kerja, yang dapat mempertinggi produktivitas kerja dalam lingkungan yang aman dan sehat."
+    },
+    {
+        "instruction": "Apa definisi Kesejahteraan Sosial menurut PP Nomor 52 Tahun 2019?",
+        "context": "Kondisi terpenuhinya kebutuhan dasar untuk hidup layak.",
+        "response": "Kesejahteraan Sosial adalah kondisi terpenuhinya kebutuhan material, spiritual, dan sosial warga negara agar dapat hidup layak dan mampu mengembangkan diri, sehingga dapat melaksanakan fungsi sosialnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keselamatan Dan Kesehatan Kerja (K3)?",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018.",
+        "response": "Keselamatan Dan Kesehatan Kerja adalah segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan Tenaga Kerja melalui upaya pencegahan kecelakaan kerja dan penyakit akibat kerja."
+    },
+    {
+        "instruction": "Jelaskan definisi Keselamatan Dan Kesehatan Kerja Rumah Sakit.",
+        "context": "Sesuai Permenkes Nomor 66 Tahun 2016 bagi seluruh ekosistem rumah sakit.",
+        "response": "Keselamatan Dan Kesehatan Kerja Rumah Sakit adalah segala kegiatan untuk menjamin dan melindungi keselamatan dan kesehatan bagi sumber daya manusia rumah sakit, pasien, pendamping pasien, pengunjung, maupun lingkungan rumah sakit."
+    },
+    {
+        "instruction": "Definisikan Keselamatan Kerja menurut regulasi kesehatan.",
+        "context": "Fokus pada pengurangan risiko kecelakaan dan kerusakan peralatan.",
+        "response": "Keselamatan Kerja adalah upaya yang dilakukan untuk mengurangi terjadinya kecelakaan, kerusakan dan segala bentuk kerugian baik terhadap manusia, maupun yang berhubungan dengan peralatan, obyek kerja, tempat bekerja, dan lingkungan kerja."
+    },
+    {
+        "instruction": "Apa itu Keselamatan lalu lintas dan angkutan jalan?",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2011 mengenai pencegahan risiko kecelakaan.",
+        "response": "Keselamatan lalu lintas dan angkutan jalan adalah suatu keadaan terhindarnya setiap orang dari risiko kecelakaan selama berlalu lintas yang disebabkan oleh manusia, kendaraan, jalan, dan/atau lingkungan."
+    },
+    {
+        "instruction": "Apa pengertian Keselamatan Penerbangan?",
+        "context": "Berdasarkan PP Nomor 40 Tahun 2012 mengenai standar persyaratan udara.",
+        "response": "Keselamatan Penerbangan adalah suatu keadaan terpenuhinya persyaratan keselamatan dalam pemanfaatan wilayah udara, pesawat udara, bandar udara, angkutan udara, navigasi penerbangan, serta fasilitas penunjang lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Ketahanan Energi?",
+        "context": "Sesuai dengan PP Nomor 79 Tahun 2014 mengenai ketersediaan jangka panjang.",
+        "response": "Ketahanan Energi adalah suatu kondisi terjaminnya ketersediaan Energi dan akses masyarakat terhadap Energi pada harga yang terjangkau dalam jangka panjang dengan tetap memperhatikan perlindungan terhadap Lingkungan Hidup."
+    },
+    {
+        "instruction": "Jelaskan definisi Ketahanan Pangan menurut UU Nomor 18 Tahun 2012.",
+        "context": "Kondisi terpenuhinya pangan yang aman dan merata.",
+        "response": "Ketahanan Pangan adalah kondisi terpenuhinya Pangan bagi negara sampai dengan perseorangan, yang tercermin dari tersedianya Pangan yang cukup, aman, beragam, bergizi, merata, dan terjangkau serta tidak bertentangan dengan budaya masyarakat."
+    },
+    {
+        "instruction": "Apa itu Ketenagakerjaan?",
+        "context": "Definisi luas menurut Permenaker Nomor 33 Tahun 2016.",
+        "response": "Ketenagakerjaan adalah segala hal yang berhubungan dengan tenaga kerja pada waktu sebelum, selama, dan sesudah masa kerja."
+    },
+    {
+        "instruction": "Apa definisi Keterangan dalam hukum internasional?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2006.",
+        "response": "Keterangan adalah informasi yang diberikan secara lisan dan/atau tertulis."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keterlambatan dalam transportasi udara?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2009.",
+        "response": "Keterlambatan adalah terjadinya perbedaan waktu antara waktu keberangkatan atau kedatangan yang dijadwalkan dengan realisasi waktu keberangkatan atau kedatangan."
+    },
+    {
+        "instruction": "Definisikan Ketersediaan Pangan.",
+        "context": "Sumber-sumber perolehan pangan menurut UU Nomor 18 Tahun 2012.",
+        "response": "Ketersediaan Pangan adalah kondisi tersedianya Pangan dari hasil produksi dalam negeri dan Cadangan Pangan Nasional serta impor apabila kedua sumber utama tidak dapat memenuhi kebutuhan."
+    },
+    {
+        "instruction": "Apa itu Ketertiban Lalu Lintas Dan Angkutan Jalan?",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2011 mengenai hak dan kewajiban pengguna jalan.",
+        "response": "Ketertiban Lalu Lintas Dan Angkutan Jalan adalah suatu keadaan berlalu lintas yang berlangsung secara teratur sesuai dengan hak dan kewajiban setiap pengguna jalan."
+    },
+    {
+        "instruction": "Apa pengertian Ketransmigrasian?",
+        "context": "Sesuai dengan UU Nomor 29 Tahun 2009.",
+        "response": "Ketransmigrasian adalah segala sesuatu yang berkaitan dengan penyelenggaraan transmigrasi."
+    },
+    {
+        "instruction": "Siapakah Ketua Dewan Komisioner Lembaga Penjamin Simpanan?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2011 dan PP Nomor 49 Tahun 2017.",
+        "response": "Ketua Dewan Komisioner Lembaga Penjamin Simpanan adalah pemimpin merangkap anggota Dewan Komisioner Lembaga Penjamin Simpanan."
+    },
+    {
+        "instruction": "Sebutkan definisi Ketua, Wakil Ketua, Dan Hakim pada Pengadilan Pajak.",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2002.",
+        "response": "Ketua, Wakil Ketua, dan Hakim adalah pimpinan dan hakim yang bertugas pada Pengadilan Pajak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Keuangan Daerah?",
+        "context": "Berdasarkan PP Nomor 105 Tahun 2000 dalam kerangka APBD.",
+        "response": "Keuangan Daerah adalah semua hak dan kewajiban Daerah dalam rangka penyelenggaraan pemerintahan Daerah yang dapat dinilai dengan uang termasuk segala bentuk kekayaan yang berhubungan dengan hak dan kewajiban tersebut."
+    },
+    {
+        "instruction": "Definisikan Keuangan Desa menurut UU Nomor 6 Tahun 2014.",
+        "context": "Segala hak dan kewajiban desa terkait uang dan barang.",
+        "response": "Keuangan Desa adalah semua hak dan kewajiban Desa yang dapat dinilai dengan uang serta segala sesuatu berupa uang dan barang yang berhubungan dengan pelaksanaan hak dan kewajiban Desa."
+    },
+    {
+        "instruction": "Apa itu Keuangan Haji?",
+        "context": "Sesuai UU Nomor 34 Tahun 2014 mengenai dana jemaah.",
+        "response": "Keuangan Haji adalah semua hak dan kewajiban Pemerintah yang dapat dinilai dengan uang terkait dengan penyelenggaraan ibadah haji serta semua kekayaan sebagai akibat pelaksanaan hak dan kewajiban tersebut."
+    },
+    {
+        "instruction": "Apa pengertian Keuangan Negara menurut UU Nomor 17 Tahun 2003?",
+        "context": "Definisi fundamental mengenai hak dan kewajiban negara.",
+        "response": "Keuangan Negara adalah semua hak dan kewajiban negara yang dapat dinilai dengan uang, serta segala sesuatu, baik berupa uang maupun berupa barang yang dapat dijadikan milik negara berhubung dengan pelaksanaan hak dan kewajiban tersebut."
+    },
+    {
+        "instruction": "Apa itu Keuangan Partai Politik?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2008.",
+        "response": "Keuangan Partai Politik adalah semua hak dan kewajiban Partai Politik yang dapat dinilai dengan uang, berupa uang, atau barang serta segala bentuk kekayaan yang dimiliki dan menjadi tanggung jawab Partai Politik."
+    },
+    {
+        "instruction": "Jelaskan istilah Kewajiban Pabean.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2006 dan PP Nomor 41 Tahun 2021.",
+        "response": "Kewajiban Pabean adalah semua kegiatan di bidang kepabeanan yang wajib dilakukan untuk memenuhi ketentuan dalam Undang-Undang Kepabeanan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kewajiban Penjaminan Pemerintah?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2018 mengenai beban fiskal potensial.",
+        "response": "Kewajiban Penjaminan adalah kewajiban yang menjadi beban Pemerintah akibat pemberian jaminan kepada instansi atau badan usaha jika mereka tidak dapat memenuhi kewajibannya kepada kreditur sesuai perjanjian."
+    },
+    {
+        "instruction": "Definisikan Kewarganegaraan.",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2006.",
+        "response": "Kewarganegaraan adalah segala hal ihwal yang berhubungan dengan warga negara."
+    },
+    {
+        "instruction": "Apa itu Kewenangan Istimewa DIY?",
+        "context": "Sesuai UU Nomor 13 Tahun 2012 mengenai otonomi khusus Yogyakarta.",
+        "response": "Kewenangan Istimewa adalah wewenang tambahan tertentu yang dimiliki DIY selain wewenang sebagaimana ditentukan dalam undang-undang tentang pemerintahan daerah."
+    },
+    {
+        "instruction": "Apa pengertian Kewenangan Pemerintahan menurut UU Nomor 30 Tahun 2014?",
+        "context": "Kekuasaan bertindak dalam ranah hukum publik.",
+        "response": "Kewenangan Pemerintahan adalah kekuasaan Badan dan/atau Pejabat Pemerintahan atau penyelenggara negara lainnya untuk bertindak dalam ranah hukum publik."
+    },
+    {
+        "instruction": "Apa kepanjangan dari KIK?",
+        "context": "Terkait dengan pengelolaan investasi kolektif.",
+        "response": "KIK adalah Kontrak Investasi Kolektif, yaitu kontrak antara Manajer Investasi dan Bank Kustodian yang mengikat pemegang unit penyertaan untuk pengelolaan portofolio investasi."
+    },
+    {
+        "instruction": "Apa fungsi dari KKIP?",
+        "context": "Berdasarkan UU Nomor 16 Tahun 2012 mengenai industri pertahanan.",
+        "response": "KKIP (Komite Kebijakan Industri Pertahanan) adalah komite yang mewakili Pemerintah untuk mengoordinasikan kebijakan nasional dalam perencanaan, perumusan, pelaksanaan, dan evaluasi Industri Pertahanan."
+    },
+    {
+        "instruction": "Apa itu KKNI?",
+        "context": "Merujuk pada penjenjangan kualifikasi kerja.",
+        "response": "KKNI adalah Kerangka Kualifikasi Nasional Indonesia, yaitu kerangka penjenjangan kualifikasi kompetensi yang mengintegrasikan bidang pendidikan, pelatihan, dan pengalaman kerja."
+    },
+    {
+        "instruction": "Apa definisi Klasifikasi usaha?",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021.",
+        "response": "Klasifikasi adalah penetapan penggolongan usaha menurut bidang dan subbidang usaha tertentu."
+    },
+    {
+        "instruction": "Apa itu Klasifikasi Baku Lapangan Usaha Indonesia (KBLI)?",
+        "context": "Merujuk pada Perpres Nomor 10 Tahun 2021.",
+        "response": "Klasifikasi Baku Lapangan Usaha Indonesia adalah sistem yang mengklasifikasikan aktivitas ekonomi Indonesia yang menghasilkan produk barang maupun jasa sebagai acuan standar koordinasi statistik."
+    },
+    {
+        "instruction": "Bagaimana Klasifikasi Rumah Sakit dilakukan?",
+        "context": "Sesuai dengan PP Nomor 47 Tahun 2021.",
+        "response": "Klasifikasi Rumah Sakit adalah pengelompokan kelas Rumah Sakit berdasarkan kemampuan pelayanan, fasilitas kesehatan, sarana penunjang, dan sumber daya manusia."
+    },
+    {
+        "instruction": "Apa itu KLB Keracunan Pangan?",
+        "context": "Kondisi kejadian luar biasa menurut PP Nomor 86 Tahun 2019.",
+        "response": "KLB Keracunan Pangan adalah suatu kejadian yang terdapat dua orang atau lebih yang menderita sakit dengan gejala serupa setelah mengonsumsi Pangan yang terbukti sebagai sumber keracunan."
+    },
+    {
+        "instruction": "Definisikan Klien dalam praktik pekerjaan sosial atau kesehatan.",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019 dan UU Nomor 38 Tahun 2014.",
+        "response": "Klien adalah individu, keluarga, kelompok, atau masyarakat yang menggunakan jasa pelayanan (seperti pekerjaan sosial, keperawatan, atau kebidanan) atau memperoleh pelayanan kesehatan yang diperlukan."
+    },
+    {
+        "instruction": "Siapakah Klien Anak menurut UU Nomor 11 Tahun 2012?",
+        "context": "Terkait dengan sistem peradilan pidana anak.",
+        "response": "Klien Anak adalah Anak yang berada di dalam pelayanan, pembimbingan, pengawasan, dan pendampingan Pembimbing Kemasyarakatan."
     }
 ]
