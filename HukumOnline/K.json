@@ -873,5 +873,280 @@
         "instruction": "Siapakah Klien Anak menurut UU Nomor 11 Tahun 2012?",
         "context": "Terkait dengan sistem peradilan pidana anak.",
         "response": "Klien Anak adalah Anak yang berada di dalam pelayanan, pembimbingan, pengawasan, dan pendampingan Pembimbing Kemasyarakatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kliring Teknologi?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2019 mengenai penyaringan kelayakan teknologi.",
+        "response": "Kliring Teknologi adalah proses penyaringan kelayakan atas suatu Teknologi melalui kegiatan Pengkajian untuk menilai atau mengetahui dampak dari penerapannya pada suatu kondisi tertentu."
+    },
+    {
+        "instruction": "Definisikan istilah KLLAJ menurut PP Nomor 37 Tahun 2017.",
+        "context": "Terkait dengan risiko kecelakaan dalam penyelenggaraan jalan.",
+        "response": "KLLAJ (Keselamatan Lalu Lintas dan Angkutan Jalan) adalah suatu keadaan terhindarnya setiap orang dari risiko kecelakaan selama berlalu lintas yang disebabkan oleh manusia, kendaraan, jalan, dan/atau lingkungan."
+    },
+    {
+        "instruction": "Apa itu Kode Akses dalam konteks sistem elektronik?",
+        "context": "Merujuk pada UU Nomor 19 Tahun 2016 mengenai kunci akses komputer.",
+        "response": "Kode Akses adalah angka, huruf, simbol, karakter lainnya atau kombinasi di antaranya, yang merupakan kunci untuk dapat mengakses Komputer dan/atau Sistem Elektronik lainnya."
+    },
+    {
+        "instruction": "Jelaskan mengenai Kode Etik Advokat.",
+        "context": "Berdasarkan UU Nomor 16 Tahun 2011 yang ditetapkan oleh organisasi profesi.",
+        "response": "Kode Etik Advokat adalah kode etik yang ditetapkan oleh organisasi profesi advokat yang berlaku bagi Advokat."
+    },
+    {
+        "instruction": "Apa fungsi dari Kode Etik Dan/Atau Pedoman Perilaku Hakim?",
+        "context": "Sesuai dengan UU Nomor 18 Tahun 2011 mengenai martabat profesi hakim.",
+        "response": "Kode Etik Dan/Atau Pedoman Perilaku Hakim adalah panduan dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku Hakim dalam menjalankan tugas profesinya dan dalam hubungan kemasyarakatan di luar kedinasan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kode Etik Intelijen Negara?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2011 bagi personel intelijen.",
+        "response": "Kode Etik Intelijen Negara adalah pedoman bersikap, berbicara, bertindak, dan berperilaku bagi Personel Intelijen Negara di dalam melaksanakan tugas dan dalam pergaulan hidup sehari-hari."
+    },
+    {
+        "instruction": "Definisikan Kode Etik Pegawai Negeri Sipil.",
+        "context": "Merujuk pada PP Nomor 42 Tahun 2004 mengenai pedoman perilaku PNS.",
+        "response": "Kode Etik Pegawai Negeri Sipil adalah pedoman sikap, tingkah laku, dan perbuatan Pegawai Negeri Sipil di dalam melaksanakan tugasnya dan pergaulan hidup sehari-hari."
+    },
+    {
+        "instruction": "Apa fungsi dari Kode Pos menurut PP Nomor 15 Tahun 2013?",
+        "context": "Terkait kemudahan penyortiran dalam penyelenggaraan pos.",
+        "response": "Kode Pos adalah sederetan angka atau huruf atau gabungan angka dan huruf yang dituliskan di belakang nama kota untuk memudahkan penyortiran, penyampaian Kiriman, dan keperluan lain."
+    },
+    {
+        "instruction": "Apa peran Kolegium kedokteran Indonesia dan kolegium kedokteran gigi Indonesia?",
+        "context": "Berdasarkan UU Nomor 29 Tahun 2004 mengenai disiplin ilmu medis.",
+        "response": "Badan tersebut dibentuk oleh organisasi profesi untuk masing-masing cabang disiplin ilmu yang bertugas mengampu cabang disiplin ilmu tersebut."
+    },
+    {
+        "instruction": "Apa itu Kolegium Keperawatan?",
+        "context": "Merujuk pada UU Nomor 38 Tahun 2014 terkait mutu pendidikan perawat.",
+        "response": "Kolegium Keperawatan adalah badan yang dibentuk oleh Organisasi Profesi Perawat untuk setiap cabang disiplin ilmu Keperawatan yang bertugas mengampu dan meningkatkan mutu pendidikan cabang disiplin ilmu tersebut."
+    },
+    {
+        "instruction": "Jelaskan tugas seorang Komisaris dalam BUMD atau BUMN.",
+        "context": "Berdasarkan Permendagri Nomor 118 Tahun 2018 dan UU Nomor 19 Tahun 2003.",
+        "response": "Komisaris adalah organ perusahaan (perseroan daerah atau Persero) yang bertugas melakukan pengawasan dan memberikan nasihat kepada direksi dalam menjalankan kegiatan pengurusan perusahaan."
+    },
+    {
+        "instruction": "Apa itu Komisi ASN?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 mengenai kelembagaan mandiri.",
+        "response": "Komisi ASN adalah lembaga nonstruktural yang mandiri dan bebas dari intervensi politik."
+    },
+    {
+        "instruction": "Apa definisi Komisi Banding dalam konteks hukum?",
+        "context": "Merujuk pada PP Nomor 90 Tahun 2019.",
+        "response": "Komisi Banding adalah badan khusus independen yang berada di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum."
+    },
+    {
+        "instruction": "Jelaskan mengenai Komisi Banding Merek.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016 mengenai sengketa merek.",
+        "response": "Komisi Banding Merek adalah badan khusus independen yang berada di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum."
+    },
+    {
+        "instruction": "Apa itu Komisi Banding Paten?",
+        "context": "Sesuai dengan UU Nomor 13 Tahun 2016.",
+        "response": "Komisi Banding Paten adalah komisi independen yang ada di lingkungan kementerian yang menyelenggarakan urusan pemerintahan di bidang hukum."
+    },
+    {
+        "instruction": "Apa fungsi utama Komisi Informasi?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2008 mengenai keterbukaan informasi publik.",
+        "response": "Komisi Informasi adalah lembaga mandiri yang berfungsi menjalankan UU Keterbukaan Informasi Publik, menetapkan petunjuk teknis standar layanan informasi publik, dan menyelesaikan sengketa informasi publik melalui mediasi/ajudikasi non-litigasi."
+    },
+    {
+        "instruction": "Apa peran Komisi Kebenaran Dan Rekonsiliasi?",
+        "context": "Merujuk pada UU Nomor 27 Tahun 2004 mengenai pelanggaran HAM berat.",
+        "response": "Komisi Kebenaran Dan Rekonsiliasi adalah lembaga independen yang dibentuk untuk mengungkapkan kebenaran atas pelanggaran hak asasi manusia yang berat dan melaksanakan rekonsiliasi."
+    },
+    {
+        "instruction": "Apa itu Komisi Nasional Disabilitas?",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2016.",
+        "response": "Komisi Nasional Disabilitas adalah lembaga nonstruktural yang bersifat independen."
+    },
+    {
+        "instruction": "Jelaskan definisi Komnas HAM.",
+        "context": "Sesuai dengan UU Nomor 40 Tahun 2008 dan PP Nomor 56 Tahun 2010.",
+        "response": "Komnas HAM adalah lembaga mandiri yang kedudukannya setingkat dengan lembaga negara lainnya yang berfungsi melaksanakan pengkajian, penelitian, penyuluhan, pemantauan, dan mediasi hak asasi manusia."
+    },
+    {
+        "instruction": "Apa itu Komisi Pemberantasan Korupsi (KPK)?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2020 dalam rumpun eksekutif.",
+        "response": "Komisi Pemberantasan Korupsi adalah lembaga negara dalam rumpun kekuasaan eksekutif yang melaksanakan tugas pencegahan dan pemberantasan Tindak Pidana Korupsi."
+    },
+    {
+        "instruction": "Definisikan KPU Kabupaten/Kota.",
+        "context": "Merujuk pada UU Nomor 15 Tahun 2011 sebagai penyelenggara pemilu daerah.",
+        "response": "KPU Kabupaten/Kota adalah Penyelenggara Pemilu yang bertugas melaksanakan Pemilu di kabupaten/kota."
+    },
+    {
+        "instruction": "Apa pengertian KPU, KPU Provinsi, dan KPU Kabupaten/Kota secara kolektif?",
+        "context": "Berdasarkan UU Nomor 27 Tahun 2009 dan UU Nomor 10 Tahun 2008.",
+        "response": "Lembaga-lembaga tersebut adalah penyelenggara Pemilu di tingkat nasional, provinsi, dan kabupaten/kota sesuai dengan undang-undang mengenai penyelenggara pemilihan umum."
+    },
+    {
+        "instruction": "Apa tugas KPU Provinsi menurut UU Nomor 15 Tahun 2011?",
+        "context": "Konteks penyelenggaraan pemilu tingkat wilayah.",
+        "response": "KPU Provinsi adalah Penyelenggara Pemilu yang bertugas melaksanakan Pemilu di provinsi."
+    },
+    {
+        "instruction": "Sebutkan definisi umum KPU.",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2011 mengenai sifat lembaga penyelenggara.",
+        "response": "KPU adalah lembaga Penyelenggara Pemilu yang bersifat nasional, tetap, dan mandiri yang bertugas melaksanakan Pemilu."
+    },
+    {
+        "instruction": "Apa fungsi Komisi Pengawas Persaingan Usaha (KPPU)?",
+        "context": "Sesuai dengan PP Nomor 44 Tahun 2021 untuk mencegah praktek monopoli.",
+        "response": "Komisi Pengawas Persaingan Usaha adalah komisi yang dibentuk untuk mengawasi Pelaku Usaha agar tidak melakukan praktek monopoli dan/atau persaingan usaha tidak sehat."
+    },
+    {
+        "instruction": "Apa itu Komisi Penyiaran Indonesia (KPI)?",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2002 sebagai wujud peran serta masyarakat.",
+        "response": "KPI adalah lembaga negara yang bersifat independen yang ada di pusat dan di daerah yang tugas dan wewenang diatur dalam undang-undang sebagai wujud peran serta masyarakat di bidang penyiaran."
+    },
+    {
+        "instruction": "Apa pengertian Komisi Penyuluhan?",
+        "context": "Merujuk pada UU Nomor 16 Tahun 2006 tentang pembangunan perdesaan.",
+        "response": "Komisi Penyuluhan adalah kelembagaan independen yang dibentuk pada tingkat pusat, provinsi, dan kabupaten/kota yang terdiri atas para pakar/praktisi yang mempunyai keahlian dalam bidang penyuluhan atau pembangunan perdesaan."
+    },
+    {
+        "instruction": "Siapakah Komisioner BP Tapera?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2016 mengenai pengelolaan tabungan perumahan rakyat.",
+        "response": "Komisioner adalah organ BP Tapera yang berwenang dan bertanggung jawab atas pengaturan dan pengawasan pengelolaan Tapera serta mewakili BP Tapera di dalam maupun di luar pengadilan."
+    },
+    {
+        "instruction": "Apa itu Komite Akreditasi Nasional (KAN)?",
+        "context": "Sesuai dengan PP Nomor 34 Tahun 2018 mengenai penilaian kesesuaian.",
+        "response": "KAN adalah lembaga nonstruktural yang bertugas dan bertanggung jawab di bidang Akreditasi Lembaga Penilaian Kesesuaian."
+    },
+    {
+        "instruction": "Apa tugas Komite Antidumping Indonesia?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2011 terkait tindakan imbalan.",
+        "response": "Komite Antidumping Indonesia adalah komite yang bertugas untuk melaksanakan penyelidikan dalam rangka Tindakan Antidumping dan Tindakan Imbalan."
+    },
+    {
+        "instruction": "Definisikan Komite Audit dalam PTN Badan Hukum.",
+        "context": "Berdasarkan PP Nomor 52, 53, dan 54 Tahun 2015 (Undip, ITS, Unhas).",
+        "response": "Komite Audit adalah perangkat MWA yang melakukan pengawasan di bidang nonakademik terhadap penyelenggaraan universitas."
+    },
+    {
+        "instruction": "Apa tugas Komite Etik OJK?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2011 mengenai kepatuhan kode etik.",
+        "response": "Komite Etik adalah organ pendukung Dewan Komisioner yang bertugas mengawasi kepatuhan Dewan Komisioner, pejabat, dan pegawai OJK terhadap kode etik."
+    },
+    {
+        "instruction": "Apa fungsi Komite Investasi Pemerintah?",
+        "context": "Merujuk pada PP Nomor 63 Tahun 2019.",
+        "response": "Komite Investasi Pemerintah adalah lembaga yang dibentuk untuk melaksanakan fungsi supervisi dalam pengelolaan Investasi Pemerintah."
+    },
+    {
+        "instruction": "Apa peran KKIP (Komite Kebijakan Industri Pertahanan)?",
+        "context": "Sesuai dengan UU Nomor 16 Tahun 2012 mengenai sinkronisasi industri pertahanan.",
+        "response": "KKIP adalah komite yang mewakili Pemerintah untuk mengoordinasikan kebijakan nasional dalam perencanaan, perumusan, pelaksanaan, pengendalian, sinkronisasi, dan evaluasi Industri Pertahanan."
+    },
+    {
+        "instruction": "Apa itu Komite Koordinasi dalam penanganan bank gagal?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2004 mengenai dampak sistemik.",
+        "response": "Komite Koordinasi adalah komite beranggotakan Menteri Keuangan, LPP, Bank Indonesia, dan LPS yang memutuskan kebijakan penyelesaian bank gagal yang berdampak sistemik."
+    },
+    {
+        "instruction": "Apa tugas Komite Pengamanan Perdagangan Indonesia?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2011.",
+        "response": "Komite Pengamanan Perdagangan Indonesia adalah komite yang bertugas untuk melaksanakan penyelidikan dalam rangka Tindakan Pengamanan."
+    },
+    {
+        "instruction": "Apa tujuan pembentukan Komite Perdagangan Nasional?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2014.",
+        "response": "Komite Perdagangan Nasional adalah lembaga yang dibentuk untuk mendukung percepatan pencapaian tujuan pelaksanaan kegiatan di bidang Perdagangan."
+    },
+    {
+        "instruction": "Definisikan Komite Sekolah/Madrasah.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2003 mengenai kemandirian lembaga.",
+        "response": "Komite Sekolah/Madrasah adalah lembaga mandiri yang beranggotakan orang tua/wali peserta didik, komunitas sekolah, serta tokoh masyarakat yang peduli pendidikan."
+    },
+    {
+        "instruction": "Apa itu Komite Stabilitas Sistem Keuangan (KSSK)?",
+        "context": "Sesuai dengan PP Nomor 21 Tahun 2018 mengenai penanganan krisis.",
+        "response": "KSSK adalah komite stabilitas sistem keuangan sebagaimana dimaksud dalam undang-undang mengenai Pencegahan dan Penanganan Krisis Sistem Keuangan."
+    },
+    {
+        "instruction": "Apa fungsi Komite Tapera?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2016 mengenai kebijakan strategis.",
+        "response": "Komite Tapera adalah komite yang berfungsi merumuskan kebijakan umum dan strategis dalam pengelolaan Tapera."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Komoditi dalam perdagangan berjangka?",
+        "context": "Merujuk pada PP Nomor 49 Tahun 2014 mengenai subjek kontrak berjangka.",
+        "response": "Komoditi adalah semua barang, jasa, hak, dan kepentingan lainnya, serta setiap derivatif darinya yang dapat diperdagangkan dan menjadi subjek Kontrak Berjangka atau instrumen derivatif lainnya."
+    },
+    {
+        "instruction": "Jelaskan mengenai Kompensasi dalam pembangunan ketenagalistrikan.",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021 terkait penggunaan tanah secara tidak langsung.",
+        "response": "Kompensasi adalah pemberian sejumlah uang kepada pemegang hak atas tanah/bangunan karena tanah tersebut digunakan secara tidak langsung untuk pembangunan Ketenagalistrikan tanpa dilakukan pelepasan hak atas tanah."
+    },
+    {
+        "instruction": "Apa itu Kompetensi Bidan?",
+        "context": "Sesuai dengan UU Nomor 4 Tahun 2019 mengenai kemampuan pelayanan kebidanan.",
+        "response": "Kompetensi Bidan adalah kemampuan yang dimiliki oleh Bidan yang meliputi pengetahuan, keterampilan, dan sikap untuk memberikan Pelayanan Kebidanan."
+    },
+    {
+        "instruction": "Apa definisi Kompetensi Tenaga Teknik Ketenagalistrikan?",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021.",
+        "response": "Kompetensi Tenaga Teknik Ketenagalistrikan adalah kemampuan tenaga teknik untuk mengerjakan suatu tugas dan pekerjaan yang dilandasi oleh pengetahuan, keterampilan, dan sikap kerja."
+    },
+    {
+        "instruction": "Jelaskan proses Konfirmasi Elektronik dalam perdagangan.",
+        "context": "Merujuk pada PP Nomor 80 Tahun 2019.",
+        "response": "Konfirmasi Elektronik adalah proses pemberian kesempatan bagi pembeli untuk secara sadar memberikan penegasan persetujuan atas suatu Kontrak Elektronik sebelum dinyatakan sah terjadi."
+    },
+    {
+        "instruction": "Apa pengertian Konflik menurut UU Nomor 7 Tahun 2012?",
+        "context": "Terkait benturan fisik antar kelompok masyarakat.",
+        "response": "Konflik adalah perseteruan dan/atau benturan fisik dengan kekerasan antara dua kelompok masyarakat atau lebih yang berdampak luas, mengakibatkan ketidakamanan, dan mengganggu stabilitas nasional."
+    },
+    {
+        "instruction": "Definisikan Konflik Bersenjata.",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2018.",
+        "response": "Konflik Bersenjata adalah perang yang didahului oleh pernyataan dari suatu negara atau suatu sengketa antarnegara yang disertai pengerahan angkatan bersenjata negara."
+    },
+    {
+        "instruction": "Apa itu Konservasi air tanah?",
+        "context": "Merujuk pada PP Nomor 43 Tahun 2008.",
+        "response": "Konservasi air tanah adalah upaya memelihara keberadaan serta keberlanjutan fungsi air tanah agar senantiasa tersedia dalam kuantitas dan kualitas yang memadai bagi makhluk hidup."
+    },
+    {
+        "instruction": "Jelaskan definisi Konservasi ekosistem biota perairan.",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2007.",
+        "response": "Konservasi ekosistem adalah upaya melindungi, melestarikan, dan memanfaatkan fungsi ekosistem sebagai habitat penyangga kehidupan biota perairan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Konservasi energi?",
+        "context": "Sesuai dengan UU Nomor 30 Tahun 2007 mengenai efisiensi pemanfaatan.",
+        "response": "Konservasi energi adalah upaya sistematis, terencana, dan terpadu guna melestarikan sumber daya energi dalam negeri serta meningkatkan efisiensi pemanfaatannya."
+    },
+    {
+        "instruction": "Apa itu Konservasi genetik ikan?",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2007.",
+        "response": "Konservasi genetik ikan adalah upaya melindungi, melestarikan, dan memanfaatkan sumber daya ikan untuk menjamin kesinambungan sumber daya genetik ikan bagi generasi mendatang."
+    },
+    {
+        "instruction": "Definisikan Konservasi jenis ikan menurut PP Nomor 60 Tahun 2007.",
+        "context": "Terkait kesinambungan jenis ikan.",
+        "response": "Konservasi jenis ikan adalah upaya melindungi, melestarikan, dan memanfaatkan sumber daya ikan untuk menjamin keberadaan dan kesinambungan jenis ikan."
+    },
+    {
+        "instruction": "Apa itu Konservasi Sumber Daya Alam?",
+        "context": "Merujuk pada PP Nomor 46 Tahun 2017 mengenai pemanfaatan bijaksana.",
+        "response": "Konservasi Sumber Daya Alam adalah pengelolaan sumber daya alam untuk menjamin pemanfaatannya secara bijaksana serta kesinambungan ketersediaannya dengan tetap memelihara kualitas nilai keanekaragamannya."
+    },
+    {
+        "instruction": "Apa pengertian Konservasi sumber daya energi?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2007.",
+        "response": "Konservasi sumber daya energi adalah pengelolaan sumber daya energi yang menjamin pemanfaatan dan persediaannya dengan tetap memelihara kualitas nilai dan keanekaragamannya."
+    },
+    {
+        "instruction": "Definisikan Konservasi sumber daya ikan secara menyeluruh.",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2007 mencakup ekosistem, jenis, dan genetik.",
+        "response": "Konservasi sumber daya ikan adalah upaya perlindungan, pelestarian, dan pemanfaatan sumber daya ikan, termasuk ekosistem, jenis, dan genetik untuk menjamin ketersediaannya dengan memelihara kualitas keanekaragamannya."
     }
 ]
