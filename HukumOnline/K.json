@@ -1148,5 +1148,230 @@
         "instruction": "Definisikan Konservasi sumber daya ikan secara menyeluruh.",
         "context": "Berdasarkan PP Nomor 60 Tahun 2007 mencakup ekosistem, jenis, dan genetik.",
         "response": "Konservasi sumber daya ikan adalah upaya perlindungan, pelestarian, dan pemanfaatan sumber daya ikan, termasuk ekosistem, jenis, dan genetik untuk menjamin ketersediaannya dengan memelihara kualitas keanekaragamannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Konsesi menurut UU Nomor 8 Tahun 2016?",
+        "context": "Konteks kebijakan Pemerintah bagi Penyandang Disabilitas.",
+        "response": "Konsesi adalah segala bentuk potongan biaya yang diberikan oleh Pemerintah, Pemerintah Daerah, dan/atau setiap orang kepada Penyandang Disabilitas berdasarkan kebijakan Pemerintah dan Pemerintah Daerah."
+    },
+    {
+        "instruction": "Apa definisi Konsesi dalam sektor kepelabuhanan?",
+        "context": "Berdasarkan PP Nomor 61 Tahun 2009 mengenai hak operasional Badan Usaha Pelabuhan.",
+        "response": "Konsesi adalah pemberian hak oleh penyelenggara pelabuhan kepada Badan Usaha Pelabuhan untuk melakukan kegiatan penyediaan dan/atau pelayanan jasa kepelabuhanan tertentu dalam jangka waktu tertentu dan kompensasi tertentu."
+    },
+    {
+        "instruction": "Apa itu Konsil Kebidanan?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2019 mengenai struktur Konsil Tenaga Kesehatan Indonesia.",
+        "response": "Konsil Kebidanan adalah bagian dari Konsil Tenaga Kesehatan Indonesia yang tugas, fungsi, wewenang, dan keanggotaannya sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Definisikan Konsil Kedokteran Indonesia.",
+        "context": "Berdasarkan UU Nomor 29 Tahun 2004 sebagai badan otonom tenaga kesehatan.",
+        "response": "Konsil Kedokteran Indonesia adalah suatu badan otonom, mandiri, non-struktural, dan bersifat independen, yang terdiri atas Konsil Kedokteran dan Konsil Kedokteran Gigi."
+    },
+    {
+        "instruction": "Apa tugas dari Konsil Keperawatan?",
+        "context": "Merujuk pada UU Nomor 38 Tahun 2014.",
+        "response": "Konsil Keperawatan adalah lembaga yang melakukan tugas secara independen di bidang keperawatan."
+    },
+    {
+        "instruction": "Apa itu Konsil Tenaga Kesehatan Indonesia?",
+        "context": "Berdasarkan UU Nomor 36 Tahun 2014.",
+        "response": "Konsil Tenaga Kesehatan Indonesia adalah lembaga yang melaksanakan tugas secara independen yang terdiri atas konsil masing-masing tenaga kesehatan."
+    },
+    {
+        "instruction": "Jelaskan mengenai Konsiliasi Hubungan Industrial.",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2004 mengenai mediasi perselisihan kerja.",
+        "response": "Konsiliasi Hubungan Industrial adalah penyelesaian perselisihan kepentingan, pemutusan hubungan kerja, atau perselisihan antar serikat pekerja hanya dalam satu perusahaan melalui musyawarah yang ditengahi oleh konsiliator netral."
+    },
+    {
+        "instruction": "Siapakah Konsiliator Hubungan Industrial?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2004.",
+        "response": "Konsiliator Hubungan Industrial adalah seorang atau lebih yang memenuhi syarat, ditetapkan oleh Menteri, bertugas melakukan konsiliasi dan wajib memberikan anjuran tertulis kepada para pihak yang berselisih."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Konsolidasi tanah?",
+        "context": "Terkait penataan kembali penguasaan tanah menurut UU Nomor 1 Tahun 2011.",
+        "response": "Konsolidasi tanah adalah penataan kembali penguasaan, pemilikan, penggunaan, dan pemanfaatan tanah sesuai rencana tata ruang wilayah guna meningkatkan kualitas lingkungan dan pemeliharaan sumber daya alam dengan partisipasi masyarakat."
+    },
+    {
+        "instruction": "Apa definisi Konsultan Kekayaan Intelektual?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016 mengenai jasa pengurusan HKI.",
+        "response": "Konsultan Kekayaan Intelektual adalah orang yang memiliki keahlian di bidang kekayaan intelektual, terdaftar secara resmi, dan memberikan jasa khusus di bidang pengajuan serta pengurusan permohonan kekayaan intelektual."
+    },
+    {
+        "instruction": "Apa pengertian Konsultansi Konstruksi menurut UU Nomor 2 Tahun 2017?",
+        "context": "Mencakup layanan pengkajian hingga manajemen konstruksi.",
+        "response": "Konsultansi Konstruksi adalah layanan keseluruhan atau sebagian kegiatan yang meliputi pengkajian, perencanaan, perancangan, pengawasan, dan manajemen penyelenggaraan konstruksi suatu bangunan."
+    },
+    {
+        "instruction": "Apa itu Konsultasi Publik dalam pengadaan tanah?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2012.",
+        "response": "Konsultasi Publik adalah proses komunikasi dialogis atau musyawarah antar pihak yang berkepentingan guna mencapai kesepahaman dan kesepakatan dalam perencanaan pengadaan tanah bagi pembangunan untuk kepentingan umum."
+    },
+    {
+        "instruction": "Jelaskan definisi Konsumen dalam konteks perdagangan.",
+        "context": "Merujuk pada PP Nomor 80 Tahun 2019.",
+        "response": "Konsumen adalah setiap orang pemakai Barang dan/atau Jasa yang tersedia dalam masyarakat, baik bagi kepentingan diri sendiri, keluarga, orang lain, maupun makhluk hidup lain dan tidak untuk diperdagangkan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kontra Radikalisasi?",
+        "context": "Upaya pencegahan terorisme menurut PP Nomor 77 Tahun 2019.",
+        "response": "Kontra Radikalisasi adalah suatu proses yang terencana dan sistematis yang dilaksanakan terhadap orang/kelompok yang rentan terpapar paham radikal guna menghentikan penyebaran paham radikal terorisme."
+    },
+    {
+        "instruction": "Apa itu Kontrak Bagi Hasil dalam usaha hulu migas?",
+        "context": "Berdasarkan PP Nomor 35 Tahun 2004.",
+        "response": "Kontrak Bagi Hasil adalah suatu bentuk Kontrak Kerja Sama dalam Kegiatan Usaha Hulu berdasarkan prinsip pembagian hasil produksi."
+    },
+    {
+        "instruction": "Definisikan Kontrak Bagi Hasil Gross Split.",
+        "context": "Merujuk pada PP Nomor 53 Tahun 2017.",
+        "response": "Kontrak Bagi Hasil Gross Split adalah bentuk Kontrak Kerja Sama Usaha Hulu berdasarkan pembagian gross produksi tanpa mekanisme pengembalian biaya operasi (cost recovery)."
+    },
+    {
+        "instruction": "Apa pengertian Kontrak Berjangka menurut PP Nomor 49 Tahun 2014?",
+        "context": "Terkait perdagangan komoditi.",
+        "response": "Kontrak Berjangka adalah bentuk kontrak standar untuk membeli atau menjual Komoditi dengan penyelesaian kemudian sebagaimana ditetapkan di kontrak yang diperdagangkan di Bursa Berjangka."
+    },
+    {
+        "instruction": "Apa itu Kontrak Derivatif?",
+        "context": "Berdasarkan PP Nomor 49 Tahun 2014.",
+        "response": "Kontrak Derivatif adalah kontrak yang nilai dan harganya bergantung pada subjek Komoditi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kontrak Derivatif Syariah?",
+        "context": "Merujuk pada prinsip syariah dalam perdagangan komoditi.",
+        "response": "Kontrak Derivatif Syariah adalah kontrak derivatif yang sesuai dengan prinsip-prinsip syariah."
+    },
+    {
+        "instruction": "Definisikan Kontrak Elektronik menurut PP Nomor 80 Tahun 2019.",
+        "context": "Perjanjian melalui sistem elektronik.",
+        "response": "Kontrak Elektronik adalah perjanjian para pihak yang dibuat melalui Sistem Elektronik."
+    },
+    {
+        "instruction": "Apa itu Kontrak Investasi Kolektif (KIK)?",
+        "context": "Konteks pasar modal dan jaminan sosial.",
+        "response": "Kontrak Investasi Kolektif adalah kontrak antara Manajer Investasi dan Bank Kustodian yang mengikat pemegang unit penyertaan untuk mengelola portofolio investasi kolektif."
+    },
+    {
+        "instruction": "Apa definisi Kontrak Jasa dalam migas?",
+        "context": "Berdasarkan PP Nomor 35 Tahun 2004.",
+        "response": "Kontrak Jasa adalah bentuk Kontrak Kerja Sama untuk pelaksanaan Eksploitasi Migas berdasarkan prinsip pemberian imbalan jasa atas produksi yang dihasilkan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kontrak Karya?",
+        "context": "Merujuk pada UU Minerba terkait mineral.",
+        "response": "Kontrak Karya adalah perjanjian antara Pemerintah RI dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan usaha pertambangan Mineral."
+    },
+    {
+        "instruction": "Definisikan Kontrak Kerja Sama dalam sektor migas.",
+        "context": "Berdasarkan Permen ESDM Nomor 17 Tahun 2017.",
+        "response": "Kontrak Kerja Sama adalah Kontrak Bagi Hasil atau bentuk kontrak lain dalam eksplorasi dan eksploitasi yang lebih menguntungkan Negara untuk kemakmuran rakyat."
+    },
+    {
+        "instruction": "Siapakah Kontraktor dalam industri minyak dan gas?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2017.",
+        "response": "Kontraktor adalah badan usaha atau bentuk usaha tetap yang ditetapkan untuk melakukan Eksplorasi dan Eksploitasi pada suatu Wilayah Kerja berdasarkan Kontrak Kerja Sama dengan SKK Migas."
+    },
+    {
+        "instruction": "Apa itu Konvensi menurut UU Pelayanan Kesehatan?",
+        "context": "Merujuk pada Konvensi Jenewa 1949.",
+        "response": "Konvensi adalah Konvensi Jenewa Tahun 1949 yang telah diratifikasi oleh Indonesia mengenai hukum kemanusiaan internasional."
+    },
+    {
+        "instruction": "Jelaskan mengenai Konvensi Senjata Kimia.",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2008.",
+        "response": "Konvensi Senjata Kimia adalah perjanjian internasional yang melarang pengembangan, produksi, penyimpanan, dan penggunaan senjata kimia serta mengatur pemusnahannya."
+    },
+    {
+        "instruction": "Apa definisi Koperasi menurut PP Nomor 7 Tahun 2021?",
+        "context": "Gerakan ekonomi rakyat berasas kekeluargaan.",
+        "response": "Koperasi adalah badan usaha yang beranggotakan orang seorang atau badan hukum Koperasi dengan melandaskan kegiatannya berdasarkan prinsip Koperasi sebagai gerakan ekonomi rakyat yang berdasar atas asas kekeluargaan."
+    },
+    {
+        "instruction": "Apa perbedaan Koperasi Primer dan Koperasi Sekunder?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2012.",
+        "response": "Koperasi Primer didirikan oleh dan beranggotakan orang perseorangan, sedangkan Koperasi Sekunder didirikan oleh dan beranggotakan badan hukum Koperasi."
+    },
+    {
+        "instruction": "Apa itu Koperasi Simpan Pinjam?",
+        "context": "Merujuk pada jenis usaha koperasi tunggal.",
+        "response": "Koperasi Simpan Pinjam adalah Koperasi yang menjalankan usaha simpan pinjam sebagai satu-satunya usaha."
+    },
+    {
+        "instruction": "Siapakah yang dikategorikan sebagai Korban menurut hukum?",
+        "context": "Berdasarkan UU Perlindungan Saksi dan Korban.",
+        "response": "Korban adalah seseorang yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang diakibatkan oleh suatu tindak pidana, bencana, atau pelanggaran HAM berat."
+    },
+    {
+        "instruction": "Definisikan Korban Penyalahgunaan Narkotika.",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2011.",
+        "response": "Korban Penyalahgunaan Narkotika adalah seseorang yang tidak sengaja menggunakan Narkotika karena dibujuk, diperdaya, ditipu, dipaksa, dan/atau diancam."
+    },
+    {
+        "instruction": "Apa itu Korporasi menurut UU Tindak Pidana Terorisme?",
+        "context": "Konteks kumpulan orang dan kekayaan.",
+        "response": "Korporasi adalah kumpulan orang dan/atau kekayaan yang terorganisasi, baik merupakan badan hukum maupun bukan badan hukum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kota/Kabupaten Administrasi?",
+        "context": "Terkait pembagian wilayah di DKI Jakarta menurut UU Nomor 29 Tahun 2007.",
+        "response": "Kota administrasi/kabupaten administrasi adalah wilayah kerja walikota/bupati yang terdiri atas kecamatan dan kelurahan."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi KPBU?",
+        "context": "Sesuai Perpres Nomor 38 Tahun 2015 mengenai infrastruktur.",
+        "response": "KPBU adalah Kerja Sama Pemerintah dan Badan Usaha dalam penyediaan infrastruktur untuk kepentingan umum dengan pembagian risiko di antara para pihak."
+    },
+    {
+        "instruction": "Apa peran KPHI?",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2008.",
+        "response": "KPHI (Komisi Pengawas Haji Indonesia) adalah lembaga mandiri yang dibentuk untuk melakukan pengawasan terhadap Penyelenggaraan Ibadah Haji."
+    },
+    {
+        "instruction": "Sebutkan definisi KPK menurut undang-undang terbaru.",
+        "context": "Merujuk pada UU Nomor 19 Tahun 2019.",
+        "response": "KPK adalah lembaga negara dalam rumpun kekuasaan eksekutif yang melaksanakan tugas pencegahan dan pemberantasan Tindak Pidana Korupsi."
+    },
+    {
+        "instruction": "Apa itu KPUD?",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2004.",
+        "response": "KPUD adalah KPU Provinsi atau Kabupaten/Kota yang diberi wewenang khusus untuk menyelenggarakan pemilihan kepala daerah dan wakil kepala daerah."
+    },
+    {
+        "instruction": "Definisikan Kredit menurut UU Nomor 1 Tahun 2016.",
+        "context": "Konteks pinjam-meminjam uang.",
+        "response": "Kredit adalah penyediaan uang atau tagihan yang berdasarkan kesepakatan pinjam-meminjam yang mewajibkan peminjam melunasi utangnya setelah jangka waktu tertentu dengan pemberian bunga."
+    },
+    {
+        "instruction": "Siapakah Kreditor itu?",
+        "context": "Berdasarkan UU Kepailitan (Nomor 37 Tahun 2004).",
+        "response": "Kreditor adalah orang yang mempunyai piutang karena perjanjian atau Undang-Undang yang dapat ditagih di muka pengadilan."
+    },
+    {
+        "instruction": "Apa itu Kualifikasi Akademik bagi pendidik?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2005.",
+        "response": "Kualifikasi Akademik adalah ijazah jenjang pendidikan akademik yang harus dimiliki oleh guru atau dosen sesuai dengan jenis dan satuan pendidikan formal tempat penugasan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Kuasa asuh Anak?",
+        "context": "Berdasarkan UU Perlindungan Anak (Nomor 35 Tahun 2014).",
+        "response": "Kuasa asuh adalah kekuasaan Orang Tua untuk mengasuh, mendidik, memelihara, melindungi, dan menumbuhkembangkan Anak sesuai agama, bakat, dan minatnya."
+    },
+    {
+        "instruction": "Definisikan Kurator dalam hukum kepailitan.",
+        "context": "Merujuk pada UU Nomor 37 Tahun 2004.",
+        "response": "Kurator adalah pihak yang melakukan pengurusan dan pemberesan harta debitor pailit di bawah pengawasan Hakim Pengawas."
+    },
+    {
+        "instruction": "Apa pengertian Kurikulum menurut UU Pendidikan?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2003.",
+        "response": "Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara yang digunakan sebagai pedoman penyelenggaraan kegiatan pembelajaran."
+    },
+    {
+        "instruction": "Apa itu Kutipan Akta?",
+        "context": "Berdasarkan UU Jabatan Notaris (Nomor 2 Tahun 2014).",
+        "response": "Kutipan Akta adalah kutipan kata demi kata dari satu atau beberapa bagian dari Akta dan pada bagian bawahnya tercantum frasa 'diberikan sebagai KUTIPAN'."
     }
 ]
