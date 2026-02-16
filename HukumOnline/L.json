@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Label Halal menurut UU Nomor 33 Tahun 2014?",
+        "context": "Pertanyaan ini merujuk pada identitas visual produk yang menjamin kehalalannya bagi konsumen.",
+        "response": "Label Halal adalah tanda kehalalan suatu Produk."
+    },
+    {
+        "instruction": "Jelaskan definisi Label Limbah B3 berdasarkan peraturan lingkungan hidup.",
+        "context": "Definisi ini berkaitan dengan pemberian informasi tertulis pada kemasan limbah berbahaya.",
+        "response": "Label Limbah B3 adalah setiap keterangan mengenai limbah B3 yang berbentuk tulisan yang berisi informasi penghasil, alamat penghasil, waktu pengemasan, jumlah, dan karakteristik limbah B3."
+    },
+    {
+        "instruction": "Apa itu Lahan Pertanian Pangan Berkelanjutan?",
+        "context": "Merujuk pada upaya perlindungan lahan pertanian untuk kedaulatan pangan nasional sesuai PP Nomor 25 Tahun 2012.",
+        "response": "Lahan Pertanian Pangan Berkelanjutan adalah bidang lahan pertanian yang ditetapkan untuk dilindungi dan dikembangkan secara konsisten guna menghasilkan pangan pokok bagi kemandirian, ketahanan, dan kedaulatan pangan nasional."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lahan Terkontaminasi Limbah B3?",
+        "context": "Berdasarkan Permen LHK Nomor P.101 Tahun 2018 mengenai hasil uji karakteristik tanah.",
+        "response": "Lahan Terkontaminasi Limbah B3 adalah lahan yang terpapar Limbah B3 dan/atau lahan yang berdasarkan hasil uji karakteristik terhadap sampel tanah dari lahan tersebut menunjukkan bahwa lahan tersebut mengandung zat kontaminan yang dikategorikan Limbah B3."
+    },
+    {
+        "instruction": "Definisikan istilah Lalu Lintas menurut PP Nomor 30 Tahun 2021.",
+        "context": "Konteks gerak transportasi di ruang jalan.",
+        "response": "Lalu Lintas adalah gerak kendaraan dan orang di ruang lalu lintas jalan."
+    },
+    {
+        "instruction": "Apa pengertian Lalu Lintas Dan Angkutan Jalan secara menyeluruh?",
+        "context": "Merujuk pada kesatuan sistem transportasi darat dalam PP Nomor 30 Tahun 2021.",
+        "response": "Lalu Lintas Dan Angkutan Jalan adalah satu kesatuan sistem yang terdiri atas lalu lintas, angkutan jalan, jaringan lalu lintas dan angkutan jalan, prasarana lalu lintas dan angkutan jalan, kendaraan, pengemudi, pengguna jalan, serta pengelolaannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lambang Daerah di wilayah Papua?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2021 mengenai simbol kultural daerah.",
+        "response": "Lambang Daerah adalah panji kebesaran dan simbol kultural bagi kemegahan jati diri orang Papua dalam bentuk bendera daerah dan lagu daerah yang tidak diposisikan sebagai simbol kedaulatan."
+    },
+    {
+        "instruction": "Jelaskan definisi Lambang Daerah menurut UU Nomor 18 Tahun 2001.",
+        "context": "Konteks kekhususan bagi Provinsi Nanggroe Aceh Darussalam.",
+        "response": "Lambang Daerah Termasuk Alam Atau Panji Kemegahan adalah lambang yang mencerminkan keistimewaan dan kekhususan Provinsi Nanggroe Aceh Darussalam."
+    },
+    {
+        "instruction": "Apa definisi Lambang Negara Indonesia?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2009 mengenai identitas resmi negara.",
+        "response": "Lambang Negara adalah Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika."
+    },
+    {
+        "instruction": "Apa pengertian Landas Kontinen Indonesia?",
+        "context": "Merujuk pada batas wilayah bawah laut menurut UU Nomor 43 Tahun 2008.",
+        "response": "Landas Kontinen Indonesia meliputi dasar laut dan tanah di bawahnya dari area di bawah permukaan laut yang terletak di luar laut teritorial, sepanjang kelanjutan alamiah wilayah daratan hingga pinggiran luar tepi kontinen, dengan batas jarak tertentu (200 hingga 350 mil laut) sesuai ketentuan hukum laut."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Laporan dalam konteks Komnas HAM?",
+        "context": "Berdasarkan PP Nomor 56 Tahun 2010 mengenai diskriminasi ras.",
+        "response": "Laporan adalah pemberitahuan dan/atau pengaduan yang disampaikan oleh orang perseorangan atau sekelompok orang atau korporasi kepada Komnas HAM tentang telah atau sedang atau diduga akan terjadinya diskriminasi ras dan etnis."
+    },
+    {
+        "instruction": "Jelaskan definisi Laporan menurut UU Ombudsman.",
+        "context": "Terkait penyampaian fakta maladministrasi oleh masyarakat.",
+        "response": "Laporan adalah pengaduan atau penyampaian fakta yang diselesaikan atau ditindaklanjuti oleh Ombudsman yang disampaikan secara tertulis atau lisan oleh setiap orang yang telah menjadi korban Maladministrasi."
+    },
+    {
+        "instruction": "Apa itu Layanan Pos Universal?",
+        "context": "Berdasarkan UU Nomor 38 Tahun 2009 mengenai kewajiban pemerintah dalam jangkauan layanan pos.",
+        "response": "Layanan Pos Universal adalah layanan pos jenis tertentu yang wajib dijamin oleh pemerintah untuk menjangkau seluruh wilayah Negara Kesatuan Republik Indonesia yang memungkinkan masyarakat mengirim dan/atau menerima kiriman dari satu tempat ke tempat lain di dunia."
+    },
+    {
+        "instruction": "Apa kepanjangan dan fungsi dari LAZ?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2011 mengenai pengelolaan zakat oleh masyarakat.",
+        "response": "LAZ adalah Lembaga Amil Zakat, yaitu lembaga yang dibentuk masyarakat yang memiliki tugas membantu pengumpulan, pendistribusian, dan pendayagunaan zakat."
+    },
+    {
+        "instruction": "Definisikan istilah Legalisasi dalam administrasi pemerintahan.",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2014 mengenai keabsahan salinan dokumen.",
+        "response": "Legalisasi adalah pernyataan Badan dan/atau Pejabat Pemerintahan mengenai keabsahan suatu salinan surat atau dokumen Administrasi Pemerintahan yang dinyatakan sesuai dengan aslinya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lelang Umum?",
+        "context": "Konteks penjualan barang di muka umum menurut PP Nomor 36 Tahun 2007.",
+        "response": "Lelang Umum adalah penjualan barang di muka umum yang dilaksanakan pada waktu dan tempat tertentu yang harus didahului dengan pengumuman lelang melalui cara penawaran terbuka atau tertulis dengan mekanisme harga tertentu."
+    },
+    {
+        "instruction": "Apa definisi Lembaga Adat?",
+        "context": "Merujuk pada draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Lembaga Adat adalah perangkat organisasi yang tumbuh dan berkembang bersamaan dengan sejarah suatu Masyarakat Hukum Adat untuk mengatur, mengurus, dan menyelesaikan berbagai permasalahan kehidupan sesuai dengan hukum adat."
+    },
+    {
+        "instruction": "Apa peran Lembaga Administrasi Negara (LAN)?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 mengenai pendidikan ASN.",
+        "response": "Lembaga Administrasi Negara adalah lembaga pemerintah nonkementerian yang diberi kewenangan melakukan pengkajian serta pendidikan dan pelatihan ASN."
+    },
+    {
+        "instruction": "Apa itu Lembaga Amil Zakat?",
+        "context": "Sesuai dengan PP Nomor 14 Tahun 2014 mengenai pengelolaan zakat.",
+        "response": "Lembaga Amil Zakat adalah lembaga yang dibentuk masyarakat yang memiliki tugas membantu pengumpulan, pendistribusian, dan pendayagunaan zakat."
+    },
+    {
+        "instruction": "Definisikan Lembaga Asuhan Anak.",
+        "context": "Merujuk pada PP Nomor 44 Tahun 2017 mengenai kesejahteraan sosial.",
+        "response": "Lembaga Asuhan Anak adalah lembaga di bidang kesejahteraan sosial yang melaksanakan fungsi Pengasuhan Anak baik milik pemerintah pusat, pemerintah daerah, maupun milik masyarakat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Bantuan Hukum (LBH)?",
+        "context": "Berdasarkan PP Nomor 83 Tahun 2008 mengenai akses keadilan tanpa biaya.",
+        "response": "Lembaga Bantuan Hukum adalah lembaga yang memberikan bantuan hukum kepada Pencari Keadilan tanpa menerima pembayaran honorarium."
+    },
+    {
+        "instruction": "Apa pengertian Lembaga Internasional menurut UU Penanggulangan Bencana?",
+        "context": "Mencakup organisasi PBB dan lembaga asing non-pemerintah.",
+        "response": "Lembaga Internasional adalah organisasi yang berada dalam lingkup struktur organisasi Perserikatan Bangsa-Bangsa atau yang menjalankan tugas mewakili PBB atau organisasi internasional lainnya dan lembaga asing non-pemerintah dari negara lain."
+    },
+    {
+        "instruction": "Apa fungsi Lembaga Jaminan Resi Gudang?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2011 mengenai keamanan hak pemegang resi.",
+        "response": "Lembaga Jaminan Resi Gudang adalah badan hukum Indonesia yang menjamin hak dan kepentingan pemegang Resi Gudang atau Penerima Hak Jaminan terhadap kegagalan, kelalaian, atau ketidakmampuan Pengelola Gudang dalam melaksanakan kewajibannya."
+    },
+    {
+        "instruction": "Sebutkan definisi Lembaga Jasa Keuangan.",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2011 yang mencakup berbagai sektor finansial.",
+        "response": "Lembaga Jasa Keuangan adalah lembaga yang melaksanakan kegiatan di sektor perbankan, pasar modal, perasuransian, dana pensiun, lembaga pembiayaan, dan Lembaga Jasa Keuangan lainnya."
+    },
+    {
+        "instruction": "Apa saja yang termasuk dalam Lembaga Jasa Keuangan Lainnya?",
+        "context": "Merujuk pada UU Nomor 21 Tahun 2011 mengenai entitas di bawah pengawasan OJK.",
+        "response": "Lembaga Jasa Keuangan Lainnya meliputi pergadaian, lembaga penjaminan, LPEI, perusahaan pembiayaan sekunder perumahan, penyelenggara jaminan sosial, pensiun, dan lembaga lain yang dinyatakan diawasi oleh OJK."
+    },
+    {
+        "instruction": "Apa itu Lembaga Kemasyarakatan di tingkat kelurahan?",
+        "context": "Berdasarkan PP Nomor 73 Tahun 2005 mengenai pemberdayaan masyarakat.",
+        "response": "Lembaga Kemasyarakatan adalah lembaga yang dibentuk oleh masyarakat sesuai dengan kebutuhan dan merupakan mitra lurah dalam memberdayakan masyarakat."
+    },
+    {
+        "instruction": "Jelaskan definisi Lembaga Kesejahteraan Sosial (LKS).",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2019 mengenai organisasi penyelenggara kesejahteraan.",
+        "response": "Lembaga Kesejahteraan Sosial adalah organisasi sosial atau perkumpulan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial yang dibentuk oleh masyarakat, baik yang berbadan hukum maupun yang tidak berbadan hukum."
+    },
+    {
+        "instruction": "Apa pengertian Lembaga Keuangan dalam konteks ekspor?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2009.",
+        "response": "Lembaga Keuangan adalah lembaga keuangan non-bank yang salah satu kegiatannya memberikan pembiayaan kepada Eksportir."
+    },
+    {
+        "instruction": "Apa definisi Lembaga Keuangan dan Pasar Modal menurut PP Penataan Hukum Lingkungan?",
+        "context": "Sesuai dengan PP Nomor 46 Tahun 2017.",
+        "response": "Lembaga Keuangan dan Pasar Modal adalah lembaga yang melaksanakan kegiatan di sektor perbankan, pasar modal, perasuransian, dana pensiun, lembaga pembiayaan, dan lembaga jasa keuangan lainnya."
+    },
+    {
+        "instruction": "Apa tujuan didirikannya Lembaga Keuangan Mikro?",
+        "context": "Berdasarkan draf RUU Lembaga Keuangan Mikro Tahun 2012.",
+        "response": "Lembaga Keuangan Mikro adalah lembaga keuangan yang khusus didirikan untuk memberikan jasa pengembangan usaha dan pemberdayaan masyarakat melalui pembiayaan skala mikro, pengelolaan simpanan, dan konsultasi yang tidak semata-mata mencari keuntungan."
+    }
+]
