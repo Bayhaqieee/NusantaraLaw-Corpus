@@ -148,5 +148,225 @@
         "instruction": "Apa tujuan didirikannya Lembaga Keuangan Mikro?",
         "context": "Berdasarkan draf RUU Lembaga Keuangan Mikro Tahun 2012.",
         "response": "Lembaga Keuangan Mikro adalah lembaga keuangan yang khusus didirikan untuk memberikan jasa pengembangan usaha dan pemberdayaan masyarakat melalui pembiayaan skala mikro, pengelolaan simpanan, dan konsultasi yang tidak semata-mata mencari keuntungan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Kliring Berjangka?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2011 dan PP Nomor 49 Tahun 2014 mengenai Perdagangan Berjangka Komoditi.",
+        "response": "Lembaga Kliring Berjangka adalah badan usaha yang menyelenggarakan dan menyediakan sistem dan/atau sarana untuk pelaksanaan kliring dan penjaminan penyelesaian transaksi Perdagangan Berjangka."
+    },
+    {
+        "instruction": "Definisikan Lembaga Kliring dan Penjaminan Berjangka.",
+        "context": "Merujuk pada PP Nomor 49 Tahun 2014 terkait infrastruktur perdagangan berjangka.",
+        "response": "Lembaga Kliring dan Penjaminan Berjangka adalah badan usaha yang menyelenggarakan dan menyediakan sistem dan/atau sarana untuk pelaksanaan kliring dan penjaminan penyelesaian transaksi Perdagangan Berjangka."
+    },
+    {
+        "instruction": "Apa tugas utama Lembaga Manajemen Kolektif (LMK)?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014 mengenai Hak Cipta.",
+        "response": "Lembaga Manajemen Kolektif adalah institusi nirlaba yang diberi kuasa oleh Pencipta atau Pemegang Hak Cipta guna mengelola hak ekonominya, termasuk menghimpun dan mendistribusikan royalti."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Musyawarah Kelurahan?",
+        "context": "Merujuk pada UU Nomor 29 Tahun 2007 mengenai partisipasi masyarakat di tingkat kelurahan.",
+        "response": "Lembaga musyawarah kelurahan adalah lembaga musyawarah pada tingkat kelurahan untuk menampung aspirasi serta meningkatkan partisipasi dan pemberdayaan masyarakat."
+    },
+    {
+        "instruction": "Sebutkan definisi Lembaga Negara menurut UU Kearsipan.",
+        "context": "Berdasarkan UU Nomor 43 Tahun 2009 mencakup seluruh cabang kekuasaan.",
+        "response": "Lembaga negara adalah lembaga yang menjalankan cabang-cabang kekuasaan negara meliputi eksekutif, legislatif, yudikatif, dan lembaga lain yang fungsi pokoknya berkaitan dengan penyelenggaraan negara."
+    },
+    {
+        "instruction": "Apa itu Lembaga Nonstruktural (LNS)?",
+        "context": "Berdasarkan PP Nomor 22 Tahun 2016 dan PP Nomor 24 Tahun 2017 mengenai pembiayaan APBN.",
+        "response": "Lembaga Non Struktural adalah lembaga selain kementerian atau lembaga pemerintah nonkementerian yang dibentuk dengan UU, PP, atau Perpres yang pembiayaannya dibebankan kepada APBN."
+    },
+    {
+        "instruction": "Jelaskan definisi Lembaga Nonstruktural menurut PP Nomor 24 Tahun 2020.",
+        "context": "Mencakup aspek pembiayaan baik dari APBN maupun APBD.",
+        "response": "Lembaga Nonstruktural adalah lembaga selain kementerian atau selain lembaga pemerintah nonkementerian yang dibentuk dengan UU, PP, atau Perpres yang pembiayaannya dibebankan kepada APBN atau APBD."
+    },
+    {
+        "instruction": "Apa peran Lembaga OSS?",
+        "context": "Berdasarkan PP Nomor 78 Tahun 2019 terkait penanaman modal.",
+        "response": "Lembaga OSS adalah lembaga pemerintah non kementerian yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal."
+    },
+    {
+        "instruction": "Definisikan Lembaga Pelatihan Kerja.",
+        "context": "Merujuk pada Permenaker Nomor 6 Tahun 2020.",
+        "response": "Lembaga pelatihan kerja adalah instansi pemerintah, badan hukum, atau perorangan yang memenuhi persyaratan untuk menyelenggarakan pelatihan kerja."
+    },
+    {
+        "instruction": "Apa pengertian Lembaga Pembiayaan menurut UU Nomor 21 Tahun 2011?",
+        "context": "Konteks penyediaan dana atau barang modal.",
+        "response": "Lembaga Pembiayaan adalah badan usaha yang melakukan kegiatan pembiayaan dalam bentuk penyediaan dana atau barang modal sebagaimana dimaksud dalam peraturan perundang-undangan mengenai lembaga pembiayaan."
+    },
+    {
+        "instruction": "Apa itu Lembaga Pembiayaan Ekspor Indonesia (LPEI)?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2019.",
+        "response": "Lembaga Pembiayaan Ekspor Indonesia adalah lembaga sebagaimana dimaksud dalam Undang-Undang tentang Lembaga Pembiayaan Ekspor Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Pembinaan Khusus Anak (LPKA)?",
+        "context": "Sesuai UU Nomor 11 Tahun 2012 mengenai peradilan anak.",
+        "response": "Lembaga Pembinaan Khusus Anak adalah lembaga atau tempat Anak menjalani masa pidananya."
+    },
+    {
+        "instruction": "Apa fungsi Lembaga Pemeriksa Halal?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "Lembaga Pemeriksa Halal adalah lembaga yang melakukan kegiatan pemeriksaan dan/atau pengujian terhadap kehalalan Produk."
+    },
+    {
+        "instruction": "Jelaskan definisi Lembaga Pemerintah Nonkementerian (LPNK).",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2012 mengenai tugas pemerintahan tertentu.",
+        "response": "Lembaga Pemerintah Nonkementerian adalah lembaga pemerintah pusat yang melaksanakan tugas pemerintahan tertentu atau diberi kewenangan menyelenggarakan pendidikan kedinasan."
+    },
+    {
+        "instruction": "Apa itu Lembaga Pendidikan Tenaga Kependidikan?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2005 mengenai pengadaan guru.",
+        "response": "Lembaga Pendidikan Tenaga Kependidikan adalah perguruan tinggi yang diberi tugas oleh Pemerintah untuk menyelenggarakan program pengadaan guru pada jalur formal (PAUD, dasar, menengah) serta mengembangkan ilmu kependidikan."
+    },
+    {
+        "instruction": "Definisikan Lembaga Penelitian Dan Pengembangan.",
+        "context": "Sesuai UU Nomor 18 Tahun 2002.",
+        "response": "Lembaga Penelitian Dan Pengembangan adalah lembaga yang melaksanakan kegiatan penelitian dan/atau pengembangan."
+    },
+    {
+        "instruction": "Apa itu Lembaga Penempatan Anak Sementara (LPAS)?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2012.",
+        "response": "Lembaga Penempatan Anak Sementara adalah tempat sementara bagi Anak selama proses peradilan berlangsung."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga pengasuhan anak?",
+        "context": "Merujuk pada PP Nomor 54 Tahun 2007 terkait anak terlantar.",
+        "response": "Lembaga pengasuhan anak adalah lembaga, organisasi sosial, atau yayasan berbadan hukum yang menyelenggarakan pengasuhan anak terlantar dan telah mendapat izin menteri untuk proses pengangkatan anak."
+    },
+    {
+        "instruction": "Apa wewenang Lembaga Pengawas dan Pengatur (LPP)?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2013 terkait PJK atau Pihak Pelapor.",
+        "response": "Lembaga Pengawas dan Pengatur adalah lembaga yang memiliki kewenangan pengawasan, pengaturan, dan/atau pengenaan sanksi terhadap Penyedia Jasa Keuangan (PJK) atau Pihak Pelapor."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud Lembaga Pengawas Perbankan?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2004.",
+        "response": "Lembaga Pengawas Perbankan adalah Bank Indonesia atau lembaga pengawasan sektor jasa keuangan sebagaimana dimaksud dalam Undang-Undang tentang Bank Indonesia."
+    },
+    {
+        "instruction": "Apa itu Lembaga Pengelola Dan Penyelenggara Online Single Submission?",
+        "context": "Sesuai PP Nomor 78 Tahun 2019.",
+        "response": "Lembaga tersebut adalah lembaga pemerintah non kementerian yang menyelenggarakan urusan pemerintahan di bidang koordinasi penanaman modal."
+    },
+    {
+        "instruction": "Apa cakupan dari Lembaga Penjamin?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2016.",
+        "response": "Lembaga Penjamin meliputi Perusahaan Penjaminan, Perusahaan Penjaminan Syariah, Perusahaan Penjaminan Ulang, dan Perusahaan Penjaminan Ulang Syariah yang menjalankan kegiatan penjaminan."
+    },
+    {
+        "instruction": "Sebutkan definisi Lembaga Penjamin Simpanan (LPS).",
+        "context": "Merujuk pada PP Nomor 21 Tahun 2018.",
+        "response": "Lembaga Penjamin Simpanan adalah lembaga penjamin simpanan sebagaimana dimaksud dalam Undang-Undang mengenai Lembaga Penjamin Simpanan."
+    },
+    {
+        "instruction": "Apa itu Lembaga Penyelenggaraan Kesejahteraan Sosial (LPKS)?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2012 untuk pelayanan anak.",
+        "response": "Lembaga Penyelenggaraan Kesejahteraan Sosial adalah lembaga atau tempat pelayanan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial bagi Anak."
+    },
+    {
+        "instruction": "Definisikan Lembaga Penyiaran menurut UU Nomor 32 Tahun 2002.",
+        "context": "Mencakup berbagai jenis penyelenggara siaran.",
+        "response": "Lembaga Penyiaran adalah penyelenggara penyiaran, baik publik, swasta, komunitas, maupun berlangganan yang berpedoman pada peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa ciri khas Lembaga Penyiaran Publik (LPP)?",
+        "context": "Berdasarkan PP Nomor 13 Tahun 2005.",
+        "response": "Lembaga Penyiaran Publik adalah lembaga penyiaran berbentuk badan hukum yang didirikan negara, bersifat independen, netral, tidak komersial, dan berfungsi memberikan layanan untuk kepentingan masyarakat."
+    },
+    {
+        "instruction": "Apa tugas Lembaga Perlindungan Saksi dan Korban (LPSK)?",
+        "context": "Sesuai UU Nomor 31 Tahun 2014.",
+        "response": "Lembaga Perlindungan Saksi dan Korban adalah lembaga yang bertugas dan berwenang untuk memberikan perlindungan dan hak-hak lain kepada Saksi dan/atau Korban."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Pertanahan?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2012.",
+        "response": "Lembaga Pertanahan adalah Badan Pertanahan Nasional Republik Indonesia (BPN RI), lembaga pemerintah yang menyelenggarakan urusan pemerintahan di bidang pertanahan."
+    },
+    {
+        "instruction": "Apa fungsi Lembaga Sertifikasi Keandalan?",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2008 mengenai Transaksi Elektronik.",
+        "response": "Lembaga Sertifikasi Keandalan adalah lembaga independen yang dibentuk oleh profesional, disahkan Pemerintah, dengan kewenangan mengaudit dan mengeluarkan sertifikat keandalan dalam Transaksi Elektronik."
+    },
+    {
+        "instruction": "Definisikan Lembaga Sertifikasi Sistem Manajemen Pengamanan Informasi.",
+        "context": "Berdasarkan Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Lembaga Sertifikasi Sistem Manajemen Pengamanan Informasi adalah lembaga yang menerbitkan Sertifikat Sistem Manajemen Pengamanan Informasi."
+    },
+    {
+        "instruction": "Apa pengertian Lembaga Usaha menurut UU Penanggulangan Bencana?",
+        "context": "Mencakup berbagai bentuk badan hukum di wilayah NKRI.",
+        "response": "Lembaga Usaha adalah setiap badan hukum (BUMN, BUMD, koperasi, atau swasta) yang menjalankan jenis usaha tetap dan terus menerus serta berkedudukan dalam wilayah NKRI."
+    },
+    {
+        "instruction": "Apa peran Lembaga Wali Nanggroe di Aceh?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2006.",
+        "response": "Lembaga Wali Nanggroe adalah lembaga kepemimpinan adat sebagai pemersatu masyarakat dan pelestarian kehidupan adat dan budaya."
+    },
+    {
+        "instruction": "Apa definisi Limbah menurut peraturan lingkungan hidup?",
+        "context": "Merujuk pada Permen LHK Nomor P.101 Tahun 2018.",
+        "response": "Limbah adalah sisa suatu usaha dan/atau kegiatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Limbah B3?",
+        "context": "Definisi teknis sisa kegiatan berbahaya.",
+        "response": "Limbah B3 adalah sisa suatu usaha dan/atau kegiatan yang mengandung Bahan Berbahaya dan Beracun (B3)."
+    },
+    {
+        "instruction": "Jelaskan definisi Lingkungan Hidup menurut UU Energi.",
+        "context": "Sesuai UU Nomor 30 Tahun 2007 dan PP Nomor 46 Tahun 2016.",
+        "response": "Lingkungan hidup adalah kesatuan ruang dengan semua benda, daya, keadaan, dan makhluk hidup, termasuk manusia dan perilakunya, yang mempengaruhi kelangsungan perikehidupan dan kesejahteraan manusia serta makhluk hidup lain."
+    },
+    {
+        "instruction": "Apa cakupan Lingkungan Peradilan di bawah Mahkamah Agung?",
+        "context": "Berdasarkan UU Nomor 22 Tahun 2004.",
+        "response": "Lingkungan Peradilan meliputi peradilan umum, peradilan agama, peradilan militer, dan peradilan tata usaha negara, serta pengadilan khusus di dalamnya."
+    },
+    {
+        "instruction": "Apa itu Lisensi dalam hukum Merek?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016.",
+        "response": "Lisensi adalah izin yang diberikan oleh pemilik Merek terdaftar kepada pihak lain berdasarkan perjanjian tertulis untuk menggunakan Merek terdaftar tersebut."
+    },
+    {
+        "instruction": "Definisikan istilah Litigasi.",
+        "context": "Merujuk pada PP Nomor 42 Tahun 2013 tentang Bantuan Hukum.",
+        "response": "Litigasi adalah proses penanganan perkara hukum yang dilakukan melalui jalur pengadilan untuk menyelesaikannya."
+    },
+    {
+        "instruction": "Sebutkan singkatan dan definisi dari LNS.",
+        "context": "Terkait kelembagaan nonkementerian.",
+        "response": "LNS adalah Lembaga Nonstruktural, yaitu lembaga selain kementerian yang dibentuk berdasarkan UU/PP/Perpres yang pembiayaannya dibebankan kepada APBN atau APBD."
+    },
+    {
+        "instruction": "Apa itu LPEI?",
+        "context": "Konteks pembiayaan ekspor.",
+        "response": "LPEI adalah Lembaga Pembiayaan Ekspor Indonesia sebagaimana dimaksud dalam Undang-Undang tentang Lembaga Pembiayaan Ekspor Indonesia."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi dari LPKS?",
+        "context": "Konteks kesejahteraan anak.",
+        "response": "LPKS adalah Lembaga Penyelenggaraan Kesejahteraan Sosial, yaitu lembaga atau tempat pelayanan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial bagi Anak."
+    },
+    {
+        "instruction": "Definisikan singkatan LPNK.",
+        "context": "Struktur pemerintah pusat.",
+        "response": "LPNK adalah Lembaga Pemerintah Nonkementerian, yaitu lembaga pemerintah pusat yang melaksanakan tugas pemerintahan tertentu atau menyelenggarakan pendidikan kedinasan."
+    },
+    {
+        "instruction": "Apa itu LPS menurut regulasi perbankan?",
+        "context": "Sesuai PP Nomor 33 Tahun 2020.",
+        "response": "LPS adalah Lembaga Penjamin Simpanan sebagaimana dimaksud dalam Undang-Undang mengenai Lembaga Penjamin Simpanan."
+    },
+    {
+        "instruction": "Apa peran LPSK menurut peraturan perundang-undangan?",
+        "context": "Merujuk pada PP Nomor 7 Tahun 2018 dan UU Nomor 13 Tahun 2006.",
+        "response": "LPSK adalah Lembaga Perlindungan Saksi dan Korban, lembaga yang bertugas dan berwenang memberikan perlindungan dan hak-hak lain kepada Saksi dan/atau Korban."
     }
 ]
