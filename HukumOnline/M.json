@@ -1,0 +1,137 @@
+[
+    {
+        "instruction": "Apa definisi Mahasiswa menurut peraturan perguruan tinggi negeri badan hukum?",
+        "context": "Merujuk pada status peserta didik di universitas seperti Undip, ITS, atau Unhas berdasarkan PP tahun 2015.",
+        "response": "Mahasiswa adalah peserta didik pada jenjang pendidikan tinggi di perguruan tinggi yang bersangkutan (seperti Undip, ITS, atau Unhas)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Mahkamah Pelayaran?",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2019 mengenai pemeriksaan kecelakaan kapal.",
+        "response": "Mahkamah Pelayaran adalah panel ahli yang berada di bawah dan bertanggung jawab kepada Menteri yang bertugas untuk melakukan pemeriksaan lanjutan Kecelakaan Kapal."
+    },
+    {
+        "instruction": "Apa fungsi Majelis Kehormatan Disiplin Kedokteran Indonesia?",
+        "context": "Terkait dengan penegakan disiplin profesi medis menurut UU Nomor 29 Tahun 2004.",
+        "response": "Majelis Kehormatan Disiplin Kedokteran Indonesia adalah lembaga yang berwenang untuk menentukan ada tidaknya kesalahan yang dilakukan dokter dan dokter gigi dalam penerapan disiplin ilmu kedokteran dan kedokteran gigi, serta menetapkan sanksi."
+    },
+    {
+        "instruction": "Apa tugas dari Majelis Kehormatan Hakim?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2011 mengenai pengawasan perilaku hakim.",
+        "response": "Majelis Kehormatan Hakim adalah perangkat yang dibentuk oleh Mahkamah Agung dan Komisi Yudisial yang bertugas memeriksa dan memutus adanya dugaan pelanggaran Kode Etik dan/atau Pedoman Perilaku Hakim."
+    },
+    {
+        "instruction": "Jelaskan definisi Majelis Kehormatan Jaksa.",
+        "context": "Merujuk pada PP Nomor 20 Tahun 2008 terkait usulan pemberhentian jaksa.",
+        "response": "Majelis Kehormatan Jaksa adalah satuan organisasi yang keanggotaannya ditetapkan oleh Jaksa Agung, bertugas mengadakan sidang untuk melakukan pemeriksaan dan klarifikasi atas pelanggaran yang dilakukan oleh Jaksa yang diusulkan pemberhentiannya oleh Jaksa Agung Muda Pengawasan."
+    },
+    {
+        "instruction": "Apa peran Majelis Kehormatan Kode Etik Pegawai Negeri Sipil?",
+        "context": "Berdasarkan PP Nomor 42 Tahun 2004 mengenai disiplin PNS.",
+        "response": "Majelis Kehormatan Kode Etik Pegawai Negeri Sipil adalah lembaga non-struktural pada instansi pemerintah yang bertugas melakukan penegakan pelaksanaan serta menyelesaikan pelanggaran kode etik yang dilakukan oleh Pegawai Negeri Sipil."
+    },
+    {
+        "instruction": "Apa itu Majelis Kehormatan Mahkamah Konstitusi?",
+        "context": "Sesuai UU Nomor 8 Tahun 2011 untuk memantau hakim konstitusi.",
+        "response": "Majelis Kehormatan Mahkamah Konstitusi adalah perangkat yang dibentuk oleh Mahkamah Konstitusi untuk memantau, memeriksa dan merekomendasikan tindakan terhadap Hakim Konstitusi yang diduga melanggar Kode Etik dan Pedoman Perilaku Hakim Konstitusi."
+    },
+    {
+        "instruction": "Definisikan Majelis Komisi Banding dalam konteks Merek.",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2019.",
+        "response": "Majelis Komisi Banding adalah anggota Komisi Banding yang ditunjuk oleh ketua Komisi Banding untuk menyelesaikan Permohonan Banding."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Majelis Pemeriksa bagi Notaris?",
+        "context": "Merujuk pada Permenkumham Nomor 15 Tahun 2020.",
+        "response": "Majelis Pemeriksa adalah tim pemeriksa yang memiliki wewenang melakukan pemeriksaan dan penjatuhan sanksi yang dibentuk oleh Majelis Pengawas Notaris."
+    },
+    {
+        "instruction": "Apa pengertian umum Majelis Pengawas Notaris?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2004 dan UU Nomor 2 Tahun 2014.",
+        "response": "Majelis Pengawas Notaris adalah suatu badan yang mempunyai kewenangan dan kewajiban untuk melaksanakan pembinaan dan pengawasan terhadap Notaris."
+    },
+    {
+        "instruction": "Apa itu MPR menurut undang-undang?",
+        "context": "Merujuk pada lembaga tinggi negara sesuai UUD 1945.",
+        "response": "Majelis Permusyawaratan Rakyat (MPR) adalah Majelis Permusyawaratan Rakyat sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Majelis Permusyawaratan Ulama di Aceh?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2006.",
+        "response": "Majelis Permusyawaratan Ulama adalah majelis yang anggotanya terdiri atas ulama dan cendekiawan muslim yang merupakan mitra kerja Pemerintah Aceh dan DPRA."
+    },
+    {
+        "instruction": "Apa fungsi Majelis Tenaga Kesehatan Indonesia (MTKI)?",
+        "context": "Sesuai Permenkes Nomor 1796 Tahun 2011.",
+        "response": "Majelis Tenaga Kesehatan Indonesia adalah lembaga yang berfungsi untuk menjamin mutu tenaga kesehatan yang memberikan pelayanan kesehatan."
+    },
+    {
+        "instruction": "Apa peran Majelis Tenaga Kesehatan Provinsi?",
+        "context": "Berdasarkan Permenkes Nomor 1796 Tahun 2011.",
+        "response": "Majelis Tenaga Kesehatan Provinsi adalah lembaga yang membantu pelaksanaan tugas MTKI di tingkat provinsi."
+    },
+    {
+        "instruction": "Definisikan Majelis Ulama Indonesia (MUI).",
+        "context": "Konteks wadah musyawarah ulama menurut UU Nomor 33 Tahun 2014.",
+        "response": "Majelis Ulama Indonesia adalah wadah musyawarah para ulama, zuama, dan cendekiawan muslim."
+    },
+    {
+        "instruction": "Apa itu Majelis Wali Amanat (MWA) di perguruan tinggi?",
+        "context": "Berdasarkan peraturan PTN Badan Hukum (Undip, ITS, Unhas).",
+        "response": "Majelis Wali Amanat adalah organ universitas yang menetapkan, memberikan pertimbangan pelaksanaan kebijakan umum, dan melaksanakan pengawasan di bidang nonakademik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Maladministrasi?",
+        "context": "Merujuk pada UU Nomor 37 Tahun 2008 mengenai pelayanan publik.",
+        "response": "Maladministrasi adalah perilaku atau perbuatan melawan hukum, melampaui wewenang, kelalaian, atau pengabaian kewajiban hukum dalam penyelenggaraan pelayanan publik yang menimbulkan kerugian bagi masyarakat."
+    },
+    {
+        "instruction": "Jelaskan definisi Manajemen ASN.",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 untuk menghasilkan pegawai profesional.",
+        "response": "Manajemen ASN adalah pengelolaan ASN untuk menghasilkan Pegawai ASN yang profesional, memiliki nilai dasar, etika profesi, bebas dari intervensi politik, serta bersih dari praktik korupsi, kolusi, dan nepotisme."
+    },
+    {
+        "instruction": "Apa itu Manajemen Dan Rekayasa Lalu Lintas?",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2011.",
+        "response": "Manajemen Dan Rekayasa Lalu Lintas adalah serangkaian usaha yang meliputi perencanaan, pengadaan, pengaturan, dan pemeliharaan fasilitas jalan guna mewujudkan keamanan, keselamatan, dan kelancaran lalu lintas."
+    },
+    {
+        "instruction": "Apa tujuan dari Manajemen Kebutuhan Lalu Lintas?",
+        "context": "Merujuk pada PP Nomor 32 Tahun 2011.",
+        "response": "Manajemen Kebutuhan Lalu Lintas adalah kegiatan dengan sasaran meningkatkan efisiensi penggunaan ruang lalu lintas dan mengendalikan pergerakan lalu lintas."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Manajer Investasi?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2016 dan PP Nomor 63 Tahun 2019.",
+        "response": "Manajer Investasi adalah pihak yang kegiatan usahanya mengelola portofolio efek untuk nasabah atau portofolio investasi kolektif, kecuali perusahaan asuransi, dana pensiun, dan bank yang melakukan sendiri kegiatan usahanya sesuai peraturan."
+    },
+    {
+        "instruction": "Apa definisi Mandat dalam administrasi pemerintahan?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2014 mengenai pelimpahan wewenang.",
+        "response": "Mandat adalah pelimpahan Kewenangan dari Badan/Pejabat Pemerintahan yang lebih tinggi kepada yang lebih rendah dengan tanggung jawab tetap berada pada pemberi mandat."
+    },
+    {
+        "instruction": "Apa fungsi Marka Jalan menurut PP Nomor 30 Tahun 2021?",
+        "context": "Terkait tanda di permukaan jalan.",
+        "response": "Marka Jalan adalah tanda di permukaan jalan (garis membujur, melintang, serong, atau lambang) yang berfungsi mengarahkan arus lalu lintas dan membatasi daerah kepentingan lalu lintas."
+    },
+    {
+        "instruction": "Apa itu Masa Iur dalam program pensiun?",
+        "context": "Berdasarkan PP Nomor 45 Tahun 2015.",
+        "response": "Masa Iur adalah jumlah bulan pelunasan pembayaran iuran kepada BPJS Ketenagakerjaan."
+    },
+    {
+        "instruction": "Definisikan istilah Masa Pajak.",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2007 mengenai KUP.",
+        "response": "Masa Pajak adalah jangka waktu yang menjadi dasar bagi Wajib Pajak untuk menghitung, menyetor, dan melaporkan pajak yang terutang dalam suatu jangka waktu tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Masa Retensi dalam intelijen?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2011.",
+        "response": "Masa Retensi adalah jangka waktu pelindungan dan penyimpanan Rahasia Intelijen."
+    },
+    {
+        "instruction": "Apa pengertian Masa Retribusi?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009 mengenai Pajak & Retribusi Daerah.",
+        "response": "Masa Retribusi adalah suatu jangka waktu tertentu yang merupakan batas waktu bagi Wajib Retribusi untuk memanfaatkan jasa dan perizinan tertentu dari Pemerintah Daerah."
+    }
+]
