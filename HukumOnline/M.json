@@ -133,5 +133,265 @@
         "instruction": "Apa pengertian Masa Retribusi?",
         "context": "Berdasarkan UU Nomor 28 Tahun 2009 mengenai Pajak & Retribusi Daerah.",
         "response": "Masa Retribusi adalah suatu jangka waktu tertentu yang merupakan batas waktu bagi Wajib Retribusi untuk memanfaatkan jasa dan perizinan tertentu dari Pemerintah Daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Masa Tenang dalam Pemilihan Umum?",
+        "context": "Pertanyaan ini merujuk pada periode larangan kampanye sebelum hari pemungutan suara berdasarkan UU Nomor 7 Tahun 2017.",
+        "response": "Masa Tenang adalah masa yang tidak dapat digunakan untuk melakukan aktivitas Kampanye Pemilu."
+    },
+    {
+        "instruction": "Jelaskan definisi Masyarakat dalam konteks tata ruang pertanahan.",
+        "context": "Berdasarkan Perpres Nomor 62 Tahun 2018 mengenai penguasaan tanah.",
+        "response": "Masyarakat adalah penduduk yang menguasai tanah negara atau tanah yang dimiliki oleh pemerintah, pemerintah daerah, badan usaha milik negara (BUMN), atau badan usaha milik daerah (BUMD)."
+    },
+    {
+        "instruction": "Apa pengertian Masyarakat Adat menurut UU Nomor 2 Tahun 2021?",
+        "context": "Konteks kekhususan bagi warga asli di wilayah Papua.",
+        "response": "Masyarakat Adat adalah warga masyarakat asli Papua yang hidup dalam wilayah dan terikat serta tunduk kepada adat tertentu dengan rasa solidaritas yang tinggi di antara para anggotanya."
+    },
+    {
+        "instruction": "Bagaimana UU Nomor 17 Tahun 2019 mendefinisikan Masyarakat Adat?",
+        "context": "Terkait pengelolaan sumber daya alam dan identitas budaya tradisional.",
+        "response": "Masyarakat Adat adalah masyarakat hukum adat dan/atau masyarakat tradisional yang hidup secara turun-temurun di wilayah geografis tertentu dan diikat oleh identitas budaya, hubungan yang kuat dengan tanah, serta wilayah dan sumber daya alam di wilayah adatnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Masyarakat Berpenghasilan Rendah (MBR)?",
+        "context": "Merujuk pada kriteria bantuan perumahan menurut PP Nomor 47 Tahun 2019.",
+        "response": "Masyarakat Berpenghasilan Rendah adalah masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapatkan dukungan pemerintah untuk memperoleh rumah."
+    },
+    {
+        "instruction": "Definisikan Masyarakat Hukum Adat menurut UU Lingkungan Hidup.",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2009 mengenai kelompok masyarakat tradisional.",
+        "response": "Masyarakat Hukum Adat adalah kelompok masyarakat yang secara turun temurun bermukim di wilayah geografis tertentu karena adanya ikatan pada asal usul leluhur, adanya hubungan yang kuat dengan lingkungan hidup, serta adanya sistem nilai yang menentukan pranata ekonomi, politik, sosial, dan hukum."
+    },
+    {
+        "instruction": "Apa itu Masyarakat Lokal dalam pengelolaan wilayah pesisir?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2014.",
+        "response": "Masyarakat Lokal adalah kelompok Masyarakat yang menjalankan tata kehidupan sehari-hari berdasarkan kebiasaan yang sudah diterima sebagai nilai-nilai yang berlaku umum, tetapi tidak sepenuhnya bergantung pada Sumber Daya Pesisir dan Pulau-Pulau Kecil tertentu."
+    },
+    {
+        "instruction": "Apa pengertian Masyarakat Tradisional dalam hukum laut?",
+        "context": "Berdasarkan UU Nomor 27 Tahun 2007 terkait hak penangkapan ikan.",
+        "response": "Masyarakat Tradisional adalah masyarakat perikanan tradisional yang masih diakui hak tradisionalnya dalam melakukan kegiatan penangkapan ikan atau kegiatan lainnya yang sah di daerah tertentu yang berada dalam perairan kepulauan sesuai dengan kaidah hukum laut internasional."
+    },
+    {
+        "instruction": "Apa definisi Mata Uang negara Indonesia?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2011.",
+        "response": "Mata Uang adalah uang yang dikeluarkan oleh Negara Kesatuan Republik Indonesia yang selanjutnya disebut Rupiah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Materi Muatan Peraturan Perundang-Undangan?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2011 mengenai hierarki hukum.",
+        "response": "Materi Muatan Peraturan Perundang-Undangan adalah materi yang dimuat dalam Peraturan Perundang-undangan sesuai dengan jenis, fungsi, dan hierarki Peraturan Perundang-undangan."
+    },
+    {
+        "instruction": "Sebutkan kepanjangan dan definisi MBR.",
+        "context": "Terkait dengan pengembangan perumahan rakyat.",
+        "response": "MBR adalah Masyarakat Berpenghasilan Rendah, yaitu masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapat dukungan pemerintah untuk memperoleh rumah atau sarusun umum."
+    },
+    {
+        "instruction": "Apa itu Media Massa menurut peraturan pemerintah?",
+        "context": "Berdasarkan PP Nomor 57 Tahun 2014 mengenai sarana informasi.",
+        "response": "Media Massa adalah sarana informasi dan komunikasi untuk umum dalam bentuk cetak, elektronik, atau bentuk lain."
+    },
+    {
+        "instruction": "Jelaskan definisi Mediasi dalam pelayanan publik.",
+        "context": "Sesuai UU Nomor 25 Tahun 2009 melalui peran Ombudsman.",
+        "response": "Mediasi adalah penyelesaian sengketa pelayanan publik antarpara pihak melalui bantuan, baik oleh ombudsman sendiri maupun melalui mediator yang dibentuk oleh ombudsman."
+    },
+    {
+        "instruction": "Apa itu Mediasi Hubungan Industrial?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2004 mengenai perselisihan kerja.",
+        "response": "Mediasi Hubungan Industrial adalah penyelesaian perselisihan hak, kepentingan, pemutusan hubungan kerja, dan antar serikat pekerja hanya dalam satu perusahaan melalui musyawarah yang ditengahi oleh seorang atau lebih mediator yang netral."
+    },
+    {
+        "instruction": "Siapakah Mediator Hubungan Industrial?",
+        "context": "Konteks pegawai pemerintah di bidang ketenagakerjaan.",
+        "response": "Mediator Hubungan Industrial adalah pegawai instansi pemerintah yang bertanggung jawab di bidang ketenagakerjaan yang memenuhi syarat sebagai mediator untuk menengahi perselisihan dan memberikan anjuran tertulis kepada para pihak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan tindakan Membubarkan Perusahaan?",
+        "context": "Berdasarkan Permenaker Nomor 18 Tahun 2017.",
+        "response": "Membubarkan Perusahaan adalah tindakan menghentikan kegiatan Perusahaan untuk selama-lamanya."
+    },
+    {
+        "instruction": "Apa definisi Memindahkan Perusahaan?",
+        "context": "Terkait perubahan lokasi atau kepemilikan.",
+        "response": "Memindahkan Perusahaan adalah memindahkan tempat kedudukan dan/atau lokasi Perusahaan atau mengalihkan pemiliknya."
+    },
+    {
+        "instruction": "Kapan sebuah perusahaan dianggap mulai Mendirikan Perusahaan?",
+        "context": "Merujuk pada aspek fisik dan perizinan.",
+        "response": "Mendirikan Perusahaan dihitung sejak Perusahaan itu melakukan kegiatan fisik Perusahaan dan/atau memperoleh izin."
+    },
+    {
+        "instruction": "Apa perbedaan Menghentikan Perusahaan dengan Membubarkan Perusahaan?",
+        "context": "Berdasarkan durasi dan maksud penghentian.",
+        "response": "Menghentikan Perusahaan adalah menghentikan kegiatan usaha Perusahaan tidak lebih dari satu tahun dan bukan bermaksud untuk membubarkan Perusahaan."
+    },
+    {
+        "instruction": "Apa itu Menjalankan Kembali Perusahaan?",
+        "context": "Konteks reaktivasi operasional.",
+        "response": "Menjalankan Kembali Perusahaan adalah mulai menjalankan kembali kegiatan Perusahaan setelah perusahaan dihentikan sebelumnya."
+    },
+    {
+        "instruction": "Sebutkan definisi umum Menteri dalam berbagai sektor.",
+        "context": "Mencakup bidang perhubungan, hukum, atau ketenagakerjaan.",
+        "response": "Menteri adalah pejabat yang menyelenggarakan urusan pemerintahan di bidang tertentu (seperti sarana transportasi, hukum, atau ketenagakerjaan) sesuai dengan portofolionya."
+    },
+    {
+        "instruction": "Apa tugas utama Menteri Keuangan?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2012 mengenai keuangan negara.",
+        "response": "Menteri Keuangan adalah menteri yang menyelenggarakan urusan pemerintahan di bidang Keuangan Negara."
+    },
+    {
+        "instruction": "Apa peran Menteri Perencanaan menurut peraturan pemerintah?",
+        "context": "Terkait pembangunan nasional.",
+        "response": "Menteri Perencanaan adalah menteri yang bertanggung jawab atau menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan nasional."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Menteri/Pimpinan Lembaga dalam konteks PNBP?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2018.",
+        "response": "Menteri/Pimpinan Lembaga adalah pejabat yang bertanggung jawab atas pengelolaan keuangan Kementerian/Lembaga yang bersangkutan."
+    },
+    {
+        "instruction": "Apa definisi Menteri Selaku Ketua Harian DEN?",
+        "context": "Berdasarkan Permen ESDM Nomor 5 Tahun 2020.",
+        "response": "Menteri Selaku Ketua Harian DEN (Dewan Energi Nasional) adalah menteri yang menyelenggarakan urusan pemerintahan di bidang energi."
+    },
+    {
+        "instruction": "Jelaskan definisi Merek menurut UU Nomor 20 Tahun 2016.",
+        "context": "Mencakup tanda grafis hingga suara dan hologram.",
+        "response": "Merek adalah tanda yang dapat ditampilkan secara grafis berupa gambar, logo, nama, kata, huruf, angka, susunan warna, dalam bentuk 2D/3D, suara, hologram, atau kombinasinya untuk membedakan barang/jasa dalam kegiatan perdagangan."
+    },
+    {
+        "instruction": "Apa perbedaan Merek Dagang dan Merek Jasa?",
+        "context": "Berdasarkan subjek yang diperdagangkan.",
+        "response": "Merek Dagang digunakan pada barang yang diperdagangkan, sedangkan Merek Jasa digunakan pada jasa yang diperdagangkan, keduanya berfungsi untuk membedakan dengan produk sejenis lainnya."
+    },
+    {
+        "instruction": "Apa itu Merek Kolektif?",
+        "context": "Terkait penggunaan bersama oleh beberapa pihak.",
+        "response": "Merek Kolektif adalah Merek yang digunakan pada barang dan/atau jasa dengan karakteristik yang sama yang diperdagangkan oleh beberapa orang atau badan hukum secara bersama-sama."
+    },
+    {
+        "instruction": "Definisikan istilah Meterai menurut UU Nomor 10 Tahun 2020.",
+        "context": "Konteks pajak atas dokumen.",
+        "response": "Meterai adalah label atau carik dalam bentuk tempel, elektronik, atau bentuk lainnya yang memiliki ciri dan unsur pengaman yang dikeluarkan Pemerintah RI untuk membayar pajak atas Dokumen."
+    },
+    {
+        "instruction": "Apa pengertian Militer menurut UU Nomor 25 Tahun 2014?",
+        "context": "Konteks anggota atau kekuatan angkatan perang.",
+        "response": "Militer adalah anggota atau kekuatan angkatan perang suatu negara yang diatur berdasarkan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Mineral dalam konteks pertambangan?",
+        "context": "Berdasarkan PP Nomor 22 Tahun 2010.",
+        "response": "Mineral adalah senyawa anorganik yang terbentuk di alam yang memiliki sifat fisik dan kimia tertentu serta susunan kristal teratur atau gabungannya yang membentuk batuan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Minuta Akta?",
+        "context": "Merujuk pada protokol notaris sesuai UU Nomor 2 Tahun 2014.",
+        "response": "Minuta Akta adalah asli Akta Notaris yang mencantumkan tanda tangan para penghadap, saksi, dan Notaris, yang disimpan sebagai bagian dari Protokol Notaris."
+    },
+    {
+        "instruction": "Definisikan Minyak Bumi menurut Permen ESDM Nomor 17 Tahun 2017.",
+        "context": "Hasil proses alami hidrokarbon fasa cair atau padat.",
+        "response": "Minyak Bumi adalah hasil proses alami berupa hidrokarbon yang dalam kondisi tekanan dan temperatur atmosfer berupa fasa cair atau padat (termasuk aspal, lilin mineral, bitumen), tetapi tidak termasuk batubara."
+    },
+    {
+        "instruction": "Apa itu Minyak dan Gas Bumi?",
+        "context": "Definisi gabungan komoditas energi.",
+        "response": "Minyak dan Gas Bumi adalah kesatuan dari Minyak Bumi dan Gas Bumi."
+    },
+    {
+        "instruction": "Apa pengertian Mitigasi dalam konteks perubahan iklim?",
+        "context": "Berdasarkan UU Nomor 31 Tahun 2009.",
+        "response": "Mitigasi adalah usaha pengendalian untuk mengurangi risiko akibat perubahan iklim melalui kegiatan yang dapat menurunkan emisi atau meningkatkan penyerapan gas rumah kaca."
+    },
+    {
+        "instruction": "Siapakah Mitra Usaha dalam penempatan TKI?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017 mengenai penempatan luar negeri.",
+        "response": "Mitra Usaha adalah instansi dan/atau badan usaha berbentuk badan hukum di negara tujuan penempatan yang bertanggung jawab menempatkan Pekerja Migran Indonesia (TKI) pada pemberi kerja."
+    },
+    {
+        "instruction": "Apa definisi Modal menurut UU Penanaman Modal?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2007.",
+        "response": "Modal adalah aset dalam bentuk uang atau bentuk lain yang bukan uang yang dimiliki oleh penanam modal yang mempunyai nilai ekonomis."
+    },
+    {
+        "instruction": "Jelaskan perbedaan Modal Asing dan Modal Dalam Negeri.",
+        "context": "Berdasarkan kepemilikan modal.",
+        "response": "Modal Asing dimiliki oleh pihak asing (negara, warga negara, atau badan hukum asing), sedangkan Modal Dalam Negeri dimiliki oleh negara RI, warga negara Indonesia, atau badan usaha Indonesia."
+    },
+    {
+        "instruction": "Apa itu Modal Penyertaan dalam Koperasi?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2012.",
+        "response": "Modal Penyertaan adalah penyetoran modal pada Koperasi berupa uang/barang oleh perorangan atau badan hukum untuk memperkuat permodalan guna meningkatkan kegiatan usaha."
+    },
+    {
+        "instruction": "Definisikan tindakan Mogok Kerja.",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2003.",
+        "response": "Mogok kerja adalah tindakan pekerja/buruh yang direncanakan dan dilaksanakan secara bersama-sama dan/atau oleh serikat pekerja untuk menghentikan atau memperlambat pekerjaan."
+    },
+    {
+        "instruction": "Apa itu Monopoli dalam persaingan usaha?",
+        "context": "Sesuai dengan PP Nomor 44 Tahun 2021.",
+        "response": "Monopoli adalah penguasaan atas produksi dan/atau pemasaran barang dan/atau atas penggunaan jasa tertentu oleh satu Pelaku Usaha atau satu kelompok pelaku usaha."
+    },
+    {
+        "instruction": "Apa pengertian MPR menurut konstitusi?",
+        "context": "Lembaga tinggi negara sesuai UUD 1945.",
+        "response": "MPR adalah Majelis Permusyawaratan Rakyat sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa peran MRP (Majelis Rakyat Papua)?",
+        "context": "Representasi kultural orang asli Papua menurut UU Nomor 2 Tahun 2021.",
+        "response": "MRP adalah representasi kultural Orang Asli Papua yang memiliki wewenang tertentu dalam rangka pelindungan hak-hak orang asli Papua dengan berlandaskan pada penghormatan terhadap adat, budaya, pemberdayaan perempuan, dan kerukunan beragama."
+    },
+    {
+        "instruction": "Jelaskan prinsip akad Mudarabah.",
+        "context": "Konteks investasi syariah menurut UU Nomor 19 Tahun 2008.",
+        "response": "Mudarabah adalah akad kerja sama di mana satu pihak menyediakan modal dan pihak lain menyediakan tenaga/keahlian; keuntungan dibagi berdasarkan nisbah yang disetujui, sedangkan kerugian finansial ditanggung penyedia modal (kecuali jika ada kelalaian pengelola)."
+    },
+    {
+        "instruction": "Apa itu MUI?",
+        "context": "Wadah musyawarah cendekiawan muslim.",
+        "response": "MUI (Majelis Ulama Indonesia) adalah wadah musyawarah para ulama, zuama, dan cendekiawan muslim."
+    },
+    {
+        "instruction": "Siapakah Mustahik itu?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2011 mengenai zakat.",
+        "response": "Mustahik adalah orang yang berhak menerima zakat."
+    },
+    {
+        "instruction": "Apa itu akad Musyarakah?",
+        "context": "Konteks penggabungan modal dalam investasi syariah.",
+        "response": "Musyarakah adalah akad kerja sama antara dua pihak atau lebih untuk menggabungkan modal guna memperoleh keuntungan yang dibagi sesuai nisbah, sedangkan kerugian ditanggung bersama sesuai jumlah partisipasi modal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Musyawarah Desa?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2014.",
+        "response": "Musyawarah Desa adalah musyawarah antara Badan Permusyawaratan Desa, Pemerintah Desa, dan unsur masyarakat untuk menyepakati hal yang bersifat strategis."
+    },
+    {
+        "instruction": "Apa fungsi Musyawarah Perencanaan Pembangunan?",
+        "context": "Forum penyusunan rencana nasional dan daerah.",
+        "response": "Musyawarah Perencanaan Pembangunan adalah forum antarpelaku dalam rangka menyusun rencana pembangunan Nasional dan rencana pembangunan Daerah."
+    },
+    {
+        "instruction": "Definisikan Mutu Pangan menurut UU Nomor 18 Tahun 2012.",
+        "context": "Kriteria nilai keamanan dan gizi.",
+        "response": "Mutu Pangan adalah nilai yang ditentukan atas dasar kriteria keamanan dan kandungan Gizi Pangan."
+    },
+    {
+        "instruction": "Siapakah Muzaki itu?",
+        "context": "Konteks kewajiban menunaikan zakat.",
+        "response": "Muzaki adalah seorang muslim atau badan usaha yang berkewajiban menunaikan zakat."
+    },
+    {
+        "instruction": "Apa peran MWA (Majelis Wali Amanat) di universitas?",
+        "context": "Organ pengawas nonakademik di PTN-BH (Undip, ITS, Unhas).",
+        "response": "MWA adalah organ universitas yang menetapkan dan memberikan pertimbangan kebijakan umum serta melaksanakan pengawasan di bidang nonakademik."
     }
 ]
