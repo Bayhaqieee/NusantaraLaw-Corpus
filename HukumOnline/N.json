@@ -1,0 +1,147 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Nama Yayasan menurut PP Nomor 63 Tahun 2008?",
+        "context": "Pertanyaan ini merujuk pada identitas hukum sebuah yayasan.",
+        "response": "Nama Yayasan adalah nama diri dari Yayasan yang bersangkutan."
+    },
+    {
+        "instruction": "Jelaskan definisi Nasabah dalam konteks Perdagangan Berjangka Komoditi.",
+        "context": "Berdasarkan PP Nomor 49 Tahun 2014 mengenai pihak yang bertransaksi melalui pialang.",
+        "response": "Nasabah adalah Pihak yang melakukan transaksi Kontrak Berjangka, Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya melalui rekening yang dikelola oleh Pialang Berjangka."
+    },
+    {
+        "instruction": "Apa itu Nasabah Debitur menurut UU Lembaga Penjamin Simpanan?",
+        "context": "Merujuk pada definisi dalam sektor perbankan menurut UU Nomor 24 Tahun 2004.",
+        "response": "Nasabah Debitur adalah nasabah debitur sebagaimana dimaksud dalam Undang-Undang tentang Perbankan."
+    },
+    {
+        "instruction": "Apa pengertian Nasabah Penyimpan berdasarkan regulasi LPS?",
+        "context": "Sesuai dengan UU Nomor 24 Tahun 2004 terkait nasabah bank.",
+        "response": "Nasabah Penyimpan adalah nasabah penyimpan sebagaimana dimaksud dalam Undang-Undang tentang Perbankan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Naskah Akademik dalam pembentukan peraturan?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2019 mengenai pertanggungjawaban ilmiah suatu rancangan hukum.",
+        "response": "Naskah Akademik adalah naskah hasil penelitian atau pengkajian hukum dan hasil penelitian lainnya terhadap suatu masalah tertentu yang dapat dipertanggungjawabkan secara ilmiah mengenai pengaturan masalah tersebut dalam suatu Rancangan Undang-Undang atau Rancangan Peraturan Daerah sebagai solusi terhadap permasalahan hukum masyarakat."
+    },
+    {
+        "instruction": "Definisikan Naskah Perjanjian Penerusan Pinjaman.",
+        "context": "Merujuk pada dokumen hukum terkait pinjaman atau hibah luar negeri menurut PP Nomor 2 Tahun 2006.",
+        "response": "Naskah Perjanjian Penerusan Pinjaman adalah naskah perjanjian untuk penerusan pinjaman dan/atau hibah luar negeri antara Pemerintah dengan Penerima Penerusan Pinjaman (seperti LPEI)."
+    },
+    {
+        "instruction": "Apa itu Naskah Perjanjian Pinjaman Luar Negeri?",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2011 mengenai kesepakatan dengan pemberi pinjaman asing.",
+        "response": "Naskah Perjanjian Pinjaman Luar Negeri adalah dokumen perjanjian antara Pemerintah dan pemberi pinjaman luar negeri atau dokumen lain yang disamakan yang memuat kesepakatan mengenai pinjaman luar negeri."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Nazhir dalam hukum perdata Islam?",
+        "context": "Berdasarkan UU Nomor 41 Tahun 2004 mengenai pengelolaan wakaf.",
+        "response": "Nazhir adalah pihak yang menerima harta benda wakaf dari Wakif untuk dikelola dan dikembangkan sesuai dengan peruntukannya."
+    },
+    {
+        "instruction": "Apa definisi Negara menurut UU Nomor 34 Tahun 2004?",
+        "context": "Konteks identitas nasional Indonesia dalam hukum militer.",
+        "response": "Negara adalah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Negara Kepulauan?",
+        "context": "Merujuk pada UU Nomor 32 Tahun 2014 tentang Kelautan.",
+        "response": "Negara Kepulauan adalah negara yang seluruhnya terdiri atas satu atau lebih kepulauan dan dapat mencakup pulau-pulau lain."
+    },
+    {
+        "instruction": "Jelaskan definisi Negara Kesatuan Republik Indonesia (NKRI).",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2009 mengenai ciri khas nusantara.",
+        "response": "Negara Kesatuan Republik Indonesia adalah sebuah negara kepulauan yang berciri Nusantara dengan wilayah yang batas-batas dan hak-haknya ditetapkan dengan undang-undang."
+    },
+    {
+        "instruction": "Apa itu NIB dalam sistem perizinan berusaha?",
+        "context": "Sesuai dengan PP Nomor 12 Tahun 2020 terkait OSS.",
+        "response": "NIB adalah Nomor Induk Berusaha sebagaimana dimaksud dalam peraturan perundang-undangan di bidang perizinan berusaha terintegrasi secara elektronik."
+    },
+    {
+        "instruction": "Apa pengertian Nilai Ambang Batas (NAB) dalam K3?",
+        "context": "Merujuk pada Permenaker Nomor 5 Tahun 2018 mengenai standar faktor bahaya.",
+        "response": "Nilai Ambang Batas adalah standar faktor bahaya di Tempat Kerja sebagai kadar/intensitas rata-rata tertimbang waktu (time weighted average) yang dapat diterima Tenaga Kerja tanpa mengakibatkan penyakit atau gangguan kesehatan dalam durasi kerja tertentu (8 jam sehari/40 jam seminggu)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Nilai Ekspor dalam aturan perpajakan?",
+        "context": "Berdasarkan UU Nomor 42 Tahun 2009 terkait PPN.",
+        "response": "Nilai Ekspor adalah nilai berupa uang, termasuk semua biaya yang diminta atau seharusnya diminta oleh eksportir."
+    },
+    {
+        "instruction": "Jelaskan definisi Nilai Impor.",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009 sebagai dasar penghitungan bea masuk.",
+        "response": "Nilai Impor adalah nilai berupa uang yang menjadi dasar penghitungan bea masuk ditambah pungutan berdasarkan peraturan kepabeanan dan cukai untuk impor Barang Kena Pajak, tidak termasuk PPN dan PPnBM."
+    },
+    {
+        "instruction": "Apa itu Nilai Jual Objek Pajak (NJOP)?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016 mengenai transaksi jual beli yang wajar.",
+        "response": "Nilai Jual Objek Pajak adalah harga rata-rata yang diperoleh dari transaksi jual beli yang terjadi secara wajar, atau ditentukan melalui perbandingan harga objek sejenis, nilai perolehan baru, atau NJOP pengganti jika tidak ada transaksi."
+    },
+    {
+        "instruction": "Apa singkatan dan definisi dari NJOP menurut UU Keuangan Daerah?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2022.",
+        "response": "NJOP adalah Nilai Jual Objek Pajak, yaitu harga rata-rata yang diperoleh dari transaksi jual beli secara wajar atau melalui perbandingan harga dengan objek lain yang sejenis."
+    },
+    {
+        "instruction": "Sebutkan pengertian NKRI secara singkat.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2009.",
+        "response": "NKRI adalah Negara Kesatuan Republik Indonesia, sebuah negara kepulauan berciri Nusantara dengan batas wilayah yang ditetapkan undang-undang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Nomor Induk Berusaha?",
+        "context": "Sesuai dengan PP Nomor 29 Tahun 2021 sebagai identitas pelaku usaha.",
+        "response": "Nomor Induk Berusaha adalah bukti registrasi/pendaftaran Pelaku Usaha untuk melakukan kegiatan usaha dan sebagai identitas bagi Pelaku Usaha dalam pelaksanaan kegiatan usahanya."
+    },
+    {
+        "instruction": "Apa definisi Nomor Induk Kependudukan (NIK)?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2013 mengenai identitas tunggal penduduk.",
+        "response": "Nomor Induk Kependudukan adalah nomor identitas Penduduk yang bersifat unik atau khas, tunggal dan melekat pada seseorang yang terdaftar sebagai Penduduk Indonesia."
+    },
+    {
+        "instruction": "Jelaskan kegunaan Nomor Pokok Wajib Pajak (NPWP).",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2007 terkait administrasi perpajakan.",
+        "response": "Nomor Pokok Wajib Pajak adalah nomor yang diberikan kepada Wajib Pajak sebagai sarana dalam administrasi perpajakan yang dipergunakan sebagai tanda pengenal diri atau identitas Wajib Pajak dalam melaksanakan hak dan kewajiban perpajakannya."
+    },
+    {
+        "instruction": "Apa itu Norma dalam penyelenggaraan pemerintahan daerah?",
+        "context": "Berdasarkan PP Nomor 3 Tahun 2015.",
+        "response": "Norma adalah aturan atau ketentuan yang dipakai sebagai tatanan untuk penyelenggaraan pemerintahan daerah."
+    },
+    {
+        "instruction": "Apa pengertian Norma Ketenagakerjaan?",
+        "context": "Merujuk pada Permenaker Nomor 33 Tahun 2016.",
+        "response": "Norma Ketenagakerjaan adalah segala bentuk peraturan perundang-undangan atau standar di bidang ketenagakerjaan yang terdiri dari norma kerja dan norma Keselamatan dan Kesehatan Kerja (K3)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Nota Pemeriksaan dalam pengawasan kerja?",
+        "context": "Berdasarkan Permenaker Nomor 33 Tahun 2016.",
+        "response": "Nota Pemeriksaan adalah peringatan dan/atau perintah tertulis Pengawas Ketenagakerjaan kepada Pengusaha untuk memperbaiki ketidakpatuhan terhadap Norma Ketenagakerjaan berdasarkan hasil pemeriksaan."
+    },
+    {
+        "instruction": "Siapakah Notaris menurut UU Jabatan Notaris?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2014 sebagai pejabat umum pembuat akta.",
+        "response": "Notaris adalah pejabat umum yang berwenang untuk membuat akta autentik dan memiliki kewenangan lainnya sesuai dengan undang-undang."
+    },
+    {
+        "instruction": "Apa tugas seorang Notaris Pengganti?",
+        "context": "Sesuai dengan UU Nomor 30 Tahun 2004 terkait penggantian sementara.",
+        "response": "Notaris Pengganti adalah seorang yang untuk sementara diangkat sebagai Notaris untuk menggantikan Notaris yang sedang cuti, sakit, atau berhalangan menjalankan jabatannya."
+    },
+    {
+        "instruction": "Apa itu Notaris Pengganti Khusus?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2004 untuk wilayah dengan satu notaris.",
+        "response": "Notaris Pengganti Khusus adalah seorang yang diangkat sebagai Notaris khusus untuk membuat akta tertentu di suatu daerah yang hanya memiliki seorang Notaris, di mana Notaris tersebut dilarang membuat akta dimaksud menurut undang-undang."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi NPPLN?",
+        "context": "Terkait dengan perjanjian pinjaman asing dalam PP Nomor 2 Tahun 2006.",
+        "response": "NPPLN adalah Naskah Perjanjian Pinjaman Luar Negeri, yaitu dokumen atau naskah yang memuat kesepakatan mengenai Pinjaman Luar Negeri antara Pemerintah dengan Pemberi Pinjaman Luar Negeri."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi NPPP?",
+        "context": "Sesuai dengan PP Nomor 9 Tahun 2011 terkait penerusan kredit.",
+        "response": "NPPP adalah Naskah Perjanjian Penerusan Pinjaman, yaitu dokumen perjanjian antara Pemerintah dan penerima (seperti LPEI) untuk meneruskan pinjaman atau hibah luar negeri."
+    }
+]
