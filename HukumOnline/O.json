@@ -1,0 +1,182 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Obat menurut UU Kesehatan?",
+        "context": "Pertanyaan ini merujuk pada definisi bahan medis bagi manusia berdasarkan UU Nomor 36 Tahun 2009.",
+        "response": "Obat adalah bahan atau paduan bahan, termasuk produk biologi yang digunakan untuk mempengaruhi atau menyelidiki sistem fisiologi atau keadaan patologi dalam rangka penetapan diagnosis, pencegahan, penyembuhan, pemulihan, peningkatan kesehatan dan kontrasepsi, untuk manusia."
+    },
+    {
+        "instruction": "Jelaskan apa saja yang termasuk dalam Objek Asuransi.",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2014 mengenai cakupan perlindungan asuransi.",
+        "response": "Objek Asuransi meliputi jiwa dan raga, kesehatan manusia, tanggung jawab hukum, benda dan jasa, serta semua kepentingan lainnya yang dapat hilang, rusak, rugi, dan/atau berkurang nilainya."
+    },
+    {
+        "instruction": "Apa definisi dari Objek Sita dalam perpajakan?",
+        "context": "Merujuk pada PP Nomor 135 Tahun 2000 mengenai jaminan utang pajak.",
+        "response": "Objek Sita adalah barang Penanggung Pajak yang dapat dijadikan jaminan utang pajak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Objek Vital Yang Strategis?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2018 terkait pemberantasan tindak pidana terorisme.",
+        "response": "Objek Vital Yang Strategis adalah kawasan, tempat, lokasi, bangunan, atau instalasi yang memiliki nilai penting bagi negara."
+    },
+    {
+        "instruction": "Sebutkan definisi Obligasi menurut PP Nomor 136 Tahun 2000.",
+        "context": "Konteks surat utang perusahaan untuk pembiayaan.",
+        "response": "Obligasi adalah surat utang berjangka waktu lebih dari satu tahun dan bersuku bunga tertentu, yang dikeluarkan oleh perusahaan untuk menarik dana dari masyarakat guna menutup pembiayaan perusahaan."
+    },
+    {
+        "instruction": "Apa itu Obligasi Daerah?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022 dan UU Nomor 33 Tahun 2004.",
+        "response": "Obligasi Daerah adalah surat berharga berupa pengakuan utang yang diterbitkan oleh Pemerintah Daerah yang ditawarkan kepada publik melalui penawaran umum di pasar modal."
+    },
+    {
+        "instruction": "Apa kepanjangan dan fungsi OJK?",
+        "context": "Merujuk pada lembaga pengawas sektor keuangan di Indonesia.",
+        "response": "OJK adalah Otoritas Jasa Keuangan, yaitu lembaga independen yang berfungsi mengatur dan mengawasi sektor jasa keuangan di Indonesia sesuai dengan undang-undang."
+    },
+    {
+        "instruction": "Apa wewenang lembaga Ombudsman Republik Indonesia?",
+        "context": "Berdasarkan UU Nomor 37 Tahun 2008 mengenai pengawasan pelayanan publik.",
+        "response": "Ombudsman adalah lembaga negara yang mempunyai kewenangan mengawasi penyelenggaraan pelayanan publik yang diselenggarakan oleh penyelenggara negara dan pemerintahan, termasuk BUMN, BUMD, BHMN, badan swasta, maupun perseorangan yang menggunakan dana APBN/APBD."
+    },
+    {
+        "instruction": "Jelaskan sistem Online Single Submission (OSS).",
+        "context": "Terkait integrasi perizinan berusaha di Indonesia.",
+        "response": "Online Single Submission (OSS) adalah perizinan berusaha yang diterbitkan oleh Lembaga OSS untuk dan atas nama menteri, pimpinan lembaga, gubernur, atau bupati/walikota kepada pelaku usaha melalui sistem elektronik yang terintegrasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Operasi Kepolisian?",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2012 mengenai ketertiban lalu lintas.",
+        "response": "Operasi Kepolisian adalah serangkaian tindakan polisional dalam rangka pencegahan, penanggulangan, dan penindakan terhadap gangguan keamanan, keselamatan, ketertiban, dan kelancaran lalu lintas oleh satuan tugas dalam kurun waktu tertentu."
+    },
+    {
+        "instruction": "Definisikan istilah Orang Asing menurut aturan imigrasi.",
+        "context": "Merujuk pada PP Nomor 31 Tahun 2013.",
+        "response": "Orang Asing adalah orang yang bukan warga negara Indonesia."
+    },
+    {
+        "instruction": "Apa definisi Orang Dengan Gangguan Jiwa (ODGJ)?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2014.",
+        "response": "Orang Dengan Gangguan Jiwa adalah orang yang mengalami gangguan dalam pikiran, perilaku, dan perasaan yang termanifestasi dalam bentuk sekumpulan gejala atau perubahan perilaku yang bermakna, serta menimbulkan penderitaan dan hambatan fungsi sebagai manusia."
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai Orang Tua menurut PP Jaminan Pensiun?",
+        "context": "Berdasarkan PP Nomor 45 Tahun 2015.",
+        "response": "Orang Tua mencakup ayah kandung, ibu kandung, ayah tiri, ibu tiri, ayah angkat atau ibu angkat yang sah sesuai peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Orang Tua Angkat menurut PP Nomor 54 Tahun 2007?",
+        "context": "Terkait pengasuhan anak.",
+        "response": "Orang tua angkat adalah orang yang diberi kekuasaan untuk merawat, mendidik, dan membesarkan anak berdasarkan peraturan perundang-undangan dan adat kebiasaan."
+    },
+    {
+        "instruction": "Jelaskan definisi Orang Tua Asuh.",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2017 mengenai pengasuhan sementara.",
+        "response": "Orang Tua Asuh adalah suami istri atau orang tua tunggal selain Keluarga yang menerima kewenangan untuk melakukan Pengasuhan Anak yang bersifat sementara."
+    },
+    {
+        "instruction": "Sebutkan elemen dari Organ Perseroan.",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2007 tentang Perseroan Terbatas.",
+        "response": "Organ Perseroan terdiri atas Rapat Umum Pemegang Saham (RUPS), Direksi, dan Dewan Komisaris."
+    },
+    {
+        "instruction": "Apa itu Organisasi Advokat?",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2003.",
+        "response": "Organisasi Advokat adalah organisasi profesi advokat yang didirikan berdasarkan undang-undang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Organisasi Audit Asing?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2011 mengenai akuntan.",
+        "response": "Organisasi Audit Asing adalah organisasi di luar negeri yang didirikan berdasarkan peraturan negara setempat yang anggotanya terdiri dari badan usaha jasa profesi audit keuangan."
+    },
+    {
+        "instruction": "Definisikan Organisasi Audit Indonesia.",
+        "context": "Terkait jaringan kantor akuntan publik.",
+        "response": "Organisasi Audit Indonesia adalah organisasi di Indonesia yang merupakan jaringan kerja sama antar-KAP (Kantor Akuntan Publik)."
+    },
+    {
+        "instruction": "Apa pengertian Organisasi Internasional menurut UU Anti-Terorisme?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2018.",
+        "response": "Organisasi Internasional adalah organisasi yang berada dalam lingkup struktur PBB, organisasi internasional lainnya di luar PBB, atau organisasi yang menjalankan tugas mewakili PBB."
+    },
+    {
+        "instruction": "Apa itu Organisasi Kemasyarakatan (Ormas)?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2013.",
+        "response": "Organisasi Kemasyarakatan adalah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan NKRI."
+    },
+    {
+        "instruction": "Apa fungsi dari Organisasi Kepemudaan?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2009.",
+        "response": "Organisasi kepemudaan adalah wadah pengembangan potensi pemuda."
+    },
+    {
+        "instruction": "Definisikan Organisasi Lingkungan Hidup.",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2009.",
+        "response": "Organisasi Lingkungan Hidup adalah kelompok orang yang terorganisasi dan terbentuk atas kehendak sendiri yang tujuan dan kegiatannya berkaitan dengan lingkungan hidup."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Organisasi Notaris?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2014.",
+        "response": "Organisasi Notaris adalah organisasi profesi jabatan Notaris yang berbentuk perkumpulan berbadan hukum."
+    },
+    {
+        "instruction": "Sebutkan pengertian Organisasi Penyelenggara Pelayanan Publik.",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2009.",
+        "response": "Organisasi Penyelenggara Pelayanan Publik adalah satuan kerja penyelenggara pelayanan publik yang berada di lingkungan institusi negara, korporasi, atau lembaga independen yang dibentuk untuk kegiatan pelayanan publik."
+    },
+    {
+        "instruction": "Apa peran Organisasi Profesi menurut UU Nomor 18 Tahun 2002?",
+        "context": "Terkait pengembangan profesionalisme iptek.",
+        "response": "Organisasi profesi adalah wadah masyarakat ilmiah dalam suatu cabang ilmu atau profesi yang dijamin negara untuk mengembangkan profesionalisme dan etika profesi."
+    },
+    {
+        "instruction": "Apa itu Organisasi Profesi Guru?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2005.",
+        "response": "Organisasi Profesi Guru adalah perkumpulan yang berbadan hukum yang didirikan dan diurus oleh guru untuk mengembangkan profesionalitas guru."
+    },
+    {
+        "instruction": "Jelaskan definisi Lembaga Kliring Berjangka.",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2011 mengenai perdagangan berjangka.",
+        "response": "Lembaga Kliring Berjangka adalah badan usaha yang menyelenggarakan dan menyediakan sistem dan/atau sarana untuk pelaksanaan kliring dan penjaminan penyelesaian transaksi Perdagangan Berjangka."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Lembaga Manajemen Kolektif?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014 terkait hak cipta.",
+        "response": "Lembaga Manajemen Kolektif adalah institusi berbentuk badan hukum nirlaba yang diberi kuasa oleh pencipta atau pemegang hak cipta untuk mengelola hak ekonomi dalam bentuk menghimpun dan mendistribusikan royalti."
+    },
+    {
+        "instruction": "Apa pengertian Otonomi Daerah?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2014.",
+        "response": "Otonomi daerah adalah hak, wewenang, dan kewajiban daerah otonom untuk mengatur dan mengurus sendiri Urusan Pemerintahan dan kepentingan masyarakat setempat dalam sistem NKRI."
+    },
+    {
+        "instruction": "Definisikan Otonomi Khusus bagi Provinsi Papua.",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2021.",
+        "response": "Otonomi Khusus adalah kewenangan khusus yang diakui dan diberikan kepada Provinsi Papua untuk mengatur dan mengurus kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi dan hak dasar masyarakat Papua."
+    },
+    {
+        "instruction": "Apa tugas Otoritas Pelabuhan (Port Authority)?",
+        "context": "Berdasarkan PP Nomor 61 Tahun 2009.",
+        "response": "Otoritas Pelabuhan adalah lembaga pemerintah di pelabuhan sebagai otoritas yang melaksanakan fungsi pengaturan, pengendalian, dan pengawasan kegiatan kepelabuhanan yang diusahakan secara komersial."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Otoritas Veteriner?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2009 terkait kesehatan hewan.",
+        "response": "Otoritas veteriner adalah kelembagaan Pemerintah yang mengambil keputusan tertinggi teknis kesehatan hewan dengan melibatkan keprofesionalan dokter hewan mulai dari identifikasi masalah hingga pengendalian teknis di lapangan."
+    },
+    {
+        "instruction": "Definisikan istilah Lembaga Nonstruktural (LNS).",
+        "context": "Merujuk pada PP Nomor 24 Tahun 2020.",
+        "response": "Lembaga Nonstruktural adalah lembaga selain kementerian atau lembaga pemerintah nonkementerian yang dibentuk dengan UU/PP/Perpres yang pembiayaannya dibebankan kepada APBN atau APBD."
+    },
+    {
+        "instruction": "Apa pengertian akad Mudarabah?",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2008 tentang Obligasi syariah.",
+        "response": "Mudarabah adalah akad kerja sama di mana satu pihak menyediakan modal dan pihak lain menyediakan tenaga/keahlian; keuntungan dibagi sesuai nisbah yang disetujui, sementara kerugian finansial ditanggung penyedia modal (kecuali akibat kelalaian pengelola)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Musyarakah?",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2008.",
+        "response": "Musyarakah adalah akad kerja sama antara dua pihak atau lebih untuk menggabungkan modal dengan tujuan memperoleh keuntungan yang dibagikan sesuai nisbah, sedangkan kerugian ditanggung bersama sesuai jumlah partisipasi modal."
+    }
+]
