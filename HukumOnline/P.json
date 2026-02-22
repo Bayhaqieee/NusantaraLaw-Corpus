@@ -1,0 +1,307 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan PAD menurut UU Nomor 1 Tahun 2022?",
+        "context": "Pertanyaan ini merujuk pada komponen pendapatan asli daerah dalam kerangka keuangan daerah.",
+        "response": "PAD (Pendapatan Asli Daerah) adalah pendapatan Daerah yang diperoleh dari pajak daerah, retribusi daerah, hasil pengelolaan kekayaan daerah yang dipisahkan, dan lain-lain pendapatan asli daerah yang sah."
+    },
+    {
+        "instruction": "Jelaskan kriteria seseorang untuk mendapatkan gelar Pahlawan Nasional.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2009 mengenai penghargaan dan tanda kehormatan.",
+        "response": "Pahlawan Nasional adalah gelar yang diberikan kepada warga negara Indonesia atau seseorang yang berjuang melawan penjajahan di wilayah NKRI yang gugur atau meninggal dunia demi membela bangsa dan negara, atau yang semasa hidupnya melakukan tindakan kepahlawanan serta menghasilkan prestasi luar biasa bagi kemajuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa definisi umum Pajak menurut undang-undang?",
+        "context": "Merujuk pada kontribusi wajib kepada negara atau daerah berdasarkan UU Nomor 28 Tahun 2007.",
+        "response": "Pajak adalah kontribusi wajib kepada negara atau daerah yang terutang oleh orang pribadi atau badan yang bersifat memaksa berdasarkan Undang-Undang, dengan tidak mendapatkan imbalan secara langsung dan digunakan untuk keperluan negara/daerah bagi sebesar-besarnya kemakmuran rakyat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Air Tanah?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022 terkait pajak daerah.",
+        "response": "Pajak Air Tanah adalah pajak atas pengambilan dan/atau pemanfaatan air tanah."
+    },
+    {
+        "instruction": "Definisikan Pajak Alat Berat.",
+        "context": "Sesuai dengan regulasi keuangan daerah dalam UU Nomor 1 Tahun 2022.",
+        "response": "Pajak Alat Berat adalah pajak atas kepemilikan dan/atau penguasaan alat berat."
+    },
+    {
+        "instruction": "Apa itu Pajak Barang Dan Jasa Tertentu?",
+        "context": "Merujuk pada pajak yang dikenakan pada konsumen akhir menurut UU Nomor 1 Tahun 2022.",
+        "response": "Pajak Barang Dan Jasa Tertentu adalah pajak yang dibayarkan oleh konsumen akhir atas konsumsi barang dan/atau jasa tertentu."
+    },
+    {
+        "instruction": "Sebutkan jenis-jenis pajak yang termasuk dalam Pajak Dalam Rangka Impor (PDRI).",
+        "context": "Berdasarkan PP Nomor 12 Tahun 2020 mengenai ketentuan perpajakan impor.",
+        "response": "Pajak Dalam Rangka Impor meliputi Pajak Pertambahan Nilai (PPN), Pajak Penjualan atas Barang Mewah (PPnBM), dan/atau Pajak Penghasilan (PPh) Pasal 22."
+    },
+    {
+        "instruction": "Apa cakupan dari Pajak Dalam Negeri?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2012 mengenai penerimaan negara.",
+        "response": "Pajak Dalam Negeri adalah semua penerimaan negara yang berasal dari pajak penghasilan, PPN dan PPnBM, pajak bumi dan bangunan (PBB), cukai, dan pajak lainnya."
+    },
+    {
+        "instruction": "Jelaskan pengertian Pajak Daerah.",
+        "context": "Merujuk pada PP Nomor 69 Tahun 2010 terkait kontribusi wajib kepada daerah.",
+        "response": "Pajak Daerah adalah kontribusi wajib kepada Daerah yang terutang oleh orang pribadi atau badan yang bersifat memaksa berdasarkan undang-undang, tanpa imbalan langsung, dan digunakan untuk membiayai penyelenggaraan pemerintahan serta pembangunan daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Hiburan?",
+        "context": "Sesuai dengan UU Nomor 28 Tahun 2009.",
+        "response": "Pajak Hiburan adalah pajak atas penyelenggaraan hiburan."
+    },
+    {
+        "instruction": "Apa definisi Pajak Hotel?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009 mengenai pajak daerah.",
+        "response": "Pajak Hotel adalah pajak atas pelayanan yang disediakan oleh hotel."
+    },
+    {
+        "instruction": "Apa itu Pajak Keluaran dalam sistem PPN?",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009 mengenai kewajiban Pengusaha Kena Pajak (PKP).",
+        "response": "Pajak Keluaran adalah Pajak Pertambahan Nilai terutang yang wajib dipungut oleh Pengusaha Kena Pajak yang melakukan penyerahan Barang/Jasa Kena Pajak atau ekspor Barang/Jasa Kena Pajak."
+    },
+    {
+        "instruction": "Definisikan Pajak Parkir.",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009.",
+        "response": "Pajak Parkir adalah pajak atas penyelenggaraan tempat parkir di luar badan jalan, baik yang berkaitan dengan pokok usaha maupun sebagai suatu usaha, termasuk tempat penitipan kendaraan bermotor."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Mineral Bukan Logam Dan Batuan?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2022 terkait pengambilan sumber daya alam.",
+        "response": "Pajak Mineral Bukan Logam Dan Batuan adalah pajak atas kegiatan pengambilan mineral bukan logam dan batuan dari sumber alam di dalam dan/atau di permukaan bumi untuk dimanfaatkan."
+    },
+    {
+        "instruction": "Apa itu Pajak Masukan menurut UU PPN?",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009 mengenai perolehan barang/jasa kena pajak.",
+        "response": "Pajak Masukan adalah Pajak Pertambahan Nilai yang seharusnya sudah dibayar oleh Pengusaha Kena Pajak karena perolehan Barang Kena Pajak, Jasa Kena Pajak, pemanfaatan barang/jasa tidak berwujud dari luar daerah pabean, atau impor barang."
+    },
+    {
+        "instruction": "Jelaskan definisi Pajak Penerangan Jalan.",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009 terkait penggunaan listrik.",
+        "response": "Pajak Penerangan Jalan adalah pajak atas penggunaan tenaga listrik, baik yang dihasilkan sendiri maupun yang diperoleh dari sumber lain."
+    },
+    {
+        "instruction": "Apa itu Pajak Penghasilan Pasal 21?",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2010 mengenai penghasilan orang pribadi.",
+        "response": "Pajak Penghasilan Pasal 21 adalah pajak atas penghasilan sehubungan dengan pekerjaan, jasa, atau kegiatan dengan nama dan dalam bentuk apapun yang diterima oleh Wajib Pajak orang pribadi dalam negeri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Penghasilan Pasal 22?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2021 terkait perdagangan barang.",
+        "response": "Pajak Penghasilan Pasal 22 adalah bentuk pemotongan atau pemungutan pajak yang dilakukan satu pihak terhadap wajib pajak dan berkaitan dengan kegiatan perdagangan barang."
+    },
+    {
+        "instruction": "Sebutkan komponen dari Pajak Perdagangan Internasional.",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2012 mengenai penerimaan negara.",
+        "response": "Pajak Perdagangan Internasional adalah semua penerimaan negara yang berasal dari bea masuk dan bea keluar."
+    },
+    {
+        "instruction": "Definisikan Pajak Pertambahan Nilai (PPN).",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2021.",
+        "response": "Pajak Pertambahan Nilai adalah Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah."
+    },
+    {
+        "instruction": "Apa itu Pajak Reklame?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2022.",
+        "response": "Pajak Reklame adalah pajak atas penyelenggaraan reklame."
+    },
+    {
+        "instruction": "Apa pengertian Pajak Restoran?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009.",
+        "response": "Pajak Restoran adalah pajak atas pelayanan yang disediakan oleh restoran."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Rokok?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2022 mengenai pungutan atas cukai.",
+        "response": "Pajak Rokok adalah pungutan atas cukai rokok yang dipungut oleh Pemerintah."
+    },
+    {
+        "instruction": "Definisikan Pajak Sarang Burung Walet.",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022.",
+        "response": "Pajak Sarang Burung Walet adalah pajak atas kegiatan pengambilan dan/atau pengusahaan sarang burung walet."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pajak Yang Terutang?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2007 dan UU Nomor 28 Tahun 2009.",
+        "response": "Pajak Yang Terutang adalah pajak yang harus dibayar pada suatu saat, dalam Masa Pajak, dalam Tahun Pajak, atau dalam Bagian Tahun Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan."
+    },
+    {
+        "instruction": "Apa itu Palang Merah Indonesia (PMI)?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2018 mengenai pelayanan kesehatan.",
+        "response": "Palang Merah Indonesia adalah perhimpunan nasional yang berdiri atas asas perikemanusiaan dan atas dasar sukarela dengan tidak membeda-bedakan bangsa, golongan, dan paham politik."
+    },
+    {
+        "instruction": "Jelaskan definisi Pam Swakarsa.",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2012 terkait sistem pengamanan.",
+        "response": "Pam Swakarsa adalah suatu bentuk pengamanan yang diadakan atas kemauan, kesadaran, dan kepentingan masyarakat sendiri yang kemudian memperoleh pengukuhan dari Kepolisian Negara Republik Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Panel Badan Usaha dalam Proyek Strategis Nasional?",
+        "context": "Berdasarkan PP Nomor 42 Tahun 2021.",
+        "response": "Panel Badan Usaha adalah satu atau lebih Badan Usaha dalam satu panel yang terdiri dari beberapa calon Badan Usaha Pelaksana yang dipilih melalui proses kualifikasi oleh kementerian/lembaga."
+    },
+    {
+        "instruction": "Apa definisi Panel Konsultan menurut PP Nomor 42 Tahun 2021?",
+        "context": "Terkait penyediaan jasa konsultansi pada proyek pemerintah.",
+        "response": "Panel Konsultan adalah satu atau lebih calon penyedia jasa konsultansi dalam panel yang memberikan pelayanan jasa konsultansi tertentu yang dipilih melalui proses kualifikasi oleh kementerian/lembaga."
+    },
+    {
+        "instruction": "Apa pengertian Pangan menurut UU Nomor 18 Tahun 2012?",
+        "context": "Merujuk pada definisi luas sumber hayati untuk konsumsi manusia.",
+        "response": "Pangan adalah segala sesuatu yang berasal dari sumber hayati produk pertanian, perkebunan, kehutanan, perikanan, peternakan, perairan dan air, baik diolah maupun tidak diolah, diperuntukkan sebagai makanan/minuman bagi konsumsi manusia, termasuk bahan tambahan, bahan baku, dan bahan lain dalam proses pengolahan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pangan Pokok menurut UU Nomor 18 Tahun 2012?",
+        "context": "Pertanyaan ini merujuk pada jenis pangan utama masyarakat berdasarkan kearifan lokal.",
+        "response": "Pangan Pokok adalah Pangan yang diperuntukkan sebagai makanan utama sehari-hari sesuai dengan potensi sumber daya dan kearifan lokal."
+    },
+    {
+        "instruction": "Jelaskan definisi Pangkat bagi seorang Hakim.",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2002 mengenai kedudukan dalam penggajian.",
+        "response": "Pangkat adalah kedudukan yang menunjukkan tingkat jabatan seorang Hakim yang digunakan sebagai dasar penggajian."
+    },
+    {
+        "instruction": "Apa definisi Pangkat dalam hierarki militer TNI?",
+        "context": "Merujuk pada PP Nomor 39 Tahun 2010 terkait keabsahan wewenang prajurit.",
+        "response": "Pangkat adalah keabsahan wewenang dan tanggung jawab dalam hierarki keprajuritan yang didasarkan atas kualifikasi yang telah dimiliki oleh setiap Prajurit."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pangkat bagi Pegawai Negeri Sipil (PNS)?",
+        "context": "Berdasarkan PP Nomor 96 Tahun 2000 mengenai susunan kepegawaian.",
+        "response": "Pangkat adalah kedudukan yang menunjukkan tingkat seseorang Pegawai Negeri Sipil berdasarkan jabatannya dalam rangkaian susunan kepegawaian dan digunakan sebagai dasar penggajian."
+    },
+    {
+        "instruction": "Siapakah Panglima TNI menurut undang-undang?",
+        "context": "Merujuk pada pimpinan tertinggi Tentara Nasional Indonesia.",
+        "response": "Panglima TNI adalah perwira tinggi Militer yang memimpin Tentara Nasional Indonesia."
+    },
+    {
+        "instruction": "Siapa saja yang termasuk dalam perangkat Panitera di Pengadilan Pajak?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002 mengenai fungsi kepaniteraan.",
+        "response": "Panitera, Wakil Panitera, dan Panitera Pengganti adalah Sekretaris, Wakil Sekretaris, dan Sekretaris Pengganti Pengadilan Pajak yang melaksanakan fungsi kepaniteraan."
+    },
+    {
+        "instruction": "Apa tugas Panitia Masyarakat Hukum Adat Kabupaten/Kota?",
+        "context": "Berdasarkan draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Panitia Masyarakat Hukum Adat Kabupaten/Kota adalah lembaga bersifat ad hoc yang dibentuk untuk melakukan verifikasi terhadap hasil identifikasi sendiri masyarakat hukum adat yang berada di satu wilayah kabupaten/kota."
+    },
+    {
+        "instruction": "Apa definisi Panitia Masyarakat Hukum Adat Nasional?",
+        "context": "Konteks verifikasi masyarakat hukum adat lintas provinsi.",
+        "response": "Panitia Masyarakat Hukum Adat Nasional adalah lembaga yang bersifat ad hoc yang dibentuk untuk melakukan verifikasi terhadap hasil identifikasi sendiri masyarakat hukum adat di wilayah paling sedikit dua provinsi."
+    },
+    {
+        "instruction": "Apa itu Panitia Pemilihan Luar Negeri (PPLN)?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017 mengenai pelaksanaan Pemilu di luar negeri.",
+        "response": "Panitia Pemilihan Luar Negeri adalah panitia yang dibentuk oleh KPU untuk melaksanakan Pemilu di luar negeri."
+    },
+    {
+        "instruction": "Apa fungsi Panitia Pemilihan Kecamatan (PPK)?",
+        "context": "Sesuai UU Nomor 7 Tahun 2017 terkait penyelenggaraan Pemilu tingkat kecamatan.",
+        "response": "Panitia Pemilihan Kecamatan adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk melaksanakan Pemilu di tingkat kecamatan atau nama lain."
+    },
+    {
+        "instruction": "Apa itu Panitia Masyarakat Hukum Adat Provinsi?",
+        "context": "Berdasarkan draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Panitia Masyarakat Hukum Adat Provinsi adalah lembaga bersifat ad hoc yang dibentuk untuk melakukan verifikasi terhadap hasil identifikasi sendiri masyarakat hukum adat di wilayah paling sedikit dua kabupaten/kota dalam satu provinsi."
+    },
+    {
+        "instruction": "Definisikan Panitia Pengawas Pemilu Kecamatan (Panwaslu Kecamatan).",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017 mengenai pengawasan tingkat kecamatan.",
+        "response": "Panitia Pengawas Pemilu Kecamatan adalah panitia yang dibentuk oleh Bawaslu Kabupaten/Kota untuk mengawasi Penyelenggaraan Pemilu di wilayah kecamatan atau nama lain."
+    },
+    {
+        "instruction": "Apa tugas Panitia Pengawas Pemilu Kelurahan/Desa?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017.",
+        "response": "Panitia Pengawas Pemilu Kelurahan/Desa adalah petugas untuk mengawasi Penyelenggaraan Pemilu di kelurahan/desa atau nama lain."
+    },
+    {
+        "instruction": "Apa itu Panitia Pengawas Pemilu Luar Negeri?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017.",
+        "response": "Panitia Pengawas Pemilu Luar Negeri adalah petugas yang dibentuk oleh Bawaslu untuk mengawasi Penyelenggaraan Pemilu di luar negeri."
+    },
+    {
+        "instruction": "Jelaskan definisi Panwas Kabupaten/Kota.",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2015 mengenai pengawasan pemilihan kepala daerah.",
+        "response": "Panwas Kabupaten/Kota adalah panitia yang dibentuk oleh Bawaslu Provinsi yang bertugas untuk mengawasi penyelenggaraan Pemilihan di wilayah Kabupaten/Kota."
+    },
+    {
+        "instruction": "Apa itu Panitia Penyaringan Calon APK?",
+        "context": "Berdasarkan Permen ESDM Nomor 5 Tahun 2020 terkait Dewan Energi Nasional.",
+        "response": "Panitia Penyaringan Calon APK adalah panitia yang bertugas melakukan penyaringan calon Anggota Pemangku Kepentingan (APK)."
+    },
+    {
+        "instruction": "Definisikan Panitia Pengawas Pemilu Provinsi dan Kabupaten/Kota secara kolektif.",
+        "context": "Berdasarkan UU Nomor 22 Tahun 2007 mengenai pengawasan Pemilu.",
+        "response": "Lembaga tersebut adalah panitia yang dibentuk oleh Bawaslu untuk mengawasi penyelenggaraan Pemilu di wilayah provinsi dan kabupaten/kota."
+    },
+    {
+        "instruction": "Apa itu Panwaslu Kabupaten/Kota?",
+        "context": "Sesuai UU Nomor 8 Tahun 2012.",
+        "response": "Panwaslu Kabupaten/Kota adalah Panitia yang dibentuk oleh Bawaslu Provinsi yang bertugas mengawasi penyelenggaraan Pemilu di kabupaten/kota."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Paparan Kerja dalam konteks radiasi?",
+        "context": "Berdasarkan PP Nomor 33 Tahun 2007.",
+        "response": "Paparan Kerja adalah paparan yang diterima oleh pekerja radiasi."
+    },
+    {
+        "instruction": "Jelaskan definisi Paparan Masyarakat terkait radiasi.",
+        "context": "Merujuk pada PP Nomor 33 Tahun 2007 mengenai proteksi radiasi.",
+        "response": "Paparan Masyarakat adalah paparan yang berasal dari Sumber Radiasi yang diterima oleh anggota masyarakat, tidak termasuk Paparan Kerja, Paparan Medik, atau radiasi latar normal."
+    },
+    {
+        "instruction": "Apa itu Partai Politik Peserta Pemilu?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2008.",
+        "response": "Partai Politik Peserta Pemilu adalah partai politik yang telah memenuhi persyaratan sebagai Peserta Pemilu."
+    },
+    {
+        "instruction": "Apa definisi umum Partai Politik menurut UU Nomor 11 Tahun 2006?",
+        "context": "Konteks organisasi politik warga negara Indonesia.",
+        "response": "Partai Politik adalah organisasi politik yang dibentuk oleh sekelompok warga negara Republik Indonesia secara sukarela atas dasar persamaan kehendak dan cita-cita untuk memperjuangkan kepentingan anggota, masyarakat, bangsa, dan negara melalui pemilihan umum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan kondisi Parkir menurut PP Nomor 30 Tahun 2021?",
+        "context": "Terkait aturan lalu lintas jalan.",
+        "response": "Parkir adalah keadaan Kendaraan berhenti atau tidak bergerak untuk beberapa saat dan ditinggalkan pengemudinya."
+    },
+    {
+        "instruction": "Definisikan Pasangan Calon Kepala Daerah Dan Calon Wakil Kepala Daerah.",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2004.",
+        "response": "Pasangan Calon tersebut adalah bakal pasangan calon yang telah memenuhi persyaratan untuk dipilih sebagai kepala daerah dan wakil kepala daerah."
+    },
+    {
+        "instruction": "Apa itu Pasangan Calon Presiden Dan Wakil Presiden?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017 mengenai peserta Pemilu Presiden.",
+        "response": "Pasangan Calon Presiden Dan Wakil Presiden adalah pasangan calon peserta Pemilihan Umum Presiden dan Wakil Presiden yang diusulkan oleh partai politik atau gabungan partai politik yang telah memenuhi persyaratan."
+    },
+    {
+        "instruction": "Apa pengertian Pasar Modal menurut UU Nomor 21 Tahun 2011?",
+        "context": "Mengenai perdagangan efek dan perusahaan publik.",
+        "response": "Pasar Modal adalah kegiatan yang bersangkutan dengan Penawaran Umum dan perdagangan Efek, Perusahaan Publik yang berkaitan dengan Efek yang diterbitkannya, serta lembaga dan profesi yang berkaitan dengan Efek."
+    },
+    {
+        "instruction": "Apa perbedaan Pasar Sekunder dan Pasar Perdana?",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2008 mengenai perdagangan surat utang.",
+        "response": "Pasar Perdana adalah kegiatan penawaran dan penjualan surat utang untuk pertama kalinya, sedangkan Pasar Sekunder adalah kegiatan perdagangan surat utang yang telah dijual di Pasar Perdana."
+    },
+    {
+        "instruction": "Jelaskan definisi Pasar Rakyat.",
+        "context": "Berdasarkan Permen LHK Nomor P.75 Tahun 2019 mengenai pengelolaan pasar tradisional.",
+        "response": "Pasar Rakyat adalah pasar yang dibangun dan dikelola pemerintah, swasta, atau BUMN/D dengan tempat usaha berupa toko/kios yang dikelola pedagang kecil/menengah dengan proses jual beli melalui tawar-menawar."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Pasien menurut PP Nomor 47 Tahun 2021?",
+        "context": "Terkait pelayanan kesehatan di Rumah Sakit.",
+        "response": "Pasien adalah setiap orang yang melakukan konsultasi masalah kesehatannya untuk memperoleh pelayanan kesehatan yang diperlukan, baik secara langsung maupun tidak langsung di Rumah Sakit."
+    },
+    {
+        "instruction": "Apa tugas utama Paspampres?",
+        "context": "Berdasarkan PP Nomor 59 Tahun 2013 mengenai pengamanan VVIP.",
+        "response": "Paspampres adalah pasukan yang bertugas melaksanakan pengamanan fisik langsung jarak dekat setiap saat kepada Presiden, Wakil Presiden, Mantan Presiden/Wakil Presiden beserta keluarganya, serta Tamu Negara setingkat Kepala Negara."
+    },
+    {
+        "instruction": "Apa definisi Paspor menurut UU Nomor 6 Tahun 2011?",
+        "context": "Dokumen perjalanan antarnegara bagi warga negara Indonesia.",
+        "response": "Paspor adalah dokumen yang dikeluarkan oleh Pemerintah Republik Indonesia kepada warga negara Indonesia untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu."
+    }
+]
