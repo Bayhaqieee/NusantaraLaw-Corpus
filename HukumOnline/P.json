@@ -303,5 +303,145 @@
         "instruction": "Apa definisi Paspor menurut UU Nomor 6 Tahun 2011?",
         "context": "Dokumen perjalanan antarnegara bagi warga negara Indonesia.",
         "response": "Paspor adalah dokumen yang dikeluarkan oleh Pemerintah Republik Indonesia kepada warga negara Indonesia untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Paspor Kebangsaan?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013 mengenai dokumen perjalanan bagi warga negara asing.",
+        "response": "Paspor Kebangsaan adalah dokumen yang dikeluarkan oleh negara asing kepada warga negaranya untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu."
+    },
+    {
+        "instruction": "Definisikan Paspor Republik Indonesia menurut aturan keimigrasian.",
+        "context": "Merujuk pada PP Nomor 31 Tahun 2013 tentang dokumen perjalanan warga negara Indonesia.",
+        "response": "Paspor Republik Indonesia adalah dokumen yang dikeluarkan oleh Pemerintah Republik Indonesia kepada warga negara Indonesia untuk melakukan perjalanan antarnegara yang berlaku selama jangka waktu tertentu."
+    },
+    {
+        "instruction": "Apa tugas pokok Pasukan Pengamanan Presiden (Paspampres)?",
+        "context": "Berdasarkan PP Nomor 59 Tahun 2013 mengenai struktur organisasi TNI dalam pengamanan presiden.",
+        "response": "Pasukan Pengamanan Presiden adalah Satuan gelar organisasi TNI yang meliputi Angkatan Darat, Angkatan Laut, dan Angkatan Udara yang mempunyai tugas pokok sebagai Komando Utama Pembinaan dan Komando Utama Operasi."
+    },
+    {
+        "instruction": "Jelaskan pengertian Paten menurut UU Nomor 13 Tahun 2016.",
+        "context": "Terkait dengan hak eksklusif kekayaan intelektual di bidang teknologi.",
+        "response": "Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan PBBKB dalam pajak daerah?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2022 tentang keuangan daerah.",
+        "response": "PBBKB adalah Pajak atas penggunaan bahan bakar Kendaraan Bermotor dan Alat Berat."
+    },
+    {
+        "instruction": "Definisikan apa itu Pecandu Narkotika.",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2011 mengenai kondisi ketergantungan zat adiktif.",
+        "response": "Pecandu Narkotika adalah orang yang menggunakan atau menyalahgunakan Narkotika dan dalam keadaan ketergantungan pada Narkotika, baik secara fisik maupun psikis."
+    },
+    {
+        "instruction": "Siapa yang dikategorikan sebagai Pecandu Narkotika Belum Cukup Umur?",
+        "context": "Merujuk pada PP Nomor 25 Tahun 2011.",
+        "response": "Pecandu Narkotika Belum Cukup Umur adalah seseorang yang dinyatakan sebagai Pecandu Narkotika dan belum mencapai umur 18 (delapan belas) tahun dan/atau belum menikah."
+    },
+    {
+        "instruction": "Apa itu Pedagang Besar Farmasi (PBF)?",
+        "context": "Berdasarkan UU Nomor 35 Tahun 2009 dan PP Nomor 51 Tahun 2009.",
+        "response": "Pedagang Besar Farmasi adalah perusahaan berbentuk badan hukum yang memiliki izin untuk melakukan kegiatan pengadaan, penyimpanan, dan penyaluran sediaan farmasi atau perbekalan farmasi dalam jumlah besar, termasuk Narkotika dan alat kesehatan."
+    },
+    {
+        "instruction": "Apa wewenang Pedagang Kontrak Berjangka di Bursa Berjangka?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2011.",
+        "response": "Pedagang Kontrak Berjangka adalah Anggota Bursa Berjangka yang hanya berhak melakukan transaksi Kontrak Berjangka, Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya di Bursa Berjangka untuk diri sendiri atau kelompok usahanya."
+    },
+    {
+        "instruction": "Siapa saja yang termasuk dalam kategori Pegawai Aparatur Sipil Negara (ASN)?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 dan PP Nomor 41 Tahun 2021.",
+        "response": "Pegawai Aparatur Sipil Negara adalah pegawai negeri sipil (PNS) dan pegawai pemerintah dengan perjanjian kerja (PPPK) yang diangkat oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan atau tugas negara lainnya dan digaji berdasarkan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Jelaskan definisi Pegawai Negeri menurut peraturan gaji dan tunjangan.",
+        "context": "Merujuk pada PP Nomor 48 Tahun 2013.",
+        "response": "Pegawai Negeri meliputi Pegawai Negeri Sipil (PNS), Anggota Tentara Nasional Indonesia (TNI), dan Anggota Kepolisian Negara Republik Indonesia (POLRI)."
+    },
+    {
+        "instruction": "Apa pengertian Pegawai Negeri Sipil (PNS) secara spesifik?",
+        "context": "Berdasarkan UU ASN dan peraturan terkait jaminan kesehatan.",
+        "response": "Pegawai Negeri Sipil adalah warga negara Indonesia yang memenuhi syarat tertentu, diangkat sebagai Pegawai ASN secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pegawai Non PNS pada Lembaga Non Struktural?",
+        "context": "Berdasarkan PP Nomor 22 Tahun 2016 mengenai tenaga kerja di LNS.",
+        "response": "Pegawai Non PNS pada LNS adalah warga negara Indonesia yang memenuhi syarat tertentu, melaksanakan tugas dan fungsi lembaga, diangkat oleh Pejabat yang berwenang sebagai pegawai pada Lembaga Non Struktural dan dibiayai dari APBN."
+    },
+    {
+        "instruction": "Definisikan Pegawai Pemerintah dengan Perjanjian Kerja (PPPK).",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2014 tentang status kepegawaian ASN.",
+        "response": "Pegawai Pemerintah dengan Perjanjian Kerja adalah warga negara Indonesia yang memenuhi syarat tertentu, yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu dalam rangka melaksanakan tugas pemerintahan."
+    },
+    {
+        "instruction": "Apa itu Pegawai Pengawas Ketenagakerjaan?",
+        "context": "Sesuai Permenaker Nomor 5 Tahun 2018 terkait penegakan hukum ketenagakerjaan.",
+        "response": "Pegawai Pengawas Ketenagakerjaan adalah Pegawai Negeri Sipil yang diangkat dan ditugaskan dalam jabatan fungsional untuk mengawasi dan menegakkan pelaksanaan peraturan perundang-undangan di bidang ketenagakerjaan."
+    },
+    {
+        "instruction": "Siapakah Pejabat Administrasi dalam instansi pemerintah?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 mengenai jabatan ASN.",
+        "response": "Pejabat Administrasi adalah Pegawai ASN yang menduduki Jabatan Administrasi pada instansi pemerintah."
+    },
+    {
+        "instruction": "Apa definisi Pejabat Bea dan Cukai?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2006 tentang Kepabeanan.",
+        "response": "Pejabat Bea dan Cukai adalah pegawai Direktorat Jenderal Bea dan Cukai yang ditunjuk dalam jabatan tertentu untuk melaksanakan tugas tertentu berdasarkan undang-undang kepabeanan atau cukai."
+    },
+    {
+        "instruction": "Apa itu Pejabat Dinas Luar Negeri?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013.",
+        "response": "Pejabat Dinas Luar Negeri adalah Pegawai Negeri Sipil yang telah mengikuti pendidikan dan latihan khusus untuk bertugas di Kementerian Luar Negeri dan Perwakilan Republik Indonesia."
+    },
+    {
+        "instruction": "Definisikan istilah Pejabat Fungsional.",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014.",
+        "response": "Pejabat Fungsional adalah Pegawai ASN yang menduduki Jabatan Fungsional pada instansi pemerintah."
+    },
+    {
+        "instruction": "Apa pengertian Pejabat Imigrasi?",
+        "context": "Sesuai PP Nomor 31 Tahun 2013 mengenai keahlian teknis keimigrasian.",
+        "response": "Pejabat Imigrasi adalah pegawai yang telah melalui pendidikan khusus Keimigrasian dan memiliki keahlian teknis serta wewenang untuk melaksanakan tugas berdasarkan UU Keimigrasian."
+    },
+    {
+        "instruction": "Siapakah Pejabat Karantina itu?",
+        "context": "Merujuk pada UU Nomor 21 Tahun 2019.",
+        "response": "Pejabat Karantina adalah Aparatur Sipil Negara yang diberi tugas untuk melakukan tindakan Karantina berdasarkan undang-undang."
+    },
+    {
+        "instruction": "Apa itu Pejabat Karantina Kesehatan?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018.",
+        "response": "Pejabat Karantina Kesehatan adalah pegawai negeri sipil yang bekerja di bidang kesehatan yang diberi kewenangan oleh menteri untuk melaksanakan Kekarantinaan Kesehatan."
+    },
+    {
+        "instruction": "Definisikan Pejabat Kepolisian Negara Republik Indonesia.",
+        "context": "Sesuai UU Nomor 2 Tahun 2002.",
+        "response": "Pejabat Kepolisian Negara Republik Indonesia adalah anggota Kepolisian Negara Republik Indonesia yang berdasarkan undang-undang memiliki wewenang umum Kepolisian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pejabat Negara?",
+        "context": "Berdasarkan Perpres Nomor 82 Tahun 2018.",
+        "response": "Pejabat Negara adalah pimpinan dan anggota lembaga negara sebagaimana dimaksud dalam UUD 1945 dan pejabat lainnya yang ditentukan oleh Undang-Undang."
+    },
+    {
+        "instruction": "Apa wewenang Pejabat Pembina Kepegawaian (PPK)?",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2014 mengenai manajemen ASN.",
+        "response": "Pejabat Pembina Kepegawaian adalah pejabat yang mempunyai kewenangan menetapkan pengangkatan, pemindahan, dan pemberhentian Pegawai ASN serta pembinaan Manajemen ASN di Instansi Pemerintah."
+    },
+    {
+        "instruction": "Siapakah Pejabat Pembina Kepegawaian Daerah Kabupaten/Kota?",
+        "context": "Berdasarkan PP Nomor 96 Tahun 2000.",
+        "response": "Pejabat Pembina Kepegawaian Daerah Kabupaten/Kota adalah Bupati atau Walikota."
+    },
+    {
+        "instruction": "Siapakah Pejabat Pembina Kepegawaian Daerah Provinsi?",
+        "context": "Berdasarkan PP Nomor 100 Tahun 2000.",
+        "response": "Pejabat Pembina Kepegawaian Daerah Provinsi adalah Gubernur."
+    },
+    {
+        "instruction": "Definisikan Pejabat Pembina Kepegawaian Pusat.",
+        "context": "Merujuk pada regulasi disiplin PNS dalam PP Nomor 53 Tahun 2010.",
+        "response": "Pejabat Pembina Kepegawaian Pusat adalah pejabat yang diatur dalam peraturan perundang-undangan yang memiliki wewenang pengangkatan, pemindahan, dan pemberhentian PNS di tingkat pusat."
     }
 ]
