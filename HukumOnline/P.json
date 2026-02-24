@@ -443,5 +443,155 @@
         "instruction": "Definisikan Pejabat Pembina Kepegawaian Pusat.",
         "context": "Merujuk pada regulasi disiplin PNS dalam PP Nomor 53 Tahun 2010.",
         "response": "Pejabat Pembina Kepegawaian Pusat adalah pejabat yang diatur dalam peraturan perundang-undangan yang memiliki wewenang pengangkatan, pemindahan, dan pemberhentian PNS di tingkat pusat."
+    },
+    {
+        "instruction": "Siapa saja yang dimaksud dengan Pejabat Pembina Kepegawaian Pusat dan Daerah?",
+        "context": "Merujuk pada PP Nomor 24 Tahun 2011 dan PP Nomor 53 Tahun 2010 mengenai wewenang kepegawaian.",
+        "response": "Pejabat Pembina Kepegawaian Pusat, Pejabat Pembina Kepegawaian Daerah Provinsi, dan Pejabat Pembina Kepegawaian Daerah Kabupaten/Kota adalah Pejabat Pembina Kepegawaian sebagaimana dimaksud dalam peraturan perundang-undangan yang mengatur mengenai wewenang pengangkatan, pemindahan, dan pemberhentian PNS."
+    },
+    {
+        "instruction": "Apa tugas Pejabat Pembuat Akta Ikrar Wakaf?",
+        "context": "Berdasarkan UU Nomor 41 Tahun 2004 mengenai perwakafan.",
+        "response": "Pejabat Pembuat Akta Ikrar Wakaf adalah pejabat berwenang yang ditetapkan oleh Menteri untuk membuat akta ikrar wakaf."
+    },
+    {
+        "instruction": "Definisikan Pejabat Pemerintahan.",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2010.",
+        "response": "Pejabat Pemerintahan adalah pejabat yang menduduki jabatan tertentu dalam pemerintahan, baik di pusat maupun di daerah."
+    },
+    {
+        "instruction": "Apa fungsi Pejabat Pencatatan Sipil?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2006 tentang administrasi kependudukan.",
+        "response": "Pejabat Pencatatan Sipil adalah pejabat yang melakukan pencatatan Peristiwa Penting yang dialami seseorang pada Instansi Pelaksana yang pengangkatannya sesuai dengan ketentuan Peraturan Perundang-undangan."
+    },
+    {
+        "instruction": "Apa peran Pejabat Pendaftaran Jaminan Fidusia?",
+        "context": "Sesuai dengan PP Nomor 21 Tahun 2015 mengenai jaminan kebendaan.",
+        "response": "Pejabat Pendaftaran Jaminan Fidusia adalah pejabat yang ditunjuk untuk menerima pendaftaran Jaminan Fidusia dan menandatangani secara elektronik sertifikat Jaminan Fidusia sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Siapakah Pejabat Pengawas Lingkungan Hidup?",
+        "context": "Berdasarkan Permen LHK Nomor P.101 Tahun 2018.",
+        "response": "Pejabat Pengawas Lingkungan Hidup adalah pegawai negeri sipil yang diberi tugas, wewenang, kewajiban, dan tanggung jawab untuk melaksanakan kegiatan pengawasan lingkungan hidup sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Pejabat Pengawas Lingkungan Hidup Daerah?",
+        "context": "Sesuai dengan Permen LHK Nomor P.101 Tahun 2018 di tingkat daerah.",
+        "response": "Pejabat Pengawas Lingkungan Hidup Daerah adalah pegawai negeri sipil di daerah yang diberi tugas, wewenang, kewajiban dan tanggung jawab untuk melaksanakan kegiatan pengawasan lingkungan hidup sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa peran Pejabat Pengelola Informasi dan Dokumentasi (PPID)?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2008 mengenai keterbukaan informasi publik.",
+        "response": "Pejabat Pengelola Informasi dan Dokumentasi adalah pejabat yang bertanggung jawab di bidang penyimpanan, pendokumentasian, penyediaan, dan/atau pelayanan informasi di badan publik."
+    },
+    {
+        "instruction": "Siapakah Pejabat Pengelola Keuangan Daerah?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2004 tentang Perbendaharaan Negara.",
+        "response": "Pejabat Pengelola Keuangan Daerah adalah kepala badan/dinas/biro keuangan/bagian keuangan yang mempunyai tugas melaksanakan pengelolaan APBD dan bertindak sebagai Bendahara Umum Daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pejabat Perindustrian Di Luar Negeri?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2018.",
+        "response": "Pejabat Perindustrian Di Luar Negeri adalah pejabat bidang Perindustrian yang berasal dari kementerian yang menyelenggarakan urusan pemerintahan di bidang Perindustrian yang ditempatkan dan ditugaskan di luar negeri."
+    },
+    {
+        "instruction": "Definisikan Pejabat Pimpinan Tinggi.",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2014 dan PP Nomor 41 Tahun 2020.",
+        "response": "Pejabat Pimpinan Tinggi adalah Pegawai ASN yang menduduki Jabatan Pimpinan Tinggi."
+    },
+    {
+        "instruction": "Siapakah Pejabat Publik menurut UU Keterbukaan Informasi Publik?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2008.",
+        "response": "Pejabat Publik adalah orang yang ditunjuk dan diberi tugas untuk menduduki posisi atau jabatan tertentu pada badan publik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pejabat Sementara Notaris?",
+        "context": "Sesuai UU Nomor 2 Tahun 2014 dan UU Nomor 30 Tahun 2004.",
+        "response": "Pejabat Sementara Notaris adalah seorang yang untuk sementara menjabat sebagai Notaris untuk menjalankan jabatan dari Notaris yang meninggal dunia, diberhentikan, atau diberhentikan sementara."
+    },
+    {
+        "instruction": "Siapakah Pejabat yang berwenang menghukum?",
+        "context": "Berdasarkan PP Nomor 24 Tahun 2011 mengenai disiplin pegawai.",
+        "response": "Pejabat yang berwenang menghukum adalah Pejabat yang diberi wewenang menjatuhkan hukuman disiplin bagi PNS."
+    },
+    {
+        "instruction": "Apa definisi Pekerja secara umum menurut Perpres Nomor 82 Tahun 2018?",
+        "context": "Terkait jaminan kesehatan nasional.",
+        "response": "Pekerja adalah setiap orang yang bekerja dengan menerima Gaji, Upah, atau imbalan dalam bentuk lain."
+    },
+    {
+        "instruction": "Definisikan Pekerja Bukan Penerima Upah.",
+        "context": "Merujuk pada klasifikasi peserta dalam Perpres Nomor 82 Tahun 2018.",
+        "response": "Pekerja Bukan Penerima Upah adalah setiap orang yang bekerja atau berusaha atas risiko sendiri."
+    },
+    {
+        "instruction": "Apa pengertian Pekerja/buruh?",
+        "context": "Berdasarkan PP Nomor 78 Tahun 2015 dan peraturan ketenagakerjaan lainnya.",
+        "response": "Pekerja/buruh adalah setiap orang yang bekerja dengan menerima upah atau imbalan dalam bentuk lain."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Pekerja Migran Indonesia?",
+        "context": "Sesuai UU Nomor 18 Tahun 2017 dan PP Nomor 10 Tahun 2020.",
+        "response": "Pekerja Migran Indonesia adalah setiap warga negara Indonesia yang akan, sedang, atau telah melakukan pekerjaan dengan menerima upah di luar wilayah Republik Indonesia."
+    },
+    {
+        "instruction": "Apa itu Pekerja Migran Indonesia Perseorangan?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017.",
+        "response": "Pekerja Migran Indonesia Perseorangan adalah Pekerja Migran Indonesia yang akan bekerja ke luar negeri tanpa melalui pelaksana penempatan."
+    },
+    {
+        "instruction": "Apa definisi Pekerja Penerima Upah?",
+        "context": "Sesuai klasifikasi jaminan kesehatan dalam Perpres Nomor 82 Tahun 2018.",
+        "response": "Pekerja Penerima Upah adalah setiap orang yang bekerja pada Pemberi Kerja dengan menerima Gaji atau Upah."
+    },
+    {
+        "instruction": "Siapakah Pekerja Sosial?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019 dan PP Nomor 54 Tahun 2007.",
+        "response": "Pekerja Sosial adalah seseorang yang memiliki pengetahuan, keterampilan, dan nilai praktik pekerjaan sosial serta telah mendapatkan sertifikat kompetensi, atau pegawai yang ditunjuk lembaga pengasuhan yang memiliki kompetensi dalam pengangkatan anak."
+    },
+    {
+        "instruction": "Apa pengertian Pekerja Sosial Profesional?",
+        "context": "Merujuk pada PP Nomor 44 Tahun 2017 dan PP Nomor 39 Tahun 2012.",
+        "response": "Pekerja Sosial Profesional adalah seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik untuk melaksanakan tugas pelayanan dan penanganan masalah sosial."
+    },
+    {
+        "instruction": "Jelaskan mengenai Pelabelan Limbah B3.",
+        "context": "Berdasarkan Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Pelabelan Limbah B3 adalah proses penandaan atau pemberian label yang dilekatkan atau dibubuhkan ke kemasan langsung dari suatu Limbah B3."
+    },
+    {
+        "instruction": "Apa itu Pelaksana penempatan TKI swasta?",
+        "context": "Merujuk pada UU Nomor 39 Tahun 2004 dan PP Nomor 5 Tahun 2013.",
+        "response": "Pelaksana penempatan TKI swasta adalah badan hukum yang telah memperoleh izin tertulis dari Pemerintah untuk menyelenggarakan pelayanan penempatan TKI di luar negeri."
+    },
+    {
+        "instruction": "Siapakah Pelaksana PSP (Penugasan Survei Pendahuluan)?",
+        "context": "Berdasarkan Permen ESDM Nomor 36 Tahun 2017 di sektor panas bumi.",
+        "response": "Pelaksana PSP adalah perguruan tinggi atau lembaga penelitian yang melaksanakan PSP."
+    },
+    {
+        "instruction": "Apa definisi Pelaku Ekonomi Kreatif?",
+        "context": "Merujuk pada UU Nomor 24 Tahun 2019.",
+        "response": "Pelaku Ekonomi Kreatif adalah orang perseorangan atau kelompok orang warga negara Indonesia atau badan usaha berbadan hukum atau bukan berbadan hukum yang didirikan berdasarkan hukum Indonesia yang melakukan kegiatan Ekonomi Kreatif."
+    },
+    {
+        "instruction": "Siapakah Pelaku pembangunan rumah susun?",
+        "context": "Sesuai UU Nomor 20 Tahun 2011.",
+        "response": "Pelaku pembangunan rumah susun adalah setiap orang dan/atau pemerintah yang melakukan pembangunan perumahan dan permukiman."
+    },
+    {
+        "instruction": "Sebutkan unsur dari Pelaku Penyelenggaraan Kesejahteraan Sosial.",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2009.",
+        "response": "Pelaku Penyelenggaraan Kesejahteraan Sosial adalah individu, kelompok, lembaga kesejahteraan sosial, dan masyarakat yang terlibat dalam penyelenggaraan kesejahteraan sosial."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelaku Pertunjukan?",
+        "context": "Dalam konteks hak cipta menurut UU Nomor 28 Tahun 2014.",
+        "response": "Pelaku Pertunjukan adalah seorang atau beberapa orang yang secara sendiri-sendiri atau bersama-sama menampilkan dan mempertunjukkan suatu Ciptaan."
+    },
+    {
+        "instruction": "Jelaskan definisi komprehensif dari Pelaku Usaha.",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019 dan PP Nomor 44 Tahun 2021.",
+        "response": "Pelaku Usaha adalah setiap orang perseorangan atau Badan Usaha, baik berbentuk badan hukum maupun bukan badan hukum, yang didirikan dan berkedudukan atau melakukan kegiatan dalam wilayah hukum Negara Republik Indonesia, secara sendiri-sendiri maupun bersama-sama melalui perjanjian, yang menyelenggarakan berbagai kegiatan usaha dalam bidang ekonomi."
     }
 ]
