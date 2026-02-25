@@ -593,5 +593,155 @@
         "instruction": "Jelaskan definisi komprehensif dari Pelaku Usaha.",
         "context": "Berdasarkan PP Nomor 71 Tahun 2019 dan PP Nomor 44 Tahun 2021.",
         "response": "Pelaku Usaha adalah setiap orang perseorangan atau Badan Usaha, baik berbentuk badan hukum maupun bukan badan hukum, yang didirikan dan berkedudukan atau melakukan kegiatan dalam wilayah hukum Negara Republik Indonesia, secara sendiri-sendiri maupun bersama-sama melalui perjanjian, yang menyelenggarakan berbagai kegiatan usaha dalam bidang ekonomi."
+    },
+    {
+        "instruction": "Apa definisi Pelaku Usaha Dalam Negeri menurut Perdagangan Melalui Sistem Elektronik (PMSE)?",
+        "context": "Berdasarkan Permendag Nomor 50 Tahun 2020 terkait pelaku usaha daring.",
+        "response": "Pelaku Usaha Dalam Negeri adalah warga negara Indonesia atau badan usaha yang didirikan dan berkedudukan dalam wilayah hukum Negara Kesatuan Republik Indonesia yang melakukan kegiatan usaha di bidang PMSE."
+    },
+    {
+        "instruction": "Siapakah Pelaku Usaha Distribusi?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2021 dan Permendag Nomor 22 Tahun 2016.",
+        "response": "Pelaku Usaha Distribusi adalah Pelaku Usaha yang menjalankan kegiatan Distribusi Barang di dalam negeri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelaku Usaha Pangan?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2012 mengenai agribisnis pangan.",
+        "response": "Pelaku Usaha Pangan adalah Setiap Orang yang bergerak pada satu atau lebih subsistem agribisnis Pangan, yaitu penyedia masukan produksi, proses produksi, pengolahan, pemasaran, perdagangan, dan penunjang."
+    },
+    {
+        "instruction": "Apa definisi Pelanggaran Hak Asasi Manusia Yang Berat?",
+        "context": "Merujuk pada UU Nomor 27 Tahun 2004.",
+        "response": "Pelanggaran Hak Asasi Manusia Yang Berat adalah pelanggaran hak asasi manusia sebagaimana dimaksud dalam Undang-Undang Nomor 26 Tahun 2000 tentang Pengadilan Hak Asasi Manusia."
+    },
+    {
+        "instruction": "Apa pengertian Pelanggaran disiplin bagi PNS?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2010.",
+        "response": "Pelanggaran disiplin adalah setiap ucapan, tulisan, atau perbuatan PNS yang tidak menaati kewajiban dan/atau melanggar larangan ketentuan disiplin PNS, baik yang dilakukan di dalam maupun di luar jam kerja."
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai Pelaku Usaha Perkebunan?",
+        "context": "Berdasarkan Permentan Nomor 98 Tahun 2013.",
+        "response": "Pelaku Usaha Perkebunan adalah pekebun dan perusahaan perkebunan yang mengelola usaha perkebunan."
+    },
+    {
+        "instruction": "Jelaskan definisi Pelanggaran Hukum Disiplin Militer.",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2014 mengenai pedoman prajurit.",
+        "response": "Pelanggaran Hukum Disiplin Militer adalah segala perbuatan dan/atau tindakan yang dilakukan oleh Militer yang melanggar hukum dan/atau peraturan Disiplin Militer dan/atau melakukan perbuatan yang bertentangan dengan sendi-sendi kehidupan Militer yang berdasarkan Sapta Marga dan Sumpah Prajurit."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Pelapor dalam kasus notaris?",
+        "context": "Berdasarkan Permenkumham Nomor 15 Tahun 2020.",
+        "response": "Pelapor adalah pihak terkait yang dirugikan akibat perilaku dan/atau pelaksanaan jabatan Notaris."
+    },
+    {
+        "instruction": "Apa itu Pelaporan dalam konteks perlindungan anak?",
+        "context": "Berdasarkan PP Nomor 59 Tahun 2019 dan PP Nomor 8 Tahun 2017.",
+        "response": "Pelaporan adalah kegiatan menyusun dan menyampaikan hasil Pemantauan dan Evaluasi pelaksanaan penyelenggaraan Perlindungan Anak atau Sistem Peradilan Pidana Anak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelayanan Kepemudaan?",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2009.",
+        "response": "Pelayanan kepemudaan adalah penyadaran, pemberdayaan, dan pengembangan kepemimpinan, kewirausahaan, serta kepeloporan pemuda."
+    },
+    {
+        "instruction": "Definisikan Pelayanan Kebidanan.",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2019 mengenai kebidanan.",
+        "response": "Pelayanan Kebidanan adalah suatu bentuk pelayanan profesional yang merupakan bagian integral dari sistem pelayanan kesehatan yang diberikan oleh bidan secara mandiri, kolaborasi, dan/atau rujukan."
+    },
+    {
+        "instruction": "Apa pengertian Pelatihan Kerja menurut undang-undang?",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2003 dan PP Nomor 31 Tahun 2006.",
+        "response": "Pelatihan kerja adalah keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi jabatan atau pekerjaan."
+    },
+    {
+        "instruction": "Apa itu Pelayanan Keperawatan?",
+        "context": "Merujuk pada UU Nomor 38 Tahun 2014 mengenai keperawatan.",
+        "response": "Pelayanan Keperawatan adalah suatu bentuk pelayanan profesional yang merupakan bagian integral dari pelayanan kesehatan yang didasarkan pada ilmu dan kiat Keperawatan ditujukan kepada individu, keluarga, kelompok, atau masyarakat, baik sehat maupun sakit."
+    },
+    {
+        "instruction": "Apa yang tercakup dalam Pelayanan Kesehatan Paripurna?",
+        "context": "Berdasarkan UU Nomor 44 Tahun 2009.",
+        "response": "Pelayanan Kesehatan Paripurna adalah pelayanan kesehatan yang meliputi promotif, preventif, kuratif, dan rehabilitatif."
+    },
+    {
+        "instruction": "Jelaskan definisi Pelayanan Publik.",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2009 mengenai administrasi negara.",
+        "response": "Pelayanan Publik adalah kegiatan atau rangkaian kegiatan dalam rangka pemenuhan kebutuhan pelayanan sesuai dengan peraturan perundang-undangan bagi setiap warga negara dan penduduk atas barang, jasa, dan/atau pelayanan administratif yang disediakan oleh penyelenggara pelayanan publik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelelangan dalam pengadaan proyek pemerintah?",
+        "context": "Berdasarkan Perpres Nomor 38 Tahun 2015 mengenai infrastruktur.",
+        "response": "Pelelangan adalah metode pengadaan Badan Usaha Pelaksana dalam rangka pelaksanaan KPBU dengan mengikutsertakan sebanyak-banyaknya peserta melalui pengumuman secara luas atau undangan."
+    },
+    {
+        "instruction": "Apa definisi Peleburan perusahaan?",
+        "context": "Merujuk pada PP Nomor 57 Tahun 2010 mengenai penggabungan badan usaha.",
+        "response": "Peleburan adalah perbuatan hukum yang dilakukan oleh dua badan usaha atau lebih untuk meleburkan diri dengan cara mendirikan satu badan usaha baru yang karena hukum memperoleh aktiva dan pasiva dari badan usaha yang meleburkan diri dan status badan usaha yang meleburkan diri berakhir karena hukum."
+    },
+    {
+        "instruction": "Apa itu Pelayanan Terpadu Satu Pintu?",
+        "context": "Berdasarkan PP Nomor 64 Tahun 2016 mengenai perizinan.",
+        "response": "Pelayanan Terpadu Satu Pintu adalah pelayanan secara terintegrasi dalam satu kesatuan proses dimulai dari tahap permohonan sampai dengan tahap penyelesaian produk pelayanan melalui satu pintu."
+    },
+    {
+        "instruction": "Apa pengertian Pelepasan Hak atas tanah?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2012 mengenai pengadaan tanah.",
+        "response": "Pelepasan Hak adalah kegiatan pemutusan hubungan hukum dari pihak yang berhak kepada negara melalui Lembaga Pertanahan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelestarian fungsi lingkungan hidup?",
+        "context": "Merujuk pada UU Nomor 30 Tahun 2007 dan PP Nomor 46 Tahun 2017.",
+        "response": "Pelestarian fungsi lingkungan hidup adalah rangkaian upaya untuk memelihara kelangsungan daya dukung dan daya tampung lingkungan hidup."
+    },
+    {
+        "instruction": "Apa definisi Pelimpahan kewenangan di Kawasan Sabang?",
+        "context": "Berdasarkan PP Nomor 83 Tahun 2010.",
+        "response": "Pelimpahan kewenangan adalah pengalihan penyelenggaraan urusan pemerintahan tertentu di bidang perizinan dan kewenangan lain dari Pemerintah Pusat kepada Dewan Kawasan Sabang yang diperlukan untuk melaksanakan pengusahaan kawasan Sabang sebagai kawasan perdagangan bebas dan pelabuhan bebas."
+    },
+    {
+        "instruction": "Jelaskan definisi Pemagangan.",
+        "context": "Merujuk pada Permenaker Nomor 6 Tahun 2020 mengenai pelatihan tenaga kerja.",
+        "response": "Pemagangan adalah bagian dari sistem pelatihan kerja yang diselenggarakan secara terpadu antara pelatihan di lembaga pelatihan dengan bekerja secara langsung di bawah bimbingan dan pengawasan instruktur atau pekerja yang berkompetensi dalam proses produksi barang dan/atau jasa di perusahaan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pelindungan Sosial?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019 mengenai standar kompetensi kerja.",
+        "response": "Pelindungan Sosial adalah upaya yang diarahkan untuk mencegah dan menangani risiko dari guncangan dan kerentanan sosial."
+    },
+    {
+        "instruction": "Apa itu Pelindungan Pekerja Migran Indonesia?",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2017.",
+        "response": "Pelindungan Pekerja Migran Indonesia adalah segala upaya untuk melindungi kepentingan Calon Pekerja Migran Indonesia dan/atau Pekerja Migran Indonesia dan keluarganya dalam mewujudkan terjaminnya pemenuhan haknya dalam keseluruhan kegiatan sebelum bekerja, selama bekerja, dan setelah bekerja dalam aspek hukum, ekonomi, dan sosial."
+    },
+    {
+        "instruction": "Apa definisi Pemagangan Di Dalam Negeri?",
+        "context": "Berdasarkan Permenaker Nomor 6 Tahun 2020.",
+        "response": "Pemagangan Di Dalam Negeri adalah Pemagangan yang diselenggarakan oleh perusahaan yang berdomisili di Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemanfaatan Jasa Kena Pajak Dari Luar Daerah Pabean?",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009 terkait PPN.",
+        "response": "Pemanfaatan Jasa Kena Pajak Dari Luar Daerah Pabean adalah setiap kegiatan pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean."
+    },
+    {
+        "instruction": "Jelaskan pengertian Pemanfaatan tanah.",
+        "context": "Berdasarkan PP Nomor 16 Tahun 2004.",
+        "response": "Pemanfaatan tanah adalah kegiatan untuk mendapatkan nilai tambah tanpa mengubah wujud fisik penggunaan tanahnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemantauan Dan Peninjauan regulasi?",
+        "context": "Merujuk pada UU Nomor 15 Tahun 2019 mengenai pembentukan undang-undang.",
+        "response": "Pemantauan Dan Peninjauan adalah kegiatan untuk mengamati, mencatat, dan menilai atas pelaksanaan Undang-Undang yang berlaku sehingga diketahui ketercapaian hasil yang direncanakan, dampak yang ditimbulkan, dan kemanfaatannya bagi Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa definisi Pembajakan menurut UU Hak Cipta?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014.",
+        "response": "Pembajakan adalah penggandaan Ciptaan dan/atau produk Hak Terkait secara tidak sah dan pendistribusian barang hasil penggandaan dimaksud secara luas untuk memperoleh keuntungan ekonomi."
+    },
+    {
+        "instruction": "Siapakah Pembanding dalam sidang notaris?",
+        "context": "Berdasarkan Permenkumham Nomor 15 Tahun 2020.",
+        "response": "Pembanding adalah pihak yang melakukan upaya hukum terhadap putusan Majelis Pengawas Wilayah."
     }
 ]
