@@ -743,5 +743,145 @@
         "instruction": "Siapakah Pembanding dalam sidang notaris?",
         "context": "Berdasarkan Permenkumham Nomor 15 Tahun 2020.",
         "response": "Pembanding adalah pihak yang melakukan upaya hukum terhadap putusan Majelis Pengawas Wilayah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pembangunan berkelanjutan?",
+        "context": "Berdasarkan UU Nomor 52 Tahun 2009 dan PP Nomor 46 Tahun 2016 mengenai wawasan lingkungan hidup.",
+        "response": "Pembangunan berkelanjutan adalah upaya sadar dan terencana yang memadukan aspek Lingkungan Hidup, sosial, dan ekonomi ke dalam strategi pembangunan untuk menjamin keutuhan Lingkungan Hidup serta keselamatan, kesejahteraan, dan mutu hidup generasi masa kini dan generasi masa depan."
+    },
+    {
+        "instruction": "Jelaskan definisi Pembatasan Sosial Berskala Besar (PSBB).",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2018 mengenai penanganan kedaruratan kesehatan.",
+        "response": "Pembatasan Sosial Berskala Besar adalah pembatasan kegiatan tertentu penduduk dalam suatu wilayah yang diduga terinfeksi penyakit dan/atau terkontaminasi sedemikian rupa untuk mencegah kemungkinan penyebaran penyakit atau kontaminasi."
+    },
+    {
+        "instruction": "Apa definisi Pembayaran Bunga Utang?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2011 dan UU Nomor 10 Tahun 2010.",
+        "response": "Pembayaran Bunga Utang adalah belanja Pemerintah Pusat yang digunakan untuk membayar kewajiban atas penggunaan pokok utang baik utang dalam negeri maupun luar negeri, yang dihitung berdasarkan ketentuan dan persyaratan dari utang yang sudah ada dan perkiraan utang baru, termasuk untuk biaya terkait dengan pengelolaan utang."
+    },
+    {
+        "instruction": "Apa itu Pembayaran Ketersediaan Layanan (Availability Payment)?",
+        "context": "Merujuk pada Perpres Nomor 38 Tahun 2015 mengenai proyek KPBU.",
+        "response": "Pembayaran Ketersediaan Layanan adalah pembayaran secara berkala oleh Menteri/Kepala Lembaga/Kepala Daerah kepada Badan Usaha Pelaksana atas tersedianya layanan Infrastruktur yang sesuai dengan kualitas dan/atau kriteria sebagaimana ditentukan dalam perjanjian KPBU."
+    },
+    {
+        "instruction": "Apa pengertian Pembentukan Daerah?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2014.",
+        "response": "Pembentukan Daerah adalah penetapan status Daerah pada wilayah tertentu."
+    },
+    {
+        "instruction": "Jelaskan apa yang dimaksud dengan Pembentukan Peraturan Perundang-undangan.",
+        "context": "Sesuai UU Nomor 12 Tahun 2011 dan UU Nomor 15 Tahun 2019.",
+        "response": "Pembentukan Peraturan Perundang-undangan adalah pembuatan Peraturan Perundang-undangan yang mencakup tahapan perencanaan, penyusunan, pembahasan, pengesahan atau penetapan, dan pengundangan."
+    },
+    {
+        "instruction": "Apa definisi Pemberantasan Tindak Pidana Korupsi?",
+        "context": "Merujuk pada UU Nomor 19 Tahun 2019 dan UU Nomor 30 Tahun 2002 tentang KPK.",
+        "response": "Pemberantasan Tindak Pidana Korupsi adalah serangkaian kegiatan untuk mencegah dan memberantas terjadinya tindak pidana korupsi melalui upaya koordinasi, supervisi, monitor, penyelidikan, penyidikan, penuntutan, pemeriksaan di sidang pengadilan, dengan peran serta masyarakat sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa pengertian Pemberdayaan Masyarakat dalam konteks pertambangan?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009.",
+        "response": "Pemberdayaan Masyarakat adalah usaha untuk meningkatkan kemampuan masyarakat, baik secara individual maupun kolektif, agar menjadi lebih baik tingkat kehidupannya."
+    },
+    {
+        "instruction": "Siapakah Pemberi Bantuan Hukum?",
+        "context": "Sesuai UU Nomor 16 Tahun 2011 mengenai advokat.",
+        "response": "Pemberi Bantuan Hukum adalah lembaga bantuan hukum atau organisasi kemasyarakatan yang memberi layanan Bantuan Hukum berdasarkan Undang-Undang ini."
+    },
+    {
+        "instruction": "Apa definisi Pemberi Fidusia?",
+        "context": "Berdasarkan PP Nomor 21 Tahun 2015 mengenai jaminan.",
+        "response": "Pemberi Fidusia adalah orang perseorangan atau korporasi pemilik benda yang menjadi objek Jaminan Fidusia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemberi Kerja?",
+        "context": "Merujuk pada Perpres Nomor 82 Tahun 2018 terkait jaminan kesehatan.",
+        "response": "Pemberi Kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan lainnya yang mempekerjakan tenaga kerja, atau penyelenggara negara yang mempekerjakan Pegawai Aparatur Sipil Negara dengan membayar gaji, upah, atau imbalan dalam bentuk lainnya."
+    },
+    {
+        "instruction": "Siapakah Pemberi Kerja Tenaga Kerja Asing?",
+        "context": "Berdasarkan PP Nomor 97 Tahun 2012 dan PP Nomor 34 Tahun 2021.",
+        "response": "Pemberi Kerja Tenaga Kerja Asing (TKA) adalah badan hukum atau badan-badan lainnya yang mempekerjakan Tenaga Kerja Asing dengan membayar upah atau imbalan dalam bentuk lain."
+    },
+    {
+        "instruction": "Apa itu Pemberitahuan Pabean?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2021 mengenai KPBPB.",
+        "response": "Pemberitahuan Pabean adalah pernyataan yang dibuat oleh orang dalam rangka melaksanakan Kewajiban Pabean dalam bentuk dan syarat yang ditetapkan dalam Undang-Undang Kepabeanan."
+    },
+    {
+        "instruction": "Jelaskan definisi Pembiayaan dalam pengembangan UMKM.",
+        "context": "Berdasarkan PP Nomor 17 Tahun 2013.",
+        "response": "Pembiayaan adalah penyediaan dana oleh Pemerintah, Pemerintah Daerah, Dunia Usaha, dan masyarakat melalui bank, koperasi, dan lembaga keuangan bukan bank, untuk mengembangkan dan memperkuat permodalan Usaha Mikro, Kecil, dan Menengah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pembiayaan Anggaran?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2018 mengenai APBN.",
+        "response": "Pembiayaan Anggaran adalah setiap penerimaan yang perlu dibayar kembali, penerimaan kembali atas pengeluaran tahun-tahun sebelumnya, pengeluaran kembali atas penerimaan tahun-tahun sebelumnya, penggunaan saldo anggaran lebih, dan/atau pengeluaran yang akan diterima kembali, baik pada tahun bersangkutan maupun berikutnya."
+    },
+    {
+        "instruction": "Apa definisi Pembiayaan Dalam Negeri?",
+        "context": "Berdasarkan UU Nomor 22 Tahun 2011 dan UU lainnya mengenai APBN.",
+        "response": "Pembiayaan Dalam Negeri adalah semua penerimaan pembiayaan yang berasal dari perbankan dan nonperbankan dalam negeri dikurangi dengan pengeluaran pembiayaan, seperti dana investasi Pemerintah, penyertaan modal negara, dana bergulir, dan kewajiban penjaminan Pemerintah."
+    },
+    {
+        "instruction": "Apa itu Pembiayaan Defisit Anggaran?",
+        "context": "Merujuk pada pengelolaan keuangan negara.",
+        "response": "Pembiayaan Defisit Anggaran adalah semua jenis penerimaan pembiayaan yang digunakan untuk menutup defisit anggaran negara dalam APBN dan kebutuhan pengeluaran pembiayaan."
+    },
+    {
+        "instruction": "Apa pengertian Pembiayaan Ekspor Nasional?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2009 dan PP Nomor 43 Tahun 2019.",
+        "response": "Pembiayaan Ekspor Nasional adalah fasilitas yang diberikan kepada badan usaha termasuk perorangan dalam rangka mendorong Ekspor nasional."
+    },
+    {
+        "instruction": "Jelaskan definisi Pembiayaan Luar Negeri Bersih.",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2005 hingga UU Nomor 45 Tahun 2007.",
+        "response": "Pembiayaan Luar Negeri Bersih adalah semua pembiayaan yang berasal dari penarikan utang/pinjaman luar negeri (pinjaman program dan proyek), dikurangi dengan pembayaran cicilan pokok utang/pinjaman luar negeri."
+    },
+    {
+        "instruction": "Apa itu Pembiayaan Luar Negeri Neto / Veto?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2010 dan UU Nomor 22 Tahun 2011.",
+        "response": "Pembiayaan Luar Negeri Neto/Veto adalah semua pembiayaan yang berasal dari penarikan pinjaman luar negeri yang terdiri atas pinjaman program dan pinjaman proyek dikurangi dengan penerusan pinjaman dan pembayaran cicilan pokok pinjaman luar negeri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pembiayaan Utang Daerah?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022.",
+        "response": "Pembiayaan Utang Daerah adalah setiap penerimaan Daerah yang harus dibayar kembali, baik pada tahun anggaran yang bersangkutan maupun pada tahun-tahun anggaran berikutnya."
+    },
+    {
+        "instruction": "Siapakah Pembimbing Pemagangan?",
+        "context": "Merujuk pada Permenaker Nomor 6 Tahun 2020.",
+        "response": "Pembimbing Pemagangan adalah tenaga pelatihan yang merupakan tenaga penyelia atau pekerja yang kompeten dan ditunjuk oleh Penyelenggara Pemagangan untuk membimbing peserta Pemagangan di Perusahaan."
+    },
+    {
+        "instruction": "Apa definisi Pembinaan Kesadaran Bela Negara?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2019.",
+        "response": "Pembinaan Kesadaran Bela Negara adalah segala usaha, tindakan, dan kegiatan yang dilaksanakan dalam rangka memberikan pengetahuan, pendidikan, dan/atau pelatihan kepada warga negara guna menumbuhkembangkan sikap dan perilaku serta menanamkan nilai dasar Bela Negara."
+    },
+    {
+        "instruction": "Apa pengertian Pembinaan Ketenagakerjaan?",
+        "context": "Sesuai Permenaker Nomor 33 Tahun 2016.",
+        "response": "Pembinaan Ketenagakerjaan adalah serangkaian kegiatan yang dilakukan oleh Pengawas Ketenagakerjaan untuk meningkatkan kemampuan dan pemahaman Pekerja/Buruh, Pengusaha, atau anggota kelembagaan tentang peraturan perundang-undangan ketenagakerjaan."
+    },
+    {
+        "instruction": "Apa itu Pembinaan Teknis Kepolisian?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2012.",
+        "response": "Pembinaan Teknis Kepolisian adalah segala upaya, kegiatan dan tindakan untuk memberikan pendidikan dan pelatihan, serta peningkatan kemampuan teknis terhadap Polsus, PPNS, dan Pam Swakarsa."
+    },
+    {
+        "instruction": "Jelaskan definisi Pembubaran Kementerian.",
+        "context": "Merujuk pada UU Nomor 39 Tahun 2008.",
+        "response": "Pembubaran Kementerian adalah menghapus Kementerian yang sudah terbentuk."
+    },
+    {
+        "instruction": "Siapakah Pemegang Hak Cipta?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014 dan PP Nomor 16 Tahun 2020.",
+        "response": "Pemegang Hak Cipta adalah Pencipta sebagai pemilik Hak Cipta, pihak yang menerima hak tersebut secara sah dari Pencipta, atau pihak lain yang menerima lebih lanjut hak dari pihak yang menerima hak tersebut secara sah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemegang Izin dalam pemanfaatan tenaga nuklir?",
+        "context": "Sesuai PP Nomor 33 Tahun 2007 dan PP Nomor 29 Tahun 2008.",
+        "response": "Pemegang Izin adalah orang atau badan yang telah menerima izin Pemanfaatan Tenaga Nuklir dari BAPETEN."
     }
 ]
