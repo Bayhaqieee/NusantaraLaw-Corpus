@@ -883,5 +883,305 @@
         "instruction": "Apa yang dimaksud dengan Pemegang Izin dalam pemanfaatan tenaga nuklir?",
         "context": "Sesuai PP Nomor 33 Tahun 2007 dan PP Nomor 29 Tahun 2008.",
         "response": "Pemegang Izin adalah orang atau badan yang telah menerima izin Pemanfaatan Tenaga Nuklir dari BAPETEN."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemegang Izin Pengusahaan Sumber Daya Panas Bumi?",
+        "context": "Berdasarkan Permen ESDM Nomor 48 Tahun 2017 mengenai pengusahaan panas bumi.",
+        "response": "Pemegang Izin Pengusahaan Sumber Daya Panas Bumi adalah badan usaha yang diberi izin untuk mengusahakan kegiatan eksplorasi, eksploitasi, dan pemanfaatan pada suatu wilayah kerja panas bumi."
+    },
+    {
+        "instruction": "Siapakah Pemegang Paten?",
+        "context": "Merujuk pada UU Nomor 13 Tahun 2016 dan UU Nomor 14 Tahun 2001 tentang Paten.",
+        "response": "Pemegang Paten adalah Inventor sebagai pemilik Paten, pihak yang menerima hak atas Paten tersebut dari pemilik Paten, atau pihak lain yang menerima lebih lanjut hak atas Paten tersebut yang terdaftar dalam daftar umum Paten."
+    },
+    {
+        "instruction": "Apa definisi Pemegang Polis menurut UU Nomor 40 Tahun 2014?",
+        "context": "Terkait dengan perjanjian dalam asuransi dan reasuransi.",
+        "response": "Pemegang Polis adalah Pihak yang mengikatkan diri berdasarkan perjanjian dengan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah untuk mendapatkan pelindungan atau pengelolaan atas risiko bagi dirinya, tertanggung, atau peserta lain."
+    },
+    {
+        "instruction": "Siapakah Pemegang Resi Gudang?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2006 tentang Sistem Resi Gudang.",
+        "response": "Pemegang Resi Gudang adalah pemilik barang atau pihak yang menerima pengalihan dari pemilik barang atau pihak lain yang menerima pengalihan lebih lanjut."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemeriksa dalam pendaftaran Merek?",
+        "context": "Merujuk pada PP Nomor 90 Tahun 2019.",
+        "response": "Pemeriksa adalah pemeriksa Merek sebagai pejabat fungsional yang karena keahliannya diangkat dan diberhentikan oleh Menteri untuk melakukan pemeriksaan substantif terhadap Permohonan pendaftaran Merek."
+    },
+    {
+        "instruction": "Siapakah Pemeriksa Paten menurut UU Nomor 13 Tahun 2016?",
+        "context": "Terkait pemeriksaan substantif atas permohonan paten.",
+        "response": "Pemeriksa Paten adalah pejabat fungsional Aparatur Sipil Negara atau ahli yang diangkat oleh Menteri dan diberi tugas serta wewenang untuk melakukan pemeriksaan substantif terhadap Permohonan."
+    },
+    {
+        "instruction": "Apa definisi Pemeriksa Senior?",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2019 tentang Merek.",
+        "response": "Pemeriksa Senior adalah Pemeriksa yang telah memiliki pengalaman dalam melaksanakan pemeriksaan permohonan Merek dan mempunyai jabatan paling rendah Pemeriksa Merek Madya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemeriksaan Bukti Permulaan?",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2007 mengenai tindak pidana perpajakan.",
+        "response": "Pemeriksaan Bukti Permulaan adalah pemeriksaan yang dilakukan untuk mendapatkan bukti permulaan tentang adanya dugaan telah terjadi tindak pidana di bidang perpajakan."
+    },
+    {
+        "instruction": "Apa pengertian Pemeriksaan Ketenagakerjaan?",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018 dan Nomor 33 Tahun 2016.",
+        "response": "Pemeriksaan Ketenagakerjaan adalah serangkaian kegiatan yang dilakukan oleh Pengawas Ketenagakerjaan untuk memastikan ditaatinya pelaksanaan peraturan perundang-undangan ketenagakerjaan di Perusahaan atau Tempat Kerja."
+    },
+    {
+        "instruction": "Apa itu Pemeriksaan PNBP?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2018 mengenai Penerimaan Negara Bukan Pajak.",
+        "response": "Pemeriksaan PNBP adalah kegiatan untuk mencari, mengumpulkan, mengolah data, dan/atau keterangan lain serta kegiatan lainnya dalam rangka pengawasan atas kepatuhan pemenuhan kewajiban PNBP berdasarkan peraturan perundang-undangan di bidang PNBP."
+    },
+    {
+        "instruction": "Apa definisi Pemerintah dalam PP Nomor 79 Tahun 2012?",
+        "context": "Konteks penyelenggaraan Haji dan Umrah.",
+        "response": "Pemerintah adalah Pemerintah Republik Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Pemerintah Daerah?",
+        "context": "Berdasarkan berbagai regulasi, termasuk UU Nomor 23 Tahun 2014.",
+        "response": "Pemerintah Daerah adalah Gubernur, Bupati atau Walikota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom."
+    },
+    {
+        "instruction": "Sebutkan unsur dari Pemerintah Daerah Aceh.",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2006.",
+        "response": "Pemerintah Daerah Aceh adalah unsur penyelenggara pemerintahan Aceh yang terdiri atas Gubernur dan perangkat daerah Aceh."
+    },
+    {
+        "instruction": "Apa itu Pemerintah Daerah Kabupaten/Kota?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2021 dan UU Nomor 11 Tahun 2006.",
+        "response": "Pemerintah Daerah Kabupaten/Kota adalah unsur penyelenggara pemerintahan daerah kabupaten/kota yang terdiri atas bupati/walikota dan perangkat daerah kabupaten/kota yang memimpin urusan pemerintahan kewenangan daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemerintah Daerah Provinsi Nanggroe Aceh Darussalam?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2001.",
+        "response": "Pemerintah Daerah Provinsi Nanggroe Aceh Darussalam adalah Gubernur beserta perangkat lain pemerintah Daerah Istimewa Aceh sebagai Badan Eksekutif Provinsi Nanggroe Aceh Darussalam."
+    },
+    {
+        "instruction": "Definisikan Pemerintah Daerah Provinsi Papua.",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2021 dan UU Nomor 21 Tahun 2001.",
+        "response": "Pemerintah Daerah Provinsi Papua adalah Gubernur sebagai unsur penyelenggara pemerintahan daerah yang memimpin urusan pemerintahan yang menjadi kewenangan daerah Provinsi Papua, beserta perangkat lain sebagai Badan Eksekutif."
+    },
+    {
+        "instruction": "Siapakah yang menjadi unsur dari Pemerintah Desa?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017 dan PP Nomor 43 Tahun 2014.",
+        "response": "Pemerintah Desa adalah kepala desa atau yang disebut dengan nama lain dibantu perangkat desa sebagai unsur penyelenggara pemerintahan desa."
+    },
+    {
+        "instruction": "Apa definisi Pemerintah Pusat menurut Undang-Undang?",
+        "context": "Konteks kekuasaan negara menurut UUD 1945.",
+        "response": "Pemerintah Pusat adalah Presiden Republik Indonesia yang memegang kekuasaan Pemerintah Negara Republik Indonesia yang dibantu oleh Wakil Presiden dan menteri sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Siapa yang tercakup dalam Pemerintah Republik Indonesia menurut UU Terorisme?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2018.",
+        "response": "Pemerintah Republik Indonesia mencakup Pemerintah Republik Indonesia dan perwakilan Republik Indonesia di luar negeri."
+    },
+    {
+        "instruction": "Apa pengertian Pemerintahan Daerah?",
+        "context": "Merujuk pada PP Nomor 73 Tahun 2005.",
+        "response": "Pemerintahan Daerah adalah Penyelenggaraan urusan pemerintahan oleh Pemerintah Daerah dan DPRD menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip NKRI."
+    },
+    {
+        "instruction": "Apa itu Pemerintahan Kabupaten/Kota?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2006.",
+        "response": "Pemerintahan Kabupaten/Kota adalah penyelenggaraan urusan pemerintahan yang dilaksanakan oleh pemerintah kabupaten/kota dan Dewan Perwakilan Rakyat Daerah kabupaten/kota sesuai dengan fungsi dan kewenangan masing-masing."
+    },
+    {
+        "instruction": "Jelaskan mengenai Pemilihan Gubernur Dan Wakil Gubernur, Bupati Dan Wakil Bupati, Serta Walikota Dan Wakil Walikota.",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2015 mengenai Pilkada.",
+        "response": "Hal tersebut adalah pelaksanaan kedaulatan rakyat di wilayah provinsi dan kabupaten/kota untuk memilih Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota secara langsung dan demokratis."
+    },
+    {
+        "instruction": "Siapakah yang disebut Pemilih dalam Pemilu?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2003.",
+        "response": "Pemilih adalah warga negara Indonesia yang terdaftar sebagai pemilih dalam Pemilu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemeteraian Kemudian?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2020 mengenai Bea Meterai.",
+        "response": "Pemeteraian Kemudian adalah pemeteraian yang memerlukan pengesahan dari pejabat yang ditetapkan oleh Menteri."
+    },
+    {
+        "instruction": "Apa definisi Pemilihan Umum (Pemilu)?",
+        "context": "Sesuai dengan UU Nomor 15 Tahun 2011 dan UU Nomor 10 Tahun 2008.",
+        "response": "Pemilihan Umum (Pemilu) adalah sarana pelaksanaan kedaulatan rakyat yang diselenggarakan secara langsung, umum, bebas, rahasia, jujur, dan adil dalam Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan UUD 1945."
+    },
+    {
+        "instruction": "Siapakah Pemilik Data Pribadi?",
+        "context": "Berdasarkan Draf RUU Pelindungan Data Pribadi Tahun 2022 dan Permenkominfo Nomor 20 Tahun 2016.",
+        "response": "Pemilik Data Pribadi adalah perorangan atau individu yang menjadi subjek dari data pribadi dan dapat diidentifikasikan dari data perseorangan tertentu yang melekat padanya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemilu menurut UU Nomor 7 Tahun 2017?",
+        "context": "Cakupan pemilihan untuk badan legislatif dan eksekutif.",
+        "response": "Pemilu adalah sarana kedaulatan rakyat untuk memilih anggota DPR, DPD, Presiden dan Wakil Presiden, serta anggota DPRD, yang dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil."
+    },
+    {
+        "instruction": "Jelaskan definisi Pemilu Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah.",
+        "context": "Merujuk pada UU Nomor 8 Tahun 2012 dan UU Nomor 22 Tahun 2007.",
+        "response": "Ini adalah Pemilu untuk memilih anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dewan Perwakilan Rakyat Daerah Provinsi, dan Dewan Perwakilan Rakyat Daerah Kabupaten/Kota dalam NKRI berdasarkan Pancasila dan UUD 1945."
+    },
+    {
+        "instruction": "Apa itu Pemilu Kepala Daerah Dan Wakil Kepala Daerah?",
+        "context": "Berdasarkan UU Nomor 22 Tahun 2007.",
+        "response": "Pemilu Kepala Daerah Dan Wakil Kepala Daerah adalah Pemilu untuk memilih kepala daerah dan wakil kepala daerah secara langsung dalam Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan UUD 1945."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemilu Presiden Dan Wakil Presiden?",
+        "context": "Sesuai dengan UU Nomor 22 Tahun 2007.",
+        "response": "Pemilu Presiden Dan Wakil Presiden adalah Pemilu untuk memilih Presiden dan Wakil Presiden dalam Negara Kesatuan Republik Indonesia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pemisahan dalam konteks badan usaha?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008 (Perbankan Syariah) dan UU Nomor 40 Tahun 2007 (Perseroan Terbatas).",
+        "response": "Pemisahan adalah perbuatan hukum yang dilakukan oleh Perseroan atau Bank untuk memisahkan usaha yang mengakibatkan seluruh atau sebagian aktiva dan pasiva beralih karena hukum kepada satu, dua, atau lebih Perseroan/badan usaha lain sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Siapakah yang disebut sebagai Pemohon?",
+        "context": "Istilah ini memiliki arti berbeda dalam hukum militer, pendaftaran merek, dan pendaftaran kurator.",
+        "response": "Pemohon adalah Tersangka yang mengajukan keberatan atas Hukuman Disiplin Militer; atau pihak yang mengajukan permohonan Merek/Indikasi Geografis; atau orang perseorangan yang mengajukan pendaftaran sebagai Kurator dan Pengurus."
+    },
+    {
+        "instruction": "Apa definisi Pemohon Banding dalam pendaftaran merek?",
+        "context": "Merujuk pada PP Nomor 90 Tahun 2019.",
+        "response": "Pemohon Banding adalah Pemohon atau Kuasanya yang mengajukan Permohonan Banding."
+    },
+    {
+        "instruction": "Apa pengertian Pemulihan Fungsi Lingkungan Hidup?",
+        "context": "Berdasarkan Permen LHK Nomor P.101 Tahun 2018.",
+        "response": "Pemulihan Fungsi Lingkungan Hidup adalah serangkaian kegiatan penanganan lahan terkontaminasi yang meliputi kegiatan perencanaan, pelaksanaan, evaluasi dan pemantauan untuk memulihkan fungsi lingkungan hidup yang disebabkan oleh pencemaran lingkungan hidup dan/atau perusakan lingkungan hidup."
+    },
+    {
+        "instruction": "Siapakah Pemungut Pajak Pertambahan Nilai?",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009 mengenai PPN.",
+        "response": "Pemungut Pajak Pertambahan Nilai adalah bendahara pemerintah, badan, atau instansi pemerintah yang ditunjuk oleh Menteri Keuangan untuk memungut, menyetor, dan melaporkan pajak yang terutang oleh Pengusaha Kena Pajak atas penyerahan Barang dan/atau Jasa Kena Pajak."
+    },
+    {
+        "instruction": "Apa definisi Pemutusan Hubungan Kerja (PHK)?",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2003 dan PP Nomor 78 Tahun 2015.",
+        "response": "Pemutusan hubungan kerja adalah pengakhiran hubungan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan pengusaha."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi PEN dalam konteks ekspor?",
+        "context": "Merujuk pada PP Nomor 43 Tahun 2019 terkait Lembaga Pembiayaan Ekspor Indonesia.",
+        "response": "PEN (Pembiayaan Ekspor Nasional) adalah fasilitas yang diberikan kepada badan usaha termasuk perorangan dalam rangka mendorong Ekspor nasional."
+    },
+    {
+        "instruction": "Siapakah Penanam Modal itu?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2007 dan perpres terkait investasi.",
+        "response": "Penanam Modal adalah perseorangan atau badan usaha yang melakukan penanaman modal yang dapat berupa penanam modal dalam negeri dan penanam modal asing."
+    },
+    {
+        "instruction": "Apa itu Penanam Modal Asing?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2007.",
+        "response": "Penanam Modal Asing adalah perseorangan warga negara asing, badan usaha asing, dan/atau pemerintah asing yang melakukan penanaman modal di wilayah negara Republik Indonesia."
+    },
+    {
+        "instruction": "Apa definisi Penanam Modal Dalam Negeri?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2007.",
+        "response": "Penanam Modal Dalam Negeri adalah perseorangan warga negara Indonesia, badan usaha Indonesia, negara Republik Indonesia, atau daerah yang melakukan penanaman modal di wilayah negara Republik Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Penanaman Modal?",
+        "context": "Sesuai UU Nomor 25 Tahun 2007 dan PP Nomor 78 Tahun 2019.",
+        "response": "Penanaman Modal adalah segala bentuk kegiatan menanam modal, baik oleh penanam modal dalam negeri maupun penanam modal asing untuk melakukan usaha di wilayah negara Republik Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penanaman Modal Asing (PMA)?",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2007.",
+        "response": "Penanaman Modal Asing adalah kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal asing, baik yang menggunakan modal asing sepenuhnya maupun yang berpatungan dengan penanam modal dalam negeri."
+    },
+    {
+        "instruction": "Apa definisi Penanaman Modal Dalam Negeri (PMDN)?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2007.",
+        "response": "Penanaman Modal Dalam Negeri adalah kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal dalam negeri dengan menggunakan modal dalam negeri."
+    },
+    {
+        "instruction": "Jelaskan definisi Penangkalan dalam keimigrasian.",
+        "context": "Merujuk pada PP Nomor 31 Tahun 2013.",
+        "response": "Penangkalan adalah larangan terhadap Orang Asing untuk masuk Wilayah Indonesia berdasarkan alasan Keimigrasian."
+    },
+    {
+        "instruction": "Siapakah Penasihat Perdagangan Berjangka?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2011.",
+        "response": "Penasihat Perdagangan Berjangka adalah Pihak yang memberikan nasihat kepada pihak lain mengenai jual beli Komoditi berdasarkan Kontrak Berjangka, Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya dengan menerima imbalan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penatagunaan tanah?",
+        "context": "Merujuk pada PP Nomor 16 Tahun 2004.",
+        "response": "Penatagunaan tanah adalah pola pengelolaan tata guna tanah yang meliputi penguasaan, penggunaan dan pemanfaatan tanah yang berwujud konsolidasi pemanfaatan tanah melalui pengaturan kelembagaan sebagai satu kesatuan sistem untuk kepentingan masyarakat secara adil."
+    },
+    {
+        "instruction": "Apa definisi Pencatatan Sipil?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2006 tentang administrasi kependudukan.",
+        "response": "Pencatatan Sipil adalah pencatatan Peristiwa Penting yang dialami oleh seseorang dalam register Pencatatan Sipil pada Instansi Pelaksana."
+    },
+    {
+        "instruction": "Apa itu Pencegahan dalam keimigrasian?",
+        "context": "Sesuai PP Nomor 31 Tahun 2013.",
+        "response": "Pencegahan adalah larangan sementara terhadap orang untuk keluar dari Wilayah Indonesia berdasarkan alasan Keimigrasian atau alasan lain yang ditentukan oleh Undang-Undang."
+    },
+    {
+        "instruction": "Apa pengertian Pencegahan Konflik?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2012.",
+        "response": "Pencegahan Konflik adalah serangkaian kegiatan yang dilakukan untuk mencegah terjadinya Konflik dengan peningkatan kapasitas kelembagaan dan sistem peringatan dini."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pencemaran Lingkungan Hidup?",
+        "context": "Merujuk pada UU Nomor 32 Tahun 2009.",
+        "response": "Pencemaran Lingkungan Hidup adalah masuk atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam lingkungan hidup oleh kegiatan manusia sehingga melampaui baku mutu lingkungan hidup yang telah ditetapkan."
+    },
+    {
+        "instruction": "Siapakah Pencipta menurut UU Hak Cipta?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014.",
+        "response": "Pencipta adalah seorang atau beberapa orang yang secara sendiri-sendiri atau bersama-sama menghasilkan suatu Ciptaan yang bersifat khas dan pribadi."
+    },
+    {
+        "instruction": "Jelaskan definisi Pencucian Uang.",
+        "context": "Sesuai UU Nomor 8 Tahun 2010 dan UU Nomor 25 Tahun 2003 mengenai tindak pidana pencucian uang.",
+        "response": "Pencucian Uang adalah perbuatan menempatkan, mentransfer, membayarkan, membelanjakan, menghibahkan, menyumbangkan, menitipkan, membawa ke luar negeri, menukarkan, atau perbuatan lainnya atas Harta Kekayaan yang diketahuinya atau patut diduga merupakan Hasil Tindak Pidana."
+    },
+    {
+        "instruction": "Apa definisi Pendaftaran Penduduk?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2006.",
+        "response": "Pendaftaran Penduduk adalah pencatatan biodata Penduduk, pencatatan atas pelaporan Peristiwa Kependudukan, pendataan Penduduk rentan Administrasi Kependudukan serta penerbitan Dokumen Kependudukan berupa kartu identitas atau surat keterangan kependudukan."
+    },
+    {
+        "instruction": "Apa pengertian Pendanaan Terorisme?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2013.",
+        "response": "Pendanaan Terorisme adalah segala perbuatan dalam rangka menyediakan, mengumpulkan, memberikan, atau meminjamkan Dana, baik langsung maupun tidak langsung, dengan maksud untuk digunakan dan/atau yang diketahui akan digunakan untuk melakukan kegiatan terorisme."
+    },
+    {
+        "instruction": "Apa itu Pendapatan Daerah?",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2004 dan UU Nomor 17 Tahun 2003.",
+        "response": "Pendapatan Daerah adalah semua hak daerah atau pemerintah daerah yang diakui sebagai penambah nilai kekayaan bersih dalam periode tahun anggaran yang bersangkutan."
+    },
+    {
+        "instruction": "Definisikan Pendapatan Negara.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2003 dan UU Nomor 6 Tahun 2021.",
+        "response": "Pendapatan Negara adalah hak Pemerintah Pusat yang diakui sebagai penambah kekayaan bersih yang terdiri atas Penerimaan Perpajakan, Penerimaan Negara Bukan Pajak, dan Penerimaan Hibah."
+    },
+    {
+        "instruction": "Apa saja komponen dari Pendapatan Negara Dan Hibah?",
+        "context": "Berdasarkan berbagai UU Keuangan dan Perbendaharaan Negara.",
+        "response": "Pendapatan Negara Dan Hibah adalah semua penerimaan negara yang berasal dari penerimaan perpajakan, penerimaan negara bukan pajak, serta penerimaan hibah dari dalam negeri dan luar negeri."
+    },
+    {
+        "instruction": "Apa itu Pendapatan Pajak Dalam Negeri?",
+        "context": "Sesuai UU Nomor 9 Tahun 2020.",
+        "response": "Pendapatan Pajak Dalam Negeri adalah semua penerimaan negara yang berasal dari pendapatan pajak penghasilan, PPN, PPnBM, PBB, pendapatan cukai, dan pendapatan pajak lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pendapatan Pajak Perdagangan Internasional?",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2021 dan UU Nomor 9 Tahun 2020.",
+        "response": "Pendapatan Pajak Perdagangan Internasional adalah semua penerimaan negara yang berasal dari pendapatan bea masuk dan pendapatan bea keluar."
+    },
+    {
+        "instruction": "Jelaskan definisi Pendelegasian Wewenang dalam pelayanan perizinan.",
+        "context": "Berdasarkan PP Nomor 1 Tahun 2020 mengenai KEK.",
+        "response": "Pendelegasian Wewenang adalah penyerahan tugas, hak, kewajiban, dan pertanggungjawaban Perizinan Berusaha, perizinan lainnya, dan nonperizinan, termasuk penandatanganannya atas nama pemberi wewenang."
     }
 ]
