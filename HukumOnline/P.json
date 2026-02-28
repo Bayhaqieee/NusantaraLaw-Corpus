@@ -1183,5 +1183,155 @@
         "instruction": "Jelaskan definisi Pendelegasian Wewenang dalam pelayanan perizinan.",
         "context": "Berdasarkan PP Nomor 1 Tahun 2020 mengenai KEK.",
         "response": "Pendelegasian Wewenang adalah penyerahan tugas, hak, kewajiban, dan pertanggungjawaban Perizinan Berusaha, perizinan lainnya, dan nonperizinan, termasuk penandatanganannya atas nama pemberi wewenang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pendidikan Anak Usia Dini?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2003 mengenai sistem pendidikan.",
+        "response": "Pendidikan Anak Usia Dini adalah suatu upaya pembinaan yang ditujukan kepada anak sejak lahir sampai dengan usia enam tahun yang dilakukan melalui pemberian rangsangan pendidikan untuk membantu pertumbuhan dan perkembangan jasmani dan rohani agar anak memiliki kesiapan dalam memasuki pendidikan lebih lanjut."
+    },
+    {
+        "instruction": "Apa itu Pendidikan Berbasis Masyarakat?",
+        "context": "Sesuai UU Nomor 20 Tahun 2003.",
+        "response": "Pendidikan Berbasis Masyarakat adalah penyelenggaraan pendidikan berdasarkan kekhasan agama, sosial, budaya, aspirasi, dan potensi masyarakat sebagai perwujudan pendidikan dari, oleh, dan untuk masyarakat."
+    },
+    {
+        "instruction": "Jelaskan definisi Pendidikan formal.",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2003.",
+        "response": "Pendidikan formal adalah jalur pendidikan yang terstruktur dan berjenjang yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi."
+    },
+    {
+        "instruction": "Apa definisi Pendidikan Informal?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2003.",
+        "response": "Pendidikan Informal adalah jalur pendidikan keluarga dan lingkungan, atau jalur pendidikan di luar pendidikan formal yang dapat dilaksanakan secara terstruktur dan berjenjang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pendidikan Jarak Jauh?",
+        "context": "Sesuai dengan UU Nomor 20 Tahun 2003.",
+        "response": "Pendidikan Jarak Jauh adalah pendidikan yang peserta didiknya terpisah dari pendidik dan pembelajarannya menggunakan berbagai sumber belajar melalui teknologi komunikasi, informasi, dan media lain."
+    },
+    {
+        "instruction": "Definisikan Pendidikan Politik menurut UU Partai Politik.",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2008.",
+        "response": "Pendidikan Politik adalah proses pembelajaran dan pemahaman tentang hak, kewajiban, dan tanggung jawab setiap warga negara dalam kehidupan berbangsa dan bernegara."
+    },
+    {
+        "instruction": "Apa pengertian Pendidikan Profesi?",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2013 dan PP Nomor 14 Tahun 2010.",
+        "response": "Pendidikan Profesi adalah pendidikan tinggi setelah program sarjana yang mempersiapkan peserta didik untuk memiliki pekerjaan dengan persyaratan keahlian khusus, atau pembelajaran praktik klinis/komunitas khusus (seperti Pendidikan Kedokteran)."
+    },
+    {
+        "instruction": "Apa itu Pendidikan Tinggi?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2012 dan PP Nomor 4 Tahun 2014.",
+        "response": "Pendidikan Tinggi adalah jenjang pendidikan setelah pendidikan menengah yang mencakup program diploma, program sarjana, program magister, program doktor, dan program profesi, serta program spesialis, yang diselenggarakan oleh Perguruan Tinggi berdasarkan kebudayaan bangsa Indonesia."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Penduduk menurut Undang-Undang?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2006 dan UU Nomor 52 Tahun 2009.",
+        "response": "Penduduk adalah warga negara Indonesia dan orang asing yang bertempat tinggal di Indonesia."
+    },
+    {
+        "instruction": "Apa itu Penduduk rentan?",
+        "context": "Sesuai dengan UU Nomor 52 Tahun 2009.",
+        "response": "Penduduk rentan adalah penduduk yang dalam berbagai matranya tidak atau kurang mendapat kesempatan untuk mengembangkan potensinya sebagai akibat dari keadaan fisik dan/atau non fisiknya."
+    },
+    {
+        "instruction": "Siapakah Penegak Hukum menurut aturan penghargaan?",
+        "context": "Merujuk pada PP Nomor 43 Tahun 2018.",
+        "response": "Penegak Hukum adalah aparat Komisi Pemberantasan Korupsi, Kepolisian Negara Republik Indonesia, dan Kejaksaan Republik Indonesia sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penempatan Dana?",
+        "context": "Berdasarkan PP Nomor 23 Tahun 2020 mengenai pengelolaan uang negara.",
+        "response": "Penempatan Dana adalah kegiatan yang dilakukan oleh Pemerintah dengan menempatkan sejumlah dana pada bank umum tertentu dengan bunga tertentu."
+    },
+    {
+        "instruction": "Siapakah Penerima Bantuan Hukum?",
+        "context": "Berdasarkan UU Nomor 16 Tahun 2011 tentang bantuan hukum.",
+        "response": "Penerima Bantuan Hukum adalah orang atau kelompok orang miskin."
+    },
+    {
+        "instruction": "Apa definisi Penerbangan menurut PP Nomor 40 Tahun 2012?",
+        "context": "Konteks sistem perhubungan udara secara keseluruhan.",
+        "response": "Penerbangan adalah satu kesatuan sistem yang terdiri atas pemanfaatan wilayah udara, pesawat udara, Bandar Udara, angkutan udara, navigasi penerbangan, keselamatan dan keamanan, lingkungan hidup, serta fasilitas penunjang dan fasilitas umum lainnya."
+    },
+    {
+        "instruction": "Jelaskan definisi Penempatan TKI.",
+        "context": "Sesuai UU Nomor 39 Tahun 2004 dan PP Nomor 4 Tahun 2015.",
+        "response": "Penempatan TKI adalah kegiatan pelayanan untuk mempertemukan TKI sesuai bakat, minat, dan kemampuannya dengan pemberi kerja di luar negeri yang meliputi proses perekrutan, pengurusan dokumen, diklat, penampungan, pemberangkatan, hingga pemulangan dari negara tujuan."
+    },
+    {
+        "instruction": "Siapakah Penerima Bantuan Iuran Jaminan Kesehatan?",
+        "context": "Berdasarkan Perpres Nomor 82 Tahun 2018.",
+        "response": "Penerima Bantuan Iuran Jaminan Kesehatan adalah fakir miskin dan orang tidak mampu sebagai Peserta program Jaminan Kesehatan."
+    },
+    {
+        "instruction": "Apa pengertian Penerima (Beneficiary) dalam transfer dana?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2011.",
+        "response": "Penerima (Beneficiary) adalah pihak yang disebut dalam Perintah Transfer Dana untuk menerima Dana hasil transfer."
+    },
+    {
+        "instruction": "Siapakah Penerima Fidusia?",
+        "context": "Berdasarkan PP Nomor 21 Tahun 2015.",
+        "response": "Penerima Fidusia adalah orang perseorangan atau korporasi yang mempunyai piutang yang pembayarannya dijamin dengan Jaminan Fidusia."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Penerima Jaminan?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2016 mengenai perusahaan penjaminan.",
+        "response": "Penerima Jaminan adalah lembaga keuangan atau di luar lembaga keuangan yang telah memberikan Kredit, Pembiayaan, Pembiayaan Berdasarkan Prinsip Syariah atau kontrak jasa kepada Terjamin."
+    },
+    {
+        "instruction": "Siapakah Penerima Hibah luar negeri?",
+        "context": "Berdasarkan PP Nomor 48 Tahun 2018.",
+        "response": "Penerima Hibah adalah Pemerintah Asing/ Lembaga Asing."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penerima Hak Jaminan atas Resi Gudang?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2011.",
+        "response": "Penerima Hak Jaminan adalah pihak yang memegang atau berhak atas Hak Jaminan atas Resi Gudang sesuai dengan Akta Pembebanan Hak Jaminan."
+    },
+    {
+        "instruction": "Siapakah Penerima Manfaat Pensiun?",
+        "context": "Sesuai PP Nomor 45 Tahun 2015.",
+        "response": "Penerima Manfaat Pensiun adalah peserta atau ahli waris peserta yang berhak menerima manfaat pensiun."
+    },
+    {
+        "instruction": "Apa definisi Penerima Pelayanan Kesehatan?",
+        "context": "Merujuk pada UU Nomor 36 Tahun 2014.",
+        "response": "Penerima Pelayanan Kesehatan adalah setiap orang yang melakukan konsultasi tentang kesehatan untuk memperoleh pelayanan kesehatan yang diperlukan, baik secara langsung maupun tidak langsung kepada tenaga kesehatan."
+    },
+    {
+        "instruction": "Siapa saja yang dikategorikan sebagai Penerima Pensiun?",
+        "context": "Berdasarkan PP Nomor 38 Tahun 2015.",
+        "response": "Penerima pensiun meliputi: Pensiunan PNS, Pensiunan TNI, Pensiunan POLRI, Pensiunan Pejabat Negara, penerima pensiun Janda/Duda/Anak dari kategori tersebut, serta penerima pensiun Orang Tua dari PNS yang tewas."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penerimaan Hibah?",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2021 dan UU Nomor 9 Tahun 2020.",
+        "response": "Penerimaan Hibah adalah semua penerimaan negara baik dalam bentuk devisa, rupiah, jasa, dan/atau surat berharga yang diperoleh dari pemberi hibah yang tidak perlu dibayar kembali dan tidak mengikat (dari dalam maupun luar negeri)."
+    },
+    {
+        "instruction": "Apa definisi Penerimaan Daerah?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2022 dan UU Nomor 17 Tahun 2003.",
+        "response": "Penerimaan Daerah adalah uang yang masuk ke kas Daerah."
+    },
+    {
+        "instruction": "Siapa saja yang disebut Penerima Tunjangan?",
+        "context": "Berdasarkan PP Nomor 38 Tahun 2015 mengenai tunjangan negara.",
+        "response": "Penerima tunjangan meliputi: Veteran, Perintis Kemerdekaan, janda/duda dari penerima tersebut, bekas tentara KNIL, anak yatim piatu TNI/Polri, pensiunan dini TNI/Polri dengan masa kerja tertentu, orang tua TNI/Polri yang gugur, dan penerima tunjangan cacat."
+    },
+    {
+        "instruction": "Apa itu Penerimaan Negara?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2003.",
+        "response": "Penerimaan Negara adalah uang yang masuk ke kas negara."
+    },
+    {
+        "instruction": "Jelaskan definisi Penerimaan Negara Bukan Pajak (PNBP).",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2018.",
+        "response": "Penerimaan Negara Bukan Pajak adalah pungutan yang dibayar oleh orang pribadi atau badan dengan memperoleh manfaat atas layanan/sumber daya/hak yang diperoleh negara yang menjadi penerimaan Pemerintah Pusat di luar pajak dan hibah."
+    },
+    {
+        "instruction": "Apa pengertian Penerimaan Perpajakan?",
+        "context": "Berdasarkan UU Keuangan Negara dan UU Nomor 6 Tahun 2021.",
+        "response": "Penerimaan Perpajakan adalah semua penerimaan negara yang terdiri atas Pendapatan Pajak Dalam Negeri dan Pendapatan Pajak Perdagangan Internasional."
     }
 ]
