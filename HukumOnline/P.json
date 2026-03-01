@@ -1333,5 +1333,145 @@
         "instruction": "Apa pengertian Penerimaan Perpajakan?",
         "context": "Berdasarkan UU Keuangan Negara dan UU Nomor 6 Tahun 2021.",
         "response": "Penerimaan Perpajakan adalah semua penerimaan negara yang terdiri atas Pendapatan Pajak Dalam Negeri dan Pendapatan Pajak Perdagangan Internasional."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penerusan Pinjaman?",
+        "context": "Berdasarkan berbagai Undang-Undang Keuangan dan Perbendaharaan Negara (contohnya UU Nomor 4 Tahun 2012 dan UU Nomor 11 Tahun 2011).",
+        "response": "Penerusan Pinjaman adalah pinjaman luar negeri atau pinjaman dalam negeri yang diterima oleh Pemerintah Pusat yang diteruspinjamkan kepada pemerintah daerah atau BUMN yang harus dibayar kembali dengan ketentuan dan persyaratan tertentu."
+    },
+    {
+        "instruction": "Definisikan Penetapan dalam konteks Cagar Budaya.",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2010.",
+        "response": "Penetapan adalah pemberian status Cagar Budaya terhadap benda, bangunan, struktur, lokasi, atau satuan ruang geografis yang dilakukan oleh pemerintah kabupaten/kota berdasarkan rekomendasi Tim Ahli Cagar Budaya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengadaan Barang Dan Jasa di BUMN?",
+        "context": "Berdasarkan Permen BUMN Nomor PER-08/MBU/12/2019.",
+        "response": "Pengadaan Barang Dan Jasa adalah kegiatan untuk mendapatkan barang dan jasa yang dilakukan oleh Badan Usaha Milik Negara yang pembiayaannya berasal dari anggaran BUMN yang prosesnya dimulai dari perencanaan kebutuhan sampai dengan serah terima hasil pekerjaan."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengadaan Tanah.",
+        "context": "Sesuai PP Nomor 71 Tahun 2012 mengenai perizinan pertanahan.",
+        "response": "Pengadaan Tanah adalah kegiatan menyediakan tanah dengan cara memberi Ganti Kerugian yang layak dan adil kepada Pihak yang Berhak."
+    },
+    {
+        "instruction": "Apa saja yang tercakup dalam istilah Pengadilan?",
+        "context": "Berdasarkan PP Nomor 94 Tahun 2012 mengenai fasilitas hakim.",
+        "response": "Pengadilan meliputi pengadilan tingkat pertama dan pengadilan tingkat banding di lingkungan peradilan umum, peradilan agama, peradilan militer, dan peradilan tata usaha negara."
+    },
+    {
+        "instruction": "Apa pengertian Pengadilan Hubungan Industrial?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2004.",
+        "response": "Pengadilan Hubungan Industrial adalah pengadilan khusus yang dibentuk di lingkungan pengadilan negeri yang berwenang memeriksa, mengadili dan memberi putusan terhadap perselisihan hubungan industrial."
+    },
+    {
+        "instruction": "Apa itu Pengaksepan (Acceptance)?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2011 terkait transfer dana.",
+        "response": "Pengaksepan (Acceptance) adalah kegiatan Penyelenggara Penerima yang menunjukkan persetujuan untuk melaksanakan atau memenuhi isi Perintah Transfer Dana yang diterima."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengakuan Hak Masyarakat Hukum Adat.",
+        "context": "Sesuai draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Pengakuan Hak Masyarakat Hukum Adat adalah pernyataan tertulis atas keberadaan Masyarakat Hukum Adat beserta hak-haknya yang diberikan oleh Negara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengalihan?",
+        "context": "Istilah ini memiliki dua arti berbeda berdasarkan PP Nomor 41 Tahun 2020 (tentang KPK) dan UU Nomor 11 Tahun 2010 (tentang Cagar Budaya).",
+        "response": "Pengalihan adalah (1) proses pengangkatan Pegawai KPK menjadi Pegawai ASN; atau (2) proses pemindahan hak kepemilikan dan/atau penguasaan Cagar Budaya dari seseorang kepada orang lain atau kepada negara."
+    },
+    {
+        "instruction": "Definisikan Pengambilalihan perusahaan.",
+        "context": "Merujuk pada PP Nomor 57 Tahun 2010 mengenai akuisisi badan usaha.",
+        "response": "Pengambilalihan adalah perbuatan hukum yang dilakukan oleh Pelaku Usaha untuk mengambilalih saham badan usaha yang mengakibatkan beralihnya pengendalian atas badan usaha tersebut."
+    },
+    {
+        "instruction": "Apa pengertian Pengampunan Pajak?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2016.",
+        "response": "Pengampunan Pajak adalah penghapusan pajak yang seharusnya terutang, tidak dikenai sanksi administrasi perpajakan dan sanksi pidana di bidang perpajakan, dengan cara mengungkap Harta dan membayar Uang Tebusan sebagaimana diatur dalam Undang-Undang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengangkatan anak?",
+        "context": "Sesuai dengan PP Nomor 54 Tahun 2007.",
+        "response": "Pengangkatan anak adalah suatu perbuatan hukum yang mengalihkan seorang anak dari lingkungan kekuasaan orang tua, wali yang sah, atau orang lain yang bertanggung jawab atas perawatannya ke dalam lingkungan keluarga orang tua angkat."
+    },
+    {
+        "instruction": "Siapakah Pengangkut Limbah B3?",
+        "context": "Berdasarkan Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Pengangkut Limbah B3 adalah badan usaha yang berbadan hukum yang melakukan kegiatan pengangkutan Limbah B3."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengangkutan menurut berbagai undang-undang terkait.",
+        "context": "Merujuk pada kegiatan memindahkan barang, seperti Prekursor/Narkotika (UU No. 35/2009) atau mineral/batubara (UU No. 4/2009).",
+        "response": "Pengangkutan adalah setiap kegiatan atau rangkaian kegiatan memindahkan barang (seperti Prekursor, Narkotika, atau mineral/batubara) dari satu tempat ke tempat lain dengan cara, moda, atau sarana angkutan apa pun."
+    },
+    {
+        "instruction": "Apa definisi Pengasuhan Anak?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2017.",
+        "response": "Pengasuhan Anak adalah upaya untuk memenuhi kebutuhan akan kasih sayang, kelekatan, keselamatan, dan kesejahteraan yang menetap dan berkelanjutan demi kepentingan terbaik bagi Anak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengaturan Jalan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2022 dan UU Nomor 38 Tahun 2004.",
+        "response": "Pengaturan Jalan adalah kegiatan perumusan kebijakan perencanaan, penyusunan perencanaan umum, dan penyusunan peraturan perundang-undangan di bidang Jalan."
+    },
+    {
+        "instruction": "Apa itu Pengaturan Penataan Ruang?",
+        "context": "Berdasarkan UU Nomor 26 Tahun 2007.",
+        "response": "Pengaturan Penataan Ruang adalah upaya pembentukan landasan hukum bagi Pemerintah, pemerintah daerah, dan masyarakat dalam penataan ruang."
+    },
+    {
+        "instruction": "Siapakah Pengawas ketenagakerjaan?",
+        "context": "Sesuai dengan PP Nomor 34 Tahun 2021.",
+        "response": "Pengawas ketenagakerjaan adalah pegawai negeri sipil yang diberi tugas, tanggung jawab, wewenang, dan hak secara penuh untuk melaksanakan kegiatan pembinaan, pemeriksaan, pengujian, penyidikan, dan pengembangan sistem pengawasan ketenagakerjaan."
+    },
+    {
+        "instruction": "Apa tugas Pengawas Ketenagakerjaan Spesialis K3 Lingkungan Kerja?",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018.",
+        "response": "Pengawas ini adalah Pengawas Ketenagakerjaan yang mempunyai keahlian khusus di bidang K3 Lingkungan Kerja yang berwenang untuk melakukan pembinaan, Pemeriksaan, Pengujian, serta pengawasan sesuai dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Siapakah Pengawas Pemilihan Lapangan?",
+        "context": "Merujuk pada UU Nomor 8 Tahun 2015 mengenai Pemilu Kepala Daerah.",
+        "response": "Pengawas Pemilihan Lapangan adalah petugas yang dibentuk oleh Panwas Kecamatan untuk mengawasi penyelenggaraan Pemilihan di Desa atau sebutan lain/Kelurahan."
+    },
+    {
+        "instruction": "Apa definisi Pengawas Pemilu secara umum?",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2003 dan UU Nomor 12 Tahun 2003.",
+        "response": "Pengawas Pemilu meliputi Panitia Pengawas Pemilu di tingkat pusat, provinsi, kabupaten/kota, hingga kecamatan yang melakukan pengawasan terhadap seluruh proses penyelenggaraan Pemilu."
+    },
+    {
+        "instruction": "Siapakah Pengawas Pemilu Lapangan?",
+        "context": "Sesuai UU Nomor 15 Tahun 2011 dan UU Nomor 10 Tahun 2008.",
+        "response": "Pengawas Pemilu Lapangan adalah petugas yang dibentuk oleh Panwaslu Kecamatan yang bertugas mengawasi penyelenggaraan Pemilu di tingkat desa/kelurahan."
+    },
+    {
+        "instruction": "Apa itu Pengawas Pemilu Luar Negeri?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2011.",
+        "response": "Pengawas Pemilu Luar Negeri adalah petugas yang dibentuk oleh Bawaslu yang bertugas mengawasi penyelenggaraan Pemilu di luar negeri."
+    },
+    {
+        "instruction": "Siapakah Pengawas Tempat Pemungutan Suara?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017 dan UU Nomor 8 Tahun 2015.",
+        "response": "Pengawas Tempat Pemungutan Suara adalah petugas yang dibentuk oleh Panwaslu Kecamatan (atau Panwas Kecamatan) untuk membantu Panwaslu Kelurahan/Desa atau PPL dalam mengawasi TPS."
+    },
+    {
+        "instruction": "Apa pengertian Pengawasan dalam fungsi kepolisian?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2012.",
+        "response": "Pengawasan adalah proses pengamatan terhadap pelaksanaan fungsi kepolisian terbatas yang dilakukan Polsus, PPNS, dan Pam Swakarsa oleh Polri bersama instansi yang membawahi mereka."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengawasan Kepatuhan.",
+        "context": "Sesuai UU Nomor 8 Tahun 2010 terkait PPATK.",
+        "response": "Pengawasan Kepatuhan adalah serangkaian kegiatan Lembaga Pengawas dan Pengatur serta PPATK untuk memastikan kepatuhan Pihak Pelapor atas kewajiban pelaporan dengan mengeluarkan pedoman, mengaudit, memantau, dan mengenakan sanksi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengawasan ketenagakerjaan?",
+        "context": "Berdasarkan UU Nomor 13 Tahun 2003 dan PP Nomor 4 Tahun 2015.",
+        "response": "Pengawasan ketenagakerjaan adalah kegiatan mengawasi dan menegakkan pelaksanaan peraturan perundang-undangan di bidang ketenagakerjaan."
+    },
+    {
+        "instruction": "Definisikan istilah Pengecer.",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2021 dan Permendag Nomor 22 Tahun 2016.",
+        "response": "Pengecer adalah Pelaku Usaha Distribusi yang kegiatan pokoknya memasarkan Barang secara langsung kepada Konsumen."
     }
 ]
