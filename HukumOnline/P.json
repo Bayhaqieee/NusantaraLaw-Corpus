@@ -1473,5 +1473,305 @@
         "instruction": "Definisikan istilah Pengecer.",
         "context": "Merujuk pada PP Nomor 29 Tahun 2021 dan Permendag Nomor 22 Tahun 2016.",
         "response": "Pengecer adalah Pelaku Usaha Distribusi yang kegiatan pokoknya memasarkan Barang secara langsung kepada Konsumen."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengelola Sentra Dana Perdagangan Berjangka?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2011 mengenai Perdagangan Berjangka Komoditi.",
+        "response": "Pengelola Sentra Dana Perdagangan Berjangka adalah Pihak yang melakukan usaha yang berkaitan dengan penghimpunan dan pengelolaan dana dari peserta Sentra Dana Berjangka untuk diinvestasikan dalam Kontrak Berjangka."
+    },
+    {
+        "instruction": "Siapakah Pengelola Statuter dalam industri perasuransian?",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2014.",
+        "response": "Pengelola Statuter adalah Pihak yang ditunjuk oleh Otoritas Jasa Keuangan untuk mengambil alih kepengurusan Perusahaan Asuransi, Perusahaan Asuransi Syariah, perusahaan reasuransi, atau perusahaan reasuransi syariah."
+    },
+    {
+        "instruction": "Apa definisi Pengelolaan Barang Milik Negara?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2018 mengenai PNBP.",
+        "response": "Pengelolaan Barang Milik Negara adalah kegiatan penggunaan, pemanfaatan, dan pemindahtanganan semua barang yang dibeli atau diperoleh atas beban anggaran pendapatan dan belanja negara atau berasal dari perolehan lain yang sah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengelolaan Kekayaan Negara Dipisahkan?",
+        "context": "Sesuai dengan UU Nomor 9 Tahun 2018 tentang PNBP.",
+        "response": "Pengelolaan Kekayaan Negara Dipisahkan adalah pengelolaan atas kekayaan negara yang berasal dari anggaran pendapatan dan belanja negara yang dijadikan penyertaan modal negara atau perolehan lain yang sah."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengelolaan Data.",
+        "context": "Merujuk pada UU Nomor 31 Tahun 2009.",
+        "response": "Pengelolaan Data adalah serangkaian perlakuan terhadap data."
+    },
+    {
+        "instruction": "Apa pengertian Pengelolaan Dana menurut regulasi PNBP?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2018.",
+        "response": "Pengelolaan Dana adalah pengelolaan atas dana pemerintah yang berasal dari anggaran pendapatan dan belanja negara atau perolehan lain yang sah untuk tujuan tertentu."
+    },
+    {
+        "instruction": "Definisikan Pengelolaan Keuangan Negara.",
+        "context": "Sesuai dengan UU Nomor 15 Tahun 2004.",
+        "response": "Pengelolaan Keuangan Negara adalah keseluruhan kegiatan pejabat pengelola keuangan negara sesuai dengan kedudukan dan kewenangannya, yang meliputi perencanaan, pelaksanaan, pengawasan, dan pertanggungjawaban."
+    },
+    {
+        "instruction": "Apa itu Pengelolaan Limbah B3?",
+        "context": "Berdasarkan Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Pengelolaan Limbah B3 adalah kegiatan yang meliputi pengurangan, penyimpanan, pengumpulan, pengangkutan, pemanfaatan, pengolahan, dan/atau penimbunan Limbah B3."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengelolaan pertahanan negara?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2002.",
+        "response": "Pengelolaan pertahanan negara adalah segala kegiatan pada tingkat strategis dan kebijakan yang meliputi perencanaan, pelaksanaan, pengawasan, dan pengendalian pertahanan negara."
+    },
+    {
+        "instruction": "Jelaskan pengertian Pengelolaan zakat.",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2014 dan UU Nomor 23 Tahun 2011.",
+        "response": "Pengelolaan zakat adalah kegiatan perencanaan, pelaksanaan, dan pengoordinasian dalam pengumpulan, pendistribusian, dan pendayagunaan zakat."
+    },
+    {
+        "instruction": "Apa itu Pengelolaan Sumber Daya Air?",
+        "context": "Sesuai dengan Permen PUPR Nomor 28/PRT/M/2015.",
+        "response": "Pengelolaan Sumber Daya Air adalah upaya merencanakan, melaksanakan, memantau, dan mengevaluasi penyelenggaraan konservasi sumber daya air, pendayagunaan sumber daya air, dan pengendalian daya rusak air."
+    },
+    {
+        "instruction": "Apa definisi Pengelolaan PNBP?",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2018.",
+        "response": "Pengelolaan PNBP adalah pemanfaatan sumber daya dalam rangka tata kelola yang meliputi kegiatan perencanaan, pelaksanaan, pertanggungjawaban, dan pengawasan untuk meningkatkan pelayanan, akuntabilitas, dan optimalisasi penerimaan negara yang berasal dari PNBP."
+    },
+    {
+        "instruction": "Definisikan Pengeluaran Daerah.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2003.",
+        "response": "Pengeluaran Daerah adalah uang yang keluar dari kas daerah."
+    },
+    {
+        "instruction": "Apa itu Pengeluaran Negara?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2003.",
+        "response": "Pengeluaran Negara adalah uang yang keluar dari kas negara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengeluaran Pembangunan?",
+        "context": "Merujuk pada UU Nomor 29 Tahun 2002 dan UU Nomor 19 Tahun 2001.",
+        "response": "Pengeluaran Pembangunan adalah semua pengeluaran negara untuk membiayai proyek-proyek pembangunan yang dibebankan pada anggaran belanja pemerintah pusat."
+    },
+    {
+        "instruction": "Siapakah yang disebut Pengemudi?",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2021 tentang penyelenggaraan transportasi darat.",
+        "response": "Pengemudi adalah orang yang mengemudikan Kendaraan Bermotor di Jalan yang telah memiliki Surat Izin Mengemudi."
+    },
+    {
+        "instruction": "Apa pengertian Pengembangan Sosial?",
+        "context": "Sesuai dengan UU Nomor 14 Tahun 2019.",
+        "response": "Pengembangan Sosial adalah upaya untuk meningkatkan dan mengembangkan kemampuan atau daya guna individu, keluarga, kelompok, dan masyarakat yang sudah berfungsi dengan baik."
+    },
+    {
+        "instruction": "Jelaskan definisi Pengeluaran Rutin dalam APBN.",
+        "context": "Berdasarkan UU Keuangan Negara (UU Nomor 29/2002 dan UU Nomor 19/2001).",
+        "response": "Pengeluaran Rutin adalah semua pengeluaran negara untuk membiayai tugas-tugas umum pemerintahan dan kegiatan operasional pemerintah pusat, pembayaran bunga atas utang dalam/luar negeri, pembayaran subsidi, dan pengeluaran rutin lainnya."
+    },
+    {
+        "instruction": "Apa itu Pengesahan Rencana Penggunaan Tenaga Kerja Asing?",
+        "context": "Merujuk pada PP Nomor 34 Tahun 2021.",
+        "response": "Pengesahan Rencana Penggunaan Tenaga Kerja Asing adalah persetujuan penggunaan TKA yang disahkan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang ketenagakerjaan atau pejabat yang ditunjuk."
+    },
+    {
+        "instruction": "Definisikan Penggabungan badan usaha atau yayasan.",
+        "context": "Berdasarkan PP Nomor 57 Tahun 2010 dan PP Nomor 63 Tahun 2008.",
+        "response": "Penggabungan adalah perbuatan hukum yang dilakukan oleh satu atau lebih badan usaha/yayasan untuk menggabungkan diri dengan badan usaha/yayasan lain yang telah ada, yang mengakibatkan aktiva dan pasiva beralih karena hukum kepada penerima penggabungan, dan status badan yang menggabungkan diri berakhir karena hukum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penggandaan menurut UU Hak Cipta?",
+        "context": "Sesuai UU Nomor 28 Tahun 2014.",
+        "response": "Penggandaan adalah proses, perbuatan, atau cara menggandakan satu salinan Ciptaan dan/atau fonogram atau lebih dengan cara dan dalam bentuk apapun, secara permanen atau sementara."
+    },
+    {
+        "instruction": "Siapakah Pengguna Jasa itu?",
+        "context": "Merujuk pada berbagai undang-undang terkait multimoda, jasa konstruksi, dan anti pencucian uang.",
+        "response": "Pengguna Jasa adalah orang perseorangan/badan hukum yang menggunakan jasa angkutan multimoda, atau pemilik/pemberi pekerjaan yang menggunakan layanan Jasa Konstruksi, atau pihak yang menggunakan jasa Pihak Pelapor."
+    },
+    {
+        "instruction": "Apa pengertian Pengguna Jalan?",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2021.",
+        "response": "Pengguna Jalan adalah orang yang menggunakan Jalan untuk berlalu lintas."
+    },
+    {
+        "instruction": "Siapakah Pengguna Barang Dan Jasa dalam pengadaan BUMN?",
+        "context": "Sesuai Permen BUMN Nomor PER-08/MBU/12/2019.",
+        "response": "Pengguna Barang Dan Jasa adalah BUMN pemilik pekerjaan."
+    },
+    {
+        "instruction": "Apa definisi Pengguna Nama Domain?",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019 dan PP Nomor 82 Tahun 2012.",
+        "response": "Pengguna Nama Domain adalah Orang, Instansi Penyelenggara Negara, Badan Usaha, atau masyarakat yang mengajukan pendaftaran untuk penggunaan Nama Domain kepada Registrar Nama Domain."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Pengguna Sistem Elektronik?",
+        "context": "Merujuk pada PP Nomor 71 Tahun 2019 dan PP Nomor 82 Tahun 2012.",
+        "response": "Pengguna Sistem Elektronik adalah setiap Orang, penyelenggara negara, Badan Usaha, dan masyarakat yang memanfaatkan barang, jasa, fasilitas, atau informasi yang disediakan oleh Penyelenggara Sistem Elektronik."
+    },
+    {
+        "instruction": "Jelaskan definisi Penggunaan Kawasan Hutan Secara Tidak Sah.",
+        "context": "Sesuai dengan UU Nomor 18 Tahun 2013 tentang kehutanan.",
+        "response": "Penggunaan Kawasan Hutan Secara Tidak Sah adalah kegiatan terorganisasi yang dilakukan di dalam kawasan hutan untuk perkebunan dan/atau pertambangan tanpa izin Menteri."
+    },
+    {
+        "instruction": "Apa itu Penggunaan Secara Komersial menurut UU Hak Cipta?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014.",
+        "response": "Penggunaan Secara Komersial adalah pemanfaatan Ciptaan dan/atau produk Hak Terkait dengan tujuan untuk memperoleh keuntungan ekonomi dari berbagai sumber atau berbayar."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penghapusan Kekerasan Dalam Rumah Tangga?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2004.",
+        "response": "Penghapusan Kekerasan Dalam Rumah Tangga adalah jaminan yang diberikan oleh negara untuk mencegah terjadinya kekerasan dalam rumah tangga, menindak pelaku kekerasan dalam rumah tangga, dan melindungi korban kekerasan dalam rumah tangga."
+    },
+    {
+        "instruction": "Siapakah Penghasil Limbah B3?",
+        "context": "Berdasarkan Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Penghasil Limbah B3 adalah setiap orang yang usaha dan/atau kegiatannya menghasilkan Limbah B3."
+    },
+    {
+        "instruction": "Apa tugas Pengkaji Teknis bangunan gedung?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2002 mengenai perumahan dan bangunan.",
+        "response": "Pengkaji Teknis adalah orang perorangan, atau badan hukum yang mempunyai sertifikat keahlian untuk melaksanakan pengkajian teknis atas kelaikan fungsi bangunan gedung sesuai dengan ketentuan perundang-undangan yang berlaku."
+    },
+    {
+        "instruction": "Jelaskan definisi Penguasaan tanah.",
+        "context": "Merujuk pada PP Nomor 16 Tahun 2004 terkait tata guna tanah.",
+        "response": "Penguasaan tanah adalah hubungan hukum antara orang per orang, kelompok orang, atau badan hukum dengan tanah sebagaimana dimaksud dalam Undang-undang Nomor 5 Tahun 1960 tentang Peraturan Dasar Pokok-pokok Agraria."
+    },
+    {
+        "instruction": "Siapakah Penguji K3 itu?",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018.",
+        "response": "Penguji K3 adalah Pegawai Negeri Sipil yang diberi tugas, tanggung jawab, wewenang dan hak secara penuh untuk melakukan kegiatan Pengujian K3 dan kompetensi K3."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengumpul Limbah B3?",
+        "context": "Merujuk pada Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Pengumpul Limbah B3 adalah badan usaha yang berbadan hukum yang melakukan kegiatan pengumpulan dengan tujuan untuk mengumpulkan Limbah B3 sebelum dikirim ke tempat pemanfaatan, pengolahan, dan/ atau penimbunan Limbah B3."
+    },
+    {
+        "instruction": "Apa pengertian Pengujian Ketenagakerjaan?",
+        "context": "Sesuai Permenaker Nomor 5 Tahun 2018 dan Permenaker Nomor 33 Tahun 2016.",
+        "response": "Pengujian Ketenagakerjaan adalah kegiatan penilaian terhadap suatu objek Pengawasan Ketenagakerjaan melalui perhitungan, analisis, pengukuran dan/atau pengetesan sesuai dengan ketentuan peraturan perundang-undangan atau standar yang berlaku."
+    },
+    {
+        "instruction": "Definisikan Pengujian K3.",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018.",
+        "response": "Pengujian K3 adalah serangkaian kegiatan penilaian suatu obyek K3 secara teknis dan/atau medis yang mempunyai resiko bahaya dengan cara memberi beban uji atau dengan teknik Pengujian lainnya sesuai dengan ketentuan teknis atau medis yang telah ditentukan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pengundangan peraturan perundang-undangan?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2011 dan UU Nomor 15 Tahun 2019.",
+        "response": "Pengundangan adalah penempatan Peraturan Perundang-undangan dalam Lembaran Negara Republik Indonesia, Tambahan Lembaran Negara Republik Indonesia, Berita Negara Republik Indonesia, Tambahan Berita Negara Republik Indonesia, Lembaran Daerah, Tambahan Lembaran Daerah, atau Berita Daerah."
+    },
+    {
+        "instruction": "Siapakah Pengungsi menurut undang-undang kebencanaan?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2007.",
+        "response": "Pengungsi adalah orang atau kelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana."
+    },
+    {
+        "instruction": "Apa saja definisi Pengurus dalam berbagai konteks hukum?",
+        "context": "Merujuk pada aturan mengenai kurator (Permenkumham 37/2018) dan ketenagakerjaan (Permenaker 5/2018).",
+        "response": "Pengurus dapat berarti Balai Harta Peninggalan/orang perseorangan yang memiliki keahlian khusus untuk mengurus harta debitor dalam penundaan kewajiban pembayaran utang; atau orang yang mempunyai tugas memimpin langsung suatu tempat kerja atau bagiannya yang berdiri sendiri."
+    },
+    {
+        "instruction": "Apa itu Penindakan Pelanggaran Lalu Lintas Dan Angkutan Jalan?",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2012.",
+        "response": "Penindakan Pelanggaran Lalu Lintas Dan Angkutan Jalan adalah serangkaian tindakan yang dilaksanakan oleh penyidik Kepolisian Negara Republik Indonesia atau Penyidik Pegawai Negeri Sipil di bidang Lalu Lintas dan Angkutan Jalan terhadap pelanggaran tersebut."
+    },
+    {
+        "instruction": "Siapakah Pengusaha Kena Pajak?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2021.",
+        "response": "Pengusaha Kena Pajak adalah pengusaha yang melakukan penyerahan Barang Kena Pajak dan/atau Jasa Kena Pajak yang dikenai pajak berdasarkan ketentuan peraturan perundang-undangan perpajakan (PPN dan PPnBM)."
+    },
+    {
+        "instruction": "Definisikan Pengusaha menurut undang-undang ketenagakerjaan.",
+        "context": "Berdasarkan Permenaker Nomor 5 Tahun 2018 dan peraturan terkait lainnya.",
+        "response": "Pengusaha adalah orang perseorangan, persekutuan, atau badan hukum yang menjalankan suatu perusahaan milik sendiri; yang secara berdiri sendiri menjalankan perusahaan bukan miliknya; atau yang berada di Indonesia mewakili perusahaan tersebut yang berkedudukan di luar wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa itu Peningkatan Nilai Tambah Batubara?",
+        "context": "Sesuai dengan PP Nomor 25 Tahun 2021.",
+        "response": "Peningkatan Nilai Tambah Batubara adalah kegiatan pengembangan dan/atau pemanfaatan batubara untuk meningkatkan mutu batubara dengan atau tanpa mengubah sifat fisik atau kimia batubara asal."
+    },
+    {
+        "instruction": "Siapakah Penjamin dalam keimigrasian?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013.",
+        "response": "Penjamin adalah orang atau Korporasi yang bertanggung jawab atas keberadaan dan kegiatan Orang Asing selama berada di Wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa peran Penjamin Utang?",
+        "context": "Merujuk pada PP Nomor 21 Tahun 2018.",
+        "response": "Penjamin Utang adalah orang perseorangan atau badan usaha, baik yang berbadan hukum maupun yang tidak berbadan hukum, yang menjamin penyelesaian sebagian atau seluruh utang Debitur."
+    },
+    {
+        "instruction": "Jelaskan definisi Penjaminan Simpanan Nasabah Bank.",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2004 mengenai LPS.",
+        "response": "Penjaminan Simpanan Nasabah Bank adalah penjaminan yang dilaksanakan oleh Lembaga Penjamin Simpanan atas simpanan nasabah bank."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penjaminan Infrastruktur?",
+        "context": "Sesuai Perpres Nomor 38 Tahun 2015 mengenai KPBU.",
+        "response": "Penjaminan Infrastruktur adalah pemberian jaminan atas kewajiban finansial Penanggung Jawab Proyek Kerjasama (PJPK) yang dilaksanakan berdasarkan perjanjian penjaminan."
+    },
+    {
+        "instruction": "Apa definisi umum Penjaminan?",
+        "context": "Berdasarkan PP Nomor 23 Tahun 2020.",
+        "response": "Penjaminan adalah kegiatan pemberian jaminan oleh penjamin atas pemenuhan kewajiban finansial terjamin kepada penerima jaminan."
+    },
+    {
+        "instruction": "Apa itu Penjaminan Syariah?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2016.",
+        "response": "Penjaminan Syariah adalah kegiatan pemberian jaminan oleh Penjamin atas pemenuhan kewajiban finansial Terjamin kepada Penerima Jaminan berdasarkan Prinsip Syariah."
+    },
+    {
+        "instruction": "Apa pengertian Penjaminan Ulang?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2016 mengenai perusahaan penjaminan.",
+        "response": "Penjaminan Ulang adalah kegiatan pemberian jaminan atas pemenuhan kewajiban finansial Perusahaan Penjaminan."
+    },
+    {
+        "instruction": "Definisikan Penjaminan Ulang Syariah.",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2016.",
+        "response": "Penjaminan Ulang Syariah adalah kegiatan pemberian jaminan atas pemenuhan kewajiban finansial Perusahaan Penjaminan Syariah dan Unit Usaha Syariah (UUS)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penjualan Langsung?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2021 mengenai tata kelola niaga.",
+        "response": "Penjualan Langsung adalah sistem penjualan Barang tertentu melalui jaringan pemasaran yang dikembangkan oleh Penjual Langsung yang bekerja atas dasar Komisi dan/atau Bonus berdasarkan hasil penjualan kepada Konsumen di luar lokasi eceran."
+    },
+    {
+        "instruction": "Siapakah Penjual Langsung?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021.",
+        "response": "Penjual Langsung adalah orang perseorangan atau badan usaha berbentuk perseroan terbatas yang merupakan anggota mandiri jaringan pemasaran atau penjualan perusahaan."
+    },
+    {
+        "instruction": "Jelaskan definisi Penjeratan Utang menurut undang-undang.",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2007 tentang HAM.",
+        "response": "Penjeratan Utang adalah perbuatan menempatkan orang dalam status atau keadaan menjaminkan atau terpaksa menjaminkan dirinya atau keluarganya atau orang-orang yang menjadi tanggung jawabnya, atau jasa pribadinya sebagai bentuk pelunasan utang."
+    },
+    {
+        "instruction": "Apa itu Penugasan Survei Pendahuluan Dan Eksplorasi?",
+        "context": "Sesuai PP Nomor 25 Tahun 2021 di sektor pertambangan dan energi.",
+        "response": "Penugasan Survei Pendahuluan Dan Eksplorasi adalah penugasan yang diberikan oleh Menteri untuk melaksanakan kegiatan Survei Pendahuluan dan Eksplorasi."
+    },
+    {
+        "instruction": "Siapakah yang dikategorikan sebagai Penumpang?",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2021 mengenai transportasi.",
+        "response": "Penumpang adalah orang yang berada di Kendaraan selain Pengemudi dan awak Kendaraan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penunjukan Langsung dalam proyek KPBU?",
+        "context": "Merujuk pada Perpres Nomor 38 Tahun 2015.",
+        "response": "Penunjukan Langsung adalah metode pemilihan Badan Usaha Pelaksana dalam rangka pelaksanaan KPBU melalui negosiasi dengan 1 (satu) peserta."
+    },
+    {
+        "instruction": "Definisikan Penutupan perusahaan (lock out).",
+        "context": "Sesuai UU Nomor 13 Tahun 2003 tentang Ketenagakerjaan.",
+        "response": "Penutupan perusahaan (lock out) adalah tindakan pengusaha untuk menolak pekerja/buruh seluruhnya atau sebagian untuk menjalankan pekerjaan."
+    },
+    {
+        "instruction": "Apa pengertian Penuntutan dalam ranah hukum pidana?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2021 dan UU Nomor 16 Tahun 2004 tentang Kejaksaan.",
+        "response": "Penuntutan adalah tindakan Penuntut Umum untuk melimpahkan perkara ke Pengadilan Negeri yang berwenang dalam hal dan menurut cara yang diatur dalam hukum acara pidana dengan permintaan supaya diperiksa dan diputus oleh hakim di sidang pengadilan."
+    },
+    {
+        "instruction": "Siapakah Penuntut Umum?",
+        "context": "Berdasarkan PP Nomor 65 Tahun 2015 dan UU Nomor 46 Tahun 2009.",
+        "response": "Penuntut Umum adalah penuntut umum Anak, atau penuntut umum sebagaimana diatur dalam peraturan perundang-undangan."
     }
 ]
