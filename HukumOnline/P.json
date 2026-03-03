@@ -1773,5 +1773,150 @@
         "instruction": "Siapakah Penuntut Umum?",
         "context": "Berdasarkan PP Nomor 65 Tahun 2015 dan UU Nomor 46 Tahun 2009.",
         "response": "Penuntut Umum adalah penuntut umum Anak, atau penuntut umum sebagaimana diatur dalam peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyadapan menurut UU Nomor 19 Tahun 2019?",
+        "context": "Terkait dengan kewenangan Komisi Pemberantasan Korupsi (KPK).",
+        "response": "Penyadapan adalah kegiatan untuk mendengarkan, merekam, dan/atau mencatat transmisi informasi elektronik dan/atau dokumen elektronik yang tidak bersifat publik, baik menggunakan jaringan kabel, komunikasi, jaringan nirkabel, maupun alat elektronik lainnya."
+    },
+    {
+        "instruction": "Siapakah Penyalur Alat Kesehatan?",
+        "context": "Berdasarkan Permenkes Nomor 1191 Tahun 2010.",
+        "response": "Penyalur Alat Kesehatan adalah perusahaan berbentuk badan hukum yang memiliki izin untuk pengadaan, penyimpanan, penyaluran alat kesehatan dalam jumlah besar sesuai ketentuan perundang-undangan."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyandang Disabilitas.",
+        "context": "Merujuk pada Perpres Nomor 67 Tahun 2020 mengenai Hak Asasi Manusia.",
+        "response": "Penyandang Disabilitas adalah setiap orang yang mengalami keterbatasan fisik, intelektual, mental, dan/atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dapat mengalami hambatan dan kesulitan untuk berpartisipasi secara penuh dan efektif dengan warga negara lainnya berdasarkan kesamaan hak."
+    },
+    {
+        "instruction": "Apa itu Penyedia Barang Dan Jasa?",
+        "context": "Berdasarkan Permen BUMN Nomor PER-08/MBU/12/2019.",
+        "response": "Penyedia Barang Dan Jasa adalah badan usaha termasuk BUMN, BUMD, badan usaha swasta, badan hukum, orang perseorangan/subjek hukum, atau Instansi Pemerintah/Badan Layanan Umum yang kegiatan usahanya menyediakan barang dan jasa."
+    },
+    {
+        "instruction": "Siapakah Penyedia Jasa dalam regulasi konstruksi dan perpajakan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2017, PP Nomor 83 Tahun 2019, dan PP Nomor 51 Tahun 2008.",
+        "response": "Penyedia Jasa adalah orang pribadi, badan, atau bentuk usaha tetap yang melakukan kegiatan usaha di bidang Perdagangan Jasa, atau yang memberikan layanan Jasa Konstruksi (sebagai perencana, pelaksana, atau pengawas konstruksi)."
+    },
+    {
+        "instruction": "Apa definisi Penyedia Jasa Keuangan?",
+        "context": "Berdasarkan RUU Pembatasan Transaksi Uang Kartal Tahun 2017.",
+        "response": "Penyedia Jasa Keuangan adalah Setiap Orang yang menyediakan jasa di bidang keuangan atau jasa lainnya yang terkait dengan keuangan, baik secara formal maupun nonformal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggara Data Pribadi Yang Memperoleh Persetujuan Langsung Dari Pemilik Data Pribadi?",
+        "context": "Berdasarkan Draf RUU Pelindungan Data Pribadi Tahun 2022.",
+        "response": "Istilah ini berkaitan dengan transaksi yang bersifat komersial, baik berdasarkan perjanjian atau tidak, termasuk setiap hal yang berkaitan dengan pengiriman atau pertukaran barang atau jasa, agensi, investasi, pembiayaan, perbankan, dan asuransi."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Data Pribadi?",
+        "context": "Merujuk pada Draf RUU Pelindungan Data Pribadi Tahun 2022.",
+        "response": "Penyelenggara Data Pribadi adalah orang, badan hukum, badan usaha, instansi penyelenggara negara, badan publik, atau organisasi kemasyarakatan lainnya."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyediaan Tenaga Listrik.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2002 tentang Ketenagalistrikan.",
+        "response": "Penyediaan Tenaga Listrik adalah pengadaan tenaga listrik mulai dari titik pembangkitan sampai dengan titik pemakaian."
+    },
+    {
+        "instruction": "Apa itu Penyelenggara Ibadah Haji Khusus?",
+        "context": "Berdasarkan UU Nomor 8 Tahun 2019.",
+        "response": "Penyelenggara Ibadah Haji Khusus adalah badan hukum yang memiliki izin dari Menteri untuk melaksanakan Ibadah Haji khusus."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Jalan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2022 dan UU Nomor 38 Tahun 2004.",
+        "response": "Penyelenggara Jalan adalah pihak yang melakukan pengaturan, pembinaan, pembangunan, dan pengawasan Jalan sesuai dengan kewenangannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggara Keantariksaan?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2013.",
+        "response": "Penyelenggara Keantariksaan adalah pihak atau subjek yang melaksanakan Penyelenggaraan Keantariksaan."
+    },
+    {
+        "instruction": "Definisikan Penyelenggara Negara.",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2008 dan UU Nomor 37 Tahun 2008.",
+        "response": "Penyelenggara Negara adalah pejabat negara yang menjalankan fungsi eksekutif, legislatif, atau yudikatif, serta pejabat lain yang fungsi dan tugas pokoknya (termasuk pelayanan publik) berkaitan dengan penyelenggaraan negara."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Pelayanan Publik?",
+        "context": "Sesuai dengan UU Nomor 25 Tahun 2009.",
+        "response": "Penyelenggara Pelayanan Publik adalah setiap institusi penyelenggara negara, korporasi, lembaga independen yang dibentuk berdasarkan undang-undang, dan badan hukum lain yang dibentuk semata-mata untuk kegiatan pelayanan publik."
+    },
+    {
+        "instruction": "Apa itu Penyelenggara Pemagangan?",
+        "context": "Berdasarkan Permenaker Nomor 6 Tahun 2020.",
+        "response": "Penyelenggara Pemagangan adalah perusahaan yang memenuhi persyaratan untuk menyelenggarakan Pemagangan di Dalam Negeri."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Pendidikan?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2005.",
+        "response": "Penyelenggara Pendidikan adalah Pemerintah, pemerintah daerah, atau masyarakat yang menyelenggarakan pendidikan pada jalur pendidikan formal."
+    },
+    {
+        "instruction": "Apa definisi Penyelenggara Pemilu?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2011.",
+        "response": "Penyelenggara Pemilu adalah lembaga yang menyelenggarakan Pemilu yang terdiri atas Komisi Pemilihan Umum dan Badan Pengawas Pemilu sebagai satu kesatuan fungsi untuk memilih anggota legislatif dan eksekutif secara langsung dan demokratis."
+    },
+    {
+        "instruction": "Apa itu Penyelenggara Pemilihan Umum?",
+        "context": "Sesuai dengan UU Nomor 22 Tahun 2007.",
+        "response": "Penyelenggara Pemilihan Umum adalah lembaga yang menyelenggarakan Pemilu untuk memilih anggota DPR, DPD, DPRD, Presiden/Wakil Presiden, serta kepala/wakil kepala daerah secara langsung oleh rakyat."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Perdagangan Melalui Sistem Elektronik (PMSE)?",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2019.",
+        "response": "Penyelenggara PMSE adalah Pelaku Usaha penyedia sarana Komunikasi Elektronik yang digunakan untuk transaksi Perdagangan."
+    },
+    {
+        "instruction": "Apa tugas Penyelenggara Perjalanan Ibadah Umrah?",
+        "context": "Merujuk pada UU Nomor 8 Tahun 2019.",
+        "response": "Penyelenggara Perjalanan Ibadah Umrah adalah biro perjalanan wisata yang memiliki izin dari Menteri untuk menyelenggarakan perjalanan Ibadah Umrah."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyelenggara Sistem Elektronik.",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2016 dan PP Nomor 71 Tahun 2019.",
+        "response": "Penyelenggara Sistem Elektronik adalah setiap Orang, penyelenggara negara, Badan Usaha, dan masyarakat yang menyediakan, mengelola, dan/atau mengoperasikan Sistem Elektronik, baik secara sendiri-sendiri maupun bersama-sama untuk keperluan dirinya dan/atau pihak lain."
+    },
+    {
+        "instruction": "Apa peran Penyelenggara Sertifikasi Elektronik?",
+        "context": "Sesuai dengan PP Nomor 71 Tahun 2019.",
+        "response": "Penyelenggara Sertifikasi Elektronik adalah badan hukum yang berfungsi sebagai pihak yang layak dipercaya, yang memberikan dan mengaudit Sertifikat Elektronik."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Pos?",
+        "context": "Berdasarkan UU Nomor 38 Tahun 2009 dan PP Nomor 15 Tahun 2013.",
+        "response": "Penyelenggara Pos adalah suatu badan usaha yang menyelenggarakan pos."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggara Sistem Elektronik Lingkup Privat?",
+        "context": "Merujuk pada PP Nomor 71 Tahun 2019.",
+        "response": "Penyelenggara Sistem Elektronik Lingkup Privat adalah penyelenggaraan Sistem Elektronik oleh Orang, Badan Usaha, dan masyarakat."
+    },
+    {
+        "instruction": "Definisikan Penyelenggara Sistem Elektronik Lingkup Publik.",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019.",
+        "response": "Penyelenggara Sistem Elektronik Lingkup Publik adalah penyelenggaraan Sistem Elektronik oleh Instansi Penyelenggara Negara atau institusi yang ditunjuk oleh Instansi Penyelenggara Negara."
+    },
+    {
+        "instruction": "Apa fungsi Penyelenggara Tanda Tangan Elektronik?",
+        "context": "Sesuai PP Nomor 82 Tahun 2012.",
+        "response": "Penyelenggara Tanda Tangan Elektronik adalah badan hukum yang berfungsi sebagai pihak terpercaya yang memfasilitasi pembuatan Tanda Tangan Elektronik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggaraan Ibadah Haji Khusus?",
+        "context": "Merujuk pada UU Nomor 34 Tahun 2014 dan PP Nomor 79 Tahun 2012.",
+        "response": "Penyelenggaraan Ibadah Haji Khusus adalah Penyelenggaraan Ibadah Haji yang dilaksanakan oleh PIHK (Penyelenggara Ibadah Haji Khusus) dengan pengelolaan, pembiayaan, dan pelayanannya bersifat khusus."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyelenggaraan Ibadah Haji.",
+        "context": "Berdasarkan PP Nomor 79 Tahun 2012.",
+        "response": "Penyelenggaraan Ibadah Haji adalah rangkaian kegiatan pengelolaan pelaksanaan Ibadah Haji yang meliputi pembinaan, pelayanan, dan perlindungan Jemaah Haji."
+    },
+    {
+        "instruction": "Siapakah Penyelenggara Transfer Dana?",
+        "context": "Sesuai UU Nomor 3 Tahun 2011.",
+        "response": "Penyelenggara Transfer Dana adalah Bank dan badan usaha berbadan hukum Indonesia bukan Bank yang menyelenggarakan kegiatan Transfer Dana."
     }
 ]
