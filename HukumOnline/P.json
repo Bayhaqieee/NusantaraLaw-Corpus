@@ -1918,5 +1918,595 @@
         "instruction": "Siapakah Penyelenggara Transfer Dana?",
         "context": "Sesuai UU Nomor 3 Tahun 2011.",
         "response": "Penyelenggara Transfer Dana adalah Bank dan badan usaha berbadan hukum Indonesia bukan Bank yang menyelenggarakan kegiatan Transfer Dana."
-    }
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggaraan Ilmu Pengetahuan dan Teknologi?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2019 mengenai riset dan inovasi.",
+        "response": "Penyelenggaraan Ilmu Pengetahuan dan Teknologi adalah proses, cara, dan/atau aktivitas menyelenggarakan kegiatan pendidikan, penelitian, pengembangan, pengkajian, dan penerapan Ilmu Pengetahuan dan Teknologi."
+    },
+    {
+        "instruction": "Apa definisi Penyelenggaraan Kesejahteraan Sosial?",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2009 dan PP Nomor 39 Tahun 2012.",
+        "response": "Penyelenggaraan Kesejahteraan Sosial adalah upaya yang terarah, terpadu, dan berkelanjutan yang dilakukan Pemerintah, pemerintah daerah, dan masyarakat dalam bentuk pelayanan sosial guna memenuhi kebutuhan dasar setiap warga negara, yang meliputi rehabilitasi sosial, jaminan sosial, pemberdayaan sosial, dan perlindungan sosial."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyelenggaraan Pangan.",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2012 tentang ketahanan pangan.",
+        "response": "Penyelenggaraan Pangan adalah kegiatan perencanaan, pelaksanaan, dan pengawasan dalam penyediaan, keterjangkauan, pemenuhan konsumsi Pangan dan Gizi, serta keamanan Pangan dengan melibatkan peran serta masyarakat yang terkoordinasi dan terpadu."
+    },
+    {
+        "instruction": "Apa itu Penyelenggaraan Pemilu?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017.",
+        "response": "Penyelenggaraan Pemilu adalah pelaksanaan tahapan Pemilu yang dilaksanakan oleh penyelenggara Pemilu."
+    },
+    {
+        "instruction": "Definisikan Penyelenggaraan Pos.",
+        "context": "Berdasarkan Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Penyelenggaraan Pos adalah keseluruhan kegiatan pengelolaan dan penatausahaan layanan pos."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelenggaraan Sistem Elektronik?",
+        "context": "Sesuai dengan UU Nomor 11 Tahun 2008 tentang ITE.",
+        "response": "Penyelenggaraan Sistem Elektronik adalah pemanfaatan Sistem Elektronik oleh penyelenggara negara, Orang, Badan Usaha, dan/atau masyarakat."
+    },
+    {
+        "instruction": "Siapakah Penyelia Halal?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "Penyelia Halal adalah orang yang bertanggung jawab terhadap Proses Produk Halal (PPH)."
+    },
+    {
+        "instruction": "Apa definisi Penyelenggaraan Transaksi Elektronik?",
+        "context": "Merujuk pada PP Nomor 71 Tahun 2019.",
+        "response": "Penyelenggaraan Transaksi Elektronik adalah rangkaian kegiatan Transaksi Elektronik yang dilakukan oleh Pengirim dan Penerima dengan menggunakan Sistem Elektronik."
+    },
+    {
+        "instruction": "Jelaskan pengertian Penyelenggaraan Telekomunikasi.",
+        "context": "Berdasarkan Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Penyelenggaraan Telekomunikasi adalah kegiatan penyediaan dan pelayanan telekomunikasi sehingga memungkinkan terselenggaranya telekomunikasi."
+    },
+    {
+        "instruction": "Siapakah Penyelidik menurut undang-undang?",
+        "context": "Sesuai dengan UU Nomor 2 Tahun 2002 tentang Polri.",
+        "response": "Penyelidik adalah pejabat Kepolisian Negara Republik Indonesia yang diberi wewenang oleh undang-undang untuk melakukan penyelidikan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyelidikan?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2002.",
+        "response": "Penyelidikan adalah serangkaian tindakan penyelidik untuk mencari dan menemukan suatu peristiwa yang diduga sebagai tindak pidana guna menentukan dapat atau tidaknya dilakukan penyidikan menurut cara yang diatur dalam undang-undang."
+    },
+    {
+        "instruction": "Apa itu Penyelidikan Umum dalam pertambangan?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2009.",
+        "response": "Pyelidikan Umum adalah tahapan kegiatan pertambangan untuk mengetahui kondisi geologi regional dan indikasi adanya mineralisasi."
+    },
+    {
+        "instruction": "Apa definisi Penyerahan Jasa Kena Pajak?",
+        "context": "Berdasarkan UU Nomor 42 Tahun 2009 terkait PPN.",
+        "response": "Penyerahan Jasa Kena Pajak adalah setiap kegiatan pemberian Jasa Kena Pajak."
+    },
+    {
+        "instruction": "Apa definisi Penyerahan Barang Kena Pajak?",
+        "context": "Merujuk pada UU Nomor 42 Tahun 2009.",
+        "response": "Penyerahan Barang Kena Pajak adalah setiap kegiatan penyerahan Barang Kena Pajak."
+    },
+    {
+        "instruction": "Jelaskan definisi Penyelundupan Manusia.",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013 mengenai keimigrasian.",
+        "response": "Penyelundupan Manusia adalah perbuatan yang bertujuan mencari keuntungan untuk diri sendiri atau orang lain, yang membawa atau memerintahkan untuk membawa seseorang/kelompok tanpa hak yang sah untuk masuk atau keluar wilayah suatu negara, baik menggunakan dokumen sah, palsu, maupun tanpa dokumen melalui atau tanpa pemeriksaan imigrasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyertaan Modal Negara?",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2021 dan UU terkait APBN.",
+        "response": "Penyertaan Modal Negara adalah pemisahan kekayaan negara atau dana dari APBN untuk dijadikan sebagai penyertaan modal Perusahaan Negara, Badan Usaha Milik Negara, dan/atau perseroan terbatas lainnya, yang dikelola secara korporasi."
+    },
+    {
+        "instruction": "Siapakah Penyewa itu?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2017 mengenai pajak penghasilan.",
+        "response": "Penyewa adalah orang pribadi atau badan yang menyewa tanah dan/atau Bangunan dari pemilik atau pihak yang menyewakan tanah dan/atau Bangunan."
+    },
+    {
+        "instruction": "Apa definisi Penyiaran?",
+        "context": "Sesuai Permen Kominfo Nomor 7 Tahun 2018.",
+        "response": "Penyiaran adalah kegiatan pemancarluasan siaran melalui sarana pemancaran dan/atau transmisi dengan menggunakan spektrum frekuensi radio melalui udara, kabel, dan/atau media lainnya untuk diterima serentak oleh masyarakat dengan perangkat penerima siaran."
+    },
+    {
+        "instruction": "Siapakah Penyidik Pegawai Negeri Sipil Keimigrasian?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013.",
+        "response": "Penyidik Pegawai Negeri Sipil Keimigrasian adalah Pejabat Imigrasi yang diberi wewenang oleh undang-undang untuk melakukan penyidikan tindak pidana Keimigrasian."
+    },
+    {
+        "instruction": "Apa pengertian Penyidik Pegawai Negeri Sipil (PPNS) secara umum?",
+        "context": "Merujuk pada PP Nomor 43 Tahun 2012.",
+        "response": "Penyidik Pegawai Negeri Sipil adalah Pejabat Pegawai Negeri Sipil tertentu yang berdasarkan peraturan perundang-undangan ditunjuk selaku Penyidik dan mempunyai wewenang untuk melakukan penyidikan tindak pidana dalam lingkup undang-undang yang menjadi dasar hukumnya masing-masing."
+    },
+    {
+        "instruction": "Siapakah Penyidik secara umum dalam proses hukum pidana?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2011.",
+        "response": "Penyidik adalah penyidik sebagaimana dimaksud dalam Undang-Undang tentang Hukum Acara Pidana."
+    },
+    {
+        "instruction": "Siapakah Penyidik Pegawai Negeri Sipil Kekarantinaan Kesehatan?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2018.",
+        "response": "Penyidik Pegawai Negeri Sipil Kekarantinaan Kesehatan adalah pejabat pegawai negeri sipil tertentu yang diberi wewenang khusus oleh Undang-Undang ini untuk melakukan penyidikan tindak pidana di bidang Kekarantinaan Kesehatan."
+    },
+    {
+        "instruction": "Apa wewenang Penyidik Pegawai Negeri Sipil Ketenagakerjaan?",
+        "context": "Sesuai dengan Permenaker Nomor 33 Tahun 2016.",
+        "response": "Penyidik Pegawai Negeri Sipil Ketenagakerjaan adalah Pengawas Ketenagakerjaan yang diberi wewenang khusus oleh undang-undang untuk melakukan penyidikan tindak pidana ketenagakerjaan."
+    },
+    {
+        "instruction": "Siapakah Penyidik Pegawai Negeri Sipil Perdagangan?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021.",
+        "response": "Penyidik Pegawai Negeri Sipil Perdagangan adalah pegawai negeri sipil tertentu di pusat maupun daerah yang diberi wewenang khusus oleh Undang-Undang Nomor 7 Tahun 2014 tentang Perdagangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyidikan Tindak Pidana Di Bidang Perpajakan?",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2007 tentang KUP.",
+        "response": "Penyidikan Tindak Pidana Di Bidang Perpajakan adalah serangkaian tindakan yang dilakukan oleh penyidik untuk mencari serta mengumpulkan bukti guna membuat terang tindak pidana perpajakan dan menemukan tersangkanya."
+    },
+    {
+        "instruction": "Jelaskan definisi umum Penyidikan.",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2002 dan PP Nomor 4 Tahun 2015.",
+        "response": "Penyidikan adalah serangkaian tindakan penyidik (atau PPNS terkait) menurut cara yang diatur dalam undang-undang untuk mencari dan mengumpulkan bukti yang membuat terang tentang tindak pidana yang terjadi guna menemukan tersangkanya."
+    },
+    {
+        "instruction": "Siapakah Penyidik Pembantu?",
+        "context": "Sesuai UU Nomor 2 Tahun 2002.",
+        "response": "Penyidik Pembantu adalah pejabat Kepolisian Negara Republik Indonesia yang diangkat oleh Kepala Polri berdasarkan syarat kepangkatan dan diberi wewenang tertentu dalam melakukan tugas penyidikan yang diatur undang-undang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Penyidikan Tindak Pidana Di Bidang Perpajakan Daerah Dan Retribusi?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2009.",
+        "response": "Ini adalah serangkaian tindakan yang dilakukan oleh Penyidik untuk mencari serta mengumpulkan bukti yang membuat terang tindak pidana di bidang perpajakan daerah dan retribusi serta menemukan tersangkanya."
+    },
+    {
+        "instruction": "Jelaskan tentang Penyidikan Tindak Pidana Ketenagakerjaan.",
+        "context": "Merujuk pada Permenaker Nomor 33 Tahun 2016.",
+        "response": "Penyidikan Tindak Pidana Ketenagakerjaan adalah serangkaian tindakan PPNS Ketenagakerjaan menurut Hukum Acara Pidana untuk mencari serta mengumpulkan bukti guna membuat terang tentang tindak pidana ketenagakerjaan dan menemukan tersangkanya."
+    },
+    {
+        "instruction": "Apa definisi Penyitaan?",
+        "context": "Berdasarkan PP Nomor 135 Tahun 2000 terkait penagihan pajak.",
+        "response": "Penyitaan adalah tindakan Jurusita Pajak untuk menguasai barang Penanggung Pajak, guna dijadikan jaminan untuk melunasi Utang pajak menurut peraturan perundang-undangan yang berlaku."
+    },
+    {
+        "instruction": "Apa pengertian Penyusutan arsip?",
+        "context": "Merujuk pada UU Nomor 43 Tahun 2009 mengenai Kearsipan.",
+        "response": "Penyusutan arsip adalah kegiatan pengurangan jumlah arsip dengan cara pemindahan arsip inaktif dari unit pengolah ke unit kearsipan, pemusnahan arsip yang tidak memiliki nilai guna, dan penyerahan arsip statis kepada lembaga kearsipan."
+    },
+    {
+        "instruction": "Apa definisi Peradilan Agama?",
+        "context": "Berdasarkan UU Nomor 50 Tahun 2009.",
+        "response": "Peradilan Agama adalah peradilan bagi orang-orang yang beragama Islam."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perampasan?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2006 tentang bantuan timbal balik pidana.",
+        "response": "Perampasan adalah upaya paksa pengambilalihan hak atas kekayaan atau keuntungan yang telah diperoleh, atau mungkin telah diperoleh oleh orang dari tindak pidana yang dilakukannya, berdasarkan putusan pengadilan."
+    },
+    {
+        "instruction": "Apa itu Perangkat Pembuat Tanda Tangan Elektronik?",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019.",
+        "response": "Perangkat Pembuat Tanda Tangan Elektronik adalah Perangkat Lunak atau Perangkat Keras yang dikonfigurasi dan digunakan untuk membuat Tanda Tangan Elektronik."
+    },
+    {
+        "instruction": "Jelaskan definisi Perangkat Daerah.",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2014.",
+        "response": "Perangkat Daerah adalah unsur pembantu kepala daerah dan DPRD dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah."
+    },
+    {
+        "instruction": "Siapakah Perancang Peraturan Perundang-undangan?",
+        "context": "Berdasarkan PP Nomor 59 Tahun 2015.",
+        "response": "Perancang Peraturan Perundang-undangan adalah Pegawai Negeri Sipil yang telah diangkat dalam jabatan fungsional Perancang yang diberi tugas dan wewenang untuk melakukan kegiatan Pembentukan Peraturan Perundang-undangan dan penyusunan instrumen hukum lainnya."
+    },
+    {
+        "instruction": "Apa itu Peraturan BPK?",
+        "context": "Sesuai UU Nomor 15 Tahun 2006.",
+        "response": "Peraturan BPK adalah aturan hukum yang dikeluarkan oleh BPK yang mengikat secara umum dan dimuat dalam Lembaran Negara Republik Indonesia."
+    },
+    {
+        "instruction": "Sebutkan jenis-jenis Peraturan Daerah.",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022 dan regulasi pemerintah daerah lainnya.",
+        "response": "Peraturan Daerah meliputi Peraturan Daerah (Perda) Provinsi dan Peraturan Daerah (Perda) Kabupaten/Kota."
+    },
+    {
+        "instruction": "Apa pengertian Peraturan Daerah Provinsi?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2011 tentang hierarki peraturan.",
+        "response": "Peraturan Daerah Provinsi adalah Peraturan Perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat Daerah Provinsi dengan persetujuan bersama Gubernur."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Peraturan Daerah Khusus di Papua?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2021 dan UU Nomor 21 Tahun 2001.",
+        "response": "Peraturan Daerah Khusus adalah Peraturan Daerah Provinsi Papua dalam rangka pelaksanaan pasal-pasal tertentu atau kewenangan khusus yang diatur dalam undang-undang Otonomi Khusus Papua."
+    },
+    {
+        "instruction": "Apa pengertian Peraturan Daerah Kabupaten/Kota?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2011.",
+        "response": "Peraturan Daerah Kabupaten/Kota adalah Peraturan Perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat Daerah Kabupaten/Kota dengan persetujuan bersama Bupati/Walikota."
+    },
+    {
+        "instruction": "Jelaskan apa itu Peraturan Desa.",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2014.",
+        "response": "Peraturan Desa adalah peraturan perundang-undangan yang ditetapkan oleh Kepala Desa setelah dibahas dan disepakati bersama Badan Permusyawaratan Desa."
+    },
+    {
+        "instruction": "Sebutkan jenis-jenis Peraturan Kepala Daerah.",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2014 dan UU Keuangan Daerah.",
+        "response": "Peraturan Kepala Daerah meliputi peraturan gubernur dan peraturan bupati/wali kota."
+    },
+    {
+        "instruction": "Apa itu Peraturan Lembaga Penjamin Simpanan?",
+        "context": "Sesuai UU Nomor 24 Tahun 2004.",
+        "response": "Peraturan Lembaga Penjamin Simpanan adalah peraturan yang ditetapkan oleh LPS dalam rangka penjaminan serta penyelesaian dan penanganan Bank Gagal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Peraturan Pemerintah Pengganti Undang-Undang (Perppu)?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2011.",
+        "response": "Peraturan Pemerintah Pengganti Undang-Undang adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden dalam hal ihwal kegentingan yang memaksa."
+    },
+    {
+        "instruction": "Apa pengertian Peraturan Pemerintah?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2011.",
+        "response": "Peraturan Pemerintah adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden untuk menjalankan Undang-Undang sebagaimana mestinya."
+    },
+    {
+        "instruction": "Apa definisi Peraturan Otoritas Jasa Keuangan?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2014.",
+        "response": "Peraturan Otoritas Jasa Keuangan adalah peraturan tertulis yang ditetapkan oleh Dewan Komisioner OJK sebagaimana dimaksud dalam undang-undang mengenai otoritas jasa keuangan."
+    },
+    {
+        "instruction": "Jelaskan definisi Peraturan Perundang-undangan.",
+        "context": "Sesuai UU Nomor 12 Tahun 2011.",
+        "response": "Peraturan Perundang-undangan adalah peraturan tertulis yang memuat norma hukum yang mengikat secara umum dan dibentuk atau ditetapkan oleh lembaga negara atau pejabat yang berwenang melalui prosedur yang ditetapkan dalam Peraturan Perundang-undangan."
+    },
+    {
+        "instruction": "Apa cakupan Peraturan Perundang-Undangan Perpajakan?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002.",
+        "response": "Peraturan Perundang-Undangan Perpajakan mencakup semua peraturan perundang-undangan di bidang perpajakan."
+    },
+    {
+        "instruction": "Apa pengertian Peraturan Perusahaan?",
+        "context": "Merujuk pada PP Nomor 78 Tahun 2015 mengenai ketenagakerjaan.",
+        "response": "Peraturan perusahaan adalah peraturan yang dibuat secara tertulis oleh pengusaha yang memuat syarat-syarat kerja dan tata tertib perusahaan."
+    },
+    {
+        "instruction": "Apa definisi Perbankan secara umum?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2011 tentang OJK.",
+        "response": "Perbankan mencakup segala sesuatu yang menyangkut tentang bank, termasuk kelembagaan, kegiatan usaha, serta cara dan proses dalam melaksanakan kegiatan usahanya secara konvensional maupun syariah."
+    },
+    {
+        "instruction": "Apa itu Peraturan Zonasi?",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2016 mengenai perumahan.",
+        "response": "Peraturan Zonasi adalah ketentuan yang mengatur tentang persyaratan pemanfaatan ruang dan ketentuan pengendaliannya, disusun untuk setiap blok/zona peruntukan dalam rencana rinci tata ruang."
+    },
+    {
+        "instruction": "Jelaskan pengertian Peraturan Presiden.",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2011.",
+        "response": "Peraturan Presiden adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden untuk menjalankan perintah Peraturan Perundang-undangan yang lebih tinggi atau dalam menyelenggarakan kekuasaan pemerintahan."
+    },
+    {
+        "instruction": "Apa pengertian Perbankan Syariah?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008.",
+        "response": "Perbankan Syariah mencakup segala sesuatu yang menyangkut tentang Bank Syariah dan Unit Usaha Syariah, baik kelembagaan, kegiatan usaha, maupun proses pelaksanaannya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perbanyakan dalam hak cipta?",
+        "context": "Sesuai dengan UU Nomor 19 Tahun 2002.",
+        "response": "Perbanyakan adalah penambahan jumlah suatu Ciptaan, baik secara keseluruhan maupun bagian substansial dengan bahan yang sama atau tidak, termasuk mengalihwujudkan secara permanen atau temporer."
+    },
+    {
+        "instruction": "Apa definisi Perbekalan Kesehatan?",
+        "context": "Berdasarkan UU Nomor 36 Tahun 2009.",
+        "response": "Perbekalan Kesehatan adalah semua bahan dan peralatan yang diperlukan untuk menyelenggarakan upaya kesehatan."
+    },
+    {
+        "instruction": "Jelaskan tentang Perdagangan Berjangka Komoditi.",
+        "context": "Merujuk pada PP Nomor 49 Tahun 2014.",
+        "response": "Perdagangan Berjangka (Komoditi) adalah segala sesuatu yang berkaitan dengan jual beli Komoditi dengan penarikan Margin dan dengan penyelesaian kemudian berdasarkan Kontrak Berjangka, Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya."
+    },
+    {
+        "instruction": "Apa pengertian Perdagangan secara luas?",
+        "context": "Berdasarkan Permendag Nomor 22 Tahun 2016.",
+        "response": "Perdagangan adalah tatanan kegiatan yang terkait dengan transaksi Barang dan/atau Jasa di dalam negeri dan melampaui batas wilayah negara dengan tujuan pengalihan hak atas Barang dan/atau Jasa untuk memperoleh imbalan atau kompensasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perdagangan Melalui Sistem Elektronik (PMSE)?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021 dan Permendag Nomor 50 Tahun 2020 mengenai tata kelola dan perdagangan elektronik.",
+        "response": "Perdagangan Melalui Sistem Elektronik (PMSE) adalah Perdagangan yang transaksinya dilakukan melalui serangkaian perangkat dan prosedur elektronik."
+    },
+    {
+        "instruction": "Jelaskan definisi Perdagangan Orang.",
+        "context": "Merujuk pada UU Nomor 21 Tahun 2007 mengenai hak asasi manusia dan pemberantasan TPPO.",
+        "response": "Perdagangan Orang adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi."
+    },
+    {
+        "instruction": "Apa itu Perdagangan Perbatasan?",
+        "context": "Sesuai dengan PP Nomor 34 Tahun 2019 tentang batas wilayah perdagangan.",
+        "response": "Perdagangan Perbatasan adalah Perdagangan yang dilakukan oleh warga negara Indonesia yang bertempat tinggal di daerah perbatasan Indonesia dengan penduduk negara tetangga untuk memenuhi kebutuhan sehari-hari."
+    },
+    {
+        "instruction": "Apa pengertian Perencanaan Tata Ruang?",
+        "context": "Berdasarkan PP Nomor 68 Tahun 2010 dan PP Nomor 8 Tahun 2013 mengenai tata ruang pertanahan.",
+        "response": "Perencanaan Tata Ruang adalah suatu proses untuk menentukan struktur ruang dan pola ruang yang meliputi penyusunan dan penetapan rencana tata ruang."
+    },
+    {
+        "instruction": "Definisikan Peredaran Pangan.",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2012 dan PP Nomor 86 Tahun 2019 terkait penyaluran bahan makanan.",
+        "response": "Peredaran Pangan adalah setiap kegiatan atau serangkaian kegiatan dalam rangka penyaluran Pangan kepada masyarakat, baik diperdagangkan maupun tidak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Peredaran Gelap Narkotika dan Prekursor Narkotika?",
+        "context": "Berdasarkan UU Nomor 35 Tahun 2009 mengenai zat adiktif.",
+        "response": "Peredaran Gelap Narkotika dan Prekursor Narkotika adalah setiap kegiatan atau serangkaian kegiatan yang dilakukan secara tanpa hak atau melawan hukum yang ditetapkan sebagai tindak pidana Narkotika dan Prekursor Narkotika."
+    },
+    {
+        "instruction": "Jelaskan tentang Perencanaan Tenaga Kerja.",
+        "context": "Sesuai dengan UU Nomor 13 Tahun 2003 dan PP Nomor 15 Tahun 2007.",
+        "response": "Perencanaan Tenaga Kerja adalah proses penyusunan rencana ketenagakerjaan secara sistematis yang dijadikan dasar dan acuan dalam penyusunan kebijakan, strategi, dan pelaksanaan program pembangunan ketenagakerjaan yang berkesinambungan."
+    },
+    {
+        "instruction": "Apa itu Perguruan Tinggi?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2012 dan PP Nomor 4 Tahun 2014.",
+        "response": "Perguruan Tinggi adalah satuan pendidikan yang menyelenggarakan Pendidikan Tinggi."
+    },
+    {
+        "instruction": "Definisikan Perguruan Tinggi Negeri Badan Hukum (PTN-BH).",
+        "context": "Berdasarkan PP Nomor 26 Tahun 2015 mengenai status universitas.",
+        "response": "Perguruan Tinggi Negeri Badan Hukum adalah perguruan tinggi negeri yang didirikan oleh Pemerintah yang berstatus sebagai badan hukum publik yang otonom."
+    },
+    {
+        "instruction": "Apa pengertian Perindustrian?",
+        "context": "Sesuai dengan PP Nomor 29 Tahun 2018.",
+        "response": "Perindustrian adalah tatanan dan segala kegiatan yang bertalian dengan kegiatan Industri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perimbangan Keuangan Antara Pemerintah Dan Pemerintahan Daerah?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2004.",
+        "response": "Perimbangan Keuangan Antara Pemerintah Dan Pemerintahan Daerah adalah suatu sistem pembagian keuangan yang adil, proporsional, demokratis, transparan, dan efisien dalam rangka pendanaan penyelenggaraan Desentralisasi, dengan mempertimbangkan potensi, kondisi, dan kebutuhan daerah, serta besaran pendanaan penyelenggaraan Dekonsentrasi dan Tugas Pembantuan."
+    },
+    {
+        "instruction": "Apa itu Perhitungan Persentase Anggaran Pendidikan?",
+        "context": "Merujuk pada UU Nomor 45 Tahun 2007 mengenai APBN.",
+        "response": "Perhitungan Persentase Anggaran Pendidikan adalah perbandingan anggaran pendidikan terhadap keseluruhan belanja negara, tidak termasuk keseluruhan gaji."
+    },
+    {
+        "instruction": "Jelaskan definisi Perintah Perlindungan.",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2004 mengenai hukum dan HAM.",
+        "response": "Perintah Perlindungan adalah penetapan yang dikeluarkan oleh Pengadilan untuk memberikan perlindungan kepada korban."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perintah Transfer Dana?",
+        "context": "Sesuai dengan UU Nomor 3 Tahun 2011.",
+        "response": "Perintah Transfer Dana adalah perintah tidak bersyarat dari Pengirim kepada Penyelenggara Penerima untuk membayarkan sejumlah Dana tertentu kepada Penerima."
+    },
+    {
+        "instruction": "Apa itu Perintah Transfer Debit?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2011 tentang peredaran mata uang.",
+        "response": "Perintah Transfer Debit adalah perintah tidak bersyarat dari Pengirim Transfer Debit kepada Penyelenggara Pengirim Transfer Debit untuk menagih sejumlah Dana tertentu kepada Penyelenggara Pembayar Transfer Debit agar dibayarkan kepada Penerima Akhir Transfer Debit."
+    },
+    {
+        "instruction": "Definisikan Peristiwa Penting dalam administrasi kependudukan.",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2006.",
+        "response": "Peristiwa Penting adalah kejadian yang dialami oleh seseorang meliputi kelahiran, kematian, lahir mati, perkawinan, perceraian, pengakuan anak, pengesahan anak, pengangkatan anak, perubahan nama dan perubahan status kewarganegaraan."
+    },
+    {
+        "instruction": "Apa pengertian Peristiwa Kependudukan?",
+        "context": "Sesuai UU Nomor 23 Tahun 2006 terkait perubahan data penduduk.",
+        "response": "Peristiwa Kependudukan adalah kejadian yang dialami Penduduk yang harus dilaporkan karena membawa akibat terhadap penerbitan atau perubahan Kartu Keluarga, Kartu Tanda Penduduk dan/atau surat keterangan kependudukan lainnya meliputi pindah datang, perubahan alamat, serta status tinggal terbatas menjadi tinggal tetap."
+    },
+    {
+        "instruction": "Apa itu Periode Kerja?",
+        "context": "Merujuk pada Permenaker Nomor PER.15/MEN/VII/2005.",
+        "response": "Periode Kerja adalah waktu tertentu bagi pekerja/buruh untuk melakukan pekerjaan sesuai dengan Jadual kerja yang ditetapkan dengan mengabaikan hari-hari kalender."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perizinan?",
+        "context": "Berdasarkan Perpres Nomor 4 Tahun 2016 dan Permendag Nomor 22 Tahun 2016.",
+        "response": "Perizinan adalah segala bentuk persetujuan yang dikeluarkan oleh Pemerintah Pusat dan Pemerintah Daerah yang memiliki kewenangan; atau pemberian legalitas usaha di bidang Perdagangan berupa izin usaha, izin khusus, pendaftaran, pengakuan, dan persetujuan."
+    },
+    {
+        "instruction": "Jelaskan definisi Perizinan Berusaha.",
+        "context": "Berdasarkan PP Nomor 7 Tahun 2021, PP Nomor 42 Tahun 2021, dan PP Nomor 25 Tahun 2021.",
+        "response": "Perizinan Berusaha adalah legalitas yang diberikan kepada Pelaku Usaha untuk memulai dan menjalankan usaha dan/atau kegiatannya."
+    },
+    {
+        "instruction": "Apa itu Perizinan Berusaha di Bidang Panas Bumi?",
+        "context": "Sesuai dengan PP Nomor 25 Tahun 2021.",
+        "response": "Perizinan Berusaha di Bidang Panas Bumi adalah izin melakukan pengusahaan panas bumi untuk Pemanfaatan Tidak Langsung pada Wilayah Kerja tertentu."
+    },
+    {
+        "instruction": "Apa pengertian Perjanjian menurut hukum persaingan usaha?",
+        "context": "Merujuk pada PP Nomor 44 Tahun 2021.",
+        "response": "Perjanjian adalah suatu perbuatan satu atau lebih Pelaku Usaha untuk mengikatkan diri terhadap satu atau lebih usaha lain dengan nama apa pun, baik tertulis maupun tidak tertulis."
+    },
+    {
+        "instruction": "Apa itu Perizinan Tertentu?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022 dan UU Nomor 28 Tahun 2009.",
+        "response": "Perizinan Tertentu adalah kegiatan tertentu Pemerintah Daerah dalam rangka pemberian izin kepada orang pribadi atau Badan yang dimaksudkan untuk pembinaan, pengaturan, pengendalian dan pengawasan atas kegiatan, pemanfaatan ruang, serta penggunaan sumber daya alam, prasarana, sarana atau fasilitas tertentu guna melindungi kepentingan umum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perizinan Berusaha Terintegrasi Secara Elektronik (Online Single Submission / OSS)?",
+        "context": "Sesuai dengan PP Nomor 78 Tahun 2019, PP Nomor 12 Tahun 2020, dan PP Nomor 1 Tahun 2020.",
+        "response": "Perizinan Berusaha Terintegrasi Secara Elektronik (OSS) adalah perizinan berusaha yang diterbitkan oleh Lembaga OSS untuk dan atas nama menteri, pimpinan lembaga, gubernur, atau bupati/walikota kepada pelaku usaha melalui sistem elektronik yang terintegrasi."
+    },
+    {
+        "instruction": "Definisikan Perjanjian Bilateral.",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2019.",
+        "response": "Perjanjian Bilateral adalah perjanjian yang dilakukan oleh dua negara untuk mengatur kepentingan kedua belah pihak."
+    },
+    {
+        "instruction": "Apa pengertian Perjanjian Internasional?",
+        "context": "Merujuk pada UU Nomor 43 Tahun 2008 mengenai hukum publik antarnegara.",
+        "response": "Perjanjian Internasional adalah perjanjian dalam bentuk dan nama tertentu yang diatur dalam hukum internasional yang dibuat secara tertulis serta menimbulkan hak dan kewajiban di bidang hukum publik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perjanjian Investasi?",
+        "context": "Berdasarkan PP Nomor 63 Tahun 2019.",
+        "response": "Perjanjian Investasi adalah kesepakatan tertulis dalam penyediaan dana investasi antara Menteri selaku Bendahara Umum Negara atau pejabat yang ditunjuk dengan pimpinan BUMN atau BHL."
+    },
+    {
+        "instruction": "Jelaskan definisi Perjanjian Kerja Bersama.",
+        "context": "Sesuai UU Nomor 14 Tahun 2005 (untuk guru/dosen) dan UU/PP Ketenagakerjaan (untuk buruh).",
+        "response": "Perjanjian kerja bersama adalah perjanjian tertulis yang memuat syarat-syarat kerja serta hak dan kewajiban para pihak, baik antara pendidik dan penyelenggara pendidikan, maupun hasil perundingan antara serikat pekerja/buruh dengan pengusaha/perkumpulan pengusaha."
+    },
+    {
+        "instruction": "Apa itu Perjanjian Kerja?",
+        "context": "Merujuk pada PP Nomor 78 Tahun 2015 mengenai upah dan ketenagakerjaan.",
+        "response": "Perjanjian Kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi kerja yang memuat syarat-syarat kerja, hak, dan kewajiban para pihak."
+    },
+    {
+        "instruction": "Apa pengertian Perjanjian Jual Beli Tenaga Listrik?",
+        "context": "Berdasarkan Permen ESDM Nomor 50 Tahun 2017.",
+        "response": "Perjanjian Jual Beli Tenaga Listrik adalah perjanjian jual beli tenaga listrik antara PPL (Pengembang Pembangkit Listrik) dengan PT PLN (Persero)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perjanjian Kerja Sama Penempatan?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017, UU Nomor 39 Tahun 2004, dan PP Nomor 4 Tahun 2015 mengenai penempatan tenaga kerja.",
+        "response": "Perjanjian Kerja Sama Penempatan adalah perjanjian tertulis antara Perusahaan Penempatan Pekerja Migran Indonesia (atau pelaksana penempatan TKI swasta) dan Mitra Usaha atau Pemberi Kerja yang memuat hak dan kewajiban setiap pihak dalam rangka penempatan dan Pelindungan Pekerja Migran Indonesia di negara tujuan penempatan."
+    },
+    {
+        "instruction": "Apa definisi Perjanjian Kerja Waktu Tertentu (PKWT)?",
+        "context": "Merujuk pada Permenaker Nomor 28 Tahun 2014.",
+        "response": "Perjanjian Kerja Waktu Tertentu adalah perjanjian kerja antara pekerja/buruh dengan pengusaha untuk mengadakan hubungan kerja dalam waktu tertentu atau untuk pekerjaan tertentu."
+    },
+    {
+        "instruction": "Jelaskan tentang Perjanjian Kerja Waktu Tidak Tertentu (PKWTT).",
+        "context": "Berdasarkan Permenaker Nomor 28 Tahun 2014.",
+        "response": "Perjanjian Kerja Waktu Tidak Tertentu adalah perjanjian kerja antara pekerja/buruh dengan pengusaha untuk mengadakan hubungan kerja yang bersifat tetap."
+    },
+    {
+        "instruction": "Apa itu Perjanjian Penempatan Pekerja Migran Indonesia?",
+        "context": "Sesuai PP Nomor 10 Tahun 2020 dan UU Nomor 18 Tahun 2017.",
+        "response": "Perjanjian Penempatan Pekerja Migran Indonesia adalah perjanjian tertulis antara pelaksana penempatan Pekerja Migran Indonesia dan Calon Pekerja Migran Indonesia yang memuat hak dan kewajiban setiap pihak, dalam rangka penempatan di negara tujuan sesuai peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa pengertian dari Perjanjian Penempatan secara umum?",
+        "context": "Sama maknanya dengan Perjanjian Penempatan Pekerja Migran Indonesia menurut PP Nomor 10 Tahun 2020.",
+        "response": "Perjanjian Penempatan adalah perjanjian tertulis antara pelaksana penempatan Pekerja Migran Indonesia dan Calon Pekerja Migran Indonesia yang memuat hak dan kewajiban setiap pihak dalam rangka penempatan Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perjanjian Pemagangan?",
+        "context": "Berdasarkan Permenaker Nomor 6 Tahun 2020.",
+        "response": "Perjanjian Pemagangan adalah perjanjian antara peserta Pemagangan dengan Perusahaan yang dibuat secara tertulis."
+    },
+    {
+        "instruction": "Definisikan Perjanjian Penempatan TKI.",
+        "context": "Merujuk pada UU Nomor 39 Tahun 2004, PP Nomor 4 Tahun 2015, dan PP Nomor 4 Tahun 2013.",
+        "response": "Perjanjian Penempatan TKI adalah perjanjian tertulis antara pelaksana penempatan TKI swasta atau Badan Nasional Penempatan dan Perlindungan TKI dengan calon TKI yang memuat hak dan kewajiban masing-masing pihak dalam rangka penempatan TKI di negara tujuan."
+    },
+    {
+        "instruction": "Apa itu Perjanjian Pengangkutan Udara?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2009.",
+        "response": "Perjanjian Pengangkutan Udara adalah perjanjian antara pengangkut dan pihak penumpang dan/atau pengirim kargo untuk mengangkut penumpang dan/atau kargo dengan pesawat udara, dengan imbalan bayaran atau imbalan jasa lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perjanjian Technical Barrier to Trade World Trade Organization?",
+        "context": "Merujuk pada Peraturan BSN Nomor 8 Tahun 2020.",
+        "response": "Perjanjian tersebut adalah salah satu perjanjian di bawah payung WTO yang bertujuan agar Standar, Regulasi Teknis, dan prosedur Penilaian Kesesuaian tidak menjadi hambatan yang tidak diperlukan dalam perdagangan."
+    },
+    {
+        "instruction": "Jelaskan definisi Perkulakan.",
+        "context": "Berdasarkan Permendag Nomor 22 Tahun 2016.",
+        "response": "Perkulakan adalah Grosir yang berbentuk toko dengan sistem pelayanan mandiri."
+    },
+    {
+        "instruction": "Apa pengertian Perkebunan?",
+        "context": "Sesuai PP Nomor 24 Tahun 2015 mengenai pengembangan pertanian.",
+        "response": "Perkebunan adalah segala kegiatan pengelolaan sumber daya alam, sumber daya manusia, sarana produksi, alat dan mesin, budi daya, panen, pengolahan, dan pemasaran terkait tanaman Perkebunan."
+    },
+    {
+        "instruction": "Apa itu Perjanjian Waralaba?",
+        "context": "Merujuk pada Permendag Nomor 71 Tahun 2019.",
+        "response": "Perjanjian Waralaba adalah perjanjian tertulis antara Pemberi Waralaba dengan Penerima Waralaba atau Pemberi Waralaba Lanjutan dengan Penerima Waralaba Lanjutan."
+    },
+    {
+        "instruction": "Definisikan Perlindungan anak.",
+        "context": "Berdasarkan UU Nomor 35 Tahun 2014.",
+        "response": "Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi Anak dan hak-haknya agar dapat hidup, tumbuh, berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perlindungan Dan Pengelolaan Lingkungan Hidup?",
+        "context": "Sesuai UU Nomor 32 Tahun 2009.",
+        "response": "Perlindindungan Dan Pengelolaan Lingkungan Hidup adalah upaya sistematis dan terpadu yang dilakukan untuk melestarikan fungsi lingkungan hidup dan mencegah terjadinya pencemaran dan/atau kerusakan lingkungan hidup yang meliputi perencanaan, pemanfaatan, pengendalian, pemeliharaan, pengawasan, dan penegakan hukum."
+    },
+    {
+        "instruction": "Apa pengertian Perlindungan Hak Masyarakat Hukum Adat?",
+        "context": "Berdasarkan draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Perlindungan Hak Masyarakat Hukum Adat adalah suatu bentuk pelayanan yang wajib diberikan oleh negara kepada Masyarakat Hukum Adat dalam rangka menjamin terpenuhinya hak-haknya, agar dapat hidup, tumbuh, dan berkembang, berpartisipasi sesuai martabatnya, serta terlindungi dari diskriminasi dan kekerasan."
+    },
+    {
+        "instruction": "Apa itu Perlindungan Khusus Anak?",
+        "context": "Merujuk pada PP Nomor 59 Tahun 2019.",
+        "response": "Perlindungan Khusus Anak adalah suatu bentuk perlindungan yang diterima oleh Anak dalam situasi dan kondisi tertentu untuk mendapatkan jaminan rasa aman terhadap ancaman yang membahayakan diri dan jiwa dalam tumbuh kembangnya."
+    },
+    {
+        "instruction": "Jelaskan definisi Perlindungan Khusus secara umum.",
+        "context": "Berdasarkan PP Nomor 57 Tahun 2003 dan UU Nomor 23 Tahun 2002.",
+        "response": "Perlindungan khusus adalah perlindungan yang diberikan oleh negara untuk memberikan jaminan rasa aman kepada Pelapor/Saksi dari ancaman; atau perlindungan bagi anak dalam situasi darurat, berhadapan dengan hukum, kelompok minoritas, korban eksploitasi, perdagangan, narkotika, penculikan, kekerasan, penyandang cacat, dan penelantaran."
+    },
+    {
+        "instruction": "Apa pengertian Perlindungan Hukum?",
+        "context": "Berdasarkan PP Nomor 38 Tahun 2013.",
+        "response": "Perlindungan Hukum adalah pemberian layanan atau jasa di bidang hukum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perlindungan TKI?",
+        "context": "Sesuai UU Nomor 39 Tahun 2004, PP Nomor 4 Tahun 2015, dan PP Nomor 5 Tahun 2013.",
+        "response": "Perlindungan TKI adalah segala upaya untuk melindungi kepentingan calon TKI/TKI dalam mewujudkan terjaminnya pemenuhan hak-haknya sesuai dengan peraturan perundang-undangan, baik sebelum, selama, maupun sesudah bekerja."
+    },
+    {
+        "instruction": "Apa definisi Perlindungan Varietas Tanaman (PVT)?",
+        "context": "Merujuk pada PP Nomor 13 Tahun 2004 tentang Paten.",
+        "response": "Perlindungan Varietas Tanaman adalah perlindungan khusus yang diberikan negara melalui Kantor PVT terhadap varietas tanaman yang dihasilkan oleh pemulia tanaman melalui kegiatan pemuliaan."
+    },
+    {
+        "instruction": "Jelaskan istilah Permohonan dalam pendaftaran kekayaan intelektual.",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2019 dan UU Nomor 20 Tahun 2016.",
+        "response": "Permohonan adalah permintaan pendaftaran Merek atau pendaftaran Indikasi Geografis yang diajukan kepada Menteri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Permukiman?",
+        "context": "Sesuai PP Nomor 83 Tahun 2015, UU Nomor 1 Tahun 2011, dan PP Nomor 14 Tahun 2016.",
+        "response": "Permukiman adalah bagian dari lingkungan hunian yang terdiri atas lebih dari satu satuan Perumahan yang mempunyai prasarana, sarana, utilitas umum, serta mempunyai penunjang kegiatan fungsi lain di kawasan perkotaan atau kawasan perdesaan."
+    },
+    {
+        "instruction": "Apa definisi Permufakatan Jahat dalam tindak pidana?",
+        "context": "Merujuk pada UU Nomor 8 Tahun 2010.",
+        "response": "Permufakatan Jahat adalah perbuatan dua orang atau lebih yang bersepakat untuk melakukan tindak pidana Pencucian Uang."
+    },
+    {
+        "instruction": "Apa itu Permohonan Banding dalam Merek?",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2019.",
+        "response": "Permohonan Banding adalah upaya hukum yang diajukan oleh Pemohon terhadap penolakan Permohonan Merek atau Indikasi Geografis yang diajukan kepada Komisi Banding."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pernyataan Pembubaran?",
+        "context": "Sesuai PP Nomor 8 Tahun 2021.",
+        "response": "Pernyataan Pembubaran adalah format isian pernyataan pembubaran Perseroan perorangan yang didirikan oleh 1 (satu) orang secara elektronik."
+    },
+    {
+        "instruction": "Definisikan Pernyataan Pendirian.",
+        "context": "Merujuk pada PP Nomor 8 Tahun 2021.",
+        "response": "Pernyataan Pendirian adalah format isian pendirian Perseroan perorangan yang didirikan oleh 1 (satu) orang secara elektronik."
+    },
+    {
+        "instruction": "Apa pengertian Persaingan Usaha Tidak Sehat?",
+        "context": "Berdasarkan PP Nomor 57 Tahun 2010.",
+        "response": "Persaingan Usaha Tidak Sehat adalah persaingan antar Pelaku Usaha dalam menjalankan kegiatan produksi dan atau pemasaran barang atau jasa yang dilakukan dengan cara tidak jujur atau melawan hukum atau menghambat persaingan usaha."
+    },
+    {
+        "instruction": "Apa itu Perselisihan Hak dalam Hubungan Industrial?",
+        "context": "Sesuai UU Nomor 2 Tahun 2004.",
+        "response": "Perselisihan Hak adalah perselisihan yang timbul karena tidak dipenuhinya hak, akibat adanya perbedaan pelaksanaan atau penafsiran terhadap ketentuan peraturan perundang-undangan, perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama."
+    },
+    {
+        "instruction": "Jelaskan definisi Perselisihan Antar Serikat Pekerja/Serikat Buruh.",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2004.",
+        "response": "Perselisihan Antar Serikat Pekerja/Serikat Buruh adalah perselisihan antara serikat pekerja/serikat buruh dengan serikat pekerja/serikat buruh lain hanya dalam satu perusahaan, karena tidak adanya persesuaian paham mengenai keanggotaan, pelaksanaan hak, dan kewajiban keserikatpekerjaan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Persekongkolan Atau Konspirasi Usaha?",
+        "context": "Merujuk pada PP Nomor 44 Tahun 2021.",
+        "response": "Persekongkolan Atau Konspirasi Usaha adalah bentuk kerja sama yang dilakukan oleh pelaku usaha dengan Pelaku Usaha lain dengan maksud untuk menguasai pasar bersangkutan bagi kepentingan Pelaku Usaha yang bersekongkol."
+}
 ]
