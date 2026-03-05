@@ -2508,5 +2508,290 @@
         "instruction": "Apa yang dimaksud dengan Persekongkolan Atau Konspirasi Usaha?",
         "context": "Merujuk pada PP Nomor 44 Tahun 2021.",
         "response": "Persekongkolan Atau Konspirasi Usaha adalah bentuk kerja sama yang dilakukan oleh pelaku usaha dengan Pelaku Usaha lain dengan maksud untuk menguasai pasar bersangkutan bagi kepentingan Pelaku Usaha yang bersekongkol."
-}
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perselisihan Hubungan Industrial?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2004 mengenai penyelesaian sengketa ketenagakerjaan.",
+        "response": "Perselisihan hubungan industrial adalah perbedaan pendapat yang mengakibatkan pertentangan antara pengusaha atau gabungan pengusaha dengan pekerja/buruh atau serikat pekerja/serikat buruh karena adanya perselisihan mengenai hak, perselisihan kepentingan, perselisihan pemutusan hubungan kerja dan perselisihan antar serikat pekerja/serikat buruh dalam satu perusahaan."
+    },
+    {
+        "instruction": "Apa itu Perselisihan Kepentingan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2004.",
+        "response": "Perselisihan Kepentingan adalah perselisihan yang timbul dalam hubungan kerja karena tidak adanya kesesuaian pendapat mengenai pembuatan, dan atau perubahan syarat-syarat kerja yang ditetapkan dalam perjanjian kerja, atau peraturan perusahaan, atau perjanjian kerja bersama."
+    },
+    {
+        "instruction": "Jelaskan definisi Perselisihan Pemutusan Hubungan Kerja.",
+        "context": "Sesuai dengan UU Nomor 2 Tahun 2004.",
+        "response": "Perselisihan Pemutusan Hubungan Kerja adalah perselisihan yang timbul karena tidak adanya kesesuaian pendapat mengenai pengakhiran hubungan kerja yang dilakukan oleh salah satu pihak."
+    },
+    {
+        "instruction": "Apa pengertian Persentase Anggaran Pendidikan?",
+        "context": "Berdasarkan UU Keuangan Negara dan UU APBN terkait (misal UU Nomor 12 Tahun 2018).",
+        "response": "Persentase Anggaran Pendidikan adalah perbandingan alokasi anggaran pendidikan terhadap total anggaran belanja negara."
+    },
+    {
+        "instruction": "Siapakah Perseorangan Peserta Pemilu?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017 dan UU Nomor 8 Tahun 2012 mengenai pemilihan anggota legislatif.",
+        "response": "Perseorangan Peserta Pemilu adalah perseorangan yang telah memenuhi persyaratan sebagai Peserta Pemilu anggota Dewan Perwakilan Daerah (DPD)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perseroan Publik?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2007 tentang Perseroan Terbatas.",
+        "response": "Perseroan Publik adalah Perseroan yang memenuhi kriteria jumlah pemegang saham dan modal disetor sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal."
+    },
+    {
+        "instruction": "Jelaskan definisi Perseroan Terbatas (PT).",
+        "context": "Berdasarkan PP Nomor 8 Tahun 2021 dan PP Nomor 47 Tahun 2012 (mengacu UU Nomor 40 Tahun 2007).",
+        "response": "Perseroan Terbatas adalah badan hukum yang merupakan persekutuan modal, didirikan berdasarkan perjanjian, melakukan kegiatan usaha dengan modal dasar yang seluruhnya terbagi dalam saham dan memenuhi persyaratan undang-undang, atau badan hukum perorangan yang memenuhi kriteria usaha mikro dan kecil."
+    },
+    {
+        "instruction": "Apa itu Perseroan Terbuka?",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2007 dan PP terkait pajak/pasar modal.",
+        "response": "Perseroan Terbuka adalah Perseroan Publik atau Perseroan yang telah melakukan penawaran umum saham (atau efek ekuitas lainnya) dan tercatat di bursa efek di Indonesia, sesuai dengan ketentuan peraturan perundang-undangan di bidang pasar modal."
+    },
+    {
+        "instruction": "Apa definisi Persetujuan Bangunan Gedung (PBG)?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2020 tentang Cipta Kerja.",
+        "response": "Persetujuan Bangunan Gedung adalah perizinan yang diberikan kepada pemilik bangunan gedung untuk membangun baru, mengubah, memperluas, mengurangi, dan/atau merawat bangunan gedung sesuai dengan persyaratan administratif dan standar teknis Bangunan Gedung."
+    },
+    {
+        "instruction": "Apa pengertian Persetujuan Pemilik Data Pribadi?",
+        "context": "Sesuai Permenkominfo Nomor 20 Tahun 2016 mengenai perlindungan data elektronik.",
+        "response": "Persetujuan Pemilik Data Pribadi adalah pernyataan secara tertulis baik secara manual dan/atau elektronik yang diberikan oleh Pemilik Data Pribadi setelah mendapat penjelasan secara lengkap mengenai tindakan perolehan, pengumpulan, pengolahan, penganalisisan, penyimpanan, penampilan, pengumuman, pengiriman, dan penyebarluasan serta kerahasiaan atau ketidakrahasiaan Data Pribadi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Persetujuan Tipe?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021 mengenai tata kelola pelayanan.",
+        "response": "Persetujuan Tipe adalah Perizinan Berusaha berupa sertifikat yang menyatakan tipe Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan produksi dalam negeri atau asal Impor telah memperoleh persetujuan berdasarkan penilaian kesesuaian terhadap persyaratan teknis."
+    },
+    {
+        "instruction": "Siapakah Personel Intelijen Negara?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2011.",
+        "response": "Personel Intelijen Negara adalah warga negara Indonesia yang memiliki kemampuan khusus Intelijen dan mengabdikan diri dalam dinas Intelijen Negara."
+    },
+    {
+        "instruction": "Jelaskan definisi Pertahanan negara.",
+        "context": "Berdasarkan UU Nomor 23 Tahun 2019 dan UU Nomor 3 Tahun 2002.",
+        "response": "Pertahanan negara adalah segala usaha untuk mempertahankan kedaulatan negara, keutuhan wilayah Negara Kesatuan Republik Indonesia, dan keselamatan segenap bangsa dari ancaman serta gangguan terhadap keutuhan bangsa dan negara."
+    },
+    {
+        "instruction": "Apa pengertian Pertambangan secara umum?",
+        "context": "Sesuai PP Nomor 22 Tahun 2010.",
+        "response": "Pertambangan adalah sebagian atau seluruh tahapan kegiatan dalam rangka penelitian, pengelolaan, dan pengusahaan mineral atau batubara yang meliputi penyelidikan umum, eksplorasi, studi kelayakan, konstruksi, penambangan, pengolahan dan pemurnian, pengangkutan dan penjualan, serta kegiatan pascatambang."
+    },
+    {
+        "instruction": "Apa definisi Pertambangan Batubara?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2020 mengenai Minerba.",
+        "response": "Pertambangan Batubara adalah Pertambangan endapan karbon yang terdapat di dalam bumi, termasuk bitumen padat, gambut, dan batuan aspal."
+    },
+    {
+        "instruction": "Apa itu Pertambangan Mineral?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2020.",
+        "response": "Pertambangan Mineral adalah Pertambangan kumpulan Mineral yang berupa bijih atau batuan, di luar panas bumi, minyak dan gas bumi, serta air tanah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perusahaan Umum (Perum)?",
+        "context": "Sesuai PP Nomor 77 Tahun 2012 terkait BUMN.",
+        "response": "Perum adalah badan usaha yang menyelenggarakan pelayanan umum (misalnya navigasi penerbangan) serta tidak berorientasi mencari keuntungan, berbentuk Badan Usaha Milik Negara yang seluruh modalnya dimiliki negara berupa kekayaan negara yang dipisahkan dan tidak terbagi atas saham sesuai UU Nomor 19 Tahun 2003."
+    },
+    {
+        "instruction": "Jelaskan definisi Perumahan.",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2016 mengenai kawasan pemukiman.",
+        "response": "Perumahan adalah kumpulan Rumah sebagai bagian dari Permukiman, baik perkotaan maupun perdesaan, yang dilengkapi dengan Prasarana, Sarana, dan Utilitas Umum sebagai hasil upaya pemenuhan Rumah yang layak huni."
+    },
+    {
+        "instruction": "Apa itu Perundingan Bipartit?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2004 tentang Hubungan Industrial.",
+        "response": "Perundingan Bipartit adalah perundingan antara pekerja/buruh atau serikat pekerja/serikat buruh dengan pengusaha untuk menyelesaikan perselisihan hubungan industrial."
+    },
+    {
+        "instruction": "Apa pengertian Perusahaan secara umum menurut regulasi ketenagakerjaan?",
+        "context": "Berdasarkan Permenaker Nomor 28 Tahun 2014, UU Kearsipan, dan lain-lain.",
+        "response": "Perusahaan adalah setiap bentuk usaha yang berbadan hukum atau tidak, milik perorangan/persekutuan/badan hukum, baik swasta maupun negara yang mempekerjakan pekerja/buruh dengan membayar upah; termasuk juga usaha sosial yang mempekerjakan orang lain; atau bentuk usaha yang melakukan kegiatan dengan tujuan memperoleh keuntungan di wilayah NKRI."
+    },
+    {
+        "instruction": "Apa definisi Perusahaan Angkutan Umum?",
+        "context": "Sesuai UU Nomor 22 Tahun 2009 tentang LLAJ.",
+        "response": "Perusahaan Angkutan Umum adalah badan hukum yang menyediakan jasa angkutan orang dan/atau barang dengan Kendaraan Bermotor Umum."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perusahaan Asuransi?",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2014.",
+        "response": "Perusahaan Asuransi mencakup perusahaan asuransi umum dan perusahaan asuransi jiwa."
+    },
+    {
+        "instruction": "Apa pengertian Perusahaan Asuransi Syariah?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2014.",
+        "response": "Perusahaan Asuransi Syariah mencakup perusahaan asuransi umum syariah dan perusahaan asuransi jiwa syariah."
+    },
+    {
+        "instruction": "Apa itu Perusahaan Asuransi Umum?",
+        "context": "Sesuai Permenkeu Nomor 124/PMK.010/2008.",
+        "response": "Perusahaan Asuransi Umum adalah Perusahaan Asuransi Kerugian sebagaimana dimaksud dalam Undang-Undang tentang Usaha Perasuransian."
+    },
+    {
+        "instruction": "Definisikan Perusahaan Industri.",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2014 dan PP Nomor 29 Tahun 2018.",
+        "response": "Perusahaan Industri adalah Setiap Orang (orang perseorangan atau korporasi) yang melakukan kegiatan di bidang usaha Industri yang berkedudukan di Indonesia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Perusahaan Kawasan Industri?",
+        "context": "Berdasarkan UU Nomor 3 Tahun 2014.",
+        "response": "Perusahaan Kawasan Industri adalah perusahaan yang mengusahakan pengembangan dan pengelolaan kawasan Industri."
+    },
+    {
+        "instruction": "Apa pengertian Perusahaan Negara?",
+        "context": "Sesuai UU Nomor 17 Tahun 2003 tentang Keuangan Negara.",
+        "response": "Perusahaan Negara adalah badan usaha yang seluruh atau sebagian modalnya dimiliki oleh Pemerintah Pusat."
+    },
+    {
+        "instruction": "Apa definisi Perusahaan Pembiayaan?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2016 dan PP Nomor 25 Tahun 2020.",
+        "response": "Perusahaan Pembiayaan adalah badan usaha yang melakukan kegiatan pembiayaan untuk pengadaan barang dan/atau jasa."
+    },
+    {
+        "instruction": "Siapakah yang disebut Perusahaan Penempatan Pekerja Migran Indonesia?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017.",
+        "response": "Perusahaan Penempatan Pekerja Migran Indonesia adalah badan usaha berbadan hukum perseroan terbatas yang telah memperoleh izin tertulis dari Menteri untuk menyelenggarakan pelayanan penempatan Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa fungsi Perusahaan Penerbit SBSN?",
+        "context": "Sesuai UU Nomor 19 Tahun 2008 dan PP Nomor 56 Tahun 2011 mengenai Surat Berharga Syariah Negara.",
+        "response": "Perusahaan Penerbit SBSN adalah badan hukum yang didirikan berdasarkan ketentuan Undang-Undang Nomor 19 Tahun 2008 tentang Surat Berharga Syariah Negara untuk melaksanakan kegiatan penerbitan SBSN."
+    },
+    {
+        "instruction": "Siapakah Petugas Pengawas Perdagangan?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021 mengenai tata kelola pelayanan.",
+        "response": "Petugas Pengawas Perdagangan adalah pegawai negeri sipil pada unit yang menyelenggarakan urusan pemerintahan di bidang Perdagangan baik di pusat maupun daerah yang ditunjuk untuk melaksanakan pengawasan terhadap kegiatan Perdagangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Petugas Proteksi Radiasi?",
+        "context": "Merujuk pada PP Nomor 58 Tahun 2015 dan PP Nomor 33 Tahun 2007 mengenai tenaga nuklir.",
+        "response": "Petugas Proteksi Radiasi adalah petugas yang ditunjuk oleh Pemegang Izin pemanfaatan sumber radiasi pengion atau bahan nuklir, dan oleh BAPETEN dinyatakan mampu melaksanakan pekerjaan yang berhubungan dengan Proteksi Radiasi."
+    },
+    {
+        "instruction": "Apa definisi Pewarganegaraan?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia.",
+        "response": "Pewarganegaraan adalah tata cara bagi orang asing untuk memperoleh Kewarganegaraan Republik Indonesia melalui permohonan."
+    },
+    {
+        "instruction": "Siapakah Pialang Perdagangan Berjangka (atau Pialang Berjangka)?",
+        "context": "Sesuai PP Nomor 49 Tahun 2014.",
+        "response": "Pialang Perdagangan Berjangka (atau Pialang Berjangka) adalah badan usaha yang melakukan kegiatan jual beli Komoditi berdasarkan Kontrak Berjangka, Kontrak Derivatif Syariah, dan/atau Kontrak Derivatif lainnya atas amanat Nasabah dengan menarik sejumlah uang dan/atau surat berharga tertentu sebagai Margin untuk menjamin transaksi tersebut."
+    },
+    {
+        "instruction": "Apa pengertian PHK?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2005, PP Nomor 78 Tahun 2015, dan Perpres Nomor 82 Tahun 2018.",
+        "response": "PHK (Pemutusan Hubungan Kerja) adalah pengakhiran hubungan kerja atau kesepakatan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh (termasuk guru/dosen) dan pengusaha, pemberi kerja, atau penyelenggara pendidikan sesuai dengan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Siapakah Pihak Ketiga Dalam Kaitannya Dengan Data Pribadi?",
+        "context": "Berdasarkan Draf RUU Pelindungan Data Pribadi Tahun 2022.",
+        "response": "Pihak Ketiga Dalam Kaitannya Dengan Data Pribadi adalah setiap orang atau badan hukum selain yang dikecualikan dalam peraturan terkait perlindungan data."
+    },
+    {
+        "instruction": "Apa definisi Pihak Lawan menurut UU Intelijen Negara?",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2011.",
+        "response": "Pihak Lawan adalah pihak dari dalam dan luar negeri yang melakukan upaya, pekerjaan, kegiatan, serta tindakan yang dapat mengancam kepentingan dan keamanan nasional."
+    },
+    {
+        "instruction": "Siapakah Pihak Terasosiasi dalam profesi akuntan?",
+        "context": "Sesuai UU Nomor 5 Tahun 2011.",
+        "response": "Pihak Terasosiasi adalah Rekan KAP yang tidak menandatangani laporan pemberian jasa, pegawai KAP yang terlibat dalam pemberian jasa, atau pihak lain yang terlibat langsung dalam pemberian jasa."
+    },
+    {
+        "instruction": "Siapakah Pimpinan Lembaga Non Struktural (LNS)?",
+        "context": "Berdasarkan PP Nomor 22 Tahun 2016 dan PP Nomor 21 Tahun 2016.",
+        "response": "Pimpinan Lembaga Non Struktural (Pimpinan LNS) adalah Ketua, Wakil Ketua, Anggota, atau Sekretaris Lembaga Non Struktural sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan PIHK?",
+        "context": "Merujuk pada UU Nomor 34 Tahun 2014 dan PP Nomor 79 Tahun 2012 mengenai penyelenggaraan Haji.",
+        "response": "PIHK adalah Penyelenggara Ibadah Haji Khusus, yaitu pihak atau biro perjalanan yang telah mendapat izin dari Menteri untuk menyelenggarakan Ibadah Haji Khusus."
+    },
+    {
+        "instruction": "Siapakah Pihak Yang Terutang dalam Bea Meterai?",
+        "context": "Berdasarkan UU Nomor 10 Tahun 2020.",
+        "response": "Pihak Yang Terutang adalah pihak yang dikenai Bea Meterai dan wajib membayar Bea Meterai yang terutang."
+    },
+    {
+        "instruction": "Apa itu Pimpinan Pengadilan?",
+        "context": "Sesuai PP Nomor 41 Tahun 2002 dan PP Nomor 8 Tahun 2000.",
+        "response": "Pimpinan Pengadilan adalah Hakim yang diberi tugas tambahan sebagai Ketua dan Wakil Ketua Pengadilan."
+    },
+    {
+        "instruction": "Definisikan Pinjaman.",
+        "context": "Merujuk pada PP Nomor 63 Tahun 2019, PP Nomor 89 Tahun 2014, dan UU Nomor 1 Tahun 2013.",
+        "response": "Pinjaman adalah setiap pembiayaan melalui utang yang diikat oleh suatu perjanjian pinjaman dan tidak berbentuk surat berharga negara, yang harus dibayar kembali dengan persyaratan tertentu, termasuk penyediaan dana oleh Lembaga Keuangan Mikro kepada masyarakat."
+    },
+    {
+        "instruction": "Apa pengertian Pinjaman Daerah?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022, UU Nomor 23 Tahun 2014, dan UU Nomor 32 Tahun 2004.",
+        "response": "Pinjaman Daerah adalah pembiayaan utang Daerah (atau semua transaksi) yang diikat dalam suatu perjanjian pinjaman (bukan surat berharga) yang mengakibatkan Daerah menerima sejumlah uang atau manfaat bernilai uang dari pihak lain, sehingga Daerah tersebut dibebani kewajiban untuk membayar kembali."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pinjaman Campuran?",
+        "context": "Merujuk pada PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Campuran adalah kombinasi antara dua unsur atau lebih yang terdiri dari hibah, pinjaman lunak, fasilitas kredit ekspor, dan pinjaman komersial."
+    },
+    {
+        "instruction": "Jelaskan definisi Pinjaman Bilateral.",
+        "context": "Sesuai PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Bilateral adalah pinjaman luar negeri yang berasal dari pemerintah suatu negara melalui suatu lembaga keuangan dan/atau lembaga non keuangan yang ditunjuk oleh pemerintah negara yang bersangkutan untuk melaksanakan pemberian pinjaman."
+    },
+    {
+        "instruction": "Apa definisi Pinjaman Dalam Negeri?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2012, UU Nomor 11 Tahun 2011, dan UU Nomor 2 Tahun 2010.",
+        "response": "Pinjaman Dalam Negeri adalah setiap pinjaman oleh Pemerintah yang diperoleh dari pemberi pinjaman dalam negeri yang harus dibayar kembali dengan persyaratan tertentu, sesuai dengan masa berlakunya."
+    },
+    {
+        "instruction": "Apa perbedaan Pinjaman Jangka Panjang dan Pinjaman Jangka Pendek untuk Daerah?",
+        "context": "Berdasarkan PP Nomor 107 Tahun 2000.",
+        "response": "Pinjaman Jangka Panjang adalah pinjaman daerah dengan jangka waktu lebih dari satu tahun di mana pelunasannya dibebankan pada tahun anggaran berikutnya. Sedangkan Pinjaman Jangka Pendek memiliki jangka waktu maksimal satu tahun dan harus dilunasi seluruhnya dalam tahun anggaran yang bersangkutan."
+    },
+    {
+        "instruction": "Apa itu Pinjaman Kegiatan?",
+        "context": "Sesuai dengan UU APBN (misal UU Nomor 6 Tahun 2021 dan UU Nomor 15 Tahun 2017).",
+        "response": "Pinjaman Kegiatan adalah pinjaman luar negeri yang digunakan untuk pembiayaan kegiatan tertentu kementerian negara/lembaga, pinjaman yang diteruspinjamkan kepada pemerintah daerah dan/atau BUMN, dan pinjaman yang diterushibahkan kepada pemerintah daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pinjaman Komersial?",
+        "context": "Merujuk pada PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Komersial adalah pinjaman luar negeri Pemerintah yang diperoleh dengan persyaratan yang berlaku di pasar dan tanpa adanya penjaminan dari lembaga penjamin kredit ekspor."
+    },
+    {
+        "instruction": "Definisikan Pinjaman Luar Negeri.",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2011 dan PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Luar Negeri adalah setiap penerimaan negara atau pembiayaan melalui utang yang diperoleh dari Pemberi Pinjaman Luar Negeri dalam bentuk devisa, rupiah, barang, atau jasa yang diikat perjanjian (bukan surat berharga) dan harus dibayar kembali dengan persyaratan tertentu."
+    },
+    {
+        "instruction": "Apa pengertian Pinjaman Lunak?",
+        "context": "Merujuk pada PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Lunak adalah pinjaman yang masuk kategori Official Development Assistance (ODA) Loan atau Concessional Loan dari negara/lembaga multilateral untuk pembangunan atau kesejahteraan negara penerima dengan komponen hibah (grant element) minimal 35%."
+    },
+    {
+        "instruction": "Apa itu Pinjaman Multilateral?",
+        "context": "Sesuai PP Nomor 2 Tahun 2006.",
+        "response": "Pinjaman Multilateral adalah pinjaman luar negeri yang berasal dari lembaga multilateral."
+    },
+    {
+        "instruction": "Jelaskan definisi Pinjaman Program.",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2015, UU Nomor 28 Tahun 2003, dan UU Nomor 2 Tahun 2000.",
+        "response": "Pinjaman Program adalah pinjaman luar negeri yang diterima dalam bentuk tunai di mana pencairannya mensyaratkan dipenuhinya kondisi tertentu yang disepakati, atau merupakan nilai lawan rupiah dari pinjaman luar negeri dalam bentuk pangan dan bukan pangan serta pinjaman yang dapat dirupiahkan."
+    },
+    {
+        "instruction": "Apa definisi Pinjaman Proyek?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2015, UU Nomor 28 Tahun 2003, dan UU Nomor 2 Tahun 2000.",
+        "response": "Pinjaman Proyek adalah pinjaman luar negeri yang digunakan untuk membiayai kegiatan tertentu Kementerian Negara/Lembaga, termasuk pinjaman yang diteruspinjamkan/hibahkan kepada pemda/BUMN, atau nilai lawan rupiah untuk membiayai proyek pembangunan."
+    },
+    {
+        "instruction": "Apa pengertian Piutang?",
+        "context": "Berdasarkan PP Nomor 136 Tahun 2000 mengenai penyitaan pajak.",
+        "response": "Piutang adalah tagihan orang pribadi atau badan kepada orang pribadi atau badan lain baik karena peminjaman uang maupun karena perikatan lainnya, yang akan dilunasi pada waktu tertentu sesuai perjanjian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Piutang Daerah?",
+        "context": "Sesuai dengan UU Nomor 1 Tahun 2004.",
+        "response": "Piutang Daerah adalah jumlah uang yang wajib dibayar kepada Pemerintah Daerah dan/atau hak Pemerintah Daerah yang dapat dinilai dengan uang sebagai akibat perjanjian atau akibat lainnya berdasarkan peraturan perundang-undangan yang berlaku atau akibat lainnya yang sah."
+    }
 ]
