@@ -2793,5 +2793,280 @@
         "instruction": "Apa yang dimaksud dengan Piutang Daerah?",
         "context": "Sesuai dengan UU Nomor 1 Tahun 2004.",
         "response": "Piutang Daerah adalah jumlah uang yang wajib dibayar kepada Pemerintah Daerah dan/atau hak Pemerintah Daerah yang dapat dinilai dengan uang sebagai akibat perjanjian atau akibat lainnya berdasarkan peraturan perundang-undangan yang berlaku atau akibat lainnya yang sah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Piutang Negara?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2004 mengenai Keuangan Negara.",
+        "response": "Piutang Negara adalah jumlah uang yang wajib dibayar kepada Pemerintah Pusat dan/atau hak Pemerintah Pusat yang dapat dinilai dengan uang sebagai akibat perjanjian atau akibat lainnya berdasarkan peraturan perundang-undangan yang berlaku atau akibat lainnya yang sah."
+    },
+    {
+        "instruction": "Apa pengertian Piutang Pelayaran Yang Didahulukan?",
+        "context": "Sesuai dengan UU Nomor 17 Tahun 2008 tentang Pelayaran.",
+        "response": "Piutang Pelayaran Yang Didahulukan adalah tagihan yang wajib dilunasi lebih dahulu dari hasil eksekusi kapal mendahului tagihan pemegang hipotek kapal."
+    },
+    {
+        "instruction": "Siapakah PJK itu?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2013 tentang Pemberantasan Terorisme.",
+        "response": "PJK adalah Setiap Orang yang menyediakan jasa di bidang keuangan atau jasa lainnya yang terkait dengan keuangan, baik secara formal maupun nonformal."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi PMI?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2018 mengenai kesehatan.",
+        "response": "PMI (Palang Merah Indonesia) adalah perhimpunan nasional yang berdiri atas asas perikemanusiaan dan atas dasar sukarela dengan tidak membeda-bedakan bangsa, golongan, dan paham politik."
+    },
+    {
+        "instruction": "Apa itu PKP2B?",
+        "context": "Sesuai UU Nomor 3 Tahun 2020 dan regulasi ESDM lainnya.",
+        "response": "PKP2B adalah perjanjian antara Pemerintah Republik Indonesia dengan perusahaan berbadan hukum Indonesia untuk melakukan kegiatan Usaha Pertambangan Batubara."
+    },
+    {
+        "instruction": "Apa definisi PKB (Pajak Kendaraan Bermotor)?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2022 dan UU Nomor 28 Tahun 2009.",
+        "response": "PKB adalah pajak atas kepemilikan dan/atau penguasaan kendaraan bermotor."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan PMN (Penyertaan Modal Negara)?",
+        "context": "Merujuk pada UU Keuangan Negara (misal UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, UU Nomor 14 Tahun 2015).",
+        "response": "PMN adalah pemisahan kekayaan negara (dana APBN) untuk dijadikan sebagai modal Perusahaan Negara, BUMN, Perseroan Terbatas lainnya, dan/atau lembaga keuangan internasional yang pengelolaannya dilakukan secara korporasi."
+    },
+    {
+        "instruction": "Jelaskan apa itu PMSE.",
+        "context": "Berdasarkan PP Nomor 80 Tahun 2019.",
+        "response": "PMSE (Perdagangan Melalui Sistem Elektronik) adalah Perdagangan yang transaksinya dilakukan melalui serangkaian perangkat dan prosedur elektronik."
+    },
+    {
+        "instruction": "Apa definisi PNBP (Penerimaan Negara Bukan Pajak)?",
+        "context": "Sesuai UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, dan peraturan keuangan lainnya.",
+        "response": "PNBP adalah semua penerimaan Pemerintah Pusat di luar penerimaan perpajakan dan hibah, yang diterima dalam bentuk pendapatan Sumber Daya Alam (SDA), Kekayaan Negara Dipisahkan, bagian laba BUMN, PNBP lainnya, dan Badan Layanan Umum (BLU)."
+    },
+    {
+        "instruction": "Apa itu PNBP Terutang?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2018.",
+        "response": "PNBP Terutang adalah kewajiban PNBP dari Wajib Bayar kepada Pemerintah yang wajib dibayar pada waktu tertentu sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa pengertian PNPS?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2018 dan UU Nomor 20 Tahun 2014 tentang standardisasi.",
+        "response": "PNPS adalah usulan rancangan SNI (Standar Nasional Indonesia) dari Pemangku Kepentingan yang akan dirumuskan secara terencana, terpadu, dan sistematis."
+    },
+    {
+        "instruction": "Siapakah Pol PP?",
+        "context": "Sesuai dengan PP Nomor 16 Tahun 2018.",
+        "response": "Pol PP (Satuan Polisi Pamong Praja) adalah anggota aparat Pemerintah Daerah yang diduduki oleh pegawai negeri sipil dan diberi tugas serta wewenang dalam penegakan Peraturan Daerah, penyelenggaraan ketertiban umum, ketenteraman, serta pelindungan masyarakat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Pola Pengelolaan Keuangan Badan Layanan Umum (PK-BLU)?",
+        "context": "Berdasarkan PP Nomor 6 Tahun 2011 dan PP Nomor 23 Tahun 2005.",
+        "response": "Pola Pengelolaan Keuangan Badan Layanan Umum adalah pola pengelolaan keuangan yang memberikan fleksibilitas untuk menerapkan praktik bisnis yang sehat guna meningkatkan pelayanan kepada masyarakat, sebagai pengecualian dari ketentuan pengelolaan keuangan negara pada umumnya."
+    },
+    {
+        "instruction": "Jelaskan definisi Polri.",
+        "context": "Sesuai UU Nomor 7 Tahun 2012, PP Nomor 60 Tahun 2017, dan PP Nomor 38 Tahun 2015.",
+        "response": "Polri (Kepolisian Negara Republik Indonesia) adalah alat negara yang berperan dalam memelihara keamanan dan ketertiban masyarakat, menegakkan hukum, serta memberikan pelindungan, pengayoman, dan pelayanan kepada masyarakat dalam rangka terpeliharanya keamanan dalam negeri, yang diisi oleh pegawai negeri pada institusi tersebut."
+    },
+    {
+        "instruction": "Siapakah Polsus?",
+        "context": "Berdasarkan PP Nomor 43 Tahun 2012.",
+        "response": "Polsus adalah instansi dan/atau badan pemerintah yang oleh atau atas kuasa undang-undang diberi wewenang untuk melaksanakan fungsi Kepolisian di bidang teknisnya masing-masing."
+    },
+    {
+        "instruction": "Apa definisi Pornografi?",
+        "context": "Merujuk pada UU Nomor 44 Tahun 2008.",
+        "response": "Pornografi adalah gambar, sketsa, ilustrasi, foto, tulisan, suara, bunyi, gambar bergerak, animasi, kartun, percakapan, gerak tubuh, atau bentuk pesan lainnya melalui berbagai media komunikasi/pertunjukan umum yang memuat kecabulan atau eksploitasi seksual yang melanggar norma kesusilaan."
+    },
+    {
+        "instruction": "Apa itu Portal Peduli WNI (Warga Negara Indonesia)?",
+        "context": "Berdasarkan PP Nomor 10 Tahun 2020.",
+        "response": "Portal Peduli WNI adalah sistem teknologi informasi dan komunikasi yang bertujuan untuk memfasilitasi seluruh pelayanan dan pelindungan bagi warga negara Indonesia di luar negeri yang dilakukan oleh Perwakilan Republik Indonesia di luar negeri."
+    },
+    {
+        "instruction": "Apa fungsi Pos Lintas Batas?",
+        "context": "Sesuai PP Nomor 34 Tahun 2019 tentang perdagangan batas negara.",
+        "response": "Pos Lintas Batas adalah tempat yang ditunjuk pada perbatasan wilayah negara untuk memberitahukan dan menyelesaikan kewajiban pabean, imigrasi, karantina, dan keamanan terhadap Barang yang dibawa oleh Pelintas Batas."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Potensi Pencarian dan Pertolongan?",
+        "context": "Merujuk pada PP Nomor 21 Tahun 2017 dan PP Nomor 22 Tahun 2017.",
+        "response": "Potensi Pencarian dan Pertolongan adalah sumber daya manusia, sarana dan prasarana, informasi dan teknologi, serta hewan, selain Badan Nasional Pencarian dan Pertolongan (Basarnas) yang dapat dimanfaatkan untuk menunjang kegiatan penyelenggaraan operasi Pencarian dan Pertolongan."
+    },
+    {
+        "instruction": "Apa definisi Potret dalam hak cipta?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014.",
+        "response": "Potret adalah karya fotografi dengan objek manusia."
+    },
+    {
+        "instruction": "Jelaskan peran PPATK.",
+        "context": "Sesuai UU Nomor 8 Tahun 2010 dan UU Nomor 25 Tahun 2003.",
+        "response": "PPATK (Pusat Pelaporan dan Analisis Transaksi Keuangan) adalah lembaga independen yang dibentuk dalam rangka mencegah dan memberantas tindak pidana pencucian uang."
+    },
+    {
+        "instruction": "Apa kepanjangan PPH terkait kehalalan produk?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "PPH (Proses Produk Halal) adalah rangkaian kegiatan untuk menjamin kehalalan Produk mencakup penyediaan bahan, pengolahan, penyimpanan, pengemasan, pendistribusian, penjualan, dan penyajian Produk."
+    },
+    {
+        "instruction": "Apa definisi PPK-BLU?",
+        "context": "Merujuk pada PP Nomor 6 Tahun 2011 dan PP Nomor 23 Tahun 2005.",
+        "response": "PPK-BLU (Pola Pengelolaan Keuangan Badan Layanan Umum) adalah pola pengelolaan keuangan yang memberikan fleksibilitas untuk menerapkan praktik bisnis yang sehat guna meningkatkan pelayanan kepada masyarakat, sebagai pengecualian dari ketentuan pengelolaan keuangan negara pada umumnya."
+    },
+    {
+        "instruction": "Apa peran PPLN?",
+        "context": "Sesuai dengan UU Pemilu terkait (misal UU Nomor 8 Tahun 2012, UU Nomor 42 Tahun 2008, UU Nomor 22 Tahun 2007).",
+        "response": "PPLN (Panitia Pemilihan Luar Negeri) adalah panitia yang dibentuk oleh KPU untuk melaksanakan atau menyelenggarakan Pemilu di luar negeri."
+    },
+    {
+        "instruction": "Siapakah PPNS?",
+        "context": "Berdasarkan PP Nomor 16 Tahun 2018 dan PP Nomor 43 Tahun 2012.",
+        "response": "PPNS (Penyidik Pegawai Negeri Sipil) adalah Pejabat Pegawai Negeri Sipil tertentu yang ditunjuk selaku Penyidik dan mempunyai wewenang untuk melakukan penyidikan tindak pidana dalam lingkup undang-undang dasar hukumnya, atau penyidikan terhadap pelanggaran atas ketentuan Peraturan Daerah."
+    },
+    {
+        "instruction": "Siapakah PPPK?",
+        "context": "Merujuk pada UU Nomor 5 Tahun 2014 dan aturan kepegawaian lainnya.",
+        "response": "PPPK (Pegawai Pemerintah dengan Perjanjian Kerja) adalah warga negara Indonesia yang memenuhi syarat tertentu, yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu dalam rangka melaksanakan tugas pemerintahan."
+    },
+    {
+        "instruction": "Apa tugas PPS?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017, UU Nomor 8 Tahun 2015, dan UU Nomor 8 Tahun 2012.",
+        "response": "PPS (Panitia Pemungutan Suara) adalah panitia yang dibentuk oleh KPU Kabupaten/Kota untuk melaksanakan Pemilu/Pemilihan di tingkat kelurahan/desa atau nama lain."
+    },
+    {
+        "instruction": "Siapakah Prajurit?",
+        "context": "Sesuai Perpres Nomor 82 Tahun 2018.",
+        "response": "Prajurit adalah anggota Tentara Nasional Indonesia."
+    },
+    {
+        "instruction": "Apa itu Prajurit Karier?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2010.",
+        "response": "Prajurit Karier adalah Prajurit Sukarela yang menjalani Dinas Keprajuritan secara purna waktu berdasarkan Ikatan Dinas untuk jangka waktu paling singkat 5 (lima) tahun yang dapat diperpanjang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Prajurit Siswa?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2010 mengenai keanggotaan TNI.",
+        "response": "Prajurit Siswa adalah Warga Negara yang sedang menjalani pendidikan pertama untuk menjadi Prajurit."
+    },
+    {
+        "instruction": "Siapakah Prajurit Sukarela?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2010.",
+        "response": "Prajurit Sukarela adalah Warga Negara yang atas kemauan sendiri mengabdikan diri dalam Dinas Keprajuritan."
+    },
+    {
+        "instruction": "Apa definisi Prajurit Sukarela Dinas Pendek?",
+        "context": "Merujuk pada PP Nomor 39 Tahun 2010.",
+        "response": "Prajurit Sukarela Dinas Pendek adalah Prajurit Sukarela yang menjalani Dinas Keprajuritan secara purna waktu berdasarkan Ikatan Dinas untuk jangka waktu paling singkat 5 (lima) tahun dan paling lama 10 (sepuluh) tahun yang dapat diangkat kembali menjadi Prajurit Karier sesuai dengan persyaratan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Praktik Bisnis Yang Sehat?",
+        "context": "Berdasarkan PP Nomor 23 Tahun 2005 dan PP Nomor 41 Tahun 2021.",
+        "response": "Praktik bisnis yang sehat adalah penyelenggaraan fungsi organisasi berdasarkan kaidah-kaidah manajemen yang baik dalam rangka pemberian layanan yang bermutu dan berkesinambungan."
+    },
+    {
+        "instruction": "Jelaskan definisi Praktik Arsitek.",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2017 tentang Arsitek.",
+        "response": "Praktik Arsitek adalah penyelenggaraan kegiatan untuk menghasilkan karya Arsitektur yang meliputi perencanaan, perancangan, pengawasan, dan/atau pengkajian untuk bangunan gedung dan lingkungannya, serta yang terkait dengan kawasan dan kota."
+    },
+    {
+        "instruction": "Apa itu Praktik Kebidanan?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2019 tentang Kebidanan.",
+        "response": "Praktik Kebidanan adalah kegiatan pemberian pelayanan yang dilakukan oleh Bidan dalam bentuk asuhan kebidanan."
+    },
+    {
+        "instruction": "Apa definisi Praktik Kedokteran?",
+        "context": "Sesuai UU Nomor 29 Tahun 2004.",
+        "response": "Praktik kedokteran adalah rangkaian kegiatan yang dilakukan oleh dokter dan dokter gigi terhadap pasien dalam melaksanakan upaya kesehatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Praktik Keinsinyuran?",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2014 dan PP Nomor 25 Tahun 2019.",
+        "response": "Praktik Keinsinyuran adalah penyelenggaraan kegiatan Keinsinyuran."
+    },
+    {
+        "instruction": "Definisikan Praktik Keperawatan.",
+        "context": "Berdasarkan UU Nomor 38 Tahun 2014.",
+        "response": "Praktik Keperawatan adalah pelayanan yang diselenggarakan oleh Perawat dalam bentuk Asuhan Keperawatan."
+    },
+    {
+        "instruction": "Jelaskan pengertian Praktik Monopoli.",
+        "context": "Sesuai dengan PP Nomor 57 Tahun 2010 mengenai persaingan usaha.",
+        "response": "Praktik Monopoli adalah pemusatan kekuatan ekonomi oleh satu atau lebih Pelaku Usaha yang mengakibatkan dikuasainya produksi dan atau pemasaran atas barang dan atau jasa tertentu sehingga menimbulkan persaingan usaha tidak sehat dan dapat merugikan kepentingan umum."
+    },
+    {
+        "instruction": "Apa itu Prasarana Lalu Lintas Dan Angkutan Jalan?",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2021.",
+        "response": "Prasarana Lalu Lintas Dan Angkutan Jalan adalah ruang lalu lintas, terminal, dan perlengkapan jalan yang meliputi marka, rambu, alat pemberi isyarat lalu lintas, alat pengendali dan pengaman pengguna jalan, alat pengawasan dan pengamanan jalan, serta fasilitas pendukung."
+    },
+    {
+        "instruction": "Apa pengertian Prekursor secara umum?",
+        "context": "Merujuk pada PP Nomor 44 Tahun 2010 dan UU Nomor 9 Tahun 2008.",
+        "response": "Prekursor adalah komponen asal, bahan pemula, atau bahan penimbul reaksi kimia yang berperan dalam setiap tahap produksi bahan kimia beracun, Narkotika, atau Psikotropika dengan cara apa pun."
+    },
+    {
+        "instruction": "Apa definisi Prekursor Narkotika?",
+        "context": "Berdasarkan UU Nomor 35 Tahun 2009.",
+        "response": "Prekursor Narkotika adalah zat atau bahan pemula atau bahan kimia yang dapat digunakan dalam pembuatan Narkotika yang dibedakan dalam tabel sebagaimana terlampir dalam Undang-Undang ini."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Premi dalam asuransi?",
+        "context": "Sesuai dengan UU Nomor 40 Tahun 2014.",
+        "response": "Premi adalah sejumlah uang yang ditetapkan oleh Perusahaan Asuransi atau perusahaan reasuransi dan disetujui oleh Pemegang Polis untuk dibayarkan berdasarkan perjanjian Asuransi/reasuransi, atau sejumlah uang yang ditetapkan berdasarkan peraturan perundang-undangan program asuransi wajib untuk memperoleh manfaat."
+    },
+    {
+        "instruction": "Siapakah Presiden (dan Wakil Presiden) menurut Undang-Undang?",
+        "context": "Berdasarkan UUD 1945, UU Nomor 20 Tahun 2009, UU Nomor 19 Tahun 2006, dan UU Nomor 7 Tahun 2017.",
+        "response": "Presiden (serta Wakil Presiden) adalah pemegang kekuasaan pemerintahan negara sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Prinsip Syariah?",
+        "context": "Merujuk pada PP Nomor 7 Tahun 2021.",
+        "response": "Prinsip Syariah adalah prinsip hukum Islam dalam kegiatan perkoperasian berdasarkan fatwa yang dikeluarkan oleh lembaga yang memiliki kewenangan dalam penetapan fatwa di bidang syariah."
+    },
+    {
+        "instruction": "Siapakah Prinsipal dalam bisnis distribusi?",
+        "context": "Berdasarkan Permendag Nomor 11 Tahun 2006.",
+        "response": "Prinsipal adalah perorangan atau badan usaha yang berbentuk badan hukum atau bukan badan hukum di luar negeri atau di dalam negeri yang menunjuk agen atau distributor untuk melakukan penjualan barang dan/atau jasa yang dimiliki/dikuasai."
+    },
+    {
+        "instruction": "Apa perbedaan Prinsipal Produsen dan Prinsipal Supplier?",
+        "context": "Sesuai Permendag Nomor 11 Tahun 2006.",
+        "response": "Prinsipal Produsen adalah produsen yang menunjuk agen/distributor untuk menjual barang hasil produksinya. Sedangkan Prinsipal Supplier adalah pihak yang ditunjuk oleh prinsipal produsen untuk menunjuk agen/distributor lain sesuai kewenangan yang diberikan."
+    },
+    {
+        "instruction": "Apa definisi Privasi terkait data pribadi?",
+        "context": "Berdasarkan Draf RUU Pelindungan Data Pribadi Tahun 2022.",
+        "response": "Privasi adalah hak individu untuk menentukan apakah data pribadi akan dikomunikasikan atau tidak kepada pihak lain."
+    },
+    {
+        "instruction": "Apa itu Privatisasi BUMD?",
+        "context": "Merujuk pada PP Nomor 54 Tahun 2017.",
+        "response": "Privatisasi adalah penjualan saham perusahaan perseroan Daerah dalam rangka meningkatkan kinerja dan nilai tambah perusahaan, memperbesar manfaat bagi Daerah dan masyarakat, serta memperluas pemilikan saham oleh masyarakat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Produk Dalam Negeri?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2018.",
+        "response": "Produk Dalam Negeri adalah Barang dan Jasa, termasuk rancang bangun dan perekayasaan, yang diproduksi atau dikerjakan oleh perusahaan yang berinvestasi dan berproduksi di Indonesia, menggunakan seluruh atau sebagian tenaga kerja warga negara Indonesia, dan prosesnya menggunakan Bahan Baku atau komponen yang seluruh atau sebagian berasal dari dalam negeri."
+    },
+    {
+        "instruction": "Jelaskan definisi Produk Domestik Bruto dan Produk Domestik Regional Bruto yang mencakup Penyusutan Sumber Daya Alam dan Kerusakan Lingkungan Hidup.",
+        "context": "Sesuai dengan PP Nomor 46 Tahun 2017.",
+        "response": "Produk tersebut adalah perhitungan alternatif dari produk domestik bruto dan produk domestik regional bruto yang memperhitungkan penyusutan sumber daya alam dan kerusakan lingkungan hidup."
+    },
+    {
+        "instruction": "Apa itu Produk Hak Terkait?",
+        "context": "Merujuk pada PP Nomor 16 Tahun 2020 tentang Hak Cipta.",
+        "response": "Produk Hak Terkait adalah setiap hasil karya pemilik Hak Terkait yang berupa karya pertunjukan, karya rekaman, atau karya siaran."
+    },
+    {
+        "instruction": "Apa pengertian Produk Halal?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "Produk Halal adalah Produk yang telah dinyatakan halal sesuai dengan syariat Islam."
+    },
+    {
+        "instruction": "Definisikan Produk Hewan.",
+        "context": "Sesuai UU Nomor 18 Tahun 2009, UU Nomor 21 Tahun 2019, dan PP Nomor 6 Tahun 2013.",
+        "response": "Produk hewan adalah semua bahan yang berasal dari Hewan yang masih segar dan/atau telah diolah atau diproses untuk keperluan konsumsi, farmakoseutika, pertanian, Pakan, dan/atau kegunaan lain bagi pemenuhan kebutuhan dan kemaslahatan manusia."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Produksi (terkait zat adiktif/narkotika)?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2010 dan UU Nomor 35 Tahun 2009.",
+        "response": "Produksi adalah kegiatan atau proses menyiapkan, mengolah, membuat, menghasilkan secara langsung atau tidak langsung melalui ekstraksi/sintetis kimia, dan mengemas dan/atau mengubah bentuk Prekursor atau Narkotika."
     }
 ]
