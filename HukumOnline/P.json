@@ -3068,5 +3068,145 @@
         "instruction": "Apa yang dimaksud dengan Produksi (terkait zat adiktif/narkotika)?",
         "context": "Berdasarkan PP Nomor 44 Tahun 2010 dan UU Nomor 35 Tahun 2009.",
         "response": "Produksi adalah kegiatan atau proses menyiapkan, mengolah, membuat, menghasilkan secara langsung atau tidak langsung melalui ekstraksi/sintetis kimia, dan mengemas dan/atau mengubah bentuk Prekursor atau Narkotika."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Produsen?",
+        "context": "Berdasarkan Permen LHK Nomor P.75 Tahun 2019, PP Nomor 29 Tahun 2021, dan Permendag Nomor 22 Tahun 2016.",
+        "response": "Produsen adalah pelaku usaha (perorangan atau perusahaan berbadan hukum) yang memproduksi Barang, mendistribusikan barang dengan kemasan yang berasal dari impor, atau menjual barang dengan menggunakan wadah yang tidak dapat atau sulit terurai oleh proses alam."
+    },
+    {
+        "instruction": "Apa definisi Profesional?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2005 tentang Kualifikasi Pendidik.",
+        "response": "Profesional adalah pekerjaan atau kegiatan yang dilakukan oleh seseorang dan menjadi sumber penghasilan kehidupan yang memerlukan keahlian, kemahiran, atau kecakapan yang memenuhi standar mutu atau norma tertentu serta memerlukan pendidikan profesi."
+    },
+    {
+        "instruction": "Jelaskan definisi Program Kementerian/Lembaga/Satuan Kerja Perangkat Daerah.",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2004.",
+        "response": "Program Kementerian/Lembaga/Satuan Kerja Perangkat Daerah adalah sekumpulan rencana kerja suatu Kementerian/Lembaga atau Satuan Kerja Perangkat Daerah."
+    },
+    {
+        "instruction": "Apa itu Program Kewilayahan Dan Lintas Wilayah?",
+        "context": "Sesuai UU Nomor 25 Tahun 2004.",
+        "response": "Program Kewilayahan Dan Lintas Wilayah adalah sekumpulan rencana kerja terpadu antarKementerian/Lembaga dan Satuan Kerja Perangkat Daerah mengenai suatu atau beberapa wilayah, Daerah, atau kawasan."
+    },
+    {
+        "instruction": "Apa pengertian Program Legislasi Daerah (Prolegda)?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2019, UU Nomor 12 Tahun 2011, dan PP Nomor 59 Tahun 2015.",
+        "response": "Program Legislasi Daerah (Prolegda) adalah instrumen perencanaan program pembentukan Peraturan Daerah Provinsi atau Peraturan Daerah Kabupaten/Kota yang disusun secara terencana, terpadu, dan sistematis."
+    },
+    {
+        "instruction": "Definisikan Program Legislasi Nasional (Prolegnas).",
+        "context": "Merujuk pada UU Nomor 15 Tahun 2019, UU Nomor 12 Tahun 2011, dan PP Nomor 59 Tahun 2015.",
+        "response": "Program Legislasi Nasional (Prolegnas) adalah instrumen perencanaan program pembentukan Undang-Undang yang disusun secara terencana, terpadu, dan sistematis."
+    },
+    {
+        "instruction": "Apa itu Program Lintas Kementerian/Lembaga/Satuan Kerja Perangkat Daerah?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2004.",
+        "response": "Program Lintas Kementerian/Lembaga/Satuan Kerja Perangkat Daerah adalah sekumpulan rencana kerja beberapa Kementerian/Lembaga atau beberapa Satuan Kerja Perangkat Daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Program Pemulihan Ekonomi Nasional (Program PEN)?",
+        "context": "Sesuai PP Nomor 23 Tahun 2020.",
+        "response": "Program Pemulihan Ekonomi Nasional (Program PEN) adalah rangkaian kegiatan untuk pemulihan perekonomian nasional yang merupakan bagian dari kebijakan keuangan negara yang dilaksanakan oleh Pemerintah untuk mempercepat penanganan pandemi Corona Virus Disease 2019 (COVID-19) dan/atau menghadapi ancaman yang membahayakan perekonomian nasional dan/atau stabilitas sistem keuangan serta penyelamatan ekonomi nasional."
+    },
+    {
+        "instruction": "Jelaskan tentang Program Pengelolaan Subsidi.",
+        "context": "Berdasarkan berbagai regulasi UU APBN (misal UU Nomor 12 Tahun 2018).",
+        "response": "Program Pengelolaan Subsidi adalah pemberian dukungan dalam bentuk pengalokasian anggaran kepada perusahaan negara, lembaga pemerintah, atau pihak ketiga berdasarkan peraturan perundang-undangan yang berlaku untuk menyediakan barang atau jasa yang bersifat strategis atau menguasai hajat hidup orang banyak sesuai kemampuan keuangan negara."
+    },
+    {
+        "instruction": "Apa itu Program Restrukturisasi Perbankan?",
+        "context": "Merujuk pada PP Nomor 21 Tahun 2018 dan UU Nomor 9 Tahun 2016.",
+        "response": "Program Restrukturisasi Perbankan adalah program yang diselenggarakan untuk menangani permasalahan perbankan yang membahayakan perekonomian nasional (termasuk krisis sistem keuangan)."
+    },
+    {
+        "instruction": "Apa pengertian Project Development Facilities?",
+        "context": "Sesuai PP Nomor 42 Tahun 2021.",
+        "response": "Project Development Facilities adalah fasilitas fiskal yang disediakan oleh menteri yang menyelenggarakan urusan pemerintahan di bidang keuangan negara untuk meningkatkan efektivitas pelaksanaan penyiapan dan pelaksanaan transaksi proyek."
+    },
+    {
+        "instruction": "Apa itu Proposal Perubahan Bentuk Badan Hukum?",
+        "context": "Berdasarkan PP Nomor 87 Tahun 2019.",
+        "response": "Proposal Perubahan Bentuk Badan Hukum adalah dokumen yang memuat data dan informasi berkaitan dengan rencana perubahan bentuk badan hukum Usaha Bersama menjadi perseroan terbatas atau koperasi."
+    },
+    {
+        "instruction": "Apa definisi Proses Produk Halal (PPH)?",
+        "context": "Merujuk pada UU Nomor 33 Tahun 2014.",
+        "response": "Proses Produk Halal adalah rangkaian kegiatan untuk menjamin kehalalan Produk mencakup penyediaan bahan, pengolahan, penyimpanan, pengemasan, pendistribusian, penjualan, dan penyajian Produk."
+    },
+    {
+        "instruction": "Jelaskan pengertian Protokol Notaris.",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2014, Permenkumham Nomor 15 Tahun 2020, dan UU Nomor 30 Tahun 2004.",
+        "response": "Protokol Notaris adalah kumpulan dokumen yang merupakan arsip negara yang harus disimpan dan dipelihara oleh Notaris sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa definisi Provinsi menurut UU Perkebunan?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2004.",
+        "response": "Provinsi adalah pemerintah provinsi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Psikotropika?",
+        "context": "Sesuai PP Nomor 44 Tahun 2010.",
+        "response": "Psikotropika adalah zat atau obat, baik alamiah maupun sintetis bukan Narkotika, yang berkhasiat psikoaktif melalui pengaruh selektif pada susunan saraf pusat yang menyebabkan perubahan khas pada aktivitas mental dan perilaku."
+    },
+    {
+        "instruction": "Siapakah yang menyelenggarakan PTN (Perguruan Tinggi Negeri)?",
+        "context": "Merujuk pada PP Nomor 4 Tahun 2014 dan UU Nomor 12 Tahun 2012.",
+        "response": "PTN (Perguruan Tinggi Negeri) adalah Perguruan Tinggi yang didirikan dan/atau diselenggarakan oleh Pemerintah."
+    },
+    {
+        "instruction": "Apa itu PTN Badan Hukum?",
+        "context": "Berdasarkan PP Nomor 26 Tahun 2015.",
+        "response": "PTN Badan Hukum adalah perguruan tinggi negeri yang didirikan oleh Pemerintah yang berstatus sebagai badan hukum publik yang otonom."
+    },
+    {
+        "instruction": "Siapakah yang menyelenggarakan PTS (Perguruan Tinggi Swasta)?",
+        "context": "Sesuai PP Nomor 4 Tahun 2014 dan UU Nomor 12 Tahun 2012.",
+        "response": "PTS (Perguruan Tinggi Swasta) adalah Perguruan Tinggi yang didirikan dan/atau diselenggarakan oleh masyarakat."
+    },
+    {
+        "instruction": "Apa pengertian PTSP (Pelayanan Terpadu Satu Pintu)?",
+        "context": "Merujuk pada PP Nomor 64 Tahun 2016 dan PP Nomor 1 Tahun 2020.",
+        "response": "PTSP adalah pelayanan secara terintegrasi dalam satu kesatuan proses dimulai dari tahap permohonan sampai dengan tahap penyelesaian produk pelayanan melalui satu pintu."
+    },
+    {
+        "instruction": "Definisikan Pulau.",
+        "context": "Berdasarkan UU Nomor 32 Tahun 2014 tentang Kelautan.",
+        "response": "Pulau adalah wilayah daratan yang terbentuk secara alamiah yang dikelilingi air dan berada di atas permukaan air pada waktu air pasang."
+    },
+    {
+        "instruction": "Apa itu Pungutan dalam konteks komoditas perkebunan?",
+        "context": "Sesuai PP Nomor 24 Tahun 2015.",
+        "response": "Pungutan adalah sejumlah uang yang dibayarkan sebagai biaya atas ekspor hasil komoditas Perkebunan strategis dan/atau turunan hasil komoditas Perkebunan strategis."
+    },
+    {
+        "instruction": "Apa fungsi Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK)?",
+        "context": "Berdasarkan PP Nomor 2 Tahun 2016, PP Nomor 99 Tahun 2016, UU Nomor 9 Tahun 2013, dan UU PPTPPU lainnya.",
+        "response": "Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) adalah lembaga independen yang dibentuk dalam rangka mencegah dan memberantas tindak pidana pencucian uang maupun pendanaan terorisme."
+    },
+    {
+        "instruction": "Apa definisi Pusat Perbelanjaan?",
+        "context": "Merujuk pada Permen LHK Nomor P.75 Tahun 2019.",
+        "response": "Pusat Perbelanjaan adalah suatu area tertentu yang terdiri dari satu atau beberapa bangunan yang didirikan secara vertikal maupun horizontal, yang dijual atau disewakan kepada pelaku usaha atau dikelola sendiri untuk melakukan kegiatan perdagangan barang."
+    },
+    {
+        "instruction": "Jelaskan definisi Pusat Registrasi Resi Gudang.",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2011.",
+        "response": "Pusat Registrasi Resi Gudang adalah badan usaha berbadan hukum yang mendapat persetujuan Badan Pengawas untuk melakukan penatausahaan Resi Gudang dan Derivatif Resi Gudang yang meliputi pencatatan, penyimpanan, pemindahbukuan kepemilikan, pembebanan hak jaminan, pelaporan, serta penyediaan sistem dan jaringan informasi."
+    },
+    {
+        "instruction": "Apa itu Putusan Banding dalam peradilan pajak?",
+        "context": "Sesuai UU Nomor 28 Tahun 2009 dan UU Nomor 28 Tahun 2007.",
+        "response": "Putusan Banding adalah putusan badan peradilan pajak atas banding terhadap Surat Keputusan Keberatan yang diajukan oleh Wajib Pajak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Putusan Gugatan?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2007 tentang KUP.",
+        "response": "Putusan Gugatan adalah putusan badan peradilan pajak atas gugatan terhadap hal-hal yang berdasarkan ketentuan peraturan perundang-undangan perpajakan dapat diajukan gugatan."
+    },
+    {
+        "instruction": "Jelaskan definisi Putusan Peninjauan Kembali.",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2007.",
+        "response": "Putusan Peninjauan Kembali adalah putusan Mahkamah Agung atas permohonan peninjauan kembali yang diajukan oleh Wajib Pajak atau oleh Direktur Jenderal Pajak terhadap Putusan Banding atau Putusan Gugatan dari badan peradilan pajak."
     }
 ]
