@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Qanun Provinsi Nanggroe Aceh Darussalam?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2001 mengenai Daerah Khusus dan Istimewa.",
+        "response": "Qanun Provinsi Nanggroe Aceh Darussalam adalah Peraturan Daerah sebagai pelaksanaan undang-undang di wilayah Provinsi Nanggroe Aceh Darussalam dalam rangka penyelenggaraan otonomi khusus."
+    },
+    {
+        "instruction": "Jelaskan definisi Qanun Aceh.",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2006 tentang Pemerintahan Aceh.",
+        "response": "Qanun Aceh adalah peraturan perundang-undangan sejenis peraturan daerah provinsi yang mengatur penyelenggaraan pemerintahan dan kehidupan masyarakat Aceh, serta sejenis peraturan daerah kabupaten/kota yang mengatur penyelenggaraan pemerintahan dan kehidupan masyarakat kabupaten/kota di Aceh."
+    }
+]

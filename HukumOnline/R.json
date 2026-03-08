@@ -1,0 +1,152 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Rahasia Bank?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008 tentang Perbankan Syariah.",
+        "response": "Rahasia Bank adalah segala sesuatu yang berhubungan dengan keterangan mengenai Nasabah Penyimpan dan Simpanannya serta Nasabah Investor dan Investasinya."
+    },
+    {
+        "instruction": "Jelaskan definisi Rahasia Intelijen.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2011 tentang Intelijen Negara.",
+        "response": "Rahasia Intelijen adalah informasi, benda, personel, dan/atau upaya, pekerjaan, kegiatan Intelijen yang dilindungi kerahasiaannya agar tidak dapat diakses, tidak dapat diketahui, dan tidak dapat dimiliki oleh pihak yang tidak berhak."
+    },
+    {
+        "instruction": "Apa itu Rahasia Kedokteran?",
+        "context": "Berdasarkan PP Nomor 51 Tahun 2009.",
+        "response": "Rahasia Kedokteran adalah sesuatu yang berkaitan dengan praktek kedokteran yang tidak boleh diketahui oleh umum sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa pengertian Rahasia Kefarmasian?",
+        "context": "Sesuai PP Nomor 51 Tahun 2009.",
+        "response": "Rahasia Kefarmasian adalah Pekerjaan Kefarmasian yang menyangkut proses produksi, proses penyaluran dan proses pelayanan dari Sediaan Farmasi yang tidak boleh diketahui oleh umum sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa definisi Rambu Lalu Lintas?",
+        "context": "Berdasarkan PP Nomor 30 Tahun 2021 tentang penyelenggaraan transportasi.",
+        "response": "Rambu Lalu Lintas adalah bagian perlengkapan Jalan yang berupa lambang, huruf, angka, kalimat, dan/atau perpaduan yang berfungsi sebagai peringatan, larangan, perintah, atau petunjuk bagi pengguna Jalan."
+    },
+    {
+        "instruction": "Siapakah Rapat Umum Pemegang Saham (RUPS)?",
+        "context": "Merujuk pada PP Nomor 47 Tahun 2012 dan Permendagri Nomor 118 Tahun 2018.",
+        "response": "Rapat Umum Pemegang Saham (RUPS) adalah organ Perseroan (atau perusahaan perseroan daerah) yang memegang kekuasaan tertinggi dan mempunyai wewenang yang tidak diserahkan atau tidak diberikan kepada Direksi atau Dewan Komisaris dalam batas yang ditentukan dalam Undang-Undang Nomor 40 Tahun 2007 dan/atau anggaran dasar."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan RBA?",
+        "context": "Berdasarkan PP Nomor 6 Tahun 2011 dan PP Nomor 23 Tahun 2005.",
+        "response": "RBA (Rencana Bisnis dan Anggaran) adalah dokumen perencanaan bisnis dan penganggaran yang berisi program, kegiatan, target kinerja, dan anggaran suatu Badan Layanan Umum (BLU)."
+    },
+    {
+        "instruction": "Jelaskan pengertian RDTR (Rencana Detail Tata Ruang).",
+        "context": "Sesuai UU Nomor 11 Tahun 2020 dan PP Nomor 14 Tahun 2016.",
+        "response": "RDTR (Rencana Detail Tata Ruang) adalah rencana secara terperinci tentang tata ruang wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota."
+    },
+    {
+        "instruction": "Apa itu Reboisasi?",
+        "context": "Merujuk pada PP Nomor 26 Tahun 2020, PP Nomor 24 Tahun 2010, dan PP Nomor 76 Tahun 2008.",
+        "response": "Reboisasi adalah upaya penanaman jenis pohon pada Kawasan Hutan yang rusak (berupa lahan kosong, alang-alang, atau semak belukar) untuk mengembalikan fungsi Hutan secara optimal."
+    },
+    {
+        "instruction": "Apa definisi Register Nasional Cagar Budaya?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2010.",
+        "response": "Register Nasional Cagar Budaya adalah daftar resmi kekayaan budaya bangsa berupa Cagar Budaya yang berada di dalam dan di luar negeri."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Registrasi di bidang kefarmasian?",
+        "context": "Sesuai Permenkes Nomor 889/MENKES/PER/V/2011.",
+        "response": "Registrasi adalah pencatatan resmi terhadap tenaga kefarmasian yang telah memiliki sertifikat kompetensi dan telah mempunyai kualifikasi tertentu serta diakui secara hukum untuk menjalankan pekerjaan/praktik profesinya."
+    },
+    {
+        "instruction": "Jelaskan apa itu Registrasi Ulang.",
+        "context": "Berdasarkan Permenkes Nomor 889/MENKES/PER/V/2011.",
+        "response": "Registrasi Ulang adalah pencatatan ulang terhadap tenaga kefarmasian yang telah diregistrasi setelah memenuhi persyaratan yang berlaku."
+    },
+    {
+        "instruction": "Apa definisi Rehabilitasi secara umum?",
+        "context": "Merujuk pada UU Nomor 24 Tahun 2007 (Kebencanaan) dan UU Nomor 21 Tahun 2007 (HAM).",
+        "response": "Rehabilitasi adalah perbaikan dan pemulihan semua aspek pelayanan publik pada wilayah pasca bencana untuk normalisasi kehidupan masyarakat; atau pemulihan kondisi fisik, psikis, dan sosial seseorang agar dapat melaksanakan perannya kembali secara wajar di masyarakat."
+    },
+    {
+        "instruction": "Apa pengertian Rehabilitasi Kesehatan?",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2008.",
+        "response": "Rehabilitasi Kesehatan adalah pemulihan saksi dan/atau korban dari gangguan kesehatan yang dideritanya baik fisik maupun psikis yang dilaksanakan di Pusat Pelayanan Terpadu (PPT)."
+    },
+    {
+        "instruction": "Jelaskan definisi Rehabilitasi Sosial.",
+        "context": "Sesuai PP Nomor 39 Tahun 2012 dan regulasi kesejahteraan sosial lainnya.",
+        "response": "Rehabilitasi Sosial adalah proses refungsionalisasi dan pengembangan untuk memungkinkan seseorang (termasuk Penyandang Disabilitas) mampu melaksanakan fungsi sosialnya secara wajar dalam kehidupan masyarakat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rehabilitasi Sosial Penyandang Disabilitas?",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2019.",
+        "response": "Rehabilitasi Sosial Penyandang Disabilitas adalah proses refungsionalisasi dan pengembangan untuk memungkinkan Penyandang Disabilitas mampu melaksanakan fungsi sosialnya secara wajar dalam kehidupan masyarakat."
+    },
+    {
+        "instruction": "Apa definisi Rehabilitasi Sumber Daya Pesisir Dan Pulau-Pulau Kecil?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2014 dan UU Nomor 27 Tahun 2007.",
+        "response": "Rehabilitasi Sumber Daya Pesisir Dan Pulau-Pulau Kecil adalah proses pemulihan dan perbaikan kondisi Ekosistem atau populasi yang telah rusak walaupun hasilnya berbeda dari kondisi semula."
+    },
+    {
+        "instruction": "Apa itu Reintegrasi Sosial?",
+        "context": "Sesuai PP Nomor 9 Tahun 2008 tentang Acara Peradilan Pidana.",
+        "response": "Reintegrasi Sosial adalah penyatuan kembali saksi dan/atau korban dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi saksi dan/atau korban."
+    },
+    {
+        "instruction": "Apa pengertian Rekam Medis?",
+        "context": "Merujuk pada Permenkes Nomor 269/MENKES/PER/III/2008.",
+        "response": "Rekam Medis adalah berkas yang berisikan catatan dan dokumen tentang identitas pasien, pemeriksaan, pengobatan, tindakan dan pelayanan lain yang telah diberikan kepada pasien."
+    },
+    {
+        "instruction": "Jelaskan definisi Rekayasa Genetik Pangan.",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2012 dan PP Nomor 86 Tahun 2019.",
+        "response": "Rekayasa Genetik Pangan adalah suatu proses yang melibatkan pemindahan gen (pembawa sifat) dari suatu jenis hayati ke jenis hayati lain yang berbeda atau sama untuk mendapatkan jenis baru yang mampu menghasilkan produk Pangan yang lebih unggul."
+    },
+    {
+        "instruction": "Apa definisi Rekening?",
+        "context": "Sesuai PP Nomor 136 Tahun 2000 dan UU Nomor 3 Tahun 2011.",
+        "response": "Rekening adalah dana yang tersimpan pada bank (seperti rekening koran, giro, tabungan, dll) baik milik perseorangan atau institusi yang dapat didebit/dikredit dalam rangka transaksi atau pemindahan dana."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rekening Kas Umum Daerah?",
+        "context": "Merujuk pada PP Nomor 39 Tahun 2007 dan PP Nomor 60 Tahun 2014.",
+        "response": "Rekening Kas Umum Daerah adalah rekening tempat penyimpanan Uang Daerah yang ditentukan oleh gubernur/bupati/walikota untuk menampung seluruh penerimaan daerah dan membayar seluruh pengeluaran daerah pada bank yang ditetapkan."
+    },
+    {
+        "instruction": "Apa itu Rekening Kas Umum Negara?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2007 dan PP Nomor 60 Tahun 2014.",
+        "response": "Rekening Kas Umum Negara adalah rekening tempat penyimpanan Uang Negara yang ditentukan oleh Menteri Keuangan selaku Bendahara Umum Negara untuk menampung seluruh penerimaan negara dan membayar seluruh pengeluaran negara pada Bank Sentral."
+    },
+    {
+        "instruction": "Apa definisi Reklamasi dalam konteks pertambangan?",
+        "context": "Sesuai UU Nomor 4 Tahun 2009.",
+        "response": "Reklamasi adalah kegiatan yang dilakukan sepanjang tahapan usaha pertambangan untuk menata, memulihkan, dan memperbaiki kualitas lingkungan dan ekosistem agar dapat berfungsi kembali sesuai peruntukannya."
+    },
+    {
+        "instruction": "Jelaskan pengertian Reklamasi Hutan.",
+        "context": "Merujuk pada PP Nomor 26 Tahun 2020, PP Nomor 24 Tahun 2010, dan PP Nomor 76 Tahun 2008.",
+        "response": "Reklamasi hutan adalah usaha untuk memperbaiki atau memulihkan kembali lahan dan vegetasi dalam Kawasan Hutan yang rusak sebagai akibat penggunaan kawasan hutan sehingga berfungsi secara optimal sesuai dengan peruntukannya."
+    },
+    {
+        "instruction": "Apa definisi Reklame?",
+        "context": "Berdasarkan PP Nomor 65 Tahun 2001.",
+        "response": "Reklame adalah benda, alat, perbuatan atau media yang menurut bentuk dan corak ragamnya untuk tujuan komersial, dipergunakan untuk memperkenalkan, menganjurkan atau memujikan suatu barang, jasa atau orang yang ditempatkan agar dapat dilihat, dibaca, dan/atau didengar oleh umum (kecuali yang dilakukan oleh Pemerintah)."
+    },
+    {
+        "instruction": "Apa itu Rekomendasi UKL-UPL?",
+        "context": "Sesuai PP Nomor 27 Tahun 2012 mengenai lingkungan hidup.",
+        "response": "Rekomendasi UKL-UPL adalah surat persetujuan terhadap suatu Usaha dan/atau Kegiatan yang wajib UKL-UPL (Upaya Pengelolaan Lingkungan Hidup dan Upaya Pemantauan Lingkungan Hidup)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rekonsiliasi?",
+        "context": "Merujuk pada UU Nomor 27 Tahun 2004 tentang HAM.",
+        "response": "Rekonsiliasi adalah hasil dari suatu proses pengungkapan kebenaran, pengakuan, dan pengampunan, melalui Komisi Kebenaran dan Rekonsiliasi dalam rangka menyelesaikan pelanggaran hak asasi manusia yang berat untuk terciptanya perdamaian dan persatuan bangsa."
+    },
+    {
+        "instruction": "Jelaskan definisi Rekonstruksi dalam kebencanaan.",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2007.",
+        "response": "Rekonstruksi adalah pembangunan kembali semua prasarana dan sarana, kelembagaan pada wilayah pasca bencana, baik pada tingkat pemerintahan maupun masyarakat dengan sasaran utama tumbuh dan berkembangnya kegiatan perekonomian, sosial budaya, tegaknya hukum, dan peran serta masyarakat."
+    },
+    {
+        "instruction": "Apa pengertian Rencana Detail Tata Ruang (RDTR)?",
+        "context": "Sesuai UU Nomor 11 Tahun 2020 tentang Cipta Kerja.",
+        "response": "Rencana Detail Tata Ruang (RDTR) adalah rencana secara terperinci tentang tata ruang wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota."
+    }
+]
