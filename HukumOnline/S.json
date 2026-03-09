@@ -138,5 +138,295 @@
         "instruction": "Jelaskan definisi Sengketa Lingkungan Hidup.",
         "context": "Berdasarkan UU Nomor 32 Tahun 2009.",
         "response": "Sengketa Lingkungan Hidup adalah perselisihan antara dua pihak atau lebih yang timbul dari kegiatan yang berpotensi dan/atau telah berdampak pada lingkungan hidup."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sengketa Pajak?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak.",
+        "response": "Sengketa Pajak adalah sengketa yang timbul dalam bidang perpajakan antara Wajib Pajak atau penanggung Pajak dengan pejabat yang berwenang sebagai akibat dikeluarkannya keputusan yang dapat diajukan Banding atau Gugatan kepada Pengadilan Pajak berdasarkan peraturan perundang-undangan perpajakan, termasuk Gugatan atas pelaksanaan penagihan berdasarkan Undang-undang Penagihan Pajak dengan Surat Paksa."
+    },
+    {
+        "instruction": "Apa definisi Serikat Pekerja/Serikat Buruh?",
+        "context": "Sesuai Permenaker Nomor 28 Tahun 2014, UU Nomor 2 Tahun 2004, dan PP Nomor 78 Tahun 2015.",
+        "response": "Serikat pekerja/serikat buruh adalah organisasi yang dibentuk dari, oleh, dan untuk pekerja/buruh baik di perusahaan maupun di luar perusahaan, yang bersifat bebas, terbuka, mandiri, demokratis, dan bertanggung jawab guna memperjuangkan, membela serta melindungi hak dan kepentingan pekerja/buruh serta meningkatkan kesejahteraan pekerja/buruh dan keluarganya."
+    },
+    {
+        "instruction": "Jelaskan definisi Sertifikasi secara umum menurut peraturan perundang-undangan.",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2005, UU Nomor 3 Tahun 2005, dan PP Nomor 86 Tahun 2019.",
+        "response": "Sertifikasi adalah proses pemberian sertifikat pendidik untuk guru dan dosen; proses pemberian pengakuan atas pemenuhan standar nasional keolahragaan; atau rangkaian kegiatan penilaian kesesuaian yang berkaitan dengan pemberian jaminan tertulis bahwa Pangan telah memenuhi standar Keamanan Pangan dan Mutu Pangan."
+    },
+    {
+        "instruction": "Apa itu Sertifikasi Alat Dan/Atau Perangkat Telekomunikasi?",
+        "context": "Berdasarkan Permenkominfo Nomor 7 Tahun 2018.",
+        "response": "Sertifikasi Alat Dan/Atau Perangkat Telekomunikasi adalah rangkaian kegiatan penerbitan Sertifikat."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikasi Badan Usaha?",
+        "context": "Sesuai PP Nomor 25 Tahun 2021.",
+        "response": "Sertifikasi Badan Usaha adalah proses penilaian untuk mendapatkan pengakuan formal terhadap Klasifikasi dan Kualifikasi atas kemampuan pelaku usaha di bidang usaha jasa penunjang tenaga listrik."
+    },
+    {
+        "instruction": "Definisikan Sertifikasi Industri Hijau.",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2018.",
+        "response": "Sertifikasi Industri Hijau adalah rangkaian kegiatan penerbitan sertifikat terhadap Perusahaan Industri dalam pemenuhan Standar Industri Hijau."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikasi Instalasi Tenaga Listrik?",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021.",
+        "response": "Sertifikasi Instalasi Tenaga Listrik adalah serangkaian kegiatan pemeriksaan dan pengujian peralatan listrik dan instalasinya serta verifikasi Instalasi Tenaga Listrik untuk memastikan suatu Instalasi Tenaga Listrik dan peralatan telah berfungsi sebagaimana kesesuaian persyaratan yang ditentukan dan dinyatakan laik dioperasikan."
+    },
+    {
+        "instruction": "Jelaskan tentang Sertifikasi Kelaikan Sistem Elektronik.",
+        "context": "Sesuai PP Nomor 82 Tahun 2012.",
+        "response": "Sertifikasi Kelaikan Sistem Elektronik adalah suatu rangkaian proses pemeriksaan dan pengujian yang dilakukan oleh institusi yang berwenang dan berkompeten untuk memastikan suatu Sistem Elektronik berfungsi sebagaimana mestinya."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikasi Kompetensi?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2015.",
+        "response": "Sertifikasi Kompetensi adalah proses pemberian sertifikat kompetensi yang dilakukan secara sistematis dan objektif melalui uji kompetensi sesuai SKKNI, standar internasional, dan/atau standar khusus."
+    },
+    {
+        "instruction": "Apa itu Sertifikasi Kompetensi di Bidang Pariwisata?",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2012.",
+        "response": "Sertifikasi Kompetensi di Bidang Pariwisata adalah proses pemberian sertifikat kompetensi di bidang kepariwisataan yang dilakukan secara sistematis dan objektif melalui uji kompetensi sesuai Standar Kompetensi Kerja Nasional Indonesia, standar internasional dan/atau standar khusus."
+    },
+    {
+        "instruction": "Apa definisi Sertifikasi Kompetensi Kerja?",
+        "context": "Sesuai PP Nomor 31 Tahun 2006 dan UU Nomor 2 Tahun 2017.",
+        "response": "Sertifikasi Kompetensi Kerja adalah proses pemberian sertifikat kompetensi yang dilakukan secara sistematis dan objektif melalui uji kompetensi sesuai Standar Kompetensi Kerja Nasional Indonesia, Standar Internasional dan/atau Standar Khusus (termasuk untuk tenaga kerja konstruksi)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikasi Kompetensi Tenaga Teknik?",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021.",
+        "response": "Sertifikasi Kompetensi Tenaga Teknik adalah proses penilaian untuk mendapatkan pengakuan formal terhadap Klasifikasi dan Kualifikasi atas kompetensi dan kemampuan tenaga teknik atau asesor di bidang Ketenagalistrikan."
+    },
+    {
+        "instruction": "Jelaskan definisi Sertifikasi pengujian prasarana atau sarana perkeretaapian.",
+        "context": "Sesuai PP Nomor 56 Tahun 2009.",
+        "response": "Sertifikasi pengujian prasarana atau sarana perkeretaapian adalah proses pemeriksaan, pengujian, untuk menetapkan kelaikan operasi prasarana atau sarana perkeretaapian."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikasi Produk Hewan?",
+        "context": "Berdasarkan PP Nomor 95 Tahun 2012.",
+        "response": "Sertifikasi Produk Hewan adalah serangkaian kegiatan penerbitan sertifikat terhadap produk Hewan sebagai jaminan bahwa produk Hewan telah memenuhi persyaratan Higiene dan Sanitasi dan keamanan produk Hewan."
+    },
+    {
+        "instruction": "Apa itu Sertifikasi Usaha Pariwisata?",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2012.",
+        "response": "Sertifikasi Usaha Pariwisata adalah proses pemberian sertifikat kepada usaha pariwisata untuk mendukung peningkatan mutu produk pariwisata, pelayanan, dan pengelolaan usaha pariwisata melalui audit."
+    },
+    {
+        "instruction": "Apa definisi Sertifikat Alat Dan/Atau Perangkat Telekomunikasi?",
+        "context": "Sesuai Permenkominfo Nomor 7 Tahun 2018.",
+        "response": "Sertifikat Alat Dan/Atau Perangkat Telekomunikasi adalah dokumen yang menyatakan kesesuaian tipe Alat dan/atau Perangkat Telekomunikasi terhadap persyaratan teknis dan/atau standar yang ditetapkan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikat Deposito?",
+        "context": "Berdasarkan PP Nomor 136 Tahun 2000.",
+        "response": "Sertifikat Deposito adalah simpanan dalam bentuk deposito yang sertifikat bukti penyimpanannya dapat dipindahtangankan."
+    },
+    {
+        "instruction": "Jelaskan definisi Sertifikat Elektronik.",
+        "context": "Sesuai PP Nomor 71 Tahun 2019 dan PP Nomor 82 Tahun 2012.",
+        "response": "Sertifikat Elektronik adalah sertifikat yang bersifat elektronik yang memuat Tanda Tangan Elektronik dan identitas yang menunjukkan status subjek hukum para pihak dalam Transaksi Elektronik yang dikeluarkan oleh penyelenggara sertifikasi elektronik."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikat Halal?",
+        "context": "Berdasarkan UU Nomor 33 Tahun 2014.",
+        "response": "Sertifikat Halal adalah pengakuan kehalalan suatu Produk yang dikeluarkan oleh BPJPH berdasarkan fatwa halal tertulis yang dikeluarkan oleh MUI."
+    },
+    {
+        "instruction": "Apa definisi Sertifikat Industri Hijau?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2018.",
+        "response": "Sertifikat Industri Hijau adalah pengakuan yang diberikan oleh lembaga Sertifikasi Industri Hijau untuk menyatakan bahwa Perusahaan Industri telah memenuhi Standar Industri Hijau."
+    },
+    {
+        "instruction": "Apa itu Sertifikat keahlian dalam perkeretaapian?",
+        "context": "Sesuai PP Nomor 56 Tahun 2009.",
+        "response": "Sertifikat keahlian adalah tanda bukti telah memenuhi persyaratan kompetensi sebagai tenaga penguji, tenaga pemeriksa, dan tenaga perawatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikat Keandalan?",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019.",
+        "response": "Sertifikat Keandalan adalah dokumen yang menyatakan Pelaku Usaha yang menyelenggarakan Transaksi Elektronik telah lulus audit atau uji kesesuaian dari Lembaga Sertifikasi Keandalan."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikat kecakapan?",
+        "context": "Sesuai PP Nomor 56 Tahun 2009.",
+        "response": "Sertifikat kecakapan adalah tanda bukti telah memenuhi persyaratan kompetensi sebagai awak sarana perkeretaapian atau tenaga operasi prasarana perkeretaapian."
+    },
+    {
+        "instruction": "Jelaskan definisi Sertifikat kepemilikan bangunan gedung sarusun.",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2011.",
+        "response": "Sertifikat kepemilikan bangunan gedung sarusun adalah tanda bukti kepemilikan atas sarusun di atas barang milik negara/daerah berupa tanah atau tanah wakaf dengan cara sewa."
+    },
+    {
+        "instruction": "Apa definisi Sertifikat Kompetensi di Bidang Pariwisata?",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2012.",
+        "response": "Sertifikat Kompetensi di Bidang Pariwisata adalah bukti tertulis yang diterbitkan oleh lembaga sertifikasi profesi terlisensi yang menerangkan bahwa seseorang telah menguasai kompetensi kerja tertentu sesuai dengan SKKNI bidang pariwisata, standar internasional dan/atau standar khusus."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikat Kompetensi Insinyur?",
+        "context": "Sesuai PP Nomor 25 Tahun 2019 dan UU Nomor 11 Tahun 2014.",
+        "response": "Sertifikat Kompetensi Insinyur adalah bukti tertulis yang diberikan kepada Insinyur yang telah lulus Uji Kompetensi."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikat Kompetensi Kerja?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2006 dan UU Nomor 2 Tahun 2017.",
+        "response": "Sertifikat Kompetensi Kerja adalah bukti tertulis yang diterbitkan oleh lembaga sertifikasi profesi terakreditasi yang menerangkan bahwa seseorang telah menguasai kompetensi kerja tertentu sesuai dengan SKKNI, atau tanda bukti pengakuan kompetensi tenaga kerja konstruksi."
+    },
+    {
+        "instruction": "Apa definisi Sertifikat Modal Koperasi?",
+        "context": "Sesuai UU Nomor 17 Tahun 2012.",
+        "response": "Sertifikat Modal Koperasi adalah bukti penyertaan Anggota Koperasi dalam modal Koperasi."
+    },
+    {
+        "instruction": "Jelaskan definisi Sertifikat Nomor Kontrol Veteriner.",
+        "context": "Berdasarkan PP Nomor 95 Tahun 2012.",
+        "response": "Sertifikat Nomor Kontrol Veteriner adalah sertifikat sebagai bukti tertulis yang sah telah dipenuhinya persyaratan Higiene dan Sanitasi sebagai jaminan keamanan produk Hewan pada Unit Usaha produk Hewan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikat Penjaminan?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2016 mengenai Perusahaan Penjaminan.",
+        "response": "Sertifikat Penjaminan adalah bukti persetujuan Penjaminan dari Perusahaan Penjaminan kepada Penerima Jaminan atas kewajiban finansial Terjamin."
+    },
+    {
+        "instruction": "Apa definisi Sertifikat Produk?",
+        "context": "Sesuai PP Nomor 41 Tahun 2012 mengenai mesin dan peralatan.",
+        "response": "Sertifikat Produk adalah jaminan tertulis yang diberikan oleh lembaga sertifikasi produk yang menyatakan bahwa alat dan mesin telah memenuhi standar yang dipersyaratkan."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikat Profesi bagi Tenaga Kesehatan?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2019, UU Nomor 38 Tahun 2014, dan UU Nomor 36 Tahun 2014.",
+        "response": "Sertifikat Profesi adalah surat tanda pengakuan untuk melakukan praktik profesi (seperti Praktik Kebidanan atau Praktik Keperawatan) yang diperoleh lulusan pendidikan profesi kesehatan."
+    },
+    {
+        "instruction": "Apa itu Sertifikat uji berkala dalam perkeretaapian?",
+        "context": "Berdasarkan PP Nomor 56 Tahun 2009.",
+        "response": "Sertifikat uji berkala adalah tanda bukti ditetapkannya kelaikan operasi prasarana atau sarana perkeretaapian setelah memiliki sertifikat uji pertama."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sertifikat uji pertama?",
+        "context": "Sesuai PP Nomor 56 Tahun 2009.",
+        "response": "Sertifikat uji pertama adalah tanda bukti ditetapkannya kelaikan operasi prasarana atau sarana perkeretaapian."
+    },
+    {
+        "instruction": "Definisikan Sertifikat Usaha Pariwisata.",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2012.",
+        "response": "Sertifikat Usaha Pariwisata adalah bukti tertulis yang diberikan oleh lembaga sertifikasi usaha pariwisata kepada usaha pariwisata yang telah memenuhi standar usaha pariwisata."
+    },
+    {
+        "instruction": "Apa pengertian Sertifikat Veteriner?",
+        "context": "Berdasarkan PP Nomor 95 Tahun 2012 mengenai kesehatan hewan.",
+        "response": "Sertifikat Veteriner adalah jaminan tertulis yang diberikan oleh Otoritas Veteriner di bidang Kesehatan Masyarakat Veteriner atau laboratorium Kesehatan Masyarakat Veteriner terakreditasi untuk menyatakan produk Hewan telah memenuhi persyaratan Higiene dan Sanitasi serta keamanan produk Hewan."
+    },
+    {
+        "instruction": "Siapakah yang dimaksud dengan Setiap Orang dalam peraturan perundang-undangan?",
+        "context": "Sesuai dengan draf RUU Pelindungan Data Pribadi, RUU Larangan Minuman Beralkohol, dan UU Nomor 18 Tahun 2013.",
+        "response": "Setiap Orang adalah orang perorangan (perseorangan) dan/atau badan usaha (baik yang berbadan hukum maupun tidak berbadan hukum) atau korporasi."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Setoran Pokok pada koperasi?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2012.",
+        "response": "Setoran Pokok adalah sejumlah uang yang wajib dibayar oleh seseorang atau badan hukum Koperasi pada saat yang bersangkutan mengajukan permohonan keanggotaan pada suatu Koperasi."
+    },
+    {
+        "instruction": "Jelaskan definisi Sidang Pemeriksaan.",
+        "context": "Merujuk pada Permenkumham Nomor 15 Tahun 2020 mengenai profesi Notaris.",
+        "response": "Sidang Pemeriksaan adalah kegiatan pemeriksaan oleh Majelis Pemeriksa terhadap Laporan dugaan pelanggaran perilaku dan pelaksanaan jabatan Notaris."
+    },
+    {
+        "instruction": "Apa kepanjangan dan pengertian dari SiLPA?",
+        "context": "Berdasarkan UU Keuangan Negara (UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, UU Nomor 14 Tahun 2015).",
+        "response": "SiLPA (Sisa Lebih Pembiayaan Anggaran) adalah selisih lebih realisasi pembiayaan anggaran atas realisasi defisit anggaran yang terjadi dalam satu periode pelaporan."
+    },
+    {
+        "instruction": "Apa itu Simbol Limbah B3?",
+        "context": "Sesuai Permen LHK Nomor 14 Tahun 2013.",
+        "response": "Simbol Limbah B3 adalah gambar yang menunjukkan karakteristik Limbah B3."
+    },
+    {
+        "instruction": "Apa pengertian SINSW atau Sistem Indonesia National Single Window?",
+        "context": "Berdasarkan Permendag Nomor 16 Tahun 2021 dan Permendag Nomor 17 Tahun 2021.",
+        "response": "SINSW adalah sistem elektronik yang mengintegrasikan sistem dan/atau informasi berkaitan dengan proses penanganan dokumen kepabeanan, kekarantinaan, perizinan, kepelabuhanan/kebandarudaraan, dan dokumen lain terkait Ekspor dan/atau Impor, yang menjamin keamanan data dan memadukan alur informasi antar sistem internal secara otomatis."
+    },
+    {
+        "instruction": "Apa kepanjangan dan arti dari SIP?",
+        "context": "Merujuk pada UU Nomor 36 Tahun 2014, UU Nomor 39 Tahun 2004, dan PP Nomor 52 Tahun 2017.",
+        "response": "SIP memiliki beberapa arti, di antaranya Surat Izin Praktik yaitu bukti tertulis dari pemerintah daerah kepada Tenaga Kesehatan/Dokter untuk menjalankan praktik; atau Surat Izin Pengerahan yaitu izin dari Pemerintah kepada pelaksana penempatan TKI swasta untuk merekrut calon TKI."
+    },
+    {
+        "instruction": "Apa itu SIP2MI?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2017.",
+        "response": "SIP2MI (Surat Izin Perekrutan Pekerja Migran Indonesia) adalah izin yang diberikan oleh kepala Badan kepada Perusahaan Penempatan Pekerja Migran Indonesia yang digunakan untuk menempatkan Calon Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa definisi SIP3MI?",
+        "context": "Sesuai dengan UU Nomor 18 Tahun 2017.",
+        "response": "SIP3MI (Surat Izin Perusahaan Penempatan Pekerja Migran Indonesia) adalah izin tertulis yang diberikan oleh Menteri kepada badan usaha berbadan hukum Indonesia yang akan menjadi Perusahaan Penempatan Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian SIPB?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2019 tentang Kebidanan.",
+        "response": "SIPB (Surat Izin Praktik Bidan) adalah bukti tertulis yang diberikan oleh Pemerintah Daerah kabupaten/kota kepada Bidan sebagai pemberian kewenangan untuk menjalankan Praktik Kebidanan."
+    },
+    {
+        "instruction": "Jelaskan tentang SIPP.",
+        "context": "Merujuk pada UU Nomor 38 Tahun 2014 tentang Keperawatan.",
+        "response": "SIPP (Surat Izin Praktik Perawat) adalah bukti tertulis yang diberikan oleh Pemerintah Daerah kabupaten/kota kepada Perawat sebagai pemberian kewenangan untuk menjalankan Praktik Keperawatan."
+    },
+    {
+        "instruction": "Apa itu SIPPS?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019.",
+        "response": "SIPPS (Surat Izin Praktik Pekerja Sosial) adalah bukti tertulis yang diberikan oleh pemerintah daerah kabupaten/kota kepada Pekerja Sosial sebagai pemberian kewenangan untuk menjalankan Praktik Pekerjaan Sosial."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan SIPPTKI?",
+        "context": "Sesuai UU Nomor 39 Tahun 2004 dan PP Nomor 4 Tahun 2015.",
+        "response": "SIPPTKI (Surat Izin Pelaksana Penempatan TKI) adalah izin tertulis yang diberikan oleh Menteri kepada perusahaan yang akan menjadi pelaksana penempatan TKI swasta atau PPTKIS."
+    },
+    {
+        "instruction": "Definisikan Sirkuit Terpadu.",
+        "context": "Berdasarkan PP Nomor 9 Tahun 2006.",
+        "response": "Sirkuit Terpadu adalah suatu produk dalam bentuk jadi atau setengah jadi, yang di dalamnya terdapat berbagai elemen dan sekurang-kurangnya satu dari elemen tersebut adalah elemen aktif."
+    },
+    {
+        "instruction": "Apa pengertian Sisa Lebih Pembiayaan Anggaran?",
+        "context": "Merujuk pada definisi yang sama dengan SiLPA menurut UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, dan UU Nomor 14 Tahun 2015.",
+        "response": "Sisa Lebih Pembiayaan Anggaran adalah selisih lebih realisasi pembiayaan anggaran atas realisasi defisit anggaran yang terjadi dalam satu periode pelaporan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Siskeswanas?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2009 dan PP Nomor 3 Tahun 2017.",
+        "response": "Siskeswanas (Sistem Kesehatan Hewan Nasional) adalah tatanan unsur kesehatan hewan (yang ditetapkan Pemerintah dan diselenggarakan oleh Otoritas Veteriner) yang secara teratur saling berkaitan sehingga membentuk totalitas yang berlaku secara nasional dengan melibatkan pemangku kepentingan secara terpadu."
+    },
+    {
+        "instruction": "Jelaskan definisi Sistem Akuntansi Pemerintahan.",
+        "context": "Sesuai PP Nomor 71 Tahun 2010 dan PP Nomor 8 Tahun 2006.",
+        "response": "Sistem Akuntansi Pemerintahan adalah rangkaian sistematik dari prosedur, penyelenggara, peralatan, dan elemen lain untuk mewujudkan fungsi akuntansi sejak analisis transaksi sampai dengan pelaporan keuangan di lingkungan organisasi pemerintah."
+    },
+    {
+        "instruction": "Apa itu Sistem Elektronik?",
+        "context": "Merujuk pada PP Nomor 80 Tahun 2019, PP Nomor 71 Tahun 2019, dan Permenkominfo Nomor 20 Tahun 2016.",
+        "response": "Sistem Elektronik adalah serangkaian perangkat dan prosedur elektronik yang berfungsi mempersiapkan, mengumpulkan, mengolah, menganalisis, menyimpan, menampilkan, mengumumkan, mengirimkan, dan/atau menyebarkan Informasi Elektronik."
+    },
+    {
+        "instruction": "Apa definisi Sistem INATRADE?",
+        "context": "Berdasarkan Permendag Nomor 16 Tahun 2021 dan Permendag Nomor 17 Tahun 2021.",
+        "response": "Sistem INATRADE adalah sistem pelayanan terpadu perdagangan pada Kementerian Perdagangan yang dilakukan secara online melalui portal http://inatrade.kemendag.go.id."
+    },
+    {
+        "instruction": "Apa pengertian Sistem Informasi Administrasi Kependudukan (SIAK)?",
+        "context": "Sesuai UU Nomor 23 Tahun 2006.",
+        "response": "SIAK adalah sistem informasi yang memanfaatkan teknologi informasi dan komunikasi untuk memfasilitasi pengelolaan informasi administrasi kependudukan di tingkat Penyelenggara dan Instansi Pelaksana sebagai satu kesatuan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sistem Informasi ASN?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014 tentang Kepegawaian.",
+        "response": "Sistem Informasi ASN adalah rangkaian informasi dan data mengenai Pegawai ASN yang disusun secara sistematis, menyeluruh, dan terintegrasi dengan berbasis teknologi."
+    },
+    {
+        "instruction": "Jelaskan tentang Sistem Informasi Manajemen Keimigrasian.",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2011 dan PP Nomor 31 Tahun 2013.",
+        "response": "Sistem Informasi Manajemen Keimigrasian adalah sistem teknologi informasi dan komunikasi yang digunakan untuk mengumpulkan, mengolah dan menyajikan informasi guna mendukung operasional, manajemen, dan pengambilan keputusan dalam melaksanakan Fungsi Keimigrasian."
     }
 ]
