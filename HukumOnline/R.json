@@ -148,5 +148,290 @@
         "instruction": "Apa pengertian Rencana Detail Tata Ruang (RDTR)?",
         "context": "Sesuai UU Nomor 11 Tahun 2020 tentang Cipta Kerja.",
         "response": "Rencana Detail Tata Ruang (RDTR) adalah rencana secara terperinci tentang tata ruang wilayah kabupaten/kota yang dilengkapi dengan peraturan zonasi kabupaten/kota."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rencana Kerja Dan Anggaran Biaya?",
+        "context": "Berdasarkan Permen ESDM Nomor 36 Tahun 2017 tentang Panas Bumi.",
+        "response": "Rencana Kerja Dan Anggaran Biaya adalah rencana kerja dan anggaran yang disampaikan secara berkala oleh Pihak Lain untuk jangka waktu tertentu."
+    },
+    {
+        "instruction": "Jelaskan definisi Rencana Kerja Dan Anggaran Biaya Tahunan.",
+        "context": "Merujuk pada Permen ESDM Nomor 25 Tahun 2018 terkait pertambangan Mineral dan Batubara.",
+        "response": "Rencana Kerja Dan Anggaran Biaya Tahunan adalah rencana kerja dan anggaran biaya tahun berjalan pada kegiatan usaha pertambangan Mineral dan Batubara yang meliputi aspek pengusahaan, aspek teknik, dan aspek lingkungan."
+    },
+    {
+        "instruction": "Apa itu Rencana Kerja dan Anggaran BUMD atau Sebutan Lain?",
+        "context": "Berdasarkan Permendagri Nomor 118 Tahun 2018.",
+        "response": "Rencana Kerja dan Anggaran BUMD atau Sebutan Lain adalah penjabaran tahunan dari Rencana Bisnis BUMD."
+    },
+    {
+        "instruction": "Apa pengertian Rencana Pemantauan Lingkungan Hidup?",
+        "context": "Sesuai Permen LHK Nomor P.87 Tahun 2016.",
+        "response": "Rencana Pemantauan Lingkungan Hidup adalah upaya pemantauan komponen lingkungan hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Definisikan Rencana Kerja Pemerintah (RKP).",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2010 dan PP Nomor 40 Tahun 2006.",
+        "response": "Rencana Kerja Pemerintah (RKP) adalah dokumen perencanaan Nasional untuk periode 1 (satu) tahun."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rencana Kerja dan Anggaran Kementerian Negara/Lembaga?",
+        "context": "Merujuk pada PP Nomor 6 Tahun 2011 dan PP Nomor 23 Tahun 2005.",
+        "response": "Rencana Kerja dan Anggaran Kementerian Negara/Lembaga adalah rencana kerja dan anggaran sebagaimana dimaksud dalam Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara."
+    },
+    {
+        "instruction": "Apa itu Rencana Pembangunan Jangka Menengah?",
+        "context": "Berdasarkan PP Nomor 46 Tahun 2016, PP Nomor 40 Tahun 2006, dan PP Nomor 2 Tahun 2006.",
+        "response": "Rencana Pembangunan Jangka Menengah adalah dokumen perencanaan pembangunan nasional untuk periode 5 (lima) tahun."
+    },
+    {
+        "instruction": "Apa definisi Rencana Pembangunan Jangka Menengah Daerah?",
+        "context": "Sesuai Permendagri Nomor 118 Tahun 2018.",
+        "response": "Rencana Pembangunan Jangka Menengah Daerah adalah dokumen perencanaan daerah untuk periode 5 (lima) tahun."
+    },
+    {
+        "instruction": "Jelaskan definisi Rencana Pembangunan Jangka Menengah Nasional.",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2007 dan PP Nomor 78 Tahun 2014.",
+        "response": "Rencana Pembangunan Jangka Menengah Nasional adalah dokumen perencanaan pembangunan nasional untuk periode 5 (lima) tahunan (seperti RPJM Nasional I Tahun 2005-2009, RPJM Nasional II Tahun 2010-2014, dst)."
+    },
+    {
+        "instruction": "Apa pengertian Rencana Pembangunan Jangka Panjang?",
+        "context": "Merujuk pada PP Nomor 46 Tahun 2016 dan PP Nomor 40 Tahun 2006.",
+        "response": "Rencana Pembangunan Jangka Panjang adalah dokumen perencanaan pembangunan untuk periode 20 (dua puluh) tahun."
+    },
+    {
+        "instruction": "Apa itu Rencana Pembangunan Jangka Panjang Daerah Tahun 2005 - 2025?",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2007.",
+        "response": "Rencana Pembangunan Jangka Panjang Daerah Tahun 2005 - 2025 adalah dokumen perencanaan pembangunan daerah untuk periode 20 (dua puluh) tahun terhitung sejak tahun 2005 sampai dengan tahun 2025."
+    },
+    {
+        "instruction": "Apa definisi Rencana Pembangunan Jangka Panjang Nasional Tahun 2005 - 2025?",
+        "context": "Sesuai UU Nomor 17 Tahun 2007.",
+        "response": "Rencana Pembangunan Jangka Panjang Nasional Tahun 2005 - 2025 adalah dokumen perencanaan pembangunan nasional untuk periode 20 (dua puluh) tahun terhitung sejak tahun 2005 sampai dengan tahun 2025."
+    },
+    {
+        "instruction": "Apa saja yang tercakup dalam Rencana Pembangunan Nasional?",
+        "context": "Berdasarkan PP Nomor 40 Tahun 2006.",
+        "response": "Rencana Pembangunan Nasional meliputi rencana pembangunan jangka panjang, rencana pembangunan jangka menengah, rencana pembangunan jangka menengah kementerian/lembaga, rencana pembangunan tahunan nasional, dan rencana pembangunan tahunan kementerian/lembaga."
+    },
+    {
+        "instruction": "Definisikan Rencana Pembangunan Tahunan Kementerian/Lembaga.",
+        "context": "Merujuk pada PP Nomor 90 Tahun 2010 dan PP Nomor 40 Tahun 2006.",
+        "response": "Rencana Pembangunan Tahunan Kementerian/Lembaga adalah dokumen perencanaan Kementerian/Lembaga untuk periode 1 (satu) tahun."
+    },
+    {
+        "instruction": "Apa pengertian Rencana Pembangunan Tahunan Nasional?",
+        "context": "Berdasarkan PP Nomor 90 Tahun 2010 dan PP Nomor 40 Tahun 2006.",
+        "response": "Rencana Pembangunan Tahunan Nasional adalah dokumen perencanaan Nasional untuk periode 1 (satu) tahun."
+    },
+    {
+        "instruction": "Apa itu Rencana Pengelolaan Lingkungan Hidup?",
+        "context": "Sesuai Permen LHK Nomor P.87 Tahun 2016.",
+        "response": "Rencana Pengelolaan Lingkungan Hidup adalah upaya penanganan dampak terhadap lingkungan hidup yang ditimbulkan akibat dari rencana Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rencana Penggunaan Tenaga Kerja Asing?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2021.",
+        "response": "Rencana Penggunaan Tenaga Kerja Asing adalah rencana penggunaan TKA pada jabatan tertentu dan jangka waktu tertentu."
+    },
+    {
+        "instruction": "Jelaskan definisi Rencana Tata Ruang.",
+        "context": "Merujuk pada PP Nomor 68 Tahun 2010, UU Nomor 41 Tahun 2009, dan PP Nomor 8 Tahun 2013.",
+        "response": "Rencana Tata Ruang adalah hasil perencanaan tata ruang."
+    },
+    {
+        "instruction": "Apa pengertian Rencana Tata Ruang Wilayah?",
+        "context": "Sesuai PP Nomor 16 Tahun 2004.",
+        "response": "Rencana Tata Ruang Wilayah adalah hasil perencanaan tata ruang berdasarkan aspek administratif dan atau aspek fungsional yang telah ditetapkan."
+    },
+    {
+        "instruction": "Apa itu Rencana Tenaga Kerja?",
+        "context": "Berdasarkan PP Nomor 15 Tahun 2007.",
+        "response": "Rencana Tenaga Kerja adalah hasil kegiatan perencanaan tenaga kerja."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Repo dalam konteks Lembaga Penjamin Simpanan?",
+        "context": "Merujuk pada PP Nomor 33 Tahun 2020.",
+        "response": "Repo adalah transaksi penjualan Surat Berharga Negara milik Lembaga Penjamin Simpanan oleh Lembaga Penjamin Simpanan kepada Bank Indonesia dengan kewajiban pembelian kembali oleh Lembaga Penjamin Simpanan sesuai dengan harga dan pada waktu tertentu yang diperjanjikan."
+    },
+    {
+        "instruction": "Definisikan Resi Gudang.",
+        "context": "Berdasarkan UU Nomor 9 Tahun 2006 dan PP Nomor 36 Tahun 2007.",
+        "response": "Resi Gudang adalah dokumen bukti kepemilikan atas barang yang disimpan di Gudang yang diterbitkan oleh Pengelola Gudang."
+    },
+    {
+        "instruction": "Apa pengertian Restitusi secara hukum?",
+        "context": "Sesuai UU Nomor 31 Tahun 2014, UU Nomor 21 Tahun 2007, dan UU Nomor 27 Tahun 2004.",
+        "response": "Restitusi adalah ganti kerugian yang diberikan kepada Korban atau Keluarganya (ahli waris) oleh pelaku atau pihak ketiga berdasarkan putusan pengadilan yang berkekuatan hukum tetap atas kerugian materiil dan/atau immateriil yang diderita."
+    },
+    {
+        "instruction": "Apa itu Restrukturisasi BUMD?",
+        "context": "Berdasarkan PP Nomor 54 Tahun 2017.",
+        "response": "Restrukturisasi adalah upaya yang dilakukan dalam rangka penyehatan BUMD sebagai salah satu langkah strategis untuk memperbaiki kondisi internal BUMD guna memperbaiki kinerja dan/atau meningkatkan nilai BUMD."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Retensi arsip?",
+        "context": "Merujuk pada PP Nomor 28 Tahun 2012.",
+        "response": "Retensi arsip adalah jangka waktu penyimpanan yang wajib dilakukan terhadap suatu jenis arsip."
+    },
+    {
+        "instruction": "Jelaskan definisi Retribusi (dan Retribusi Daerah).",
+        "context": "Sesuai PP Nomor 69 Tahun 2010 dan PP Nomor 97 Tahun 2012.",
+        "response": "Retribusi (atau Retribusi Daerah) adalah pungutan Daerah sebagai pembayaran atas jasa atau pemberian izin tertentu yang khusus disediakan dan/atau diberikan oleh Pemerintah Daerah untuk kepentingan orang pribadi atau badan."
+    },
+    {
+        "instruction": "Apa pengertian Retribusi Pengendalian Lalu Lintas?",
+        "context": "Berdasarkan PP Nomor 97 Tahun 2012.",
+        "response": "Retribusi Pengendalian Lalu Lintas adalah pungutan atas penggunaan ruas jalan tertentu, koridor tertentu, kawasan tertentu pada waktu tertentu, dan tingkat kepadatan tertentu."
+    },
+    {
+        "instruction": "Apa itu Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing?",
+        "context": "Sesuai PP Nomor 97 Tahun 2012.",
+        "response": "Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing adalah pungutan atas pemberian perpanjangan IMTA (Izin Mempekerjakan Tenaga Kerja Asing) kepada pemberi kerja tenaga kerja asing."
+    },
+    {
+        "instruction": "Apa definisi Revegetasi dalam kehutanan?",
+        "context": "Merujuk pada PP Nomor 26 Tahun 2020 dan PP Nomor 76 Tahun 2008.",
+        "response": "Revegetasi adalah usaha untuk memperbaiki dan memulihkan vegetasi yang rusak melalui kegiatan penanaman dan pemeliharaan pada lahan atau areal bekas penggunaan Kawasan Hutan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Risiko Bencana?",
+        "context": "Berdasarkan UU Nomor 24 Tahun 2007 tentang Penanggulangan Bencana.",
+        "response": "Risiko Bencana adalah potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dan kurun waktu tertentu yang dapat berupa kematian, luka, sakit, jiwa terancam, hilangnya rasa aman, mengungsi, kerusakan atau kehilangan harta, dan gangguan kegiatan masyarakat."
+    },
+    {
+        "instruction": "Apa kepanjangan dan arti dari RKA-KL?",
+        "context": "Sesuai PP Nomor 6 Tahun 2011 dan PP Nomor 23 Tahun 2005.",
+        "response": "RKA-KL (Rencana Kerja dan Anggaran Kementerian Negara/Lembaga) adalah rencana kerja dan anggaran sebagaimana dimaksud dalam Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara."
+    },
+    {
+        "instruction": "Apa itu RKL?",
+        "context": "Merujuk pada PP Nomor 12 Tahun 2020 dan PP Nomor 27 Tahun 2012 mengenai lingkungan hidup.",
+        "response": "RKL (Rencana Pengelolaan Lingkungan Hidup) adalah upaya penanganan dampak terhadap lingkungan hidup yang ditimbulkan akibat dari rencana Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Jelaskan pengertian RKP dalam konteks pemerintahan maupun perumahan.",
+        "context": "Berdasarkan PP Nomor 78 Tahun 2014 (pemerintahan) dan PP Nomor 14 Tahun 2016 (kawasan permukiman).",
+        "response": "RKP dapat merujuk pada Rencana Kerja Pemerintah, yaitu dokumen perencanaan nasional untuk periode 1 (satu) tahun; atau Rencana Kawasan Permukiman, yaitu dokumen rencana sebagai pedoman dalam memenuhi kebutuhan Lingkungan Hunian di perkotaan dan perdesaan serta tempat kegiatan pendukung yang dituangkan dalam rencana jangka pendek, menengah, dan panjang."
+    },
+    {
+        "instruction": "Apa definisi Royalti?",
+        "context": "Berdasarkan UU Nomor 28 Tahun 2014 tentang Hak Cipta.",
+        "response": "Royalti adalah imbalan atas pemanfaatan Hak Ekonomi suatu Ciptaan atau Produk Hak Terkait yang diterima oleh pencipta atau pemilik hak terkait."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan RPJM?",
+        "context": "Merujuk pada PP Nomor 46 Tahun 2016, PP Nomor 40 Tahun 2006, dan PP Nomor 2 Tahun 2006.",
+        "response": "RPJM (Rencana Pembangunan Jangka Menengah) adalah dokumen perencanaan pembangunan nasional untuk periode 5 (lima) tahun."
+    },
+    {
+        "instruction": "Apa itu RPJM Daerah?",
+        "context": "Sesuai UU Nomor 17 Tahun 2007.",
+        "response": "RPJM Daerah adalah dokumen perencanaan pembangunan daerah untuk periode 5 (lima) tahunan yang merupakan penjabaran dari visi, misi, dan program kepala daerah dengan berpedoman pada RPJP Daerah serta memerhatikan RPJM Nasional."
+    },
+    {
+        "instruction": "Apa pengertian RPJM Kementerian/Lembaga?",
+        "context": "Berdasarkan PP Nomor 40 Tahun 2006.",
+        "response": "RPJM Kementerian/Lembaga adalah dokumen perencanaan Kementerian/Lembaga untuk periode 5 (lima) tahun."
+    },
+    {
+        "instruction": "Jelaskan definisi RPJM Nasional.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2007.",
+        "response": "RPJM Nasional adalah dokumen perencanaan pembangunan nasional untuk periode 5 (lima) tahunan, yaitu RPJM Nasional I (2005-2009), RPJM Nasional II (2010-2014), RPJM Nasional III (2015-2019), dan RPJM Nasional IV (2020-2024)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan RPJMD?",
+        "context": "Berdasarkan PP Nomor 54 Tahun 2017 dan PP Nomor 78 Tahun 2014.",
+        "response": "RPJMD (Rencana Pembangunan Jangka Menengah Daerah) adalah dokumen perencanaan pembangunan daerah untuk periode 5 (lima) tahunan."
+    },
+    {
+        "instruction": "Apa itu RPJMN?",
+        "context": "Sesuai PP Nomor 78 Tahun 2014.",
+        "response": "RPJMN (Rencana Pembangunan Jangka Menengah Nasional) adalah dokumen perencanaan pembangunan nasional untuk periode 5 (lima) tahunan."
+    },
+    {
+        "instruction": "Apa pengertian RPJP?",
+        "context": "Berdasarkan PP Nomor 46 Tahun 2016 dan PP Nomor 40 Tahun 2006.",
+        "response": "RPJP (Rencana Pembangunan Jangka Panjang) adalah dokumen perencanaan pembangunan untuk periode 20 (dua puluh) tahun."
+    },
+    {
+        "instruction": "Jelaskan definisi RPL.",
+        "context": "Merujuk pada PP Nomor 12 Tahun 2020 dan PP Nomor 27 Tahun 2012 terkait lingkungan hidup.",
+        "response": "RPL (Rencana Pemantauan Lingkungan Hidup) adalah upaya pemantauan komponen lingkungan hidup yang terkena dampak akibat dari rencana Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan RTRW Kabupaten/Kota?",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2016.",
+        "response": "RTRW (Rencana Tata Ruang Wilayah) kabupaten/kota adalah rencana tata ruang yang bersifat umum dari wilayah kabupaten/kota, yang merupakan penjabaran dari RTRW provinsi, dan yang berisi tujuan, kebijakan, strategi penataan ruang wilayah kabupaten/kota, rencana struktur ruang, rencana pola ruang, penetapan kawasan strategis, arahan pemanfaatan, dan ketentuan pengendalian pemanfaatan ruang wilayah kabupaten/kota."
+    },
+    {
+        "instruction": "Apa itu Ruang Detensi Imigrasi?",
+        "context": "Sesuai PP Nomor 31 Tahun 2013.",
+        "response": "Ruang Detensi Imigrasi adalah tempat penampungan sementara bagi Orang Asing yang dikenai Tindakan Administratif Keimigrasian yang berada di Direktorat Jenderal Imigrasi dan Kantor Imigrasi."
+    },
+    {
+        "instruction": "Apa pengertian Ruang Lalu Lintas?",
+        "context": "Berdasarkan PP Nomor 79 Tahun 2013.",
+        "response": "Ruang Lalu Lintas adalah prasarana yang diperuntukkan bagi gerak pindah kendaraan, orang, dan/atau barang yang berupa Jalan dan fasilitas pendukung."
+    },
+    {
+        "instruction": "Jelaskan definisi Rumah.",
+        "context": "Merujuk pada PP Nomor 14 Tahun 2016.",
+        "response": "Rumah adalah bangunan gedung yang berfungsi sebagai tempat tinggal yang layak huni, sarana pembinaan keluarga, cerminan harkat dan martabat penghuninya, serta aset bagi pemiliknya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rumah Detensi Imigrasi?",
+        "context": "Berdasarkan PP Nomor 31 Tahun 2013.",
+        "response": "Rumah Detensi Imigrasi adalah unit pelaksana teknis yang menjalankan Fungsi Keimigrasian sebagai tempat penampungan sementara bagi Orang Asing yang dikenai Tindakan Administratif Keimigrasian."
+    },
+    {
+        "instruction": "Apa itu Rumah Negara?",
+        "context": "Sesuai UU Nomor 1 Tahun 2011.",
+        "response": "Rumah Negara adalah rumah yang dimiliki negara dan berfungsi sebagai tempat tinggal atau hunian dan sarana pembinaan keluarga serta penunjang pelaksanaan tugas pejabat dan/atau pegawai negeri."
+    },
+    {
+        "instruction": "Apa pengertian Rumah Sakit?",
+        "context": "Berdasarkan Permenkes Nomor 66 Tahun 2016.",
+        "response": "Rumah Sakit adalah institusi pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan secara paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat."
+    },
+    {
+        "instruction": "Definisikan Rumah Susun.",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2011 dan PP Nomor 83 Tahun 2015.",
+        "response": "Rumah susun adalah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional, baik dalam arah horizontal maupun vertikal dan merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, terutama untuk tempat hunian yang dilengkapi dengan bagian bersama, benda bersama, dan tanah bersama."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rumah Susun Khusus?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2011 dan PP Nomor 83 Tahun 2015.",
+        "response": "Rumah susun khusus adalah Rumah Susun yang diselenggarakan untuk memenuhi kebutuhan khusus."
+    },
+    {
+        "instruction": "Apa itu Rumah Susun Umum?",
+        "context": "Sesuai UU Nomor 20 Tahun 2011 dan PP Nomor 83 Tahun 2015.",
+        "response": "Rumah susun umum adalah Rumah Susun yang diselenggarakan untuk memenuhi kebutuhan rumah bagi masyarakat berpenghasilan rendah."
+    },
+    {
+        "instruction": "Apa pengertian Rumah Swadaya?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2011 dan PP Nomor 47 Tahun 2019.",
+        "response": "Rumah swadaya adalah rumah yang dibangun atas prakarsa dan upaya masyarakat."
+    },
+    {
+        "instruction": "Bagaimana definisi Rumah Tangga dalam konteks konsumen gas bumi?",
+        "context": "Berdasarkan Permen ESDM Nomor 37 Tahun 2015.",
+        "response": "Rumah Tangga adalah konsumen Gas Bumi yang pemanfaatannya untuk kebutuhan sendiri (konsumen akhir) dengan jumlah pemakaian gas bumi sampai dengan 50 m3/bulan."
+    },
+    {
+        "instruction": "Apa itu RUNK LLAJ?",
+        "context": "Sesuai PP Nomor 37 Tahun 2017.",
+        "response": "RUNK LLAJ (Rencana Umum Nasional Keselamatan Lalu Lintas dan Angkutan Jalan) adalah dokumen perencanaan keselamatan Pemerintah untuk periode 20 (dua puluh) tahun."
+    },
+    {
+        "instruction": "Jelaskan definisi RUPS.",
+        "context": "Merujuk pada PP Nomor 47 Tahun 2012, PP Nomor 54 Tahun 2017, dan PP Nomor 33 Tahun 2020.",
+        "response": "RUPS (Rapat Umum Pemegang Saham) adalah organ Perseroan atau perusahaan perseroan Daerah yang memegang kekuasaan tertinggi dan memegang segala wewenang yang tidak diserahkan kepada Direksi atau Komisaris sebagaimana diatur dalam Undang-Undang mengenai perseroan terbatas."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Rute Penerbangan?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2009.",
+        "response": "Rute Penerbangan adalah lintasan pesawat udara dari bandar udara asal ke bandar udara tujuan melalui jalur penerbangan yang telah ditetapkan."
     }
 ]
