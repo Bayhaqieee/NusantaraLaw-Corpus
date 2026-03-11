@@ -428,5 +428,270 @@
         "instruction": "Jelaskan tentang Sistem Informasi Manajemen Keimigrasian.",
         "context": "Merujuk pada UU Nomor 6 Tahun 2011 dan PP Nomor 31 Tahun 2013.",
         "response": "Sistem Informasi Manajemen Keimigrasian adalah sistem teknologi informasi dan komunikasi yang digunakan untuk mengumpulkan, mengolah dan menyajikan informasi guna mendukung operasional, manajemen, dan pengambilan keputusan dalam melaksanakan Fungsi Keimigrasian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sistem Jaminan Sosial Nasional?",
+        "context": "Berdasarkan UU Nomor 40 Tahun 2004 mengenai Jaminan Sosial.",
+        "response": "Sistem Jaminan Sosial Nasional adalah suatu tata cara penyelenggaraan program jaminan sosial oleh beberapa badan penyelenggara jaminan sosial."
+    },
+    {
+        "instruction": "Apa definisi Sistem kesehatan hewan nasional?",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2009 dan PP Nomor 3 Tahun 2017.",
+        "response": "Sistem kesehatan hewan nasional adalah tatanan unsur atau tatanan Kesehatan Hewan yang ditetapkan oleh Pemerintah dan diselenggarakan oleh Otoritas Veteriner dengan melibatkan seluruh penyelenggara Kesehatan Hewan, pemangku kepentingan, dan masyarakat secara terpadu dan teratur sehingga membentuk totalitas yang berlaku secara nasional."
+    },
+    {
+        "instruction": "Jelaskan definisi Sistem Keuangan.",
+        "context": "Berdasarkan PP Nomor 33 Tahun 2020 dan UU Nomor 9 Tahun 2016.",
+        "response": "Sistem Keuangan adalah sistem yang terdiri atas lembaga jasa keuangan, pasar keuangan, dan infrastruktur keuangan (termasuk sistem pembayaran), yang berinteraksi dalam memfasilitasi pengumpulan dana masyarakat dan pengalokasiannya untuk mendukung aktivitas perekonomian nasional atau untuk pencegahan dan penanganan krisis sistem keuangan."
+    },
+    {
+        "instruction": "Apa itu Sistem Manajemen Pengamanan Informasi?",
+        "context": "Sesuai Permenkominfo Nomor 7 Tahun 2018.",
+        "response": "Sistem Manajemen Pengamanan Informasi adalah pengaturan kewajiban bagi Penyelenggara Sistem Elektronik dalam penerapan manajemen pengamanan informasi berdasarkan asas Risiko."
+    },
+    {
+        "instruction": "Apa pengertian Sistem Merit dalam kepegawaian?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2014.",
+        "response": "Sistem Merit adalah kebijakan dan Manajemen ASN yang berdasarkan pada kualifikasi, kompetensi, dan kinerja secara adil dan wajar dengan tanpa membedakan latar belakang politik, ras, warna kulit, agama, asal usul, jenis kelamin, status pernikahan, umur, atau kondisi kecacatan."
+    },
+    {
+        "instruction": "Definisikan Sistem Pelaporan Elektronik Perizinan Bidang Lingkungan Hidup.",
+        "context": "Merujuk pada Permen LHK Nomor P.87 Tahun 2016.",
+        "response": "Sistem Pelaporan Elektronik Perizinan Bidang Lingkungan Hidup adalah sistem yang mengatur mekanisme pelaporan pelaksanaan rencana pengelolaan lingkungan hidup, rencana pemantauan lingkungan hidup, pelaksanaan izin perlindungan dan pengelolaan lingkungan hidup, dan penerapan baku mutu secara elektronik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sistem Pengendalian Intern?",
+        "context": "Berdasarkan PP Nomor 60 Tahun 2008 dan PP Nomor 8 Tahun 2006.",
+        "response": "Sistem Pengendalian Intern adalah proses integral yang dipengaruhi oleh manajemen dan dilakukan secara terus menerus oleh pimpinan beserta seluruh pegawai untuk memberikan keyakinan memadai atas tercapainya tujuan organisasi melalui kegiatan yang efektif dan efisien, keandalan pelaporan keuangan pemerintah, pengamanan aset negara, dan ketaatan terhadap peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa itu Sistem Peradilan Pidana Anak?",
+        "context": "Sesuai UU Nomor 11 Tahun 2012.",
+        "response": "Sistem Peradilan Pidana Anak adalah keseluruhan proses penyelesaian perkara Anak yang berhadapan dengan hukum, mulai tahap penyelidikan sampai dengan tahap pembimbingan setelah menjalani pidana."
+    },
+    {
+        "instruction": "Jelaskan definisi Sistem Perencanaan Pembangunan Nasional.",
+        "context": "Merujuk pada UU Nomor 25 Tahun 2004.",
+        "response": "Sistem Perencanaan Pembangunan Nasional adalah satu kesatuan tata cara perencanaan pembangunan untuk menghasilkan rencana-rencana pembangunan dalam jangka panjang, jangka menengah, dan tahunan yang dilaksanakan oleh unsur penyelenggara negara dan masyarakat di tingkat Pusat dan Daerah."
+    },
+    {
+        "instruction": "Apa pengertian Sistem Pertahanan Negara?",
+        "context": "Berdasarkan UU Nomor 34 Tahun 2004.",
+        "response": "Sistem Pertahanan Negara adalah sistem pertahanan yang bersifat semesta yang melibatkan seluruh warga negara, wilayah, dan sumber daya nasional lainnya, serta dipersiapkan secara dini oleh pemerintah dan diselenggarakan secara total, terpadu, terarah, berkesinambungan, dan berkelanjutan untuk menegakkan kedaulatan negara, mempertahankan keutuhan wilayah."
+    },
+    {
+        "instruction": "Definisikan Sistem Resi Gudang.",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2006.",
+        "response": "Sistem Resi Gudang adalah kegiatan yang berkaitan dengan penerbitan, pengalihan, penjaminan, dan penyelesaian transaksi Resi Gudang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Sistem Wilayah dalam tata ruang?",
+        "context": "Sesuai UU Nomor 26 Tahun 2007.",
+        "response": "Sistem Wilayah adalah struktur ruang dan pola ruang yang mempunyai jangkauan pelayanan pada tingkat wilayah."
+    },
+    {
+        "instruction": "Siapakah Sivitas Akademika itu?",
+        "context": "Berdasarkan aturan Perguruan Tinggi Negeri Berbadan Hukum (seperti PP Nomor 52/2015, PP Nomor 54/2015, PP Nomor 53/2015).",
+        "response": "Sivitas Akademika adalah masyarakat akademik yang terdiri atas Dosen dan Mahasiswa di suatu Perguruan Tinggi (seperti Undip, ITS, Unhas, dll)."
+    },
+    {
+        "instruction": "Apa kepanjangan dan tugas dari SKK Migas?",
+        "context": "Berdasarkan PP Nomor 53 Tahun 2017.",
+        "response": "SKK Migas (Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi) adalah satuan kerja yang melaksanakan penyelenggaraan pengelolaan Kegiatan Usaha Hulu Minyak dan Gas Bumi dibawah pembinaan, koordinasi, dan pengawasan menteri yang menyelenggarakan urusan pemerintahan di bidang energi dan sumber daya mineral."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan SKKNI?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2015 dan PP Nomor 52 Tahun 2012.",
+        "response": "SKKNI (Standar Kompetensi Kerja Nasional Indonesia) adalah rumusan kemampuan kerja yang mencakup aspek pengetahuan, keterampilan dan/atau keahlian serta sikap kerja yang relevan dengan pelaksanaan tugas dan syarat jabatan yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan (termasuk untuk bidang khusus seperti pariwisata)."
+    },
+    {
+        "instruction": "Apa definisi SKN dalam kearsipan?",
+        "context": "Berdasarkan PP Nomor 28 Tahun 2012.",
+        "response": "SKN (Sistem Kearsipan Nasional) adalah suatu sistem yang membentuk pola hubungan berkelanjutan antarberbagai komponen yang memiliki fungsi dan tugas tertentu, interaksi antarpelaku serta unsur lain yang saling mempengaruhi dalam penyelenggaraan kearsipan secara nasional."
+    },
+    {
+        "instruction": "Jelaskan definisi SKP untuk PNS.",
+        "context": "Sesuai PP Nomor 46 Tahun 2011.",
+        "response": "SKP (Sasaran Kerja Pegawai) adalah rencana kerja dan target yang akan dicapai oleh seorang PNS."
+    },
+    {
+        "instruction": "Apa arti singkatan SKPD?",
+        "context": "Singkatan ini dapat memiliki makna berbeda berdasarkan konteks pemerintahan daerah dan perpajakan (PP Nomor 1 Tahun 2011, PP 23 Tahun 2005, PP Nomor 55 Tahun 2016).",
+        "response": "SKPD dapat berarti Satuan Kerja Perangkat Daerah, yaitu organisasi/instansi pada pemerintah daerah yang bertanggung jawab terhadap pelaksanaan bidang tugas atau dekonsentrasi/tugas pemerintahan tertentu; atau Surat Ketetapan Pajak Daerah, yaitu surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak yang terutang."
+    },
+    {
+        "instruction": "Apa pengertian SKPD Kurang Bayar atau SKPDKB?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "SKPD Kurang Bayar (SKPDKB) adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak, jumlah kredit Pajak, jumlah kekurangan pembayaran pokok Pajak, besarnya sanksi administratif, dan jumlah Pajak yang masih harus dibayar."
+    },
+    {
+        "instruction": "Jelaskan definisi SKPD Kurang Bayar Tambahan atau SKPDKBT.",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "SKPD Kurang Bayar Tambahan (SKPDKBT) adalah surat ketetapan Pajak yang menentukan tambahan atas jumlah Pajak yang telah ditetapkan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan SKPD Lebih Bayar atau SKPDLB?",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "SKPD Lebih Bayar (SKPDLB) adalah surat ketetapan Pajak yang menentukan jumlah kelebihan pembayaran Pajak karena jumlah kredit Pajak lebih besar daripada Pajak yang terutang atau seharusnya tidak terutang."
+    },
+    {
+        "instruction": "Apa definisi SKPD Nihil atau SKPDN?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "SKPD Nihil (SKPDN) adalah surat ketetapan Pajak yang menentukan jumlah pokok Pajak sama besarnya dengan jumlah kredit Pajak atau Pajak tidak terutang dan tidak ada kredit Pajak."
+    },
+    {
+        "instruction": "Apa kepanjangan dan pengertian dari SNI?",
+        "context": "Merujuk pada PP Nomor 34 Tahun 2018, UU Nomor 20 Tahun 2014, dan Peraturan BSN Nomor 8 Tahun 2020.",
+        "response": "SNI (Standar Nasional Indonesia) adalah Standar yang ditetapkan oleh Badan Standardisasi Nasional (BSN) dan berlaku di wilayah Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi SPAP.",
+        "context": "Berdasarkan PP Nomor 20 Tahun 2015 dan PP Nomor 84 Tahun 2012.",
+        "response": "SPAP (Standar Profesional Akuntan Publik) adalah acuan yang ditetapkan menjadi ukuran mutu yang wajib dipatuhi oleh Akuntan Publik dalam pemberian jasanya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Spesifikasi Teknis?",
+        "context": "Berdasarkan PP Nomor 2 Tahun 2017 tentang Pengembangan Industri dan PP Nomor 56 Tahun 2009 tentang Perkeretaapian.",
+        "response": "Spesifikasi Teknis adalah dokumen persyaratan teknis yang mengacu pada sebagian parameter SNI dan/atau standar internasional; atau persyaratan umum, ukuran, kinerja, dan gambar teknis prasarana atau sarana perkeretaapian."
+    },
+    {
+        "instruction": "Jelaskan definisi SPIP.",
+        "context": "Merujuk pada PP Nomor 60 Tahun 2008.",
+        "response": "SPIP (Sistem Pengendalian Intern Pemerintah) adalah Sistem Pengendalian Intern yang diselenggarakan secara menyeluruh di lingkungan pemerintah pusat dan pemerintah daerah."
+    },
+    {
+        "instruction": "Apa itu SPM (Standar Pelayanan Minimal)?",
+        "context": "Berdasarkan PP Nomor 2 Tahun 2018.",
+        "response": "SPM (Standar Pelayanan Minimal) adalah ketentuan mengenai Jenis dan Mutu Pelayanan Dasar yang merupakan Urusan Pemerintahan Wajib yang berhak diperoleh setiap Warga Negara secara minimal."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi dari SPN?",
+        "context": "Sesuai PP Nomor 27 Tahun 2008.",
+        "response": "SPN (Surat Perbendaharaan Negara) adalah Surat Utang Negara yang berjangka waktu paling lama 12 (dua belas) bulan dengan pembayaran bunga secara diskonto."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan SPOP?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016 mengenai Pajak Daerah.",
+        "response": "SPOP (Surat Pemberitahuan Objek Pajak) adalah surat yang digunakan oleh Wajib Pajak untuk melaporkan data subjek dan objek PBB-P2 sesuai dengan ketentuan peraturan perundang-undangan perpajakan Daerah."
+    },
+    {
+        "instruction": "Apa definisi SPPT?",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "SPPT (Surat Pemberitahuan Pajak Terutang) adalah surat yang digunakan untuk memberitahukan besarnya PBB-P2 yang terutang kepada Wajib Pajak."
+    },
+    {
+        "instruction": "Apa pengertian SPTPD?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "SPTPD (Surat Pemberitahuan Pajak Daerah) adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran Pajak, objek Pajak dan/atau bukan objek Pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan Daerah."
+    },
+    {
+        "instruction": "Jelaskan definisi SSPD.",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "SSPD (Surat Setoran Pajak Daerah) adalah bukti pembayaran atau penyetoran Pajak yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke kas Daerah melalui tempat pembayaran yang ditunjuk oleh Kepala Daerah."
+    },
+    {
+        "instruction": "Apa definisi Stabilitas Sistem Keuangan?",
+        "context": "Merujuk pada PP Nomor 33 Tahun 2020 dan UU Nomor 9 Tahun 2016.",
+        "response": "Stabilitas Sistem Keuangan adalah kondisi Sistem Keuangan yang berfungsi efektif dan efisien serta mampu bertahan dari gejolak yang bersumber dari dalam negeri dan luar negeri, yang diselenggarakan untuk mencegah dan menangani krisis sistem keuangan."
+    },
+    {
+        "instruction": "Apa pengertian Standar secara umum?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021.",
+        "response": "Standar adalah persyaratan teknis atau sesuatu yang dibakukan, termasuk tata cara dan metode yang disusun berdasarkan konsensus semua pihak terkait dengan memperhatikan syarat keselamatan, keamanan, kesehatan, lingkungan hidup, perkembangan IPTEK, pengalaman, serta perkembangan pada masa kini dan masa depan untuk memperoleh manfaat yang sebesar-besarnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Standar Akuntansi Pemerintahan?",
+        "context": "Sesuai PP Nomor 71 Tahun 2010 dan PP Nomor 8 Tahun 2006.",
+        "response": "Standar Akuntansi Pemerintahan adalah prinsip-prinsip akuntansi yang diterapkan dalam menyusun dan menyajikan laporan keuangan Pemerintah."
+    },
+    {
+        "instruction": "Definisikan Standar Baku Mutu Kesehatan Lingkungan.",
+        "context": "Merujuk pada PP Nomor 66 Tahun 2014.",
+        "response": "Standar Baku Mutu Kesehatan Lingkungan adalah spesifikasi teknis atau nilai yang dibakukan pada media lingkungan yang berhubungan atau berdampak langsung terhadap kesehatan masyarakat."
+    },
+    {
+        "instruction": "Apa itu Standar Bantuan Hukum?",
+        "context": "Berdasarkan UU Nomor 16 Tahun 2011 tentang Bantuan Hukum.",
+        "response": "Standar Bantuan Hukum adalah pedoman pelaksanaan pemberian Bantuan Hukum yang ditetapkan oleh Menteri."
+    },
+    {
+        "instruction": "Jelaskan tentang Standar Industri Hijau.",
+        "context": "Sesuai PP Nomor 29 Tahun 2018.",
+        "response": "Standar Industri Hijau adalah standar untuk mewujudkan Industri Hijau yang ditetapkan oleh Menteri."
+    },
+    {
+        "instruction": "Apa pengertian Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2017 mengenai Jasa Konstruksi.",
+        "response": "Standar Keamanan, Keselamatan, Kesehatan, dan Keberlanjutan adalah pedoman teknis keamanan, keselamatan, kesehatan tempat kerja konstruksi, dan perlindungan sosial tenaga kerja, serta tata lingkungan setempat dan pengelolaan lingkungan hidup dalam penyelenggaraan Jasa Konstruksi."
+    },
+    {
+        "instruction": "Apa itu Standar Kefarmasian?",
+        "context": "Berdasarkan PP Nomor 51 Tahun 2009.",
+        "response": "Standar Kefarmasian adalah pedoman untuk melakukan Pekerjaan Kefarmasian pada fasilitas produksi, distribusi atau penyaluran, dan pelayanan kefarmasian."
+    },
+    {
+        "instruction": "Apa definisi Standar Kompetensi Kerja Nasional Indonesia (SKKNI)?",
+        "context": "Sesuai PP Nomor 41 Tahun 2015 dan PP Nomor 31 Tahun 2006.",
+        "response": "Standar Kompetensi Kerja Nasional Indonesia (SKKNI) adalah rumusan kemampuan kerja yang mencakup aspek pengetahuan, keterampilan dan/atau keahlian serta sikap kerja yang relevan dengan pelaksanaan tugas dan syarat jabatan yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Standar Kompetensi Kerja Nasional Indonesia bidang pariwisata?",
+        "context": "Merujuk pada PP Nomor 52 Tahun 2012.",
+        "response": "Standar Kompetensi Kerja Nasional Indonesia bidang pariwisata adalah rumusan kemampuan kerja yang mencakup aspek pengetahuan, keterampilan, dan/atau keahlian serta sikap kerja yang relevan dengan pelaksanaan tugas dan syarat jabatan yang ditetapkan sesuai dengan ketentuan peraturan perundangan-undangan di bidang kepariwisataan."
+    },
+    {
+        "instruction": "Apa pengertian Standar Nasional Indonesia (SNI)?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2021 dan PP Nomor 86 Tahun 2019.",
+        "response": "Standar Nasional Indonesia (SNI) adalah standar yang ditetapkan oleh Badan Standardisasi Nasional (atau lembaga yang menyelenggarakan pengembangan dan pembinaan di bidang standardisasi) dan berlaku di wilayah Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Standar Nasional Pendidikan.",
+        "context": "Sesuai UU Nomor 20 Tahun 2003.",
+        "response": "Standar Nasional Pendidikan adalah kriteria minimal tentang sistem pendidikan di seluruh wilayah hukum Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Apa itu Standar Nasional Pendidikan Kedokteran?",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2013.",
+        "response": "Standar Nasional Pendidikan Kedokteran adalah bagian dari standar nasional pendidikan tinggi yang merupakan kriteria minimal dan harus dipenuhi dalam penyelenggaraan Pendidikan Kedokteran."
+    },
+    {
+        "instruction": "Apa pengertian Standar Nasional Pendidikan Tinggi?",
+        "context": "Berdasarkan PP Nomor 4 Tahun 2014 dan UU Nomor 12 Tahun 2012.",
+        "response": "Standar Nasional Pendidikan Tinggi adalah satuan standar yang meliputi standar nasional pendidikan, ditambah dengan standar penelitian, dan standar pengabdian kepada masyarakat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Standar Nasional Perpustakaan?",
+        "context": "Sesuai PP Nomor 24 Tahun 2014.",
+        "response": "Standar Nasional Perpustakaan adalah kriteria minimal yang digunakan sebagai acuan penyelenggaraan, pengelolaan, dan pengembangan perpustakaan di wilayah hukum Negara Kesatuan Republik Indonesia."
+    },
+    {
+        "instruction": "Definisikan Standar Nasional Satuan Ukuran.",
+        "context": "Merujuk pada PP Nomor 34 Tahun 2018.",
+        "response": "Standar Nasional Satuan Ukuran adalah standar pengukuran yang diakui secara nasional sebagai acuan untuk menentukan nilai standar pengukuran lainnya untuk besaran yang sama."
+    },
+    {
+        "instruction": "Apa itu Standar Operasi dan Prosedur atau Standar Operasional Prosedur (SOP)?",
+        "context": "Berdasarkan Permendagri Nomor 118 Tahun 2018 dan PP Nomor 15 Tahun 2013.",
+        "response": "Standar Operasional Prosedur (SOP) adalah serangkaian instruksi tertulis yang dibakukan mengenai berbagai proses penyelenggaraan aktivitas organisasi (termasuk sebagai petunjuk bagi Penyelenggara Pos), bagaimana dan kapan harus dilakukan, di mana, dan oleh siapa dilakukan."
+    },
+    {
+        "instruction": "Jelaskan definisi Standar Pelayanan.",
+        "context": "Sesuai PP Nomor 15 Tahun 2013.",
+        "response": "Standar Pelayanan adalah tolok ukur yang dipergunakan sebagai pedoman penyelenggaraan pelayanan dan acuan penilaian kualitas pelayanan sebagai kewajiban dan janji penyelenggara kepada masyarakat dalam rangka pelayanan yang berkualitas, cepat, mudah, terjangkau, dan terukur."
+    },
+    {
+        "instruction": "Apa pengertian Standar Pelayanan Minimal (SPM)?",
+        "context": "Merujuk pada PP Nomor 2 Tahun 2018 dan PP Nomor 122 Tahun 2015.",
+        "response": "Standar Pelayanan Minimal (SPM) adalah ketentuan mengenai Jenis dan Mutu Pelayanan Dasar yang merupakan Urusan Pemerintahan Wajib (baik Pemerintah Pusat maupun Daerah) yang berhak diperoleh setiap Warga Negara secara minimal."
+    },
+    {
+        "instruction": "Apa perbedaan Standar Pelayanan Minimum dengan SPM?",
+        "context": "Berdasarkan PP Nomor 23 Tahun 2005 mengenai Badan Layanan Umum.",
+        "response": "Standar Pelayanan Minimum (secara spesifik pada BLU) adalah spesifikasi teknis tentang tolok ukur layanan minimum yang diberikan oleh Badan Layanan Umum (BLU) kepada masyarakat."
+    },
+    {
+        "instruction": "Apa definisi Standar Pelayanan Profesi?",
+        "context": "Sesuai UU Nomor 36 Tahun 2014 tentang Tenaga Kesehatan.",
+        "response": "Standar Pelayanan Profesi adalah pedoman yang diikuti oleh Tenaga Kesehatan dalam melakukan pelayanan kesehatan."
     }
 ]
