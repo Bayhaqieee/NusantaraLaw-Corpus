@@ -693,5 +693,290 @@
         "instruction": "Apa definisi Standar Pelayanan Profesi?",
         "context": "Sesuai UU Nomor 36 Tahun 2014 tentang Tenaga Kesehatan.",
         "response": "Standar Pelayanan Profesi adalah pedoman yang diikuti oleh Tenaga Kesehatan dalam melakukan pelayanan kesehatan."
+    },
+    {
+        "instruction": "Apa definisi Surat Bantahan?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002 tentang Pengadilan Pajak.",
+        "response": "Surat Bantahan adalah surat dari pemohon Banding atau penggugat kepada Pengadilan Pajak yang berisi bantahan atas surat uraian Banding atau Surat Tanggapan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Berharga?",
+        "context": "Sesuai PP Nomor 136 Tahun 2000.",
+        "response": "Surat Berharga adalah surat pengakuan utang, wesel saham, obligasi, sekuritas kredit, atau setiap derivatifnya, atau kepentingan lain, atau suatu kewajiban dari penerbit, dalam bentuk yang lazim diperdagangkan dalam pasar modal dan pasar uang."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Berharga Negara (SBN).",
+        "context": "Merujuk pada PP Nomor 23 Tahun 2020.",
+        "response": "Surat Berharga Negara (SBN) adalah surat utang negara (SUN) dan surat berharga syariah negara (SBSN)."
+    },
+    {
+        "instruction": "Apa pengertian Surat Berharga Syariah Negara (SBSN) atau Sukuk Negara?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, UU Nomor 14 Tahun 2015, PP Nomor 59 Tahun 2012, PP Nomor 58 Tahun 2012, dan PP Nomor 57 Tahun 2011.",
+        "response": "Surat Berharga Syariah Negara (SBSN) atau dapat disebut Sukuk Negara adalah surat berharga negara (SBN) yang diterbitkan berdasarkan prinsip syariah, sebagai bukti atas bagian penyertaan terhadap Aset SBSN, baik dalam mata uang rupiah maupun valuta asing."
+    },
+    {
+        "instruction": "Apa itu Surat Izin Kerja Apoteker?",
+        "context": "Sesuai Permenkes Nomor 889/MENKES/PER/V/2011.",
+        "response": "Surat Izin Kerja Apoteker adalah surat izin praktik yang diberikan kepada Apoteker untuk dapat melaksanakan pekerjaan kefarmasian pada fasilitas produksi atau fasilitas distribusi atau penyaluran."
+    },
+    {
+        "instruction": "Apa definisi Surat Izin Kerja Tenaga Teknis Kefarmasian?",
+        "context": "Merujuk pada Permenkes Nomor 889/MENKES/PER/V/2011.",
+        "response": "Surat Izin Kerja Tenaga Teknis Kefarmasian adalah surat izin praktik yang diberikan kepada Tenaga Teknis Kefarmasian untuk dapat melaksanakan pekerjaan kefarmasian pada fasilitas kefarmasian."
+    },
+    {
+        "instruction": "Apa pengertian Surat Izin Pelaksana Penempatan TKI?",
+        "context": "Berdasarkan UU Nomor 39 Tahun 2004 dan PP Nomor 4 Tahun 2015.",
+        "response": "Surat Izin Pelaksana Penempatan TKI adalah izin tertulis yang diberikan oleh Menteri kepada perusahaan yang akan menjadi pelaksana penempatan TKI swasta atau PPTKIS."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Izin Pengerahan?",
+        "context": "Sesuai UU Nomor 39 Tahun 2004 dan PP Nomor 4 Tahun 2015.",
+        "response": "Surat Izin Pengerahan adalah izin yang diberikan Pemerintah kepada pelaksana penempatan TKI swasta (atau PPTKIS) untuk merekrut calon TKI dari daerah tertentu, untuk jabatan tertentu, dan untuk dipekerjakan pada calon Pengguna tertentu dalam jangka waktu tertentu."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Izin Perusahaan Penempatan Pekerja Migran Indonesia.",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2017.",
+        "response": "Surat Izin Perusahaan Penempatan Pekerja Migran Indonesia adalah izin tertulis yang diberikan oleh Menteri kepada badan usaha berbadan hukum Indonesia yang akan menjadi Perusahaan Penempatan Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Surat Izin Praktik?",
+        "context": "Berdasarkan UU Nomor 36 Tahun 2014, UU Nomor 29 Tahun 2004, dan PP Nomor 52 Tahun 2017.",
+        "response": "Surat Izin Praktik adalah bukti tertulis yang diberikan oleh pemerintah daerah kabupaten/kota kepada Tenaga Kesehatan, atau pemerintah kepada dokter dan dokter gigi, sebagai pemberian kewenangan untuk menjalankan praktik kedokteran/kesehatan setelah memenuhi persyaratan."
+    },
+    {
+        "instruction": "Apa definisi Surat Izin Praktik Apoteker (SIPA)?",
+        "context": "Sesuai Permenkes Nomor 889/MENKES/PER/V/2011 dan PP Nomor 51 Tahun 2009.",
+        "response": "Surat Izin Praktik Apoteker (SIPA) adalah surat izin yang diberikan kepada Apoteker untuk dapat melaksanakan pekerjaan/praktik kefarmasian pada fasilitas pelayanan kefarmasian, Apotek, atau Instalasi Farmasi Rumah Sakit."
+    },
+    {
+        "instruction": "Apa itu Surat Izin Praktik Bidan?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2019.",
+        "response": "Surat Izin Praktik Bidan adalah bukti tertulis yang diberikan oleh Pemerintah Daerah kabupaten/kota kepada Bidan sebagai pemberian kewenangan untuk menjalankan Praktik Kebidanan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Izin Praktik Pekerja Sosial?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019.",
+        "response": "Surat Izin Praktik Pekerja Sosial adalah bukti tertulis yang diberikan oleh pemerintah daerah kabupaten/kota kepada Pekerja Sosial sebagai pemberian kewenangan untuk menjalankan Praktik Pekerjaan Sosial."
+    },
+    {
+        "instruction": "Apa definisi Surat Izin Praktik Perawat?",
+        "context": "Sesuai UU Nomor 38 Tahun 2014.",
+        "response": "Surat Izin Praktik Perawat adalah bukti tertulis yang diberikan oleh Pemerintah Daerah kabupaten/kota kepada Perawat sebagai pemberian kewenangan untuk menjalankan Praktik Keperawatan."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Izin Praktik Tenaga Kesehatan Tradisional.",
+        "context": "Merujuk pada PP Nomor 103 Tahun 2014.",
+        "response": "Surat Izin Praktik Tenaga Kesehatan Tradisional adalah bukti tertulis yang diberikan kepada tenaga kesehatan tradisional dalam rangka pelaksanaan pemberian Pelayanan Kesehatan Tradisional Komplementer."
+    },
+    {
+        "instruction": "Apa pengertian Surat Izin Usaha Perdagangan?",
+        "context": "Berdasarkan Permendag Nomor 70 Tahun 2019.",
+        "response": "Surat Izin Usaha Perdagangan adalah izin usaha untuk melakukan kegiatan usaha Penjualan Langsung dengan Klasifikasi Baku Lapangan Usaha Indonesia 47999."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Izin Usaha Perwakilan Perusahaan Perdagangan Asing (SIUP3A)?",
+        "context": "Sesuai Permendag Nomor 10/M-DAG/PER/3/2006.",
+        "response": "Surat Izin Usaha Perwakilan Perusahaan Perdagangan Asing (SIUP3A) adalah izin untuk melaksanakan kegiatan usaha Perwakilan Perusahaan Perdagangan Asing."
+    },
+    {
+        "instruction": "Apa definisi Surat Keputusan Keberatan?",
+        "context": "Merujuk pada UU Nomor 28 Tahun 2009 dan UU Nomor 28 Tahun 2007.",
+        "response": "Surat Keputusan Keberatan adalah surat keputusan atas keberatan terhadap surat ketetapan pajak (seperti SPPT, SKPD, SKPDKB, SKPDKBT, SKPDN, SKPDLB) atau terhadap pemotongan/pemungutan oleh pihak ketiga yang diajukan oleh Wajib Pajak."
+    },
+    {
+        "instruction": "Apa itu Surat Keputusan Pembetulan?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Keputusan Pembetulan adalah surat keputusan yang membetulkan kesalahan tulis, kesalahan hitung, dan/atau kekeliruan dalam penerapan ketentuan tertentu dalam peraturan perundang-undangan perpajakan Daerah yang terdapat dalam berbagai surat ketetapan pajak atau surat tagihan pajak daerah."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Kesepakatan Diversi.",
+        "context": "Sesuai PP Nomor 65 Tahun 2015 mengenai sistem peradilan pidana anak.",
+        "response": "Surat Kesepakatan Diversi adalah hasil yang diperoleh dari musyawarah Diversi yang memuat hak dan kewajiban para pihak yang tidak melanggar ketentuan peraturan perundang-undangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Keterangan Dari Atase Perdagangan Republik Indonesia Atau Pejabat Perwakilan Republik Indonesia?",
+        "context": "Merujuk pada Permendag Nomor 11/M-DAG/PER/3/2006.",
+        "response": "Surat tersebut adalah surat keterangan mengenai data prinsipal produsen/prinsipal supplier yang sekurang-kurangnya memuat nama perusahaan, tanggal pendirian, bentuk badan hukum, alamat kantor pusat/cabang serta bidang usaha yang diterbitkan oleh Atase Perdagangan RI atau Pejabat Perwakilan RI di negara prinsipal."
+    },
+    {
+        "instruction": "Apa definisi Surat Ketetapan Pajak (SKP) atau Surat Ketetapan Pajak Daerah (SKPD)?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak (atau Surat Ketetapan Pajak Daerah) adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak yang terutang."
+    },
+    {
+        "instruction": "Apa pengertian Surat Ketetapan Pajak (Daerah) Kurang Bayar?",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak (Daerah) Kurang Bayar adalah surat ketetapan Pajak yang menentukan besarnya jumlah pokok Pajak, jumlah kredit Pajak, jumlah kekurangan pembayaran pokok Pajak, besarnya sanksi administratif, dan jumlah Pajak yang masih harus dibayar."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan.",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak Daerah Kurang Bayar Tambahan adalah surat ketetapan Pajak yang menentukan tambahan atas jumlah Pajak yang telah ditetapkan."
+    },
+    {
+        "instruction": "Apa definisi Surat Ketetapan Pajak Daerah Lebih Bayar?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak Daerah Lebih Bayar adalah surat ketetapan Pajak yang menentukan jumlah kelebihan pembayaran Pajak karena jumlah kredit Pajak lebih besar daripada Pajak yang terutang atau seharusnya tidak terutang."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Ketetapan Pajak Daerah Nihil?",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak Daerah Nihil adalah surat ketetapan Pajak yang menentukan jumlah pokok Pajak sama besarnya dengan jumlah kredit Pajak atau Pajak tidak terutang dan tidak ada kredit Pajak."
+    },
+    {
+        "instruction": "Apa pengertian Surat Ketetapan Pajak Kurang Bayar Tambahan?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016 mengenai Pajak Daerah.",
+        "response": "Surat Ketetapan Pajak Kurang Bayar Tambahan adalah surat ketetapan Pajak yang menentukan tambahan atas jumlah Pajak yang telah ditetapkan."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Ketetapan Pajak Lebih Bayar.",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak Lebih Bayar adalah surat ketetapan Pajak yang menentukan jumlah kelebihan pembayaran Pajak karena jumlah kredit Pajak lebih besar daripada Pajak yang terutang atau seharusnya tidak terutang."
+    },
+    {
+        "instruction": "Apa definisi Surat Ketetapan Pajak Nihil?",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "Surat Ketetapan Pajak Nihil adalah surat ketetapan Pajak yang menentukan jumlah pokok Pajak sama besarnya dengan jumlah kredit Pajak atau Pajak tidak terutang dan tidak ada kredit Pajak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Kuasa dalam pemerintahan daerah?",
+        "context": "Berdasarkan PP Nomor 50 Tahun 2007 mengenai Kerja Sama Antar Daerah.",
+        "response": "Surat Kuasa adalah naskah dinas yang dikeluarkan oleh kepala daerah sebagai alat pemberitahuan dan tanda bukti yang berisi pemberian mandat atas wewenang dari kepala daerah kepada pejabat yang diberi kuasa untuk bertindak atas nama kepala daerah untuk menerima naskah kerja sama daerah, menyatakan persetujuan pemerintah daerah untuk mengikatkan diri pada kerja sama daerah, dan/atau menyelesaikan hal-hal lain yang diperlukan dalam pembuatan kerja sama daerah."
+    },
+    {
+        "instruction": "Apa pengertian Surat Kuasa Khusus terkait paten?",
+        "context": "Sesuai PP Nomor 46 Tahun 2020.",
+        "response": "Surat Kuasa Khusus adalah surat kuasa yang dibuat oleh Pemohon kepada Kuasa untuk mengajukan permohonan pencatatan pengalihan Paten."
+    },
+    {
+        "instruction": "Definisikan Surat Izin Perekrutan Pekerja Migran Indonesia.",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2017.",
+        "response": "Surat Izin Perekrutan Pekerja Migran Indonesia adalah izin yang diberikan oleh kepala Badan kepada Perusahaan Penempatan Pekerja Migran Indonesia yang digunakan untuk menempatkan Calon Pekerja Migran Indonesia."
+    },
+    {
+        "instruction": "Apa itu Surat Paksa?",
+        "context": "Berdasarkan PP Nomor 135 Tahun 2000 dan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Paksa adalah surat perintah membayar utang pajak (atau utang Pajak) dan Biaya Penagihan Pajak."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Pemberitahuan?",
+        "context": "Sesuai UU Nomor 28 Tahun 2007 tentang KUP.",
+        "response": "Surat Pemberitahuan adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan objek pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan."
+    },
+    {
+        "instruction": "Apa definisi Surat Pemberitahuan Objek Pajak?",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "Surat Pemberitahuan Objek Pajak adalah surat yang digunakan oleh Wajib Pajak untuk melaporkan data subjek dan objek PBB-P2 sesuai dengan ketentuan peraturan perundang-undangan perpajakan Daerah."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Pemberitahuan Pajak (Daerah).",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Pemberitahuan Pajak (Daerah) adalah surat yang oleh Wajib Pajak digunakan untuk melaporkan penghitungan dan/atau pembayaran Pajak, objek Pajak dan/atau bukan objek Pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan perpajakan Daerah."
+    },
+    {
+        "instruction": "Apa itu Surat Pemberitahuan Pajak Terutang?",
+        "context": "Sesuai PP Nomor 55 Tahun 2016.",
+        "response": "Surat Pemberitahuan Pajak Terutang adalah surat yang digunakan untuk memberitahukan besarnya PBB-P2 yang terutang kepada Wajib Pajak."
+    },
+    {
+        "instruction": "Apa pengertian Surat Perjalanan Laksana Paspor (Republik Indonesia)?",
+        "context": "Merujuk pada UU Nomor 6 Tahun 2011 dan PP Nomor 31 Tahun 2013.",
+        "response": "Surat Perjalanan Laksana Paspor (Republik Indonesia) adalah dokumen pengganti paspor yang diberikan dalam keadaan tertentu yang berlaku selama jangka waktu tertentu."
+    },
+    {
+        "instruction": "Apa definisi Surat Persetujuan Ekspor?",
+        "context": "Berdasarkan UU Nomor 35 Tahun 2009.",
+        "response": "Surat Persetujuan Ekspor adalah surat persetujuan untuk mengekspor Narkotika dan Prekursor Narkotika."
+    },
+    {
+        "instruction": "Apa pengertian Surat Persetujuan Impor?",
+        "context": "Sesuai UU Nomor 35 Tahun 2009.",
+        "response": "Surat Persetujuan Impor adalah surat persetujuan untuk mengimpor Narkotika dan Prekursor Narkotika."
+    },
+    {
+        "instruction": "Definisikan Surat Setoran Pajak (Daerah).",
+        "context": "Merujuk pada PP Nomor 55 Tahun 2016.",
+        "response": "Surat Setoran Pajak (Daerah) adalah bukti pembayaran atau penyetoran Pajak yang telah dilakukan dengan menggunakan formulir atau telah dilakukan dengan cara lain ke kas Daerah melalui tempat pembayaran yang ditunjuk oleh Kepala Daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Tagihan Pajak (Daerah)?",
+        "context": "Berdasarkan PP Nomor 55 Tahun 2016.",
+        "response": "Surat Tagihan Pajak (Daerah) adalah surat untuk melakukan tagihan Pajak dan/atau sanksi administratif berupa bunga dan/atau denda."
+    },
+    {
+        "instruction": "Apa itu Surat Tanda Daftar Usaha Perkebunan Untuk Budidaya?",
+        "context": "Sesuai Permentan Nomor 98 Tahun 2013.",
+        "response": "Surat Tanda Daftar Usaha Perkebunan Untuk Budidaya adalah keterangan budidaya yang diberikan kepada pekebun."
+    },
+    {
+        "instruction": "Apa pengertian Surat Tanda Daftar Usaha Perkebunan Untuk Industri Pengolahan Hasil Perkebunan?",
+        "context": "Merujuk pada Permentan Nomor 98 Tahun 2013.",
+        "response": "Surat Tanda Daftar Usaha Perkebunan Untuk Industri Pengolahan Hasil Perkebunan adalah keterangan industri yang diberikan kepada pekebun."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Tanda Pendaftaran.",
+        "context": "Berdasarkan Permendag Nomor 11/M-DAG/PER/3/2006.",
+        "response": "Surat Tanda Pendaftaran adalah tanda bukti bahwa perusahaan yang bersangkutan telah terdaftar sebagai Agen, Agen Tunggal, Sub Agen, Distributor, Distributor Tunggal atau Sub Distributor barang dan/atau jasa yang diterbitkan Direktur Bina Usaha dan Pendaftaran Perusahaan, Departemen Perdagangan."
+    },
+    {
+        "instruction": "Apa itu Surat Tanda Pendaftaran Waralaba?",
+        "context": "Sesuai Permendag Nomor 71 Tahun 2019.",
+        "response": "Surat Tanda Pendaftaran Waralaba adalah bukti pendaftaran Prospektus Penawaran Waralaba bagi Pemberi Waralaba dan Pemberi Waralaba Lanjutan serta bukti pendaftaran Perjanjian Waralaba bagi Penerima Waralaba dan Penerima Waralaba Lanjutan yang diberikan setelah memenuhi persyaratan pendaftaran yang ditentukan dalam Peraturan ini."
+    },
+    {
+        "instruction": "Apa definisi Surat Tanda Registrasi?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2019, UU Nomor 4 Tahun 2019, dan UU Nomor 38 Tahun 2014.",
+        "response": "Surat Tanda Registrasi adalah bukti tertulis yang diberikan oleh organisasi, konsil, atau lembaga terkait kepada tenaga profesional (seperti Pekerja Sosial, Bidan, atau Perawat) yang telah diregistrasi."
+    },
+    {
+        "instruction": "Apa pengertian Surat Tanda Registrasi Arsitek?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2017.",
+        "response": "Surat Tanda Registrasi Arsitek adalah bukti tertulis bagi Arsitek untuk melakukan Praktik Arsitek."
+    },
+    {
+        "instruction": "Apa itu Surat tanda registrasi dokter dan dokter gigi?",
+        "context": "Sesuai UU Nomor 29 Tahun 2004.",
+        "response": "Surat tanda registrasi dokter dan dokter gigi adalah bukti tertulis yang diberikan oleh Konsil Kedokteran Indonesia kepada dokter dan dokter gigi yang telah diregistrasi."
+    },
+    {
+        "instruction": "Jelaskan definisi Surat Tanda Registrasi Insinyur.",
+        "context": "Merujuk pada PP Nomor 25 Tahun 2019 dan UU Nomor 11 Tahun 2014.",
+        "response": "Surat Tanda Registrasi Insinyur adalah bukti tertulis yang dikeluarkan oleh Persatuan Insinyur Indonesia kepada Insinyur yang telah memiliki Sertifikat Kompetensi Insinyur dan diakui secara hukum untuk melakukan Praktik Keinsinyuran."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Surat Tanggapan dalam peradilan pajak?",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2002.",
+        "response": "Surat Tanggapan adalah surat dari tergugat kepada Pengadilan Pajak yang berisi jawaban atas Gugatan yang diajukan oleh penggugat."
+    },
+    {
+        "instruction": "Apa definisi Surat Tercatat?",
+        "context": "Sesuai UU Nomor 40 Tahun 2007.",
+        "response": "Surat Tercatat adalah surat yang dialamatkan kepada penerima dan dapat dibuktikan dengan tanda terima dari penerima yang ditandatangani dengan menyebutkan tanggal penerimaan."
+    },
+    {
+        "instruction": "Apa pengertian Surat Uraian Banding?",
+        "context": "Merujuk pada UU Nomor 14 Tahun 2002.",
+        "response": "Surat Uraian Banding adalah surat terbanding kepada Pengadilan Pajak yang berisi jawaban atas alasan Banding yang diajukan oleh pemohon Banding."
+    },
+    {
+        "instruction": "Apa definisi Surat Utang Negara?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2018, PP Nomor 27 Tahun 2008, dan PP Nomor 76 Tahun 2005.",
+        "response": "Surat Utang Negara adalah surat berharga berupa surat pengakuan utang dalam mata uang rupiah maupun valuta asing yang dijamin pembayaran bunga dan pokoknya oleh Negara Republik Indonesia sesuai dengan masa berlakunya (dapat terdiri atas Surat Perbendaharaan Negara dan Obligasi Negara)."
+    },
+    {
+        "instruction": "Apa itu Swakelola?",
+        "context": "Sesuai PP Nomor 4 Tahun 2016.",
+        "response": "Swakelola adalah kegiatan Pembangunan Infrastruktur Ketenagalistrikan (PIK) yang pekerjaannya direncanakan, dikerjakan dan/atau diawasi sendiri oleh PT PLN (Persero)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Swasta dalam bidang ketenagalistrikan?",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2002.",
+        "response": "Swasta adalah badan hukum yang didirikan dan berdasarkan hukum di Indonesia yang berusaha di bidang ketenagalistrikan."
+    },
+    {
+        "instruction": "Jelaskan definisi Syahbandar.",
+        "context": "Berdasarkan UU Nomor 17 Tahun 2008 tentang Pelayaran.",
+        "response": "Syahbandar adalah pejabat pemerintah di pelabuhan yang diangkat oleh Menteri dan memiliki kewenangan tertinggi untuk menjalankan dan melakukan pengawasan terhadap dipenuhinya ketentuan peraturan perundang-undangan untuk menjamin keselamatan dan keamanan pelayaran."
     }
 ]
