@@ -1,0 +1,127 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Tabungan Hari Tua?",
+        "context": "Berdasarkan PP Nomor 102 Tahun 2015 mengenai Sumber Daya Manusia & Kepegawaian.",
+        "response": "Tabungan Hari Tua adalah tabungan yang bersumber dari iuran peserta dan iuran pemerintah beserta pengembangannya yang diselenggarakan dengan tujuan untuk menjamin agar peserta menerima uang tunai pada saat yang bersangkutan berhenti baik karena mencapai usia pensiun maupun bukan karena mencapai usia pensiun."
+    },
+    {
+        "instruction": "Apa definisi Tabungan Perumahan Rakyat (atau Tapera)?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2016 dan PP Nomor 25 Tahun 2020.",
+        "response": "Tabungan Perumahan Rakyat (Tapera) adalah penyimpanan yang dilakukan oleh peserta secara periodik dalam jangka waktu tertentu yang hanya dapat dimanfaatkan untuk pembiayaan perumahan dan/atau dikembalikan berikut hasil pemupukannya setelah kepesertaan berakhir."
+    },
+    {
+        "instruction": "Apa saja yang termasuk dalam Tahapan Penyelenggaraan Pemilu?",
+        "context": "Berdasarkan UU Nomor 12 Tahun 2003.",
+        "response": "Tahapan Penyelenggaraan Pemilu adalah rangkaian kegiatan Pemilu yang dimulai dari pendaftaran pemilih, pendaftaran peserta Pemilu, penetapan peserta Pemilu, penetapan jumlah kursi, pencalonan anggota DPR, DPD, DPRD Provinsi, dan DPRD Kabupaten/Kota, kampanye, pemungutan dan penghitungan suara, penetapan hasil Pemilu, sampai dengan pengucapan sumpah/janji anggota DPR, DPD, DPRD Provinsi, dan DPRD Kabupaten/Kota."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tahun Pajak?",
+        "context": "Sesuai PP Nomor 23 Tahun 2018.",
+        "response": "Tahun Pajak adalah jangka waktu 1 (satu) tahun kalender kecuali bila Wajib Pajak menggunakan tahun buku yang tidak sama dengan tahun kalender."
+    },
+    {
+        "instruction": "Siapakah Tamu Negara?",
+        "context": "Merujuk pada UU Nomor 9 Tahun 2010 dan PP Nomor 59 Tahun 2013.",
+        "response": "Tamu Negara adalah pemimpin negara asing yang berkunjung secara kenegaraan, resmi, kerja, atau pribadi ke negara Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Tanah.",
+        "context": "Berdasarkan UU Nomor 39 Tahun 2014.",
+        "response": "Tanah adalah permukaan bumi, baik yang berupa daratan maupun yang tertutup air dalam batas tertentu sepanjang penggunaan dan pemanfaatannya terkait langsung dengan permukaan bumi, termasuk ruang di atas dan di dalam tubuh bumi."
+    },
+    {
+        "instruction": "Apa itu Tanah bersama?",
+        "context": "Sesuai UU Nomor 20 Tahun 2011.",
+        "response": "Tanah bersama adalah sebidang tanah hak atau tanah sewa untuk bangunan yang digunakan atas dasar hak bersama secara tidak terpisah yang di atasnya berdiri rumah susun dan ditetapkan batasnya dalam persyaratan izin mendirikan bangunan."
+    },
+    {
+        "instruction": "Apa definisi Tanah Negara (atau Tanah Negara Bebas)?",
+        "context": "Merujuk pada PP Nomor 65 Tahun 2019.",
+        "response": "Tanah Negara (atau Tanah Negara Bebas) adalah tanah yang belum dilekati hak atas tanah."
+    },
+    {
+        "instruction": "Apa pengertian Tanah Telantar?",
+        "context": "Berdasarkan UU Nomor 41 Tahun 2009.",
+        "response": "Tanah Telantar adalah tanah yang sudah diberikan hak oleh negara berupa hak milik, hak guna usaha, hak guna bangunan, hak pakai, hak pengelolaan, atau dasar penguasaan atas tanah yang tidak diusahakan, tidak dipergunakan, atau tidak dimanfaatkan sesuai dengan keadaannya atau sifat dan tujuan pemberian hak atau dasar penguasaannya."
+    },
+    {
+        "instruction": "Apa itu Tanda Batas WIUP dan WIUPK?",
+        "context": "Sesuai Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "Tanda Batas WIUP dan WIUPK adalah patok yang dipasang pada Titik Batas WIUP (Wilayah Izin Usaha Pertambangan) dan WIUPK (Wilayah Izin Usaha Pertambangan Khusus) di lapangan dan mempunyai ukuran, konstruksi, warna serta penamaan tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tanda Daftar Gudang (TDG)?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2021 dan PP Nomor 33 Tahun 2019.",
+        "response": "Tanda Daftar Gudang (TDG) adalah bukti pendaftaran Gudang yang diberikan kepada pemilik Gudang."
+    },
+    {
+        "instruction": "Apa definisi Tanda Daftar Usaha Perseorangan?",
+        "context": "Berdasarkan UU Nomor 2 Tahun 2017.",
+        "response": "Tanda Daftar Usaha Perseorangan adalah izin yang diberikan kepada usaha orang perseorangan untuk menyelenggarakan kegiatan Jasa Konstruksi."
+    },
+    {
+        "instruction": "Jelaskan pengertian Tanda Jasa.",
+        "context": "Sesuai UU Nomor 20 Tahun 2009.",
+        "response": "Tanda Jasa adalah penghargaan negara yang diberikan Presiden kepada seseorang yang berjasa dan berprestasi luar biasa dalam mengembangkan dan memajukan suatu bidang tertentu yang bermanfaat besar bagi bangsa dan negara."
+    },
+    {
+        "instruction": "Apa itu Tanda Kehormatan?",
+        "context": "Merujuk pada UU Nomor 20 Tahun 2009.",
+        "response": "Tanda Kehormatan adalah penghargaan negara yang diberikan Presiden kepada seseorang, kesatuan, institusi pemerintah, atau organisasi atas darmabakti dan kesetiaan yang luar biasa terhadap bangsa dan negara."
+    },
+    {
+        "instruction": "Apa pengertian Tanda Kehormatan Veteran Republik Indonesia?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Tanda Kehormatan Veteran Republik Indonesia adalah penghargaan dan penghormatan negara yang diberikan oleh Presiden kepada warga negara Indonesia yang telah berjuang, membela, dan mempertahankan kedaulatan Negara Kesatuan Republik Indonesia dan/atau ikut melaksanakan perdamaian dunia."
+    },
+    {
+        "instruction": "Definisikan Tanda Keluar dan Tanda Masuk dalam Keimigrasian.",
+        "context": "Sesuai PP Nomor 31 Tahun 2013.",
+        "response": "Tanda Keluar adalah tanda tertentu berupa cap yang dibubuhkan pada Dokumen Perjalanan warga negara Indonesia dan Orang Asing, baik manual maupun elektronik, yang diberikan oleh Pejabat Imigrasi sebagai tanda bahwa yang bersangkutan keluar Wilayah Indonesia. Sedangkan Tanda Masuk adalah tanda/cap serupa yang diberikan sebagai tanda bahwa yang bersangkutan masuk Wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa definisi Tanda Tangan?",
+        "context": "Merujuk pada UU Nomor 10 Tahun 2020 tentang Bea Meterai.",
+        "response": "Tanda Tangan adalah tanda sebagai lambang nama sebagaimana lazimnya dipergunakan, termasuk paraf, teraan atau cap tanda tangan atau cap paraf, teraan atau cap nama, atau tanda lainnya sebagai pengganti tanda tangan, atau tanda tangan elektronik sebagaimana dimaksud dalam undang-undang di bidang informasi dan transaksi elektronik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tanda Tangan Elektronik?",
+        "context": "Berdasarkan PP Nomor 71 Tahun 2019 dan PP Nomor 82 Tahun 2012.",
+        "response": "Tanda Tangan Elektronik adalah tanda tangan yang terdiri atas Informasi Elektronik yang dilekatkan, terasosiasi atau terkait dengan Informasi Elektronik lainnya yang digunakan sebagai alat verifikasi dan autentikasi."
+    },
+    {
+        "instruction": "Apa itu Tanggal Pelaksanaan (Execution Date)?",
+        "context": "Sesuai UU Nomor 3 Tahun 2011.",
+        "response": "Tanggal Pelaksanaan (Execution Date) adalah tanggal tertentu Penyelenggara Penerima wajib melaksanakan Perintah Transfer Dana dari Pengirim Asal."
+    },
+    {
+        "instruction": "Apa definisi Tanggal Pembayaran (Payment Date)?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2011.",
+        "response": "Tanggal Pembayaran (Payment Date) adalah tanggal saat Penyelenggara Penerima Akhir wajib menyediakan Dana yang dapat digunakan untuk kepentingan Penerima."
+    },
+    {
+        "instruction": "Apa pengertian Tanggal Penerimaan pada permohonan merek?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2016.",
+        "response": "Tanggal Penerimaan adalah tanggal penerimaan Permohonan yang telah memenuhi persyaratan minimum."
+    },
+    {
+        "instruction": "Jelaskan definisi Tanggung Jawab Keuangan Negara.",
+        "context": "Sesuai UU Nomor 15 Tahun 2004.",
+        "response": "Tanggung Jawab Keuangan Negara adalah kewajiban Pemerintah untuk melaksanakan pengelolaan keuangan negara secara tertib, taat pada peraturan perundang-undangan, efisien, ekonomis, efektif, dan transparan, dengan memperhatikan rasa keadilan dan kepatutan."
+    },
+    {
+        "instruction": "Apa itu Tanggung Jawab Sosial dan Lingkungan (CSR)?",
+        "context": "Merujuk pada UU Nomor 40 Tahun 2007.",
+        "response": "Tanggung Jawab Sosial dan Lingkungan adalah komitmen Perseroan untuk berperan serta dalam pembangunan ekonomi berkelanjutan guna meningkatkan kualitas kehidupan dan lingkungan yang bermanfaat, baik bagi Perseroan sendiri, komunitas setempat, maupun masyarakat pada umumnya."
+    },
+    {
+        "instruction": "Apa pengertian Tata Kelola Perusahaan Yang Baik (Good Corporate Governance)?",
+        "context": "Berdasarkan Permendagri Nomor 118 Tahun 2018.",
+        "response": "Tata Kelola Perusahaan Yang Baik adalah sistem pengelolaan yang mengarahkan dan mengendalikan perusahaan agar menghasilkan kemanfaatan ekonomi yang berkesinambungan dan keseimbangan hubungan antar pemangku kepentingan."
+    },
+    {
+        "instruction": "Apa definisi Tata Tertib Militer?",
+        "context": "Sesuai UU Nomor 25 Tahun 2014.",
+        "response": "Tata Tertib Militer adalah ketentuan tertulis atau tidak tertulis yang harus dipatuhi oleh Militer dalam kehidupan sehari-hari, baik dalam dinas maupun di luar dinas."
+    }
+]
