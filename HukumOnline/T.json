@@ -123,5 +123,285 @@
         "instruction": "Apa definisi Tata Tertib Militer?",
         "context": "Sesuai UU Nomor 25 Tahun 2014.",
         "response": "Tata Tertib Militer adalah ketentuan tertulis atau tidak tertulis yang harus dipatuhi oleh Militer dalam kehidupan sehari-hari, baik dalam dinas maupun di luar dinas."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Teknologi?",
+        "context": "Berdasarkan PP Nomor 13 Tahun 2018, PP Nomor 12 Tahun 2010, dan PP Nomor 48 Tahun 2009 mengenai penelitian dan pemanfaatan teknologi.",
+        "response": "Teknologi adalah cara atau metode serta proses atau produk yang dihasilkan dari penerapan dan pemanfaatan berbagai disiplin ilmu pengetahuan yang menghasilkan nilai bagi pemenuhan kebutuhan, kelangsungan, dan peningkatan mutu kehidupan manusia, gejala alam dan/atau gejala kemasyarakatan tertentu."
+    },
+    {
+        "instruction": "Jelaskan definisi Teknologi informasi.",
+        "context": "Sesuai PP Nomor 71 Tahun 2019 tentang Penyelenggaraan Sistem dan Transaksi Elektronik.",
+        "response": "Teknologi informasi adalah suatu teknik untuk mengumpulkan, menyiapkan, menyimpan, memproses, mengumumkan, menganalisis, dan/atau menyebarkan informasi."
+    },
+    {
+        "instruction": "Apa definisi Teknologi Kesehatan?",
+        "context": "Merujuk pada Permenkes Nomor 10 Tahun 2018.",
+        "response": "Teknologi Kesehatan adalah segala bentuk alat dan/atau metode yang ditujukan untuk membantu menegakkan diagnosa, pencegahan, dan penanganan permasalahan kesehatan manusia."
+    },
+    {
+        "instruction": "Apa pengertian Telekomunikasi?",
+        "context": "Berdasarkan Permenkominfo Nomor 02/PER/M.KOMINFO/3/2008.",
+        "response": "Telekomunikasi adalah setiap pemancaran, pengiriman dan/atau penerimaan dari setiap informasi dalam bentuk tanda-tanda, isyarat, tulisan, gambar, suara, dan bunyi melalui sistem kawat, optik, radio, atau sistem elektromagnetik lainnya."
+    },
+    {
+        "instruction": "Apa itu Tempat Kerja?",
+        "context": "Sesuai PP Nomor 66 Tahun 2014.",
+        "response": "Tempat Kerja adalah ruangan atau lapangan tertutup atau terbuka, bergerak atau tetap di mana tenaga kerja bekerja, atau yang sering dimasuki tenaga kerja untuk keperluan suatu usaha dan di mana terdapat sumber atau sumber-sumber bahaya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tempat Lelang Berikat?",
+        "context": "Merujuk pada PP Nomor 32 Tahun 2009.",
+        "response": "Tempat Lelang Berikat adalah Tempat Penimbunan Berikat untuk menimbun barang impor dalam jangka waktu tertentu untuk dijual secara lelang."
+    },
+    {
+        "instruction": "Jelaskan definisi Tempat Pemasukan dan Tempat Pengeluaran dalam kekarantinaan.",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2019 tentang Karantina Hewan, Ikan, dan Tumbuhan.",
+        "response": "Tempat Pemasukan dan Tempat Pengeluaran adalah pelabuhan laut, pelabuhan sungai, pelabuhan penyeberangan, pelabuhan darat, bandar udara, kantor pos, pos perbatasan dengan negara lain, dan tempat-tempat lain yang ditetapkan oleh Pemerintah Pusat."
+    },
+    {
+        "instruction": "Apa definisi Tempat Pemeriksaan Imigrasi?",
+        "context": "Sesuai Perpres Nomor 20 Tahun 2018.",
+        "response": "Tempat Pemeriksaan Imigrasi adalah tempat pemeriksaan di pelabuhan laut, bandar udara, pos lintas batas, atau tempat lain yang telah terintegrasi dengan Sistem Informasi Manajemen Keimigrasian sebagai tempat masuk dan keluar Wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Tempat pemrosesan akhir (TPA) sampah?",
+        "context": "Merujuk pada UU Nomor 18 Tahun 2008 dan PP Nomor 81 Tahun 2012.",
+        "response": "Tempat pemrosesan akhir adalah tempat untuk memroses dan mengembalikan sampah ke media lingkungan secara aman bagi manusia dan lingkungan."
+    },
+    {
+        "instruction": "Definisikan Tempat penampungan sementara (TPS) sampah.",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2008 dan PP Nomor 81 Tahun 2012.",
+        "response": "Tempat penampungan sementara adalah tempat sebelum sampah diangkut ke tempat pendauran ulang, pengolahan, dan/atau tempat pengolahan sampah terpadu."
+    },
+    {
+        "instruction": "Apa itu Tempat pengolahan sampah terpadu (TPST)?",
+        "context": "Sesuai UU Nomor 18 Tahun 2008 dan PP Nomor 81 Tahun 2012.",
+        "response": "Tempat pengolahan sampah terpadu adalah tempat dilaksanakannya kegiatan pengumpulan, pemilahan, penggunaan ulang, pendauran ulang, pengolahan, dan pemrosesan akhir sampah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tempat Penimbunan Sementara dalam kepabeanan?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2021.",
+        "response": "Tempat Penimbunan Sementara adalah bangunan dan/atau lapangan atau tempat lain yang disamakan dengan itu di Kawasan Pabean untuk menimbun barang, sementara menunggu pemuatan atau pengeluarannya."
+    },
+    {
+        "instruction": "Jelaskan definisi Tempat Uji Kompetensi.",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2015.",
+        "response": "Tempat Uji Kompetensi adalah tempat kerja dan/atau lembaga yang dapat memberikan fasilitas pelaksanaan uji kompetensi, yang diverifikasi oleh Lembaga Sertifikasi Profesi (LSP)."
+    },
+    {
+        "instruction": "Apa definisi Tempat Usaha Importir barang kena cukai?",
+        "context": "Sesuai PP Nomor 72 Tahun 2008.",
+        "response": "Tempat Usaha Importir barang kena cukai adalah tempat, bangunan, halaman, dan/atau lapangan yang dipergunakan untuk kegiatan usaha dan/atau untuk menimbun barang kena cukai impor yang sudah dilunasi cukainya."
+    },
+    {
+        "instruction": "Apa pengertian Tempat Usaha Penyalur barang kena cukai?",
+        "context": "Merujuk pada PP Nomor 72 Tahun 2008.",
+        "response": "Tempat Usaha Penyalur adalah tempat, bangunan, halaman, dan/atau lapangan yang dipergunakan untuk kegiatan usaha dan/atau untuk menimbun barang kena cukai yang sudah dilunasi cukainya untuk disalurkan atau dijual yang semata-mata ditujukan bukan kepada konsumen akhir."
+    },
+    {
+        "instruction": "Siapakah Tenaga Ahli Pelestarian?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2010 tentang Pelestarian Cagar Budaya.",
+        "response": "Tenaga Ahli Pelestarian adalah orang yang karena kompetensi keahlian khususnya dan/atau memiliki sertifikat di bidang Perlindungan, Pengembangan, atau Pemanfaatan Cagar Budaya."
+    },
+    {
+        "instruction": "Siapakah Tenaga honorer?",
+        "context": "Sesuai PP Nomor 48 Tahun 2005.",
+        "response": "Tenaga honorer adalah seseorang yang diangkat oleh Pejabat Pembina Kepegawaian atau Pejabat lain dalam pemerintahan untuk melaksanakan tugas tertentu pada instansi pemerintah atau yang penghasilannya menjadi beban Anggaran Pendapatan dan Belanja Negara atau Anggaran Pendapatan Belanja Daerah."
+    },
+    {
+        "instruction": "Siapakah Tenaga Kefarmasian?",
+        "context": "Merujuk pada Permenkes Nomor 889/MENKES/PER/V/2011.",
+        "response": "Tenaga Kefarmasian adalah tenaga yang melakukan pekerjaan kefarmasian, yang terdiri atas Apoteker dan Tenaga Teknis Kefarmasian."
+    },
+    {
+        "instruction": "Siapakah Tenaga Kependidikan?",
+        "context": "Berdasarkan PP Nomor 13 Tahun 2020 dan aturan PTN Berbadan Hukum (seperti PP 52/2015 dan PP 54/2015).",
+        "response": "Tenaga Kependidikan adalah anggota masyarakat yang mengabdikan diri dan diangkat untuk menunjang penyelenggaraan pendidikan (termasuk pendidikan tinggi di universitas/institut tertentu)."
+    },
+    {
+        "instruction": "Apa itu Tenaga Kependidikan Pendidikan Kedokteran?",
+        "context": "Sesuai UU Nomor 20 Tahun 2013.",
+        "response": "Tenaga Kependidikan Pendidikan Kedokteran adalah seseorang yang berdasarkan pendidikan dan keahliannya mengabdikan diri untuk menunjang penyelenggaraan Pendidikan Kedokteran."
+    },
+    {
+        "instruction": "Apa pengertian Tenaga kerja?",
+        "context": "Merujuk pada Permenaker Nomor 5 Tahun 2018 dan Permenaker Nomor 33 Tahun 2016.",
+        "response": "Tenaga kerja adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa, baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat."
+    },
+    {
+        "instruction": "Apa definisi Tenaga kerja asing?",
+        "context": "Berdasarkan PP Nomor 34 Tahun 2021, PP Nomor 97 Tahun 2012, dan Perpres Nomor 20 Tahun 2018.",
+        "response": "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia."
+    },
+    {
+        "instruction": "Siapakah Tenaga Kerja di Bidang Kepariwisataan?",
+        "context": "Sesuai PP Nomor 52 Tahun 2012.",
+        "response": "Tenaga Kerja di Bidang Kepariwisataan adalah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa dalam usaha pariwisata baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat."
+    },
+    {
+        "instruction": "Apa itu Tenaga Kerja Indonesia (TKI)?",
+        "context": "Merujuk pada UU Nomor 39 Tahun 2004, PP Nomor 4 Tahun 2015, dan PP Nomor 4 Tahun 2013.",
+        "response": "Tenaga Kerja Indonesia (TKI) adalah setiap warga negara Indonesia yang memenuhi syarat untuk bekerja di luar negeri dalam hubungan kerja untuk jangka waktu tertentu dengan menerima upah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tenaga Kerja Industri?",
+        "context": "Berdasarkan PP Nomor 41 Tahun 2015.",
+        "response": "Tenaga Kerja Industri adalah tenaga teknis dan tenaga manajerial yang bekerja pada Perusahaan Industri dan/atau Perusahaan Kawasan Industri."
+    },
+    {
+        "instruction": "Definisikan Tenaga Kerja Industri Asing.",
+        "context": "Sesuai PP Nomor 41 Tahun 2015.",
+        "response": "Tenaga Kerja Industri Asing adalah warga negara asing pemegang visa kerja yang kompeten untuk bekerja pada Perusahaan Industri dan/atau Perusahaan Kawasan Industri yang berada di wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Tenaga Kerja Pendamping (atau Tenaga Kerja Pendamping TKA)?",
+        "context": "Merujuk pada Perpres Nomor 20 Tahun 2018 dan PP Nomor 34 Tahun 2021.",
+        "response": "Tenaga Kerja Pendamping (atau Tenaga Kerja Pendamping TKA) adalah tenaga kerja Indonesia yang ditunjuk dan dipersiapkan sebagai pendamping TKA yang dipekerjakan dalam rangka alih teknologi dan alih keahlian."
+    },
+    {
+        "instruction": "Siapakah Tenaga Kesehatan?",
+        "context": "Berdasarkan Permenkes Nomor 10 Tahun 2018.",
+        "response": "Tenaga Kesehatan adalah setiap orang yang mengabdikan diri dalam bidang kesehatan serta memiliki pengetahuan dan/atau ketrampilan melalui pendidikan di bidang kesehatan yang untuk jenis tertentu memerlukan kewenangan untuk melakukan upaya kesehatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tenaga kesehatan hewan?",
+        "context": "Berdasarkan UU Nomor 18 Tahun 2009 dan PP Nomor 3 Tahun 2017 mengenai kesehatan hewan dan peternakan.",
+        "response": "Tenaga kesehatan hewan adalah orang yang menjalankan aktivitas di bidang kesehatan hewan berdasarkan kompetensi dan kewenangan medik veteriner yang hierarkis sesuai dengan pendidikan formal dan/atau pelatihan kesehatan hewan bersertifikat."
+    },
+    {
+        "instruction": "Siapakah Tenaga Kesehatan Tertentu?",
+        "context": "Merujuk pada Permenkes Nomor 269/MENKES/PER/III/2008.",
+        "response": "Tenaga Kesehatan Tertentu adalah tenaga kesehatan yang ikut memberikan pelayanan kesehatan secara langsung kepada pasien selain dokter dan dokter gigi."
+    },
+    {
+        "instruction": "Apa definisi Tenaga Kesejahteraan Sosial?",
+        "context": "Berdasarkan PP Nomor 44 Tahun 2017, PP Nomor 65 Tahun 2015, dan PP Nomor 39 Tahun 2012.",
+        "response": "Tenaga Kesejahteraan Sosial adalah seseorang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial (termasuk kesejahteraan sosial Anak)."
+    },
+    {
+        "instruction": "Siapakah Tenaga Penyuluh Lapangan?",
+        "context": "Sesuai PP Nomor 29 Tahun 2018.",
+        "response": "Tenaga Penyuluh Lapangan adalah orang yang memiliki keahlian tertentu yang ditugaskan berdasarkan perjanjian kerja ataupun pengangkatan sebagai pegawai tetap dengan fungsi sebagai fasilitator, motivator, komunikator, inisiator, dan dinamisator untuk membimbing dan membantu pengembangan usaha serta mengatasi permasalahan yang dihadapi oleh pelaku usaha IKM."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tenaga Sensor?",
+        "context": "Merujuk pada PP Nomor 18 Tahun 2014 tentang Perfilman.",
+        "response": "Tenaga Sensor adalah seseorang yang memiliki kompetensi di bidang penyensoran."
+    },
+    {
+        "instruction": "Apa pengertian Tenggang Waktu?",
+        "context": "Berdasarkan UU Nomor 37 Tahun 2004 mengenai Kepailitan dan Penundaan Kewajiban Pembayaran Utang.",
+        "response": "Tenggang Waktu adalah jangka waktu yang harus dihitung dengan tidak memasukkan hari mulai berlakunya tenggang waktu tersebut."
+    },
+    {
+        "instruction": "Siapakah atau apa itu Tentara Nasional Indonesia (TNI)?",
+        "context": "Sesuai Perpres Nomor 66 Tahun 2019, UU Nomor 7 Tahun 2012, PP Nomor 38 Tahun 2015, dan PP Nomor 53 Tahun 2014.",
+        "response": "Tentara Nasional Indonesia (TNI) adalah alat negara atau komponen utama yang siap digunakan untuk melaksanakan tugas pertahanan negara guna mempertahankan, melindungi, dan memelihara keutuhan serta kedaulatan negara."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Terbanding?",
+        "context": "Berdasarkan Permenkumham Nomor 15 Tahun 2020.",
+        "response": "Terbanding adalah pihak yang digugat secara Banding."
+    },
+    {
+        "instruction": "Siapakah Terduga dalam konteks kecelakaan kapal?",
+        "context": "Merujuk pada PP Nomor 9 Tahun 2019.",
+        "response": "Terduga adalah Nakhoda dan/atau Perwira Kapal yang diduga melakukan kesalahan dan/atau kelalaian dalam penerapan standar profesi kepelautan yang menyebabkan Kecelakaan Kapal."
+    },
+    {
+        "instruction": "Apa definisi Terhukum dalam peradilan militer?",
+        "context": "Sesuai UU Nomor 25 Tahun 2014.",
+        "response": "Terhukum adalah Tersangka yang telah dijatuhi Hukuman Disiplin Militer dan keputusannya telah berkekuatan hukum tetap."
+    },
+    {
+        "instruction": "Siapakah Terjamin menurut undang-undang perusahaan penjaminan?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2016.",
+        "response": "Terjamin adalah pihak yang telah memperoleh Kredit, Pembiayaan, Pembiayaan Berdasarkan Prinsip Syariah, atau kontrak jasa dari lembaga keuangan atau di luar lembaga keuangan yang dijamin oleh Perusahaan Penjaminan atau Perusahaan Penjaminan Syariah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Terlapor menurut peraturan profesi Notaris?",
+        "context": "Merujuk pada Permenkumham Nomor 15 Tahun 2020.",
+        "response": "Terlapor adalah Notaris, Notaris Pengganti dan/atau Pejabat Sementara Notaris, yang diduga melakukan perbuatan dan/atau pelanggaran perilaku dan/atau pelaksanaan jabatan Notaris."
+    },
+    {
+        "instruction": "Jelaskan definisi Terminal.",
+        "context": "Sesuai PP Nomor 30 Tahun 2021.",
+        "response": "Terminal adalah pangkalan Kendaraan Bermotor umum yang digunakan untuk mengatur kedatangan dan keberangkatan, menaikkan dan menurunkan orang dan/atau barang, serta perpindahan moda angkutan."
+    },
+    {
+        "instruction": "Apa itu Terorisme?",
+        "context": "Berdasarkan UU Nomor 5 Tahun 2018.",
+        "response": "Terorisme adalah perbuatan yang menggunakan kekerasan atau ancaman kekerasan yang menimbulkan suasana teror atau rasa takut secara meluas, yang dapat menimbulkan korban yang bersifat massal, dan/atau menimbulkan kerusakan atau kehancuran terhadap objek vital yang strategis, lingkungan hidup, fasilitas publik, atau fasilitas internasional dengan motif ideologi, politik, atau gangguan keamanan."
+    },
+    {
+        "instruction": "Siapakah Terperiksa dalam pemeriksaan kecelakaan transportasi air?",
+        "context": "Merujuk pada PP Nomor 9 Tahun 2019.",
+        "response": "Terperiksa adalah pihak-pihak yang dimintai keterangan dalam pembuatan berita acara pemeriksaan pendahuluan."
+    },
+    {
+        "instruction": "Apa definisi Terpidana?",
+        "context": "Sesuai UU Nomor 22 Tahun 2002 tentang Grasi.",
+        "response": "Terpidana adalah seseorang yang dipidana berdasarkan putusan pengadilan yang telah memperoleh kekuatan hukum tetap."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tersangka menurut UU Militer?",
+        "context": "Berdasarkan UU Nomor 25 Tahun 2014.",
+        "response": "Tersangka adalah Militer yang karena perbuatannya berdasarkan bukti permulaan yang cukup patut diduga sebagai pelaku Pelanggaran Hukum Disiplin Militer."
+    },
+    {
+        "instruction": "Apa pengertian Tindak Pidana Di Bidang Perpajakan?",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2016.",
+        "response": "Tindak Pidana Di Bidang Perpajakan adalah tindak pidana sebagaimana diatur dalam Undang-Undang mengenai Ketentuan Umum dan Tata Cara Perpajakan."
+    },
+    {
+        "instruction": "Jelaskan definisi Tindak Pidana Korupsi.",
+        "context": "Berdasarkan UU Nomor 19 Tahun 2019 dan UU Nomor 30 Tahun 2002.",
+        "response": "Tindak Pidana Korupsi adalah tindak pidana sebagaimana dimaksud dalam undang-undang yang mengatur mengenai Pemberantasan Tindak Pidana Korupsi (UU Nomor 31 Tahun 1999 yang telah diubah dengan UU Nomor 20 Tahun 2001)."
+    },
+    {
+        "instruction": "Apa itu Tindak Pidana Perdagangan Orang?",
+        "context": "Sesuai UU Nomor 21 Tahun 2007.",
+        "response": "Tindak Pidana Perdagangan Orang adalah setiap tindakan atau serangkaian tindakan yang memenuhi unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang tentang Pemberantasan Tindak Pidana Perdagangan Orang."
+    },
+    {
+        "instruction": "Apa definisi Tindak Pidana Terorisme?",
+        "context": "Merujuk pada PP Nomor 77 Tahun 2019 dan UU Nomor 9 Tahun 2013.",
+        "response": "Tindak Pidana Terorisme adalah segala perbuatan yang memenuhi unsur-unsur tindak pidana sesuai dengan ketentuan dalam Undang-Undang yang mengatur pemberantasan tindak pidana terorisme (termasuk UU Nomor 15 Tahun 2003 yang telah diubah dengan UU Nomor 5 Tahun 2018)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tindakan Administrasi Pemerintahan?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2014.",
+        "response": "Tindakan Administrasi Pemerintahan adalah perbuatan Pejabat Pemerintahan atau penyelenggara negara lainnya untuk melakukan dan/atau tidak melakukan perbuatan konkret dalam rangka penyelenggaraan pemerintahan."
+    },
+    {
+        "instruction": "Jelaskan pengertian Tindakan Administratif Keimigrasian.",
+        "context": "Sesuai PP Nomor 31 Tahun 2013.",
+        "response": "Tindakan Administratif Keimigrasian adalah sanksi administratif yang ditetapkan Pejabat Imigrasi terhadap Orang Asing di luar proses peradilan."
+    },
+    {
+        "instruction": "Apa definisi Tindakan Antidumping?",
+        "context": "Merujuk pada PP Nomor 34 Tahun 2011.",
+        "response": "Tindakan Antidumping adalah tindakan yang diambil pemerintah berupa pengenaan Bea Masuk Antidumping terhadap Barang Dumping."
+    },
+    {
+        "instruction": "Apa itu Tindakan Diskriminasi Ras dan Etnis?",
+        "context": "Berdasarkan PP Nomor 56 Tahun 2010 dan UU Nomor 40 Tahun 2008.",
+        "response": "Tindakan Diskriminasi Ras dan Etnis adalah perbuatan yang berkenaan dengan segala bentuk pembedaan, pengecualian, pembatasan, atau pemilihan berdasarkan pada ras dan etnis, yang mengakibatkan pencabutan atau pengurangan pengakuan, perolehan, atau pelaksanaan hak asasi manusia dan kebebasan dasar dalam suatu kesetaraan di bidang sipil, politik, ekonomi, sosial, dan budaya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Titik Kontrol Geodesi?",
+        "context": "Sesuai UU Nomor 4 Tahun 2011 mengenai Tata Ruang Pertanahan.",
+        "response": "Titik Kontrol Geodesi adalah posisi di muka bumi yang ditandai dengan bentuk fisik tertentu yang dijadikan sebagai kerangka acuan posisi untuk Informasi Geospasial (IG)."
+    },
+    {
+        "instruction": "Apa kepanjangan dan arti dari TKDN?",
+        "context": "Merujuk pada PP Nomor 29 Tahun 2018 tentang Pengembangan Industri.",
+        "response": "TKDN (Tingkat Komponen Dalam Negeri) adalah besaran kandungan dalam negeri pada Barang, Jasa, serta gabungan Barang dan Jasa."
+    },
+    {
+        "instruction": "Jelaskan definisi Toko Bebas Bea.",
+        "context": "Berdasarkan PP Nomor 32 Tahun 2009.",
+        "response": "Toko Bebas Bea adalah Tempat Penimbunan Berikat untuk menimbun barang asal impor dan/atau barang asal Daerah Pabean untuk dijual kepada orang tertentu."
     }
 ]
