@@ -403,5 +403,135 @@
         "instruction": "Jelaskan definisi Toko Bebas Bea.",
         "context": "Berdasarkan PP Nomor 32 Tahun 2009.",
         "response": "Toko Bebas Bea adalah Tempat Penimbunan Berikat untuk menimbun barang asal impor dan/atau barang asal Daerah Pabean untuk dijual kepada orang tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Toko Modern?",
+        "context": "Berdasarkan Permen LHK Nomor P.75 Tahun 2019 tentang pengelolaan limbah dan sampah.",
+        "response": "Toko Modern adalah toko dengan sistem pelayanan mandiri, menjual berbagai jenis barang secara eceran yang berbentuk minimarket, supermarket, department store, hypermarket ataupun grosir yang berbentuk perkulakan."
+    },
+    {
+        "instruction": "Jelaskan definisi TPS (Tempat Pemungutan Suara).",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2017, UU Nomor 8 Tahun 2012, dan UU Nomor 42 Tahun 2008.",
+        "response": "TPS adalah tempat dilaksanakannya pemungutan suara."
+    },
+    {
+        "instruction": "Apa itu TPSLN?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2017, UU Nomor 8 Tahun 2012, dan UU Nomor 42 Tahun 2008.",
+        "response": "TPSLN (Tempat Pemungutan Suara Luar Negeri) adalah tempat dilaksanakannya pemungutan suara di luar negeri."
+    },
+    {
+        "instruction": "Apa definisi Transaksi Elektronik?",
+        "context": "Sesuai PP Nomor 71 Tahun 2019 dan PP Nomor 82 Tahun 2012.",
+        "response": "Transaksi Elektronik adalah perbuatan hukum yang dilakukan dengan menggunakan Komputer, jaringan Komputer, dan/atau media elektronik lainnya."
+    },
+    {
+        "instruction": "Apa pengertian Transaksi Keuangan?",
+        "context": "Merujuk pada PP Nomor 43 Tahun 2015 mengenai pencegahan tindak pidana pencucian uang.",
+        "response": "Transaksi Keuangan adalah Transaksi untuk melakukan atau menerima penempatan, penyetoran, penarikan, pemindahbukuan, pentransferan, pembayaran, hibah, sumbangan, penitipan, dan/atau penukaran atas sejumlah uang atau tindakan dan/atau kegiatan lain yang berhubungan dengan uang."
+    },
+    {
+        "instruction": "Definisikan Transaksi Keuangan Mencurigakan.",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2002 dan PP Nomor 43 Tahun 2015.",
+        "response": "Transaksi Keuangan Mencurigakan adalah transaksi yang menyimpang dari profil, karakteristik, dan kebiasaan pola transaksi dari nasabah/pengguna jasa; transaksi yang patut diduga dilakukan untuk menghindari pelaporan yang wajib dilakukan; transaksi yang melibatkan harta kekayaan yang diduga berasal dari tindak pidana; atau transaksi yang diminta PPATK untuk dilaporkan karena diduga terkait hasil tindak pidana."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Transaksi Keuangan Mencurigakan Terkait Pendanaan Terorisme?",
+        "context": "Sesuai UU Nomor 9 Tahun 2013.",
+        "response": "Transaksi Keuangan Mencurigakan Terkait Pendanaan Terorisme adalah transaksi keuangan dengan maksud untuk digunakan dan/atau yang diketahui akan digunakan untuk melakukan tindak pidana terorisme; atau transaksi yang melibatkan Setiap Orang yang berdasarkan daftar terduga teroris dan organisasi teroris."
+    },
+    {
+        "instruction": "Jelaskan definisi Transaksi Repurchase Agreement SBN (atau Surat Berharga Negara).",
+        "context": "Berdasarkan PP Nomor 33 Tahun 2020.",
+        "response": "Transaksi Repurchase Agreement SBN (Surat Berharga Negara) adalah transaksi penjualan Surat Berharga Negara milik Lembaga Penjamin Simpanan oleh Lembaga Penjamin Simpanan kepada Bank Indonesia dengan kewajiban pembelian kembali oleh Lembaga Penjamin Simpanan sesuai dengan harga dan pada waktu tertentu yang diperjanjikan."
+    },
+    {
+        "instruction": "Apa pengertian Transfer ke Daerah?",
+        "context": "Merujuk pada UU Nomor 12 Tahun 2018, UU Nomor 20 Tahun 2019, dan UU Nomor 14 Tahun 2015 terkait keuangan negara.",
+        "response": "Transfer ke Daerah adalah bagian dari Belanja Negara dalam rangka mendanai pelaksanaan desentralisasi fiskal berupa Dana Perimbangan, Dana Insentif Daerah, Dana Otonomi Khusus, dan Dana Keistimewaan Daerah Istimewa Yogyakarta."
+    },
+    {
+        "instruction": "Apa itu Transito Narkotika?",
+        "context": "Sesuai UU Nomor 35 Tahun 2009.",
+        "response": "Transito Narkotika adalah pengangkutan Narkotika dari suatu negara ke negara lain dengan melalui dan singgah di wilayah Negara Republik Indonesia yang terdapat kantor pabean dengan atau tanpa berganti sarana angkutan."
+    },
+    {
+        "instruction": "Apa definisi Transmigran?",
+        "context": "Berdasarkan UU Nomor 29 Tahun 2009.",
+        "response": "Transmigran adalah warga negara Republik Indonesia yang berpindah secara sukarela ke kawasan transmigrasi."
+    },
+    {
+        "instruction": "Apa pengertian Transmigrasi?",
+        "context": "Sesuai UU Nomor 29 Tahun 2009.",
+        "response": "Transmigrasi adalah perpindahan penduduk secara sukarela untuk meningkatkan kesejahteraan dan menetap di kawasan transmigrasi yang diselenggarakan oleh Pemerintah."
+    },
+    {
+        "instruction": "Jelaskan definisi Transportasi dalam penyelenggaraan haji.",
+        "context": "Merujuk pada PP Nomor 79 Tahun 2012.",
+        "response": "Transportasi adalah pengangkutan yang disediakan bagi Jemaah Haji selama Penyelenggaraan Ibadah Haji."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tri Dharma Perguruan Tinggi?",
+        "context": "Berdasarkan PP Nomor 38 Tahun 2010, UU Nomor 12 Tahun 2012, dan PP Nomor 153 Tahun 2000.",
+        "response": "Tri Dharma Perguruan Tinggi adalah kewajiban atau pelayanan Perguruan Tinggi kepada masyarakat melalui kegiatan penyelenggaraan pendidikan (pembelajaran/pengajaran), penelitian, dan pengabdian kepada masyarakat."
+    },
+    {
+        "instruction": "Definisikan Tugas Pembantuan.",
+        "context": "Sesuai PP Nomor 18 Tahun 2016 mengenai perangkat daerah.",
+        "response": "Tugas Pembantuan adalah penugasan dari Pemerintah Pusat kepada Daerah untuk melaksanakan sebagian Urusan Pemerintahan yang menjadi kewenangan Pemerintah Pusat atau dari Pemerintah Daerah provinsi kepada Daerah kabupaten/kota untuk melaksanakan sebagian Urusan Pemerintahan yang menjadi kewenangan Daerah provinsi."
+    },
+    {
+        "instruction": "Apa itu Tundaan lalu lintas?",
+        "context": "Merujuk pada PP Nomor 32 Tahun 2011.",
+        "response": "Tundaan lalu lintas adalah waktu tambahan yang diperlukan untuk melewati persimpangan dibandingkan dengan situasi tanpa persimpangan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tunjangan Cacat?",
+        "context": "Berdasarkan PP Nomor 67 Tahun 2014.",
+        "response": "Tunjangan Cacat adalah tunjangan yang diberikan berupa uang setiap bulan dan selama hidupnya berdasarkan tingkat kecacatan dan golongan kecacatan."
+    },
+    {
+        "instruction": "Apa definisi Tunjangan Jabatan?",
+        "context": "Sesuai PP Nomor 110 Tahun 2000 mengenai DPRD.",
+        "response": "Tunjangan Jabatan adalah uang yang diberikan kepada Pimpinan DPRD karena kedudukannya sebagai Ketua dan Wakil Ketua DPRD."
+    },
+    {
+        "instruction": "Apa pengertian Tunjangan Kehormatan?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2009.",
+        "response": "Tunjangan Kehormatan adalah tunjangan yang diberikan kepada dosen yang memiliki jabatan akademik profesor."
+    },
+    {
+        "instruction": "Apa itu Tunjangan keluarga?",
+        "context": "Berdasarkan PP Nomor 64 Tahun 2007 (khususnya konteks PT KAI).",
+        "response": "Tunjangan keluarga adalah tunjangan yang diberikan kepada isteri/suami/anak sesuai dengan ketentuan yang berlaku di instansi/perusahaan terkait (misalnya PT Kereta Api Indonesia)."
+    },
+    {
+        "instruction": "Jelaskan tentang Tunjangan khusus.",
+        "context": "Sesuai PP Nomor 41 Tahun 2009 dan PP Nomor 110 Tahun 2000.",
+        "response": "Tunjangan khusus adalah tunjangan yang diberikan kepada guru dan dosen sebagai kompensasi atas kesulitan hidup di daerah khusus, atau tunjangan yang diberikan kepada Pimpinan dan anggota (seperti DPRD) untuk pembayaran Pajak Penghasilan sesuai ketentuan perpajakan."
+    },
+    {
+        "instruction": "Apa definisi Tunjangan Komisi?",
+        "context": "Merujuk pada PP Nomor 110 Tahun 2000.",
+        "response": "Tunjangan Komisi adalah tunjangan yang diberikan kepada anggota DPRD sehubungan dengan kedudukannya sebagai Ketua, Wakil Ketua, Sekretaris dan anggota Komisi."
+    },
+    {
+        "instruction": "Apa pengertian Tunjangan Panitia?",
+        "context": "Berdasarkan PP Nomor 110 Tahun 2000.",
+        "response": "Tunjangan Panitia adalah tunjangan yang diberikan kepada anggota DPRD sehubungan dengan kedudukannya sebagai Ketua, Wakil Ketua, Sekretaris dan anggota Panitia."
+    },
+    {
+        "instruction": "Definisikan Tunjangan Perbaikan Penghasilan.",
+        "context": "Sesuai PP Nomor 110 Tahun 2000.",
+        "response": "Tunjangan Perbaikan Penghasilan adalah uang yang diberikan kepada Pimpinan dan anggota DPRD untuk menambah penghasilan."
+    },
+    {
+        "instruction": "Apa itu Tunjangan profesi?",
+        "context": "Merujuk pada PP Nomor 41 Tahun 2009.",
+        "response": "Tunjangan profesi adalah tunjangan yang diberikan kepada guru dan dosen yang memiliki sertifikat pendidik sebagai penghargaan atas profesionalitasnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Tunjangan Veteran (atau Tunjangan Veteran Republik Indonesia)?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Tunjangan Veteran (Republik Indonesia) adalah tunjangan yang merupakan penghargaan dan penghormatan negara."
     }
 ]
