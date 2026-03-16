@@ -1,0 +1,292 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Uang Daerah?",
+        "context": "Berdasarkan PP Nomor 39 Tahun 2007 mengenai Tata Usaha Keuangan & Barang Daerah.",
+        "response": "Uang Daerah adalah uang yang dikuasai oleh Bendahara Umum Daerah."
+    },
+    {
+        "instruction": "Apa pengertian Uang Negara?",
+        "context": "Sesuai PP Nomor 39 Tahun 2007.",
+        "response": "Uang Negara adalah uang yang dikuasai oleh Bendahara Umum Negara."
+    },
+    {
+        "instruction": "Jelaskan definisi Uang Paket dalam konteks dewan perwakilan.",
+        "context": "Berdasarkan PP Nomor 110 Tahun 2000.",
+        "response": "Uang paket adalah uang yang diberikan kepada Pimpinan dan anggota DPRD dalam menghadiri dan mengikuti rapat-rapat yang terdiri dari uang transport lokal dan uang makan."
+    },
+    {
+        "instruction": "Apa itu Uang Persediaan?",
+        "context": "Merujuk pada PP Nomor 39 Tahun 2007.",
+        "response": "Uang Persediaan adalah sejumlah uang yang disediakan untuk satuan kerja dalam melaksanakan kegiatan operasional kantor sehari-hari."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Uang Representasi?",
+        "context": "Berdasarkan PP Nomor 110 Tahun 2000.",
+        "response": "Uang Representasi adalah uang yang diberikan kepada Pimpinan dan anggota DPRD sehubungan dengan kedudukannya sebagai Pimpinan dan anggota DPRD."
+    },
+    {
+        "instruction": "Apa definisi Uji Kelaikan Sistem Elektronik?",
+        "context": "Sesuai PP Nomor 71 Tahun 2019 tentang penyelenggaraan sistem elektronik.",
+        "response": "Uji Kelaikan Sistem Elektronik adalah suatu rangkaian proses penilaian secara objektif terhadap setiap komponen Sistem Elektronik, baik dilakukan secara mandiri dan/atau dilakukan oleh institusi yang berwenang dan berkompeten."
+    },
+    {
+        "instruction": "Jelaskan pengertian Uji Kompetensi.",
+        "context": "Berdasarkan UU Nomor 14 Tahun 2019 (Pekerjaan Sosial), PP Nomor 25 Tahun 2019 (Keinsinyuran), dan UU Nomor 4 Tahun 2019 (Tenaga Kesehatan).",
+        "response": "Uji Kompetensi adalah proses penilaian kompetensi secara terukur dan objektif untuk menilai capaian kompetensi dalam bidang tertentu (seperti Praktik Pekerjaan Sosial atau Keinsinyuran) dengan mengacu pada standar kompetensi, atau proses pengukuran pengetahuan, keterampilan, dan perilaku peserta didik pada perguruan tinggi yang menyelenggarakan program studi terkait (seperti Kebidanan)."
+    },
+    {
+        "instruction": "Apa itu Uji Laik Operasi?",
+        "context": "Merujuk pada Permenkominfo Nomor 7 Tahun 2018.",
+        "response": "Uji Laik Operasi adalah pengujian sistem secara teknis dan operasional."
+    },
+    {
+        "instruction": "Apa kepanjangan dan definisi dari UKL-UPL (atau Upaya Pengelolaan Lingkungan Hidup Dan Upaya Pemantauan Lingkungan Hidup)?",
+        "context": "Berdasarkan Permen LHK Nomor P.75 Tahun 2019, Permen LHK Nomor P.87 Tahun 2016, dan PP Nomor 27 Tahun 2012.",
+        "response": "UKL-UPL (Upaya Pengelolaan Lingkungan Hidup dan Upaya Pemantauan Lingkungan Hidup) adalah pengelolaan dan pemantauan terhadap Usaha dan/atau Kegiatan yang tidak berdampak penting terhadap lingkungan hidup yang diperlukan bagi proses pengambilan keputusan tentang penyelenggaraan Usaha dan/atau Kegiatan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan UMK-M?",
+        "context": "Sesuai UU Nomor 11 Tahun 2020 tentang Cipta Kerja.",
+        "response": "UMK-M adalah usaha mikro, usaha kecil, dan usaha menengah sebagaimana yang dimaksud dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah."
+    },
+    {
+        "instruction": "Jelaskan definisi Undang-Undang.",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2019, PP Nomor 90 Tahun 2019, dan Permenkumham Nomor M.HH-01.AH.01.01 Tahun 2010.",
+        "response": "Undang-Undang adalah Peraturan Perundang-undangan yang dibentuk oleh Dewan Perwakilan Rakyat dengan persetujuan bersama Presiden."
+    },
+    {
+        "instruction": "Apa itu Unit Kerja/Satuan Kerja dalam Kementerian Kesehatan?",
+        "context": "Merujuk pada Permenkes Nomor 10 Tahun 2018.",
+        "response": "Unit Kerja/Satuan Kerja adalah unit organisasi setingkat eselon II di bawah unit eselon I kantor pusat Kementerian Kesehatan yang bertanggung jawab menyiapkan dan melaksanakan kebijakan sesuai dengan lingkup tugasnya; atau unit organisasi setingkat eselon III pada Dinas Kesehatan Provinsi/Kabupaten/Kota yang melaksanakan kebijakan sesuai lingkup tugasnya."
+    },
+    {
+        "instruction": "Apa definisi Unit Pelaksana Teknis?",
+        "context": "Berdasarkan PermenLHK Nomor P.30 Tahun 2014.",
+        "response": "Unit Pelaksana Teknis adalah unit pelaksana teknis yang berada di bawah dan bertanggung jawab kepada Direktur Jenderal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Unit Pelaksana Teknis Bidang K3?",
+        "context": "Sesuai Permenaker Nomor 5 Tahun 2018.",
+        "response": "Unit Pelaksana Teknis Bidang K3 adalah satuan organisasi yang mempunyai tugas melaksanakan Pengujian dan Pemeriksaan K3, serta peningkatan kapasitas tenaga K3."
+    },
+    {
+        "instruction": "Apa pengertian Unit Pelaksana Teknis Bidang Keamanan Bendungan?",
+        "context": "Merujuk pada PP Nomor 37 Tahun 2010.",
+        "response": "Unit Pelaksana Teknis Bidang Keamanan Bendungan adalah unit yang dibentuk untuk memberikan dukungan teknis kepada instansi teknis keamanan bendungan."
+    },
+    {
+        "instruction": "Definisikan Unit Pengelola Kas Negara.",
+        "context": "Berdasarkan PP Nomor 76 Tahun 2005.",
+        "response": "Unit Pengelola Kas Negara adalah unit kerja di bawah Menteri Keuangan yang bertanggung jawab atas pengelolaan kas negara."
+    },
+    {
+        "instruction": "Apa itu Unit Pengumpul Zakat (UPZ)?",
+        "context": "Sesuai UU Nomor 23 Tahun 2011 dan PP Nomor 14 Tahun 2014.",
+        "response": "Unit Pengumpul Zakat (UPZ) adalah satuan organisasi yang dibentuk oleh BAZNAS untuk membantu pengumpulan zakat."
+    },
+    {
+        "instruction": "Jelaskan definisi Unit Penyelenggara Bandar Udara.",
+        "context": "Merujuk pada PP Nomor 40 Tahun 2012.",
+        "response": "Unit Penyelenggara Bandar Udara adalah lembaga pemerintah di Bandar Udara yang bertindak sebagai penyelenggara bandar udara yang memberikan jasa pelayanan kebandarudaraan untuk bandar udara yang belum diusahakan secara komersial."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Unit Penyelenggara Pelabuhan?",
+        "context": "Berdasarkan PP Nomor 61 Tahun 2009.",
+        "response": "Unit Penyelenggara Pelabuhan adalah lembaga pemerintah di pelabuhan sebagai otoritas yang melaksanakan fungsi pengaturan, pengendalian, pengawasan kegiatan kepelabuhanan, dan pemberian pelayanan jasa kepelabuhanan untuk pelabuhan yang belum diusahakan secara komersial."
+    },
+    {
+        "instruction": "Apa definisi Unit Simpan Pinjam?",
+        "context": "Sesuai UU Nomor 17 Tahun 2012.",
+        "response": "Unit Simpan Pinjam adalah salah satu unit usaha Koperasi non-Koperasi Simpan Pinjam yang dilaksanakan secara konvensional atau syariah."
+    },
+    {
+        "instruction": "Apa pengertian Unit usaha budidaya hortikultura?",
+        "context": "Merujuk pada UU Nomor 13 Tahun 2010 dan PP Nomor 110 Tahun 2015.",
+        "response": "Unit usaha budidaya hortikultura adalah satuan lahan tempat terselenggaranya kegiatan membudidayakan tanaman Hortikultura pada tanah dan/atau media tanam lainnya dalam ekosistem yang sesuai dengan bantuan ilmu pengetahuan dan teknologi."
+    },
+    {
+        "instruction": "Apa itu Unit Usaha Syariah?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2008, UU Nomor 34 Tahun 2014, dan UU Nomor 1 Tahun 2016.",
+        "response": "Unit Usaha Syariah adalah unit kerja dari kantor pusat bank umum konvensional atau Perusahaan Penjaminan yang berfungsi sebagai kantor induk dari kantor atau unit yang melaksanakan kegiatan usaha (perbankan/penjaminan) berdasarkan prinsip syariah."
+    },
+    {
+        "instruction": "Jelaskan definisi Upah menurut perundang-undangan.",
+        "context": "Sesuai PP Nomor 78 Tahun 2015 dan PP Nomor 45 Tahun 2015.",
+        "response": "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan, termasuk tunjangan bagi pekerja/buruh dan keluarganya atas suatu pekerjaan dan/atau jasa yang telah atau akan dilakukan."
+    },
+    {
+        "instruction": "Apa pengertian Upaya administratif?",
+        "context": "Merujuk pada UU Nomor 30 Tahun 2014 dan PP Nomor 53 Tahun 2010.",
+        "response": "Upaya administratif adalah proses penyelesaian sengketa yang dilakukan dalam lingkungan Administrasi Pemerintahan sebagai akibat dikeluarkannya Keputusan dan/atau Tindakan yang merugikan; atau prosedur yang dapat ditempuh oleh PNS yang tidak puas terhadap hukuman disiplin berupa keberatan atau banding administratif."
+    },
+    {
+        "instruction": "Apa itu UPT dalam konteks SPAM?",
+        "context": "Berdasarkan PP Nomor 122 Tahun 2015.",
+        "response": "UPT (Unit Pelaksana Teknis) adalah unit yang dibentuk khusus untuk melakukan sebagian kegiatan Penyelenggaraan SPAM (Sistem Penyediaan Air Minum) oleh Pemerintah Pusat yang bersifat mandiri untuk melaksanakan tugas teknis operasional tertentu dan/atau tugas teknis penunjang tertentu dari organisasi induknya."
+    },
+    {
+        "instruction": "Apa definisi UPTD dalam konteks SPAM?",
+        "context": "Sesuai PP Nomor 122 Tahun 2015.",
+        "response": "UPTD (Unit Pelaksana Teknis Daerah) adalah unit yang dibentuk khusus untuk melakukan sebagian kegiatan Penyelenggaraan SPAM oleh Pemerintah Daerah untuk melaksanakan sebagian kegiatan teknis operasional dan/atau teknis penunjang yang mempunyai wilayah kerja satu atau beberapa daerah kabupaten/kota."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Urusan Pemerintahan?",
+        "context": "Merujuk pada PP Nomor 38 Tahun 2017, PP Nomor 38 Tahun 2007, dan UU Nomor 39 Tahun 2008.",
+        "response": "Urusan Pemerintahan adalah kekuasaan atau fungsi-fungsi pemerintahan yang menjadi kewenangan Presiden (atau tingkat pemerintahan) yang pelaksanaannya dilakukan oleh kementerian negara dan penyelenggara Pemerintahan Daerah untuk mengatur, mengurus, melindungi, melayani, memberdayakan, dan menyejahterakan masyarakat."
+    },
+    {
+        "instruction": "Jelaskan definisi Usaha Berbasis Syariah.",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2009.",
+        "response": "Usaha Berbasis Syariah adalah setiap jenis usaha yang menjalankan kegiatan usaha berdasarkan prinsip syariah yang meliputi perbankan syariah, asuransi syariah, pegadaian syariah, jasa keuangan syariah, dan kegiatan usaha berbasis syariah lainnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Usaha Bersama dalam bidang asuransi?",
+        "context": "Berdasarkan PP Nomor 87 Tahun 2019 tentang Usaha Perasuransian.",
+        "response": "Usaha Bersama adalah badan hukum yang menyelenggarakan usaha asuransi dan dimiliki oleh Anggota, yang telah ada pada saat Undang-Undang Nomor 40 Tahun 2014 tentang Perasuransian diundangkan."
+    },
+    {
+        "instruction": "Apa definisi Usaha Besar?",
+        "context": "Merujuk pada Perpres Nomor 10 Tahun 2021 mengenai Daftar Negatif Investasi.",
+        "response": "Usaha Besar adalah skala usaha sebagaimana yang dimaksud dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja."
+    },
+    {
+        "instruction": "Jelaskan definisi Usaha Budidaya Tanaman.",
+        "context": "Berdasarkan PP Nomor 18 Tahun 2010.",
+        "response": "Usaha Budidaya Tanaman adalah serangkaian kegiatan pengembangan dan pemanfaatan sumber daya alam nabati melalui upaya manusia yang dengan modal, teknologi, dan sumber daya lainnya menghasilkan barang guna memenuhi kebutuhan manusia secara lebih baik."
+    },
+    {
+        "instruction": "Apa pengertian Usaha Dan/Atau Kegiatan?",
+        "context": "Sesuai Permen LHK Nomor P.38 Tahun 2019 mengenai AMDAL.",
+        "response": "Usaha Dan/Atau Kegiatan adalah segala bentuk aktivitas yang dapat menimbulkan perubahan terhadap rona lingkungan hidup serta menyebabkan dampak terhadap lingkungan hidup."
+    },
+    {
+        "instruction": "Apa itu Usaha hortikultura?",
+        "context": "Merujuk pada PP Nomor 109 Tahun 2015, PP Nomor 25 Tahun 2014, dan UU Nomor 13 Tahun 2010.",
+        "response": "Usaha hortikultura adalah semua kegiatan untuk menghasilkan produk dan/atau menyelenggarakan jasa yang berkaitan dengan Hortikultura."
+    },
+    {
+        "instruction": "Apa definisi Usaha Kecil?",
+        "context": "Berdasarkan PP Nomor 7 Tahun 2021, PP Nomor 23 Tahun 2020, dan Permendag Nomor 50 Tahun 2020.",
+        "response": "Usaha Kecil adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dari Usaha Menengah atau Usaha Besar yang memenuhi kriteria Usaha Kecil sebagaimana diatur dalam Undang-Undang atau Peraturan Pemerintah terkait."
+    },
+    {
+        "instruction": "Jelaskan pengertian Usaha Menengah.",
+        "context": "Sesuai PP Nomor 7 Tahun 2021 dan PP Nomor 23 Tahun 2020.",
+        "response": "Usaha Menengah adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dengan Usaha Kecil atau usaha besar yang memenuhi kriteria kekayaan bersih atau hasil penjualan tahunan yang ditetapkan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Usaha Mikro?",
+        "context": "Merujuk pada PP Nomor 7 Tahun 2021, PP Nomor 29 Tahun 2021, dan PP Nomor 23 Tahun 2020.",
+        "response": "Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang memenuhi kriteria Usaha Mikro sebagaimana diatur dalam Undang-Undang tentang Usaha Mikro, Kecil, dan Menengah."
+    },
+    {
+        "instruction": "Bagaimana definisi Usaha Mikro, Usaha Kecil, Usaha Menengah, dan Usaha Besar secara kolektif?",
+        "context": "Berdasarkan PP Nomor 17 Tahun 2013.",
+        "response": "Usaha Mikro, Usaha Kecil, Usaha Menengah, dan Usaha Besar merujuk pada ketentuan yang mengatur kriteria masing-masing sebagaimana dimaksud dalam Undang-Undang Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, dan Menengah."
+    },
+    {
+        "instruction": "Apa itu Usaha Pariwisata?",
+        "context": "Sesuai UU Nomor 10 Tahun 2009.",
+        "response": "Usaha Pariwisata adalah usaha yang menyediakan barang dan/atau jasa bagi pemenuhan kebutuhan wisatawan dan penyelenggaraan pariwisata."
+    },
+    {
+        "instruction": "Apa definisi Usaha pariwisata alam?",
+        "context": "Merujuk pada PP Nomor 36 Tahun 2010.",
+        "response": "Usaha pariwisata alam adalah usaha yang menyediakan barang dan/atau jasa bagi pemenuhan kebutuhan wisatawan dan penyelenggaraan pariwisata alam."
+    },
+    {
+        "instruction": "Jelaskan definisi Usaha penangkapan ikan.",
+        "context": "Berdasarkan PP Nomor 142 Tahun 2000.",
+        "response": "Usaha penangkapan ikan adalah kegiatan untuk memperoleh ikan dengan alat atau cara apapun termasuk kegiatan yang menggunakan kapal untuk membuat, mengangkut, menyimpan, mendinginkan, mengolah atau mengawetkannya untuk tujuan komersil di perairan yang tidak termasuk dalam kawasan pembudidayaan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Usaha penjualan tenaga listrik?",
+        "context": "Sesuai UU Nomor 30 Tahun 2009 dan PP Nomor 14 Tahun 2012.",
+        "response": "Usaha penjualan tenaga listrik adalah kegiatan usaha penjualan tenaga listrik kepada konsumen."
+    },
+    {
+        "instruction": "Apa pengertian Usaha Penyediaan Bangunan?",
+        "context": "Merujuk pada UU Nomor 2 Tahun 2017 tentang Jasa Konstruksi.",
+        "response": "Usaha Penyediaan Bangunan adalah pengembangan jenis usaha jasa konstruksi yang dibiayai sendiri oleh Pemerintah Pusat, Pemerintah Daerah, badan usaha, atau masyarakat, dan dapat melalui pola kerja sama untuk mewujudkan, memiliki, menguasai, mengusahakan, dan/atau meningkatkan kemanfaatan bangunan."
+    },
+    {
+        "instruction": "Apa definisi Usaha penyediaan tenaga listrik?",
+        "context": "Berdasarkan UU Nomor 30 Tahun 2009 dan PP Nomor 14 Tahun 2012.",
+        "response": "Usaha penyediaan tenaga listrik adalah pengadaan tenaga listrik meliputi pembangkitan, transmisi, distribusi, dan penjualan tenaga listrik kepada konsumen."
+    },
+    {
+        "instruction": "Jelaskan pengertian Usaha perfilman.",
+        "context": "Sesuai UU Nomor 33 Tahun 2009.",
+        "response": "Usaha perfilman adalah penyelenggaraan perfilman yang langsung berhubungan dengan film dan bersifat komersial."
+    },
+    {
+        "instruction": "Apa itu Usaha Pergaraman?",
+        "context": "Merujuk pada UU Nomor 7 Tahun 2016.",
+        "response": "Usaha Pergaraman adalah kegiatan yang dilaksanakan dengan sistem bisnis Pergaraman yang meliputi praproduksi, produksi, pascaproduksi, pengolahan, dan pemasaran."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Usaha Perikanan?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2016.",
+        "response": "Usaha Perikanan adalah kegiatan yang dilaksanakan dengan sistem bisnis Perikanan yang meliputi praproduksi, produksi, pascaproduksi, pengolahan, dan pemasaran."
+    },
+    {
+        "instruction": "Apa definisi Usaha perkebunan?",
+        "context": "Sesuai PP Nomor 24 Tahun 2015, UU Nomor 39 Tahun 2014, dan UU Nomor 18 Tahun 2004.",
+        "response": "Usaha perkebunan adalah usaha yang menghasilkan barang dan/atau jasa Perkebunan."
+    },
+    {
+        "instruction": "Jelaskan definisi Usaha Pertambangan.",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Usaha Pertambangan adalah kegiatan dalam rangka pengusahaan mineral atau batubara yang meliputi tahapan kegiatan penyelidikan umum, eksplorasi, studi kelayakan, konstruksi, penambangan, pengolahan dan pemurnian, pengangkutan dan penjualan, serta pascatambang."
+    },
+    {
+        "instruction": "Apa pengertian Usaha Pertambangan Panas Bumi?",
+        "context": "Berdasarkan UU Nomor 27 Tahun 2003.",
+        "response": "Usaha Pertambangan Panas Bumi adalah usaha yang meliputi kegiatan eksplorasi, studi kelayakan, dan eksploitasi."
+    },
+    {
+        "instruction": "Apa itu Usaha Peternakan?",
+        "context": "Sesuai PP Nomor 6 Tahun 2013.",
+        "response": "Usaha Peternakan adalah kegiatan usaha budidaya Ternak untuk menghasilkan bahan pangan, bahan baku industri, dan kepentingan masyarakat lainnya di suatu tempat tertentu secara terus menerus."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Usaha Tani?",
+        "context": "Merujuk pada PP Nomor 65 Tahun 2019 dan UU Nomor 19 Tahun 2013.",
+        "response": "Usaha Tani adalah kegiatan dalam bidang Pertanian, mulai dari sarana produksi, produksi/budi daya, penanganan pascapanen, pengolahan, pemasaran hasil, dan/atau jasa penunjang."
+    },
+    {
+        "instruction": "Apa definisi Usaha Wisata Agro Hortikultura?",
+        "context": "Berdasarkan PP Nomor 110 Tahun 2015.",
+        "response": "Usaha Wisata Agro Hortikultura adalah usaha produktif dan kreatif yang dijalankan secara profesional, menyediakan dan/atau mengelola barang dan/atau jasa bagi pemenuhan wisatawan dalam penyelenggaraan wisata agro berbasis hortikultura."
+    },
+    {
+        "instruction": "Jelaskan pengertian Usia Pensiun.",
+        "context": "Sesuai PP Nomor 45 Tahun 2015 tentang Jaminan Pensiun.",
+        "response": "Usia Pensiun adalah usia saat peserta dapat mulai menerima manfaat pensiun."
+    },
+    {
+        "instruction": "Apa definisi Utang secara spesifik dalam perpajakan?",
+        "context": "Merujuk pada UU Nomor 11 Tahun 2016 mengenai Hak-Hak Wajib Pajak.",
+        "response": "Utang adalah jumlah pokok utang yang belum dibayar yang berkaitan langsung dengan perolehan Harta."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Utang Daerah?",
+        "context": "Berdasarkan UU Nomor 1 Tahun 2004.",
+        "response": "Utang Daerah adalah jumlah uang yang wajib dibayar Pemerintah Daerah dan/atau kewajiban Pemerintah Daerah yang dapat dinilai dengan uang berdasarkan peraturan perundang-undangan yang berlaku, perjanjian, atau berdasarkan sebab lainnya yang sah."
+    },
+    {
+        "instruction": "Apa pengertian Utang Negara?",
+        "context": "Sesuai UU Nomor 1 Tahun 2004.",
+        "response": "Utang Negara adalah jumlah uang yang wajib dibayar Pemerintah Pusat dan/atau kewajiban Pemerintah Pusat yang dapat dinilai dengan uang berdasarkan peraturan perundang-undangan yang berlaku, perjanjian, atau berdasarkan sebab lainnya yang sah."
+    },
+    {
+        "instruction": "Jelaskan definisi Utang Pajak.",
+        "context": "Merujuk pada PP Nomor 135 Tahun 2000.",
+        "response": "Utang Pajak adalah pajak yang masih harus dibayar termasuk sanksi administrasi berupa bunga, denda atau kenaikan yang tercantum dalam surat ketetapan pajak atau surat sejenisnya berdasarkan ketentuan peraturan perundang-undangan perpajakan."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Utilitas Umum?",
+        "context": "Berdasarkan PP Nomor 14 Tahun 2016 mengenai perumahan dan permukiman.",
+        "response": "Utilitas Umum adalah kelengkapan penunjang untuk pelayanan Lingkungan Hunian."
+    }
+]
