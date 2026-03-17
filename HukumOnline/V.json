@@ -1,0 +1,82 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Verifikasi dalam konteks industri?",
+        "context": "Berdasarkan PP Nomor 29 Tahun 2018 tentang Pengembangan Industri.",
+        "response": "Verifikasi adalah kegiatan menghitung nilai TKDN (Tingkat Komponen Dalam Negeri) Barang/Jasa dan nilai Bobot Manfaat Perusahaan berdasarkan data yang diambil atau dikumpulkan dari kegiatan usaha produsen Barang, perusahaan Jasa, atau penyedia gabungan Barang dan Jasa."
+    },
+    {
+        "instruction": "Apa definisi Verifikasi atau Penelusuran Teknis?",
+        "context": "Sesuai Permendag Nomor 16 Tahun 2021.",
+        "response": "Verifikasi atau Penelusuran Teknis adalah penelitian dan/atau pemastian barang yang dilakukan Surveyor."
+    },
+    {
+        "instruction": "Siapakah Verifikator Independen?",
+        "context": "Merujuk pada Permen ESDM Nomor 25 Tahun 2018.",
+        "response": "Verifikator Independen adalah Badan Usaha Milik Negara, termasuk anak perusahaan Badan Usaha Milik Negara, yang memiliki kemampuan dalam jasa konsultan manajemen proyek dan/atau perekayasaan industri untuk melakukan verifikasi rencana serta kemajuan fisik pembangunan fasilitas Pengolahan dan/atau Pemurnian."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Veteran?",
+        "context": "Berdasarkan Perpres Nomor 82 Tahun 2018.",
+        "response": "Veteran adalah Veteran Republik Indonesia sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Siapakah Veteran Anumerta Pejuang Kemerdekaan Republik Indonesia?",
+        "context": "Sesuai UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Anumerta Pejuang Kemerdekaan Republik Indonesia adalah warga negara Indonesia yang gugur dalam masa revolusi fisik antara tanggal 17 Agustus 1945 sampai dengan tanggal 27 Desember 1949 yang berperan secara aktif berjuang untuk mempertahankan Negara Kesatuan Republik Indonesia di dalam kesatuan bersenjata resmi dan/atau kelaskaran yang diakui oleh pemerintah pada masa perjuangan."
+    },
+    {
+        "instruction": "Siapakah Veteran Anumerta Pembela Kemerdekaan Republik Indonesia?",
+        "context": "Merujuk pada UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Anumerta Pembela Kemerdekaan Republik Indonesia adalah warga negara Indonesia yang bergabung dalam kesatuan bersenjata resmi yang diakui oleh pemerintah yang berperan secara aktif dalam suatu peperangan menghadapi negara lain yang gugur dalam rangka membela dan mempertahankan kedaulatan Negara Kesatuan Republik Indonesia, yang terjadi setelah tanggal 27 Desember 1949, yang telah ditetapkan sebagai penerima Tanda Kehormatan Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Siapakah Veteran Anumerta Perdamaian Republik Indonesia?",
+        "context": "Berdasarkan UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Anumerta Perdamaian Republik Indonesia adalah warga negara Indonesia yang berperan secara aktif dalam pasukan internasional di bawah mandat Perserikatan Bangsa-Bangsa yang gugur dalam rangka melaksanakan misi perdamaian dunia, yang telah ditetapkan sebagai penerima Tanda Kehormatan Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Siapakah Veteran Pejuang Kemerdekaan Republik Indonesia?",
+        "context": "Sesuai UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Pejuang Kemerdekaan Republik Indonesia adalah warga negara Indonesia yang dalam masa revolusi fisik antara tanggal 17 Agustus 1945 sampai dengan tanggal 27 Desember 1949 yang berperan secara aktif berjuang untuk mempertahankan Negara Kesatuan Republik Indonesia di dalam kesatuan bersenjata resmi dan/atau kelaskaran yang diakui oleh pemerintah pada masa perjuangan, termasuk anggota PMI/tenaga kesehatan, juru masak dapur umum, bagian persenjataan/perbekalan, kurir/penghubung, penjaga keamanan/mata-mata yang telah ditetapkan sebagai penerima Tanda Kehormatan Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Siapakah Veteran Pembela Kemerdekaan Republik Indonesia?",
+        "context": "Merujuk pada UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Pembela Kemerdekaan Republik Indonesia adalah warga negara Indonesia yang bergabung dalam kesatuan bersenjata resmi yang diakui oleh pemerintah yang berperan secara aktif dalam suatu peperangan menghadapi negara lain dalam rangka membela dan mempertahankan kedaulatan Negara Kesatuan Republik Indonesia, yang terjadi setelah tanggal 27 Desember 1949, yang telah ditetapkan sebagai penerima Tanda Kehormatan Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Siapakah Veteran Penyandang Cacat?",
+        "context": "Berdasarkan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Penyandang Cacat adalah anggota Veteran Republik Indonesia yang menderita cacat jasmani dan/atau rohani yang terjadi dalam peristiwa keveteranan."
+    },
+    {
+        "instruction": "Apa pengertian Veteran Republik Indonesia?",
+        "context": "Sesuai UU Nomor 15 Tahun 2012 dan PP Nomor 67 Tahun 2014.",
+        "response": "Veteran Republik Indonesia adalah warga negara Indonesia yang bergabung dalam kesatuan bersenjata resmi yang diakui oleh pemerintah yang berperan secara aktif dalam suatu peperangan menghadapi negara lain dan/atau gugur dalam pertempuran untuk membela dan mempertahankan kedaulatan Negara Kesatuan Republik Indonesia, atau warga negara Indonesia yang ikut serta secara aktif dalam pasukan internasional di bawah mandat Perserikatan Bangsa-Bangsa untuk melaksanakan misi perdamaian dunia, yang telah ditetapkan sebagai penerima Tanda Kehormatan Veteran Republik Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Veteriner.",
+        "context": "Merujuk pada PP Nomor 95 Tahun 2012, UU Nomor 18 Tahun 2009, dan PP Nomor 3 Tahun 2017.",
+        "response": "Veteriner adalah segala urusan yang berkaitan dengan Hewan, Produk Hewan, dan Penyakit Hewan."
+    },
+    {
+        "instruction": "Apa definisi Visa (atau Visa Republik Indonesia)?",
+        "context": "Berdasarkan UU Nomor 6 Tahun 2011, PP Nomor 12 Tahun 2020, dan PP Nomor 31 Tahun 2013.",
+        "response": "Visa (Republik Indonesia) adalah keterangan tertulis yang diberikan oleh pejabat yang berwenang di Perwakilan Republik Indonesia atau di tempat lain yang ditetapkan oleh Pemerintah Republik Indonesia yang memuat persetujuan bagi Orang Asing untuk melakukan perjalanan ke Wilayah Indonesia dan menjadi dasar untuk pemberian Izin Tinggal."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Visa Kerja?",
+        "context": "Sesuai UU Nomor 18 Tahun 2017 dan UU Nomor 39 Tahun 2004.",
+        "response": "Visa Kerja adalah izin tertulis yang diberikan oleh pejabat yang berwenang di suatu negara tujuan penempatan yang memuat persetujuan untuk masuk dan melakukan pekerjaan di negara yang bersangkutan."
+    },
+    {
+        "instruction": "Apa itu Visa Kunjungan Saat Kedatangan (Visa on Arrival)?",
+        "context": "Merujuk pada PP Nomor 12 Tahun 2020.",
+        "response": "Visa Kunjungan Saat Kedatangan adalah Visa Kunjungan atas kuasa Direktur Jenderal Imigrasi yang diberikan kepada Warga Negara Asing pada saat tiba di wilayah Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Visa Tinggal Terbatas?",
+        "context": "Berdasarkan Perpres Nomor 20 Tahun 2018.",
+        "response": "Visa Tinggal Terbatas adalah keterangan tertulis yang diberikan oleh pejabat yang berwenang di Perwakilan Republik Indonesia atau di tempat lain yang ditetapkan oleh Pemerintah Republik Indonesia yang memuat persetujuan bagi Orang Asing untuk melakukan perjalanan ke Wilayah Indonesia dan menjadi dasar untuk pemberian Izin Tinggal Terbatas dalam rangka bekerja."
+    }
+]
