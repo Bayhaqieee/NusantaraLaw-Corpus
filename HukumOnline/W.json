@@ -1,0 +1,222 @@
+[
+    {
+        "instruction": "Apa yang dimaksud dengan Wahana Antariksa?",
+        "context": "Berdasarkan UU Nomor 21 Tahun 2013 tentang Penelitian & Pelayanan Geologi.",
+        "response": "Wahana Antariksa adalah benda buatan manusia yang terkait dengan Keantariksaan dan bagian-bagiannya."
+    },
+    {
+        "instruction": "Apa definisi Wajib Belajar?",
+        "context": "Sesuai UU Nomor 20 Tahun 2003 tentang Pendidikan & Kebudayaan.",
+        "response": "Wajib Belajar adalah program pendidikan minimal yang harus diikuti oleh Warga Negara Indonesia atas tanggung jawab Pemerintah dan Pemerintah Daerah."
+    },
+    {
+        "instruction": "Jelaskan pengertian Wajib Lapor terkait zat adiktif/narkotika.",
+        "context": "Merujuk pada PP Nomor 25 Tahun 2011.",
+        "response": "Wajib Lapor adalah kegiatan melaporkan diri yang dilakukan oleh pecandu narkotika yang sudah cukup umur atau keluarganya, dan/atau orang tua atau wali dari pecandu narkotika yang belum cukup umur kepada institusi penerima wajib lapor untuk mendapatkan pengobatan dan/atau perawatan melalui rehabilitasi medis dan rehabilitasi sosial."
+    },
+    {
+        "instruction": "Siapakah Wajib Pajak itu?",
+        "context": "Berdasarkan UU Nomor 11 Tahun 2016, UU Nomor 1 Tahun 2022, dan UU Nomor 28 Tahun 2009.",
+        "response": "Wajib Pajak adalah orang pribadi atau badan, meliputi pembayar pajak, pemotong pajak, dan pemungut pajak, yang mempunyai hak dan kewajiban perpajakan sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan (termasuk perpajakan daerah)."
+    },
+    {
+        "instruction": "Apa definisi Wajib Retribusi?",
+        "context": "Sesuai UU Nomor 1 Tahun 2022 dan UU Nomor 28 Tahun 2009.",
+        "response": "Wajib Retribusi adalah orang pribadi atau Badan yang menurut peraturan perundang-undangan (retribusi) diwajibkan untuk melakukan pembayaran retribusi, termasuk pemungut atau pemotong retribusi tertentu."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wakaf?",
+        "context": "Merujuk pada UU Nomor 41 Tahun 2004 tentang Wakaf.",
+        "response": "Wakaf adalah perbuatan hukum wakif untuk memisahkan dan/atau menyerahkan sebagian harta benda miliknya untuk dimanfaatkan selamanya atau untuk jangka waktu tertentu sesuai dengan kepentingannya guna keperluan ibadah dan/atau kesejahteraan umum menurut syariah."
+    },
+    {
+        "instruction": "Siapakah Wakif?",
+        "context": "Berdasarkan UU Nomor 41 Tahun 2004.",
+        "response": "Wakif adalah pihak yang mewakafkan harta benda miliknya."
+    },
+    {
+        "instruction": "Apa definisi Wakil Gubernur dalam konteks pemerintahan provinsi DKI Jakarta?",
+        "context": "Sesuai UU Nomor 29 Tahun 2007.",
+        "response": "Wakil Gubernur adalah Wakil Kepala Daerah Provinsi DKI Jakarta."
+    },
+    {
+        "instruction": "Apa pengertian Waktu Kerja?",
+        "context": "Merujuk pada Permenakertrans Nomor PER.15/MEN/VII/2005.",
+        "response": "Waktu Kerja adalah waktu yang digunakan untuk melakukan pekerjaan pada satu periode tertentu."
+    },
+    {
+        "instruction": "Siapakah Wali?",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2011.",
+        "response": "Wali adalah orang atau badan yang dalam kenyataannya menjalankan kekuasaan asuh sebagai orang tua terhadap anak."
+    },
+    {
+        "instruction": "Apa itu Wali Amanat?",
+        "context": "Sesuai PP Nomor 59 Tahun 2012, PP Nomor 58 Tahun 2012, dan PP Nomor 57 Tahun 2011 tentang Surat Berharga Syariah Negara.",
+        "response": "Wali Amanat adalah pihak yang mewakili kepentingan pemegang SBSN sesuai dengan yang diperjanjikan."
+    },
+    {
+        "instruction": "Apa definisi Walikota/bupati dalam konteks Provinsi DKI Jakarta?",
+        "context": "Merujuk pada UU Nomor 29 Tahun 2007.",
+        "response": "Walikota/bupati adalah kepala pemerintahan kota administrasi/kabupaten administrasi di wilayah Provinsi DKI Jakarta sebagai perangkat Pemerintah Provinsi DKI Jakarta yang bertanggung jawab kepada Gubernur."
+    },
+    {
+        "instruction": "Apa pengertian Waralaba?",
+        "context": "Berdasarkan Permendag Nomor 71 Tahun 2019, PP Nomor 42 Tahun 2007, dan Permendag Nomor 22 Tahun 2016.",
+        "response": "Waralaba adalah hak khusus yang dimiliki oleh orang perseorangan atau badan usaha terhadap sistem bisnis dengan ciri khas usaha dalam rangka memasarkan barang dan/atau jasa yang telah terbukti berhasil dan dapat dimanfaatkan dan/atau digunakan oleh pihak lain berdasarkan Perjanjian Waralaba."
+    },
+    {
+        "instruction": "Siapakah Warga Masyarakat menurut administrasi negara?",
+        "context": "Sesuai UU Nomor 30 Tahun 2014.",
+        "response": "Warga Masyarakat adalah seseorang atau badan hukum perdata yang terkait dengan Keputusan dan/atau Tindakan pemerintahan."
+    },
+    {
+        "instruction": "Apa definisi Warga Negara (atau Warga Negara Indonesia)?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2019, UU Nomor 3 Tahun 2002, PP Nomor 2 Tahun 2018, dan UU Nomor 20 Tahun 2009.",
+        "response": "Warga Negara (atau Warga Negara Indonesia) adalah warga negara Republik Indonesia, yaitu orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara Indonesia."
+    },
+    {
+        "instruction": "Siapakah Warga Negara Asing?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2009 dan PP Nomor 14 Tahun 2018.",
+        "response": "Warga Negara Asing adalah setiap orang yang bukan Warga Negara Indonesia (orang-orang bangsa lain) yang disahkan dengan undang-undang sebagai warga negara asing."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wewenang dalam penyelenggaraan pemerintahan?",
+        "context": "Sesuai UU Nomor 30 Tahun 2014.",
+        "response": "Wewenang adalah hak yang dimiliki oleh Badan dan/atau Pejabat Pemerintahan atau penyelenggara negara lainnya untuk mengambil keputusan dan/atau tindakan dalam penyelenggaraan pemerintahan."
+    },
+    {
+        "instruction": "Apa kepanjangan dan pengertian dari WGPPPSL?",
+        "context": "Merujuk pada PP Nomor 31 Tahun 2009 tentang Perkebunan.",
+        "response": "WGPPPSL adalah daerah asal suatu produk perkebunan yang karena faktor lingkungan geografis termasuk faktor alam dan/atau faktor manusia memberi indikasi tertentu yang tidak dapat dihasilkan wilayah lain."
+    },
+    {
+        "instruction": "Apa itu Wilayah Adat?",
+        "context": "Berdasarkan draf RUU Masyarakat Hukum Adat Tahun 2020.",
+        "response": "Wilayah Adat adalah satu kesatuan geografis dan sosial yang secara turun temurun dihuni dan dikelola oleh Masyarakat Hukum Adat sebagai penyangga sumber-sumber penghidupan yang diwarisi dari leluhurnya atau melalui kesepakatan dengan Masyarakat Hukum Adat lainnya."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Administratif?",
+        "context": "Sesuai UU Nomor 23 Tahun 2014 tentang Pemerintahan Daerah.",
+        "response": "Wilayah Administratif adalah wilayah kerja perangkat Pemerintah Pusat termasuk gubernur sebagai wakil Pemerintah Pusat untuk menyelenggarakan Urusan Pemerintahan yang menjadi kewenangan Pemerintah Pusat di Daerah dan wilayah kerja gubernur dan bupati/wali kota dalam melaksanakan urusan pemerintahan umum di Daerah."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wilayah Hukum Pertambangan (atau Wilayah Hukum Pertambangan Indonesia)?",
+        "context": "Merujuk pada UU Nomor 3 Tahun 2020, UU Nomor 22 Tahun 2001, dan PP Nomor 23 Tahun 2015.",
+        "response": "Wilayah Hukum Pertambangan adalah seluruh ruang atau wilayah daratan, perairan (termasuk tanah di bawah perairan), dan landas kontinen Indonesia, termasuk ruang dalam bumi sebagai satu kesatuan wilayah yakni kepulauan Indonesia."
+    },
+    {
+        "instruction": "Apa pengertian Wilayah IUP Khusus dalam WUPK (atau Wilayah Izin Usaha Pertambangan Khusus dalam WUPK)?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah IUP Khusus dalam WUPK adalah wilayah yang diberikan kepada pemegang IUPK (Izin Usaha Pertambangan Khusus)."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Kerja dalam kegiatan usaha minyak/gas atau energi?",
+        "context": "Sesuai Permen ESDM Nomor 37 Tahun 2015.",
+        "response": "Wilayah Kerja adalah daerah tertentu di dalam Wilayah Hukum Pertambangan Indonesia untuk pelaksanaan eksplorasi dan eksploitasi."
+    },
+    {
+        "instruction": "Apa itu Wilayah Kerja Panas Bumi?",
+        "context": "Merujuk pada Permen ESDM Nomor 36 Tahun 2017.",
+        "response": "Wilayah Kerja Panas Bumi adalah wilayah dengan batas-batas koordinat tertentu yang digunakan untuk pengusahaan Panas Bumi untuk pemanfaatan tidak langsung."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wilayah Negara Kesatuan Republik Indonesia?",
+        "context": "Berdasarkan UU Nomor 7 Tahun 2011 dan PP Nomor 31 Tahun 2013.",
+        "response": "Wilayah Negara Kesatuan Republik Indonesia adalah seluruh wilayah teritorial Indonesia (termasuk zona tertentu yang ditetapkan berdasarkan UU), termasuk kapal dan pesawat terbang yang berbendera Republik Indonesia, Kedutaan Republik Indonesia, dan kantor perwakilan Republik Indonesia lainnya di luar negeri."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Penugasan?",
+        "context": "Sesuai Permen ESDM Nomor 36 Tahun 2017.",
+        "response": "Wilayah Penugasan adalah Wilayah Terbuka Panas Bumi dengan batas-batas koordinat tertentu yang ditawarkan kepada Pihak Lain untuk dilakukan Penugasan Survei Pendahuluan (PSP) atau PSPE."
+    },
+    {
+        "instruction": "Jelaskan apa itu Wilayah Penugasan Survei Pendahuluan.",
+        "context": "Merujuk pada Permen ESDM Nomor 36 Tahun 2017.",
+        "response": "Wilayah Penugasan Survei Pendahuluan adalah Wilayah Penugasan untuk dilakukan Penugasan Survei Pendahuluan (PSP)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wilayah Penugasan Survei Pendahuluan Dan Eksplorasi?",
+        "context": "Berdasarkan Permen ESDM Nomor 36 Tahun 2017 tentang Panas Bumi.",
+        "response": "Wilayah Penugasan Survei Pendahuluan Dan Eksplorasi adalah Wilayah Penugasan untuk dilakukan Penugasan Survei Pendahuluan dan Eksplorasi (PSPE)."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Pertahanan?",
+        "context": "Sesuai PP Nomor 68 Tahun 2014.",
+        "response": "Wilayah Pertahanan adalah wilayah yang ditetapkan untuk mempertahankan kedaulatan negara, keutuhan wilayah Negara Kesatuan Republik Indonesia dan keselamatan segenap bangsa dari ancaman dan gangguan keutuhan bangsa dan negara."
+    },
+    {
+        "instruction": "Jelaskan definisi Wilayah Sungai.",
+        "context": "Merujuk pada UU Nomor 17 Tahun 2019 tentang Pengelolaan Sumber Daya Air.",
+        "response": "Wilayah Sungai adalah kesatuan wilayah Pengelolaan Sumber Daya Air dalam satu atau lebih Daerah Aliran Sungai dan/atau pulau-pulau kecil yang luasnya kurang dari atau sama dengan 2.000 km2 (dua ribu kilometer persegi)."
+    },
+    {
+        "instruction": "Apa itu Wilayah Terbuka (khususnya dalam kegiatan hulu migas)?",
+        "context": "Berdasarkan PP Nomor 35 Tahun 2004.",
+        "response": "Wilayah Terbuka adalah bagian dari Wilayah Hukum Pertambangan Indonesia yang belum ditetapkan sebagai Wilayah Kerja."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Terbuka Panas Bumi?",
+        "context": "Sesuai Permen ESDM Nomor 36 Tahun 2017.",
+        "response": "Wilayah Terbuka Panas Bumi adalah wilayah yang diduga memiliki potensi Panas Bumi di luar batas-batas koordinat Wilayah Kerja."
+    },
+    {
+        "instruction": "Apa pengertian Wilayah Udara?",
+        "context": "Merujuk pada UU Nomor 1 Tahun 2009 tentang Penerbangan.",
+        "response": "Wilayah Udara adalah wilayah kedaulatan udara di atas wilayah daratan dan perairan Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Wilayah Usaha ketenagalistrikan.",
+        "context": "Berdasarkan PP Nomor 25 Tahun 2021.",
+        "response": "Wilayah Usaha adalah wilayah yang ditetapkan Pemerintah Pusat sebagai tempat badan usaha melakukan usaha distribusi dan/atau penjualan tenaga listrik."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wilayah Usaha Pertambangan (WUP)?",
+        "context": "Sesuai UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah Usaha Pertambangan (WUP) adalah bagian dari Wilayah Pertambangan (WP) yang telah memiliki ketersediaan data, potensi, dan/atau informasi geologi."
+    },
+    {
+        "instruction": "Apa pengertian Wilayah Usaha Pertambangan Khusus (WUPK) atau WUP Khusus?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah Usaha Pertambangan Khusus (WUPK) atau WUP Khusus adalah bagian dari Wilayah Pencadangan Negara (WPN) yang dapat diusahakan."
+    },
+    {
+        "instruction": "Apa definisi Wilayah Yurisdiksi?",
+        "context": "Berdasarkan UU Nomor 43 Tahun 2008 tentang Wilayah Negara.",
+        "response": "Wilayah Yurisdiksi adalah wilayah di luar Wilayah Negara yang terdiri atas Zona Ekonomi Eksklusif, Landas Kontinen, dan Zona Tambahan di mana negara memiliki hak-hak berdaulat dan kewenangan tertentu lainnya sebagaimana diatur dalam peraturan perundang-undangan dan hukum internasional."
+    },
+    {
+        "instruction": "Apa kepanjangan dan pengertian WIUP?",
+        "context": "Sesuai UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "WIUP (Wilayah Izin Usaha Pertambangan) adalah wilayah yang diberikan kepada pemegang IUP (Izin Usaha Pertambangan)."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan WIUP Khusus dalam WUPK (atau WIUPK)?",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "WIUP Khusus dalam WUPK (atau WIUPK) adalah wilayah yang diberikan kepada pemegang Izin Usaha Pertambangan Khusus (IUPK)."
+    },
+    {
+        "instruction": "Apa arti singkatan WNA?",
+        "context": "Berdasarkan UU Nomor 20 Tahun 2009.",
+        "response": "WNA (Warga Negara Asing) adalah orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara asing."
+    },
+    {
+        "instruction": "Apa definisi WNI?",
+        "context": "Sesuai UU Nomor 20 Tahun 2009.",
+        "response": "WNI (Warga Negara Indonesia) adalah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara Indonesia."
+    },
+    {
+        "instruction": "Jelaskan definisi Wilayah Pertambangan (WP).",
+        "context": "Merujuk pada UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah Pertambangan (WP) adalah wilayah yang memiliki potensi mineral dan/atau batubara dan tidak terikat dengan batasan administrasi pemerintahan yang merupakan bagian dari tata ruang nasional."
+    },
+    {
+        "instruction": "Apa pengertian Wilayah Pertambangan Rakyat (WPR) atau WP Rakyat?",
+        "context": "Berdasarkan UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah Pertambangan Rakyat (WPR) atau WP Rakyat adalah bagian dari Wilayah Pertambangan (WP) tempat dilakukan kegiatan usaha pertambangan rakyat."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Wilayah Pencadangan Negara (WPN)?",
+        "context": "Sesuai UU Nomor 4 Tahun 2009 dan PP Nomor 22 Tahun 2010.",
+        "response": "Wilayah Pencadangan Negara (WPN) adalah bagian dari Wilayah Pertambangan (WP) yang dicadangkan untuk kepentingan strategis nasional."
+    }
+]
