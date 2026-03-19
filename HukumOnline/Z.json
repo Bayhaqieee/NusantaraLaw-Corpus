@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "Apa definisi Zakat?",
+        "context": "Merujuk pada UU Nomor 23 Tahun 2011 tentang pengelolaan zakat.",
+        "response": "Zakat adalah harta yang wajib dikeluarkan oleh seorang muslim atau badan usaha untuk diberikan kepada yang berhak menerimanya sesuai dengan syariat Islam."
+    },
+    {
+        "instruction": "Apa pengertian Zona dalam pengelolaan wilayah pesisir?",
+        "context": "Sesuai UU Nomor 1 Tahun 2014 dan UU Nomor 27 Tahun 2007.",
+        "response": "Zona adalah ruang yang penggunaannya disepakati bersama antara berbagai pemangku kepentingan dan telah ditetapkan status hukumnya."
+    },
+    {
+        "instruction": "Apa yang dimaksud dengan Zona Ekonomi Eksklusif Indonesia?",
+        "context": "Berdasarkan UU Nomor 43 Tahun 2008 tentang Wilayah Negara.",
+        "response": "Zona Ekonomi Eksklusif Indonesia adalah suatu area di luar dan berdampingan dengan laut teritorial Indonesia sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai perairan Indonesia dengan batas terluar 200 (dua ratus) mil laut dari garis pangkal dari mana lebar laut teritorial diukur."
+    },
+    {
+        "instruction": "Jelaskan definisi Zona Tambahan Indonesia.",
+        "context": "Merujuk pada UU Nomor 43 Tahun 2008.",
+        "response": "Zona Tambahan Indonesia adalah zona yang lebarnya tidak melebihi 24 (dua puluh empat) mil laut yang diukur dari garis pangkal dari mana lebar laut teritorial diukur."
+    },
+    {
+        "instruction": "Apa definisi Zonasi dalam pelestarian cagar budaya?",
+        "context": "Sesuai UU Nomor 11 Tahun 2010.",
+        "response": "Zonasi adalah penentuan batas-batas keruangan Situs Cagar Budaya dan Kawasan Cagar Budaya sesuai dengan kebutuhan."
+    }
+]
