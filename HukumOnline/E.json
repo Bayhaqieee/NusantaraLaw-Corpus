@@ -1,86 +1,86 @@
 [
     {
-        "instruction": "Apa yang dimaksud dengan \"Ekosistem Ekonomi Kreatif\"?",
+        "instruction": "Apa yang dimaksud dengan Ekosistem Ekonomi Kreatif?",
         "context": "Menurut UU Nomor 24 Tahun 2019, ini adalah keterhubungan sistem yang mendukung rantai nilai Ekonomi Kreatif (kreasi, produksi, distribusi, konsumsi, dan konservasi) yang dilakukan oleh Pelaku Ekonomi Kreatif untuk memberikan nilai tambah pada produknya.",
         "response": "Ekosistem Ekonomi Kreatif"
     },
     {
-        "instruction": "Jelaskan definisi \"Eksploitasi\" dalam konteks sumber daya alam.",
+        "instruction": "Jelaskan definisi Eksploitasi dalam konteks sumber daya alam.",
         "context": "Istilah ini memiliki definisi spesifik tergantung sektornya: 1) Dalam Panas Bumi (PP 25/2021), meliputi pengeboran pengembangan, reinjeksi, dan operasi produksi; 2) Dalam Migas (Permen ESDM 17/2017), meliputi kegiatan untuk menghasilkan minyak/gas dari wilayah kerja (pengeboran, pengolahan, dll).",
         "response": "Eksploitasi"
     },
     {
-        "instruction": "Apa definisi \"Eksploitasi Seksual\"?",
+        "instruction": "Apa definisi Eksploitasi Seksual?",
         "context": "Berdasarkan UU Nomor 21 Tahun 2007, Eksploitasi Seksual adalah segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk pelacuran dan percabulan.",
         "response": "Eksploitasi Seksual"
     },
     {
-        "instruction": "Apa itu \"Ekspor Barang Kena Pajak Berwujud\"?",
+        "instruction": "Apa itu Ekspor Barang Kena Pajak Berwujud?",
         "context": "Sesuai UU Nomor 42 Tahun 2009, ini adalah setiap kegiatan mengeluarkan Barang Kena Pajak Berwujud dari dalam Daerah Pabean ke luar Daerah Pabean.",
         "response": "Ekspor Barang Kena Pajak Berwujud"
     },
     {
-        "instruction": "Apa definisi umum dari \"Ekspor\"?",
+        "instruction": "Apa definisi umum dari Ekspor?",
         "context": "Menurut PP Nomor 29 Tahun 2021, Ekspor adalah kegiatan mengeluarkan Barang dari daerah pabean.",
         "response": "Ekspor"
     },
     {
-        "instruction": "Jelaskan pengertian \"Eksplorasi\" di berbagai sektor energi.",
+        "instruction": "Jelaskan pengertian Eksplorasi di berbagai sektor energi.",
         "context": "Eksplorasi adalah rangkaian kegiatan penyelidikan untuk memperoleh informasi geologi/cadangan. Definisi ini berlaku untuk Panas Bumi (PP 25/2021), Pertambangan (PP 22/2010), dan Minyak & Gas Bumi (Permen ESDM 17/2017).",
         "response": "Eksplorasi"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Ekspor Barang Kena Pajak Tidak Berwujud\"?",
+        "instruction": "Apa yang dimaksud dengan Ekspor Barang Kena Pajak Tidak Berwujud?",
         "context": "Berdasarkan UU Nomor 42 Tahun 2009, ini adalah setiap kegiatan pemanfaatan Barang Kena Pajak Tidak Berwujud dari dalam Daerah Pabean di luar Daerah Pabean.",
         "response": "Ekspor Barang Kena Pajak Tidak Berwujud"
     },
     {
-        "instruction": "Apa definisi \"Ekspor Jasa Kena Pajak\"?",
+        "instruction": "Apa definisi Ekspor Jasa Kena Pajak?",
         "context": "Sesuai UU Nomor 42 Tahun 2009, Ekspor Jasa Kena Pajak adalah setiap kegiatan penyerahan Jasa Kena Pajak ke luar Daerah Pabean.",
         "response": "Ekspor Jasa Kena Pajak"
     },
     {
-        "instruction": "Apa itu \"Ekspor Pangan\"?",
+        "instruction": "Apa itu Ekspor Pangan?",
         "context": "Menurut UU Nomor 18 Tahun 2012, Ekspor Pangan adalah kegiatan mengeluarkan Pangan dari daerah pabean negara Republik Indonesia (termasuk ZEE dan landas kontinen).",
         "response": "Ekspor Pangan"
     },
     {
-        "instruction": "Siapakah yang disebut \"Eksportir\"?",
+        "instruction": "Siapakah yang disebut Eksportir?",
         "context": "Berdasarkan PP Nomor 29 Tahun 2021, Eksportir adalah orang perseorangan atau lembaga atau badan usaha (berbadan hukum maupun bukan) yang melakukan Ekspor.",
         "response": "Eksportir"
     },
     {
-        "instruction": "Apa definisi \"Energi\"?",
+        "instruction": "Apa definisi Energi?",
         "context": "Sesuai UU Nomor 30 Tahun 2007 dan PP Nomor 79 Tahun 2014, Energi adalah kemampuan untuk melakukan kerja yang dapat berupa panas, cahaya, mekanika, kimia, dan elektromagnetika.",
         "response": "Energi"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Energi baru\"?",
+        "instruction": "Apa yang dimaksud dengan Energi baru?",
         "context": "Menurut UU Nomor 30 Tahun 2007 dan PP Nomor 79 Tahun 2014, Energi baru adalah energi yang berasal dari sumber energi baru.",
         "response": "Energi baru"
     },
     {
-        "instruction": "Apa definisi \"Energi Final\"?",
+        "instruction": "Apa definisi Energi Final?",
         "context": "Berdasarkan PP Nomor 79 Tahun 2014, Energi Final adalah energi yang langsung dapat dikonsumsi oleh pengguna akhir.",
         "response": "Energi Final"
     },
     {
-        "instruction": "Apa itu \"Energi Primer\"?",
+        "instruction": "Apa itu Energi Primer?",
         "context": "Sesuai PP Nomor 79 Tahun 2014, Energi Primer adalah energi yang diberikan oleh alam dan belum mengalami proses pengolahan lebih lanjut.",
         "response": "Energi Primer"
     },
     {
-        "instruction": "Apa pengertian \"Energi terbarukan\"?",
+        "instruction": "Apa pengertian Energi terbarukan?",
         "context": "Menurut UU Nomor 30 Tahun 2007 dan PP Nomor 79 Tahun 2014, Energi terbarukan adalah energi yang berasal dari sumber energi terbarukan.",
         "response": "Energi terbarukan"
     },
     {
-        "instruction": "Jelaskan definisi \"Evaluasi\" dalam peraturan perundang-undangan.",
+        "instruction": "Jelaskan definisi Evaluasi dalam peraturan perundang-undangan.",
         "context": "Evaluasi adalah kegiatan analisis/pembandingan capaian. Konteksnya meliputi: hak Penyandang Disabilitas (PP 70/2019), Perlindungan Anak (PP 59/2019), dan Sistem Peradilan Pidana Anak (PP 8/2017).",
         "response": "Evaluasi"
     },
     {
-        "instruction": "Apa arti istilah \"Ex-officio\"?",
+        "instruction": "Apa arti istilah Ex-officio?",
         "context": "Berdasarkan UU Nomor 21 Tahun 2011, Ex-officio adalah jabatan seseorang pada lembaga tertentu karena tugas dan kewenangannya pada lembaga lain.",
         "response": "Ex-officio"
     }

@@ -1,631 +1,631 @@
 [
     {
-        "instruction": "Apa yang dimaksud dengan \"Daerah Aliran Sungai\"?",
+        "instruction": "Apa yang dimaksud dengan Daerah Aliran Sungai?",
         "context": "Berdasarkan PP No. 26/2020 dan PP No. 69/2014, ini adalah wilayah daratan yang merupakan satu kesatuan dengan sungai dan anak sungainya, yang berfungsi menampung, menyimpan, dan mengalirkan air hujan ke danau atau laut secara alami, dengan batas di darat berupa pemisah topografis dan batas di laut hingga daerah perairan yang masih terpengaruh aktivitas daratan. ",
         "response": "Daerah Aliran Sungai"
     },
     {
-        "instruction": "Apa definisi \"Daerah Lingkungan Pengamatan\"?",
+        "instruction": "Apa definisi Daerah Lingkungan Pengamatan?",
         "context": "Menurut UU Nomor 31 Tahun 2009, ini adalah wilayah di sekitar stasiun pengamatan yang mempunyai pengaruh langsung terhadap hasil pengamatan.",
         "response": "Daerah Lingkungan Pengamatan"
     },
     {
-        "instruction": "Jelaskan definisi \"Daerah Otonom\".",
+        "instruction": "Jelaskan definisi Daerah Otonom.",
         "context": "Sesuai UU No. 15/2014 dan UU No. 14/2013, Daerah Otonom adalah kesatuan masyarakat hukum yang mempunyai batas wilayah yang berwenang mengatur dan mengurus urusan pemerintahan dan kepentingan masyarakat setempat menurut prakarsa sendiri berdasarkan aspirasi masyarakat dalam sistem NKRI. ",
         "response": "Daerah Otonom"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Daerah otonom\" (sebagai daerah)?",
+        "instruction": "Apa yang dimaksud dengan Daerah otonom (sebagai daerah)?",
         "context": "Berdasarkan UU No. 16/2014 dan UU No. 14/2014, istilah ini merujuk pada kesatuan masyarakat hukum dengan batas wilayah tertentu yang berwenang mengatur urusan pemerintahan dan kepentingan masyarakat setempat secara mandiri dalam sistem NKRI.",
         "response": "Daerah otonom, selanjutnya disebut daerah"
     },
     {
-        "instruction": "Apa definisi \"Daerah Pabean\"?",
+        "instruction": "Apa definisi Daerah Pabean?",
         "context": "Menurut UU No. 42/2009 dan UU No. 39/2007, Daerah Pabean adalah wilayah Republik Indonesia yang meliputi wilayah darat, perairan, dan ruang udara di atasnya, serta tempat-tempat tertentu di ZEE dan landas kontinen yang di dalamnya berlaku undang-undang kepabeanan.",
         "response": "Daerah Pabean"
     },
     {
-        "instruction": "Apa itu \"Daftar Hitam Penyelenggara\"?",
+        "instruction": "Apa itu Daftar Hitam Penyelenggara?",
         "context": "Sesuai Permen Kominfo No. 7 Tahun 2018, ini adalah daftar yang memuat identitas direksi, pengurus, dan/atau badan hukum yang dikenai sanksi administratif sesuai peraturan perundang-undangan.",
         "response": "Daftar Hitam Penyelenggara"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Daftar Yayasan\"?",
+        "instruction": "Apa yang dimaksud dengan Daftar Yayasan?",
         "context": "Berdasarkan PP Nomor 63 Tahun 2008, ini adalah daftar yang diadakan oleh Menteri yang memuat catatan resmi mengenai hal-hal yang berkaitan dengan Yayasan.",
         "response": "Daftar Yayasan"
     },
     {
-        "instruction": "Jelaskan apa itu \"DAK\" (Dana Alokasi Khusus).",
+        "instruction": "Jelaskan apa itu DAK (Dana Alokasi Khusus).",
         "context": "Menurut UU No. 6/2021 dan UU No. 9/2020, DAK adalah dana yang bersumber dari APBN kepada daerah tertentu dengan tujuan untuk membantu mendanai kegiatan khusus yang merupakan urusan daerah dan sesuai dengan prioritas nasional.",
         "response": "DAK"
     },
     {
-        "instruction": "Apa definisi \"Dampak Lingkungan Hidup\"?",
+        "instruction": "Apa definisi Dampak Lingkungan Hidup?",
         "context": "Sesuai UU Nomor 32 Tahun 2009, ini adalah pengaruh perubahan pada lingkungan hidup yang diakibatkan oleh suatu usaha dan/atau kegiatan.",
         "response": "Dampak Lingkungan Hidup"
     },
     {
-        "instruction": "Apa itu \"Dana Abadi Daerah\"?",
+        "instruction": "Apa itu Dana Abadi Daerah?",
         "context": "Menurut UU Nomor 1 Tahun 2022, Dana Abadi Daerah adalah dana yang bersumber dari APBD yang bersifat abadi dan dana hasil pengelolaannya dapat digunakan untuk Belanja Daerah dengan tidak mengurangi dana pokok.",
         "response": "Dana Abadi Daerah"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dana Abadi Umat\"?",
+        "instruction": "Apa yang dimaksud dengan Dana Abadi Umat?",
         "context": "Berdasarkan UU No. 34/2014 dan PP No. 79/2012, ini adalah sejumlah dana yang diperoleh dari hasil pengembangan DAU dan/atau sisa biaya operasional penyelenggaraan ibadah haji serta sumber lain yang halal dan tidak mengikat.",
         "response": "Dana Abadi Umat"
     },
     {
-        "instruction": "Apa definisi \"Dana alokasi khusus\"?",
+        "instruction": "Apa definisi Dana alokasi khusus?",
         "context": "Sesuai UU No. 12/2018 dan UU No. 20/2019, ini adalah dana yang bersumber dari APBN kepada daerah tertentu untuk membantu mendanai kegiatan khusus yang merupakan urusan daerah dan sesuai dengan prioritas nasional.",
         "response": "Dana alokasi khusus"
     },
     {
-        "instruction": "Jelaskan apa itu \"Dana alokasi umum\".",
+        "instruction": "Jelaskan apa itu Dana alokasi umum.",
         "context": "Menurut UU No. 12/2018 dan UU No. 20/2019, ini adalah dana yang bersumber dari APBN kepada daerah dengan tujuan pemerataan kemampuan keuangan antardaerah untuk mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
         "response": "Dana alokasi umum"
     },
     {
-        "instruction": "Apa singkatan dan definisi \"DAU\"?",
+        "instruction": "Apa singkatan dan definisi DAU?",
         "context": "Berdasarkan PP Nomor 54 Tahun 2005, Dana Alokasi Umum yang disebut DAU adalah dana dari APBN yang dialokasikan untuk pemerataan kemampuan keuangan antar Daerah guna mendanai kebutuhan Daerah dalam rangka Desentralisasi.",
         "response": "Dana Alokasi Umum, selanjutnya disebut DAU"
     },
     {
-        "instruction": "Apa itu \"Dana Asuransi\"?",
+        "instruction": "Apa itu Dana Asuransi?",
         "context": "Sesuai UU Nomor 40 Tahun 2014, Dana Asuransi adalah kumpulan dana yang berasal dari premi yang dibentuk untuk memenuhi kewajiban yang timbul dari polis yang diterbitkan atau dari klaim asuransi.",
         "response": "Dana Asuransi"
     },
     {
-        "instruction": "Apa definisi \"Dana bagi hasil\"?",
+        "instruction": "Apa definisi Dana bagi hasil?",
         "context": "Menurut UU No. 6/2021 dan UU No. 9/2020, ini adalah dana yang bersumber dari APBN kepada daerah berdasarkan angka persentase tertentu dari pendapatan negara untuk mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
         "response": "Dana bagi hasil"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dana Desa\"?",
+        "instruction": "Apa yang dimaksud dengan Dana Desa?",
         "context": "Berdasarkan PP Nomor 43 Tahun 2014, Dana Desa adalah dana dari APBN yang diperuntukkan bagi Desa, ditransfer melalui APBD kabupaten/kota, dan digunakan untuk membiayai pemerintahan, pembangunan, pembinaan, dan pemberdayaan masyarakat desa.",
         "response": "Dana Desa"
     },
     {
-        "instruction": "Apa itu \"Dana Haji\"?",
+        "instruction": "Apa itu Dana Haji?",
         "context": "Sesuai UU Nomor 34 Tahun 2014, Dana Haji mencakup dana setoran biaya haji, dana efisiensi, dana abadi umat, serta nilai manfaat yang dikuasai negara untuk penyelenggaraan haji dan kemaslahatan umat.",
         "response": "Dana Haji"
     },
     {
-        "instruction": "Jelaskan definisi \"Dana Investasi Pemerintah\".",
+        "instruction": "Jelaskan definisi Dana Investasi Pemerintah.",
         "context": "Menurut UU No. 4/2012 dan UU No. 11/2011, ini adalah dukungan Pemerintah dalam bentuk kompensasi finansial atau bentuk lain yang diberikan kepada Badan Usaha dan Badan Layanan Umum (BLU).",
         "response": "Dana Investasi Pemerintah"
     },
     {
-        "instruction": "Apa definisi \"Dana Jaminan Sosial\"?",
+        "instruction": "Apa definisi Dana Jaminan Sosial?",
         "context": "Sesuai PP No. 73/2016 dan UU No. 24/2011, ini adalah dana amanat milik seluruh peserta (himpunan iuran dan hasil pengembangannya) yang dikelola oleh BPJS untuk pembayaran manfaat dan operasional program jaminan sosial.",
         "response": "Dana Jaminan Sosial"
     },
     {
-        "instruction": "Apa itu \"Dana Kompensasi\" dalam perdagangan berjangka?",
+        "instruction": "Apa itu Dana Kompensasi dalam perdagangan berjangka?",
         "context": "Berdasarkan PP Nomor 49 Tahun 2014, ini adalah dana untuk membayar ganti rugi kepada Nasabah yang bukan Anggota Bursa Berjangka karena cedera janji/kesalahan Anggota Bursa Berjangka.",
         "response": "Dana Kompensasi"
     },
     {
-        "instruction": "Jelaskan pengertian \"Dana Kompensasi Penggunaan TKA\" (DKPTKA).",
+        "instruction": "Jelaskan pengertian Dana Kompensasi Penggunaan TKA (DKPTKA).",
         "context": "Menurut PP No. 34/2021 dan UU No. 1/2022, ini adalah kompensasi yang harus dibayar oleh pemberi kerja Tenaga Kerja Asing (TKA) sebagai Penerimaan Negara Bukan Pajak (PNBP) atau pendapatan daerah.",
         "response": "Dana Kompensasi Penggunaan Tka"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dana Otonomi Khusus\"?",
+        "instruction": "Apa yang dimaksud dengan Dana Otonomi Khusus?",
         "context": "Sesuai UU No. 6/2021, ini adalah dana dari APBN untuk membiayai pelaksanaan otonomi khusus suatu daerah, seperti yang ditetapkan dalam Undang-Undang Otonomi Khusus bagi Provinsi Papua dan Pemerintahan Aceh.",
         "response": "Dana Otonomi Khusus"
     },
     {
-        "instruction": "Apa itu \"Dana penanggulangan bencana\"?",
+        "instruction": "Apa itu Dana penanggulangan bencana?",
         "context": "Berdasarkan PP Nomor 22 Tahun 2008, ini adalah dana yang digunakan bagi penanggulangan bencana untuk tahap pra bencana, saat tanggap darurat, dan/atau pasca bencana.",
         "response": "Dana penanggulangan bencana"
     },
     {
-        "instruction": "Apa definisi \"Dana Penanggulangan Pencemaran dan/atau Kerusakan dan Pemulihan Lingkungan Hidup\"?",
+        "instruction": "Apa definisi Dana Penanggulangan Pencemaran dan/atau Kerusakan dan Pemulihan Lingkungan Hidup?",
         "context": "Menurut PP Nomor 46 Tahun 2017, ini adalah dana yang disiapkan oleh Pemerintah Pusat/Daerah untuk menanggulangi dan memulihkan pencemaran atau kerusakan lingkungan hidup.",
         "response": "Dana Penanggulangan Pencemaran dan/atau Kerusakan dan Pemulihan Lingkungan Hidup"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dana Pensiun\"?",
+        "instruction": "Apa yang dimaksud dengan Dana Pensiun?",
         "context": "Sesuai UU Nomor 21 Tahun 2011, Dana Pensiun adalah badan hukum yang mengelola dan menjalankan program yang menjanjikan manfaat pensiun.",
         "response": "Dana Pensiun"
     },
     {
-        "instruction": "Jelaskan definisi \"Dana perimbangan\".",
+        "instruction": "Jelaskan definisi Dana perimbangan.",
         "context": "Berdasarkan UU No. 12/2018 dan UU No. 20/2019, Dana Perimbangan adalah dana dari APBN kepada daerah untuk mendanai kebutuhan daerah dalam rangka desentralisasi, yang terdiri atas Dana Transfer Umum dan Dana Transfer Khusus. ",
         "response": "Dana perimbangan"
     },
     {
-        "instruction": "Apa itu \"Dana Tabarru\"?",
+        "instruction": "Apa itu Dana Tabarru?",
         "context": "Menurut UU Nomor 40 Tahun 2014, Dana Tabarru adalah kumpulan dana yang berasal dari kontribusi para peserta yang mekanisme penggunaannya sesuai dengan perjanjian Asuransi Syariah.",
         "response": "Dana Tabarru"
     },
     {
-        "instruction": "Apa definisi \"Dana Transfer Khusus\"?",
+        "instruction": "Apa definisi Dana Transfer Khusus?",
         "context": "Sesuai UU No. 15/2017, ini adalah dana yang dialokasikan dalam APBN kepada daerah dengan tujuan untuk membantu mendanai kegiatan khusus, baik fisik maupun nonfisik yang merupakan urusan daerah.",
         "response": "Dana Transfer Khusus"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dana Transfer Umum\"?",
+        "instruction": "Apa yang dimaksud dengan Dana Transfer Umum?",
         "context": "Berdasarkan UU No. 15/2017, ini adalah dana yang dialokasikan dalam APBN kepada daerah untuk digunakan sesuai dengan kewenangan daerah guna mendanai kebutuhan daerah dalam rangka pelaksanaan desentralisasi.",
         "response": "Dana Transfer Umum"
     },
     {
-        "instruction": "Apa definisi \"Data\" dalam industri migas?",
+        "instruction": "Apa definisi Data dalam industri migas?",
         "context": "Menurut PP Nomor 35 Tahun 2004, Data adalah semua fakta, petunjuk, indikasi, dan informasi (tulisan, angka, gambar, media magnetik, dokumen, percontoh batuan, fluida, dll) yang didapat dari hasil Survey Umum, Eksplorasi dan Eksploitasi Minyak dan Gas Bumi.",
         "response": "Data"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Data Elektronik\"?",
+        "instruction": "Apa yang dimaksud dengan Data Elektronik?",
         "context": "Berdasarkan PP Nomor 71 Tahun 2019, ini adalah data berbentuk elektronik yang tidak terbatas pada tulisan, suara, gambar, peta, rancangan, foto, EDI, email, telegram, kode akses, atau simbol.",
         "response": "Data Elektronik"
     },
     {
-        "instruction": "Jelaskan definisi \"Data Geospasial\".",
+        "instruction": "Jelaskan definisi Data Geospasial.",
         "context": "Sesuai UU No. 4/2011 dan PP No. 8/2013, Data Geospasial adalah data tentang lokasi geografis, dimensi atau ukuran, dan/atau karakteristik objek alam dan/atau buatan manusia yang berada di bawah, pada, atau di atas permukaan bumi. ",
         "response": "Data Geospasial"
     },
     {
-        "instruction": "Apa itu \"Data Kependudukan\"?",
+        "instruction": "Apa itu Data Kependudukan?",
         "context": "Menurut UU Nomor 23 Tahun 2006, Data Kependudukan adalah data perseorangan dan/atau data agregat yang terstruktur sebagai hasil dari kegiatan Pendaftaran Penduduk dan Pencatatan Sipil.",
         "response": "Data Kependudukan"
     },
     {
-        "instruction": "Apa definisi \"Data Pembuatan Tanda Tangan Elektronik\"?",
+        "instruction": "Apa definisi Data Pembuatan Tanda Tangan Elektronik?",
         "context": "Berdasarkan PP Nomor 71 Tahun 2019, ini adalah kode pribadi, kode biometrik, kode kriptografi, dan/atau kode yang dihasilkan dari pengubahan tanda tangan manual menjadi Tanda Tangan Elektronik.",
         "response": "Data Pembuatan Tanda Tangan Elektronik"
     },
     {
-        "instruction": "Jelaskan pengertian \"Data Pribadi\".",
+        "instruction": "Jelaskan pengertian Data Pribadi.",
         "context": "Sesuai UU No. 27/2022 dan PP No. 71/2019, Data Pribadi adalah data tentang seseorang yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasi dengan informasi lain, baik secara langsung maupun tidak langsung.",
         "response": "Data Pribadi"
     },
     {
-        "instruction": "Apa yang termasuk dalam \"Data Pribadi Sensitif\"?",
+        "instruction": "Apa yang termasuk dalam Data Pribadi Sensitif?",
         "context": "Menurut RUU Pelindungan Data Pribadi Tahun 2022, ini adalah data pribadi yang memerlukan perlindungan khusus, meliputi data agama/keyakinan, kesehatan, kondisi fisik/mental, kehidupan seksual, data keuangan pribadi, dan data lain yang dapat membahayakan privasi.",
         "response": "Data Pribadi Sensitif"
     },
     {
-        "instruction": "Apa itu \"DAU\"?",
+        "instruction": "Apa itu DAU?",
         "context": "Berdasarkan UU No. 6/2021, DAU (Dana Alokasi Umum) adalah dana dari APBN kepada daerah dengan tujuan pemerataan kemampuan keuangan antardaerah untuk mendanai kebutuhan daerah dalam rangka desentralisasi.",
         "response": "DAU"
     },
     {
-        "instruction": "Apa definisi \"Daya Dukung Lingkungan Hidup\"?",
+        "instruction": "Apa definisi Daya Dukung Lingkungan Hidup?",
         "context": "Sesuai PP Nomor 37 Tahun 2010, ini adalah kemampuan lingkungan hidup untuk mendukung perikehidupan manusia dan makhluk hidup lain.",
         "response": "Daya Dukung Lingkungan Hidup"
     },
     {
-        "instruction": "Jelaskan definisi \"Debitor\" (atau Debitur).",
+        "instruction": "Jelaskan definisi Debitor (atau Debitur).",
         "context": "Menurut PP No. 21/2018 dan UU No. 37/2004, Debitor adalah orang/badan usaha yang berutang atau mempunyai kewajiban membayar sejumlah uang/aset karena perjanjian atau undang-undang.",
         "response": "Debitor"
     },
     {
-        "instruction": "Siapakah \"Debitor Pailit\"?",
+        "instruction": "Siapakah Debitor Pailit?",
         "context": "Berdasarkan UU Nomor 37 Tahun 2004, Debitor Pailit adalah debitor yang sudah dinyatakan pailit dengan putusan Pengadilan.",
         "response": "Debitor Pailit"
     },
     {
-        "instruction": "Apa definisi \"Debitur\"?",
+        "instruction": "Apa definisi Debitur?",
         "context": "Sesuai PP Nomor 21 Tahun 2018, Debitur adalah orang perseorangan atau badan usaha yang berutang atau mempunyai kewajiban membayar sejumlah uang dan/atau aset lainnya.",
         "response": "Debitur"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dekonsentrasi\"?",
+        "instruction": "Apa yang dimaksud dengan Dekonsentrasi?",
         "context": "Menurut UU No. 23/2014 dan UU No. 33/2004, Dekonsentrasi adalah pelimpahan sebagian Urusan Pemerintahan yang menjadi kewenangan Pemerintah Pusat kepada gubernur sebagai wakil Pemerintah Pusat atau kepada instansi vertikal di wilayah tertentu. ",
         "response": "Dekonsentrasi"
     },
     {
-        "instruction": "Jelaskan definisi \"Delegasi\" dalam administrasi negara.",
+        "instruction": "Jelaskan definisi Delegasi dalam administrasi negara.",
         "context": "Berdasarkan UU Nomor 30 Tahun 2014, Delegasi adalah pelimpahan Kewenangan dari Badan/Pejabat Pemerintahan yang lebih tinggi kepada yang lebih rendah dengan tanggung jawab dan tanggung gugat beralih sepenuhnya kepada penerima delegasi.",
         "response": "Delegasi"
     },
     {
-        "instruction": "Apa definisi \"Departemen\" dalam konteks migas?",
+        "instruction": "Apa definisi Departemen dalam konteks migas?",
         "context": "Sesuai PP Nomor 35 Tahun 2004, Departemen adalah departemen yang bidang tugas dan kewenangannya meliputi kegiatan usaha Minyak dan Gas Bumi.",
         "response": "Departemen"
     },
     {
-        "instruction": "Apa itu \"Deportasi\"?",
+        "instruction": "Apa itu Deportasi?",
         "context": "Menurut PP Nomor 31 Tahun 2013, Deportasi adalah tindakan paksa mengeluarkan Orang Asing dari Wilayah Indonesia.",
         "response": "Deportasi"
     },
     {
-        "instruction": "Apa definisi \"Deposito\"?",
+        "instruction": "Apa definisi Deposito?",
         "context": "Berdasarkan UU No. 21/2008 dan PP No. 136/2000, Deposito adalah simpanan (konvensional atau syariah) yang penarikannya hanya dapat dilakukan pada waktu tertentu berdasarkan perjanjian/akad.",
         "response": "Deposito"
     },
     {
-        "instruction": "Siapakah \"Deputi Gubernur\" di DKI Jakarta?",
+        "instruction": "Siapakah Deputi Gubernur di DKI Jakarta?",
         "context": "Sesuai UU Nomor 29 Tahun 2007, Deputi Gubernur (selanjutnya disebut deputi) adalah pejabat yang membantu Gubernur dalam menyelenggarakan Pemerintahan Daerah Provinsi DKI Jakarta karena kedudukannya sebagai Ibukota NKRI.",
         "response": "Deputi Gubernur, selanjutnya disebut deputi"
     },
     {
-        "instruction": "Apa itu \"Deputi Komisioner\"?",
+        "instruction": "Apa itu Deputi Komisioner?",
         "context": "Menurut UU Nomor 4 Tahun 2016, Deputi Komisioner adalah anggota Komisioner.",
         "response": "Deputi Komisioner"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Deradikalisasi\"?",
+        "instruction": "Apa yang dimaksud dengan Deradikalisasi?",
         "context": "Berdasarkan PP Nomor 77 Tahun 2019, Deradikalisasi adalah proses terencana untuk menghilangkan atau mengurangi dan membalikkan pemahaman radikal Terorisme yang telah terjadi.",
         "response": "Deradikalisasi"
     },
     {
-        "instruction": "Apa definisi \"Derivatif Resi Gudang\"?",
+        "instruction": "Apa definisi Derivatif Resi Gudang?",
         "context": "Sesuai UU No. 9/2006 dan PP No. 36/2007, ini adalah turunan Resi Gudang yang dapat berupa kontrak berjangka, opsi, indeks, surat berharga diskonto, unit resi gudang, atau derivatif lainnya sebagai instrumen keuangan.",
         "response": "Derivatif Resi Gudang"
     },
     {
-        "instruction": "Jelaskan definisi \"Desentralisasi\".",
+        "instruction": "Jelaskan definisi Desentralisasi.",
         "context": "Menurut UU No. 23/2014 dan UU No. 32/2004, Desentralisasi adalah penyerahan Urusan Pemerintahan oleh Pemerintah Pusat kepada daerah otonom berdasarkan Asas Otonomi.",
         "response": "Desentralisasi"
     },
     {
-        "instruction": "Siapakah \"Deteni\"?",
+        "instruction": "Siapakah Deteni?",
         "context": "Berdasarkan PP Nomor 31 Tahun 2013, Deteni adalah Orang Asing penghuni Rumah Detensi Imigrasi atau Ruang Detensi Imigrasi yang telah mendapatkan keputusan pendetensian.",
         "response": "Deteni"
     },
     {
-        "instruction": "Apa definisi \"Devisa\"?",
+        "instruction": "Apa definisi Devisa?",
         "context": "Sesuai PP Nomor 1 Tahun 2019, Devisa adalah aset dan kewajiban finansial yang digunakan dalam transaksi internasional.",
         "response": "Devisa"
     },
     {
-        "instruction": "Apa tugas \"Dewan Audit\"?",
+        "instruction": "Apa tugas Dewan Audit?",
         "context": "Menurut berbagai peraturan (PP 38/2010, UU 21/2011, PP 30/2006), Dewan Audit adalah organ yang menjalankan fungsi evaluasi audit (baik di universitas BHMN maupun di lembaga seperti OJK).",
         "response": "Dewan Audit"
     },
     {
-        "instruction": "Siapakah \"Dewan Direksi\"?",
+        "instruction": "Siapakah Dewan Direksi?",
         "context": "Berdasarkan PP Nomor 13 Tahun 2005, Dewan Direksi adalah unsur pimpinan lembaga penyiaran publik yang berwenang dan bertanggung jawab terhadap pengelolaan lembaga tersebut.",
         "response": "Dewan Direksi"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Energi Nasional\"?",
+        "instruction": "Apa fungsi Dewan Energi Nasional?",
         "context": "Sesuai Permen ESDM Nomor 5 Tahun 2020, ini adalah lembaga nasional, mandiri, dan tetap yang bertanggung jawab atas kebijakan energi nasional.",
         "response": "Dewan Energi Nasional"
     },
     {
-        "instruction": "Apa peran \"Dewan Guru Besar\"?",
+        "instruction": "Apa peran Dewan Guru Besar?",
         "context": "Menurut PP No. 16/2014 dan PP No. 68/2013, Dewan Guru Besar adalah organ perguruan tinggi yang menjalankan fungsi pengembangan keilmuan, penegakan etika, integritas moral, dan budaya akademik.",
         "response": "Dewan Guru Besar"
     },
     {
-        "instruction": "Apa itu \"Dewan Insinyur Indonesia\"?",
+        "instruction": "Apa itu Dewan Insinyur Indonesia?",
         "context": "Berdasarkan UU No. 11/2014 dan PP No. 25/2019, ini adalah lembaga pemangku kepentingan dalam penyelenggaraan Keinsinyuran yang berwenang membuat kebijakan dan mengawasi pelaksanaannya.",
         "response": "Dewan Insinyur Indonesia"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Jaminan Sosial Nasional\"?",
+        "instruction": "Apa fungsi Dewan Jaminan Sosial Nasional?",
         "context": "Sesuai UU No. 24/2011 dan PP No. 88/2013, ini adalah dewan yang berfungsi membantu Presiden dalam perumusan kebijakan umum dan sinkronisasi penyelenggaraan Sistem Jaminan Sosial Nasional.",
         "response": "Dewan Jaminan Sosial Nasional"
     },
     {
-        "instruction": "Apa tugas \"Dewan Kawasan\"?",
+        "instruction": "Apa tugas Dewan Kawasan?",
         "context": "Berdasarkan PP Nomor 6 Tahun 2011, Dewan Kawasan adalah dewan yang dibentuk oleh Presiden untuk menetapkan kebijakan, membina, dan mengawasi Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam. Dalam konteks lain (UU 39/2009), ini adalah dewan di tingkat provinsi untuk membantu Dewan Nasional KEK.",
         "response": "Dewan Kawasan"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dewan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas\"?",
+        "instruction": "Apa yang dimaksud dengan Dewan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas?",
         "context": "Menurut PP Nomor 41 Tahun 2021, ini adalah dewan yang dibentuk untuk menetapkan kebijakan umum, membina, mengawasi, dan mengoordinasikan kegiatan Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas.",
         "response": "Dewan Kawasan Perdagangan Bebas Dan Pelabuhan Bebas"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Kehormatan\"?",
+        "instruction": "Apa fungsi Dewan Kehormatan?",
         "context": "Sesuai UU Nomor 22 Tahun 2007, Dewan Kehormatan adalah alat kelengkapan KPU, KPU Provinsi, dan Bawaslu yang dibentuk untuk menangani pelanggaran kode etik Penyelenggara Pemilu.",
         "response": "Dewan Kehormatan"
     },
     {
-        "instruction": "Apa itu \"DKPP\" (Dewan Kehormatan Penyelenggara Pemilu)?",
+        "instruction": "Apa itu DKPP (Dewan Kehormatan Penyelenggara Pemilu)?",
         "context": "Berdasarkan UU Nomor 15 Tahun 2011, DKPP adalah lembaga yang bertugas menangani pelanggaran kode etik Penyelenggara Pemilu dan merupakan satu kesatuan fungsi penyelenggaraan Pemilu.",
         "response": "Dewan Kehormatan Penyelenggara Pemilu, selanjutnya disingkat DKPP"
     },
     {
-        "instruction": "Siapakah \"Dewan Komisaris\"?",
+        "instruction": "Siapakah Dewan Komisaris?",
         "context": "Menurut PP Nomor 47 Tahun 2012, Dewan Komisaris adalah organ Perseroan yang bertugas melakukan pengawasan secara umum dan/atau khusus serta memberi nasihat kepada Direksi.",
         "response": "Dewan Komisaris"
     },
     {
-        "instruction": "Apa definisi \"Dewan Komisioner\" dalam OJK?",
+        "instruction": "Apa definisi Dewan Komisioner dalam OJK?",
         "context": "Sesuai UU Nomor 21 Tahun 2011, Dewan Komisioner adalah pimpinan tertinggi Otoritas Jasa Keuangan (OJK) yang bersifat kolektif dan kolegial.",
         "response": "Dewan Komisioner"
     },
     {
-        "instruction": "Apa itu \"Dewan Komoditas Pertanian Nasional\"?",
+        "instruction": "Apa itu Dewan Komoditas Pertanian Nasional?",
         "context": "Berdasarkan UU Nomor 19 Tahun 2013, ini adalah suatu lembaga yang beranggotakan Asosiasi Komoditas Pertanian untuk memperjuangkan kepentingan Petani.",
         "response": "Dewan Komoditas Pertanian Nasional"
     },
     {
-        "instruction": "Apa peran \"Dewan Koperasi Indonesia\"?",
+        "instruction": "Apa peran Dewan Koperasi Indonesia?",
         "context": "Menurut UU Nomor 17 Tahun 2012, ini adalah organisasi yang didirikan dari dan oleh Gerakan Koperasi untuk memperjuangkan kepentingan dan menyalurkan aspirasi Koperasi.",
         "response": "Dewan Koperasi Indonesia"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dewan kota/dewan kabupaten\"?",
+        "instruction": "Apa yang dimaksud dengan Dewan kota/dewan kabupaten?",
         "context": "Sesuai UU Nomor 29 Tahun 2007 (tentang DKI Jakarta), ini adalah lembaga musyawarah pada tingkat kota/kabupaten untuk peran serta masyarakat dalam penyelenggaraan pembangunan dan peningkatan pelayanan masyarakat.",
         "response": "Dewan kota/dewan kabupaten"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Masyayikh\"?",
+        "instruction": "Apa fungsi Dewan Masyayikh?",
         "context": "Berdasarkan UU Nomor 18 Tahun 2019, Dewan Masyayikh adalah lembaga yang dibentuk oleh Pesantren yang bertugas melaksanakan sistem penjaminan mutu internal Pendidikan Pesantren.",
         "response": "Dewan Masyayikh"
     },
     {
-        "instruction": "Apa tugas \"Dewan Nasional\" dalam KEK?",
+        "instruction": "Apa tugas Dewan Nasional dalam KEK?",
         "context": "Menurut UU Nomor 39 Tahun 2009 dan PP Nomor 12 Tahun 2020, Dewan Nasional adalah dewan yang dibentuk di tingkat nasional untuk menyelenggarakan Kawasan Ekonomi Khusus (KEK).",
         "response": "Dewan Nasional"
     },
     {
-        "instruction": "Siapakah \"Dewan Pengawas\" dalam BUMD?",
+        "instruction": "Siapakah Dewan Pengawas dalam BUMD?",
         "context": "Sesuai Permendagri Nomor 118 Tahun 2018, Dewan Pengawas adalah organ perusahaan umum daerah yang bertugas melakukan pengawasan dan memberikan nasihat kepada direksi.",
         "response": "Dewan Pengawas"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Pengawas Komisi Pemberantasan Korupsi\"?",
+        "instruction": "Apa fungsi Dewan Pengawas Komisi Pemberantasan Korupsi?",
         "context": "Berdasarkan PP Nomor 4 Tahun 2020, ini adalah dewan yang dibentuk untuk mengawasi pelaksanaan tugas dan wewenang Komisi Pemberantasan Korupsi (KPK).",
         "response": "Dewan Pengawas Komisi Pemberantasan Korupsi"
     },
     {
-        "instruction": "Apa tugas \"Dewan Pengawas Syariah\"?",
+        "instruction": "Apa tugas Dewan Pengawas Syariah?",
         "context": "Menurut PP Nomor 35 Tahun 2018, ini adalah bagian dari organ Perusahaan yang bertugas mengawasi penyelenggaraan kegiatan agar sesuai dengan Prinsip Syariah.",
         "response": "Dewan Pengawas Syariah"
     },
     {
-        "instruction": "Apa itu \"Dewan Pertimbangan Dan Pengawasan Disiplin Militer\"?",
+        "instruction": "Apa itu Dewan Pertimbangan Dan Pengawasan Disiplin Militer?",
         "context": "Sesuai UU Nomor 25 Tahun 2014, ini adalah dewan bersifat ad hoc di lingkungan internal TNI yang bertugas memberikan pertimbangan, rekomendasi, dan pengawasan atas pelaksanaan penegakan Hukum Disiplin Militer.",
         "response": "Dewan Pertimbangan Dan Pengawasan Disiplin Militer"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Pertimbangan Otonomi Daerah\"?",
+        "instruction": "Apa fungsi Dewan Pertimbangan Otonomi Daerah?",
         "context": "Berdasarkan PP Nomor 43 Tahun 2010, ini adalah dewan yang memberikan saran dan pertimbangan kepada Presiden terhadap kebijakan otonomi daerah.",
         "response": "Dewan Pertimbangan Otonomi Daerah"
     },
     {
-        "instruction": "Apa definisi \"Dewan Pertimbangan Presiden\" (Wantimpres)?",
+        "instruction": "Apa definisi Dewan Pertimbangan Presiden (Wantimpres)?",
         "context": "Menurut UU Nomor 19 Tahun 2006, Wantimpres adalah lembaga pemerintah yang bertugas memberikan nasihat dan pertimbangan kepada Presiden sebagaimana dimaksud dalam Pasal 16 UUD 1945.",
         "response": "Dewan Pertimbangan Presiden"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"DPD\" (Dewan Perwakilan Daerah)?",
+        "instruction": "Apa yang dimaksud dengan DPD (Dewan Perwakilan Daerah)?",
         "context": "Sesuai UU Nomor 27 Tahun 2009, DPD adalah Dewan Perwakilan Daerah sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
         "response": "Dewan Perwakilan Daerah, selanjutnya disingkat DPD"
     },
     {
-        "instruction": "Apa definisi \"Dewan Perwakilan Rakyat\" (DPR)?",
+        "instruction": "Apa definisi Dewan Perwakilan Rakyat (DPR)?",
         "context": "Berdasarkan UU Nomor 34 Tahun 2014 dan UU Nomor 7 Tahun 2012, DPR adalah Dewan Perwakilan Rakyat sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
         "response": "Dewan Perwakilan Rakyat"
     },
     {
-        "instruction": "Apa itu \"DPRD\" (Dewan Perwakilan Rakyat Daerah)?",
+        "instruction": "Apa itu DPRD (Dewan Perwakilan Rakyat Daerah)?",
         "context": "Menurut UU Nomor 7 Tahun 2012 dan UU Nomor 9 Tahun 2010, DPRD adalah lembaga perwakilan rakyat daerah sebagai unsur penyelenggara pemerintahan daerah.",
         "response": "Dewan Perwakilan Rakyat Daerah, selanjutnya disingkat DPRD"
     },
     {
-        "instruction": "Siapakah \"Dewan Perwakilan Rakyat Kabupaten/Kota\"?",
+        "instruction": "Siapakah Dewan Perwakilan Rakyat Kabupaten/Kota?",
         "context": "Sesuai PP Nomor 20 Tahun 2007, ini adalah unsur penyelenggara pemerintahan daerah kabupaten/kota yang anggotanya dipilih melalui pemilihan umum.",
         "response": "Dewan Perwakilan Rakyat Kabupaten/Kota"
     },
     {
-        "instruction": "Apa itu \"DPRK\"?",
+        "instruction": "Apa itu DPRK?",
         "context": "Berdasarkan PP Nomor 3 Tahun 2015, Dewan Perwakilan Rakyat Kabupaten/Kota (DPRK) adalah unsur penyelenggara pemerintahan daerah kabupaten/kota yang anggotanya dipilih melalui pemilihan umum.",
         "response": "Dewan Perwakilan Rakyat kabupaten/kota (DPRK)"
     },
     {
-        "instruction": "Apa definisi hukum dari \"Dewan Perwakilan Rakyat\" dalam konteks undang-undang ini?",
+        "instruction": "Apa definisi hukum dari Dewan Perwakilan Rakyat dalam konteks undang-undang ini?",
         "context": "Menurut UU Nomor 34 Tahun 2014 dan UU Nomor 7 Tahun 2012, ini merujuk pada Dewan Perwakilan Rakyat (DPR) sebagaimana dimaksud dalam UUD 1945. (Catatan: Terdapat ketidaksesuaian singkatan pada teks sumber).",
         "response": "Dewan Perwakilan Rakyat, selanjutnya disingkat DPRD"
     },
     {
-        "instruction": "Apa fungsi \"Dewan Profesor\"?",
+        "instruction": "Apa fungsi Dewan Profesor?",
         "context": "Sesuai PP Nomor 52 Tahun 2015, Dewan Profesor adalah perangkat Senat Akademik (SA) yang menjalankan fungsi pengembangan keilmuan, penegakan etika, dan pengembangan budaya akademik.",
         "response": "Dewan Profesor"
     },
     {
-        "instruction": "Apa itu \"Dinas Kabupaten/Kota\"?",
+        "instruction": "Apa itu Dinas Kabupaten/Kota?",
         "context": "Menurut Permenhut Nomor P.30/MENHUT-II/2014, ini adalah Dinas yang diserahi tugas dan bertanggung jawab di bidang kehutanan di Kabupaten/Kota.",
         "response": "Dinas Kabupaten/Kota"
     },
     {
-        "instruction": "Apa definisi \"Dinas Provinsi\"?",
+        "instruction": "Apa definisi Dinas Provinsi?",
         "context": "Berdasarkan Permenaker Nomor 33 Tahun 2016 dan Permenhut Nomor P.30/MENHUT-II/2014, ini adalah dinas yang menyelenggarakan urusan pemerintahan bidang ketenagakerjaan atau kehutanan di tingkat provinsi.",
         "response": "Dinas Provinsi"
     },
     {
-        "instruction": "Apa tugas \"Direksi\"?",
+        "instruction": "Apa tugas Direksi?",
         "context": "Sesuai PP Nomor 47 Tahun 2012, Permendagri 118/2018, dan UU 19/2003, Direksi adalah organ Perseroan/BUMD/BUMN yang berwenang dan bertanggung jawab penuh atas pengurusan perusahaan untuk kepentingan dan tujuan perusahaan serta mewakilinya di dalam dan luar pengadilan.",
         "response": "Direksi"
     },
     {
-        "instruction": "Apa itu \"Direktorat Jenderal\"?",
+        "instruction": "Apa itu Direktorat Jenderal?",
         "context": "Menurut PP Nomor 90 Tahun 2019 dan Permen ESDM Nomor 36 Tahun 2017, ini adalah unit eselon I di bawah Menteri yang mempunyai tugas di bidang tertentu (misalnya kekayaan intelektual atau panas bumi).",
         "response": "Direktorat Jenderal"
     },
     {
-        "instruction": "Apa fungsi \"Direktorat Jenderal Imigrasi\"?",
+        "instruction": "Apa fungsi Direktorat Jenderal Imigrasi?",
         "context": "Berdasarkan UU Nomor 6 Tahun 2011, ini adalah unsur pelaksana tugas dan fungsi Kementerian Hukum dan HAM di bidang Keimigrasian.",
         "response": "Direktorat Jenderal Imigrasi"
     },
     {
-        "instruction": "Siapakah \"Direktur\" dalam konteks regulasi kehutanan ini?",
+        "instruction": "Siapakah Direktur dalam konteks regulasi kehutanan ini?",
         "context": "Sesuai Permenhut Nomor P.30/MENHUT-II/2014, Direktur adalah pejabat yang diserahi tugas dan bertanggung jawab di bidang bina usaha hutan tanaman.",
         "response": "Direktur"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Direktur Jenderal\"?",
+        "instruction": "Apa yang dimaksud dengan Direktur Jenderal?",
         "context": "Menurut PP No. 90/2019, Permenkumham No. 15/2019, dan PermenLHK No. P.101/2018, ini adalah pejabat eselon I yang memimpin Direktorat Jenderal, misalnya Direktur Jenderal Administrasi Hukum Umum atau yang bertanggung jawab di bidang pengelolaan Limbah B3.",
         "response": "Direktur Jenderal"
     },
     {
-        "instruction": "Apa definisi \"Disinsentif\" dalam konteks lingkungan hidup?",
+        "instruction": "Apa definisi Disinsentif dalam konteks lingkungan hidup?",
         "context": "Berdasarkan PP Nomor 46 Tahun 2017, Disinsentif adalah pengenaan beban atau ancaman (moneter/non-moneter) kepada orang/pemerintah untuk mengurangi kegiatan yang berdampak negatif pada sumber daya alam dan lingkungan hidup.",
         "response": "Disinsentif"
     },
     {
-        "instruction": "Jelaskan pengertian \"Disiplin Militer\".",
+        "instruction": "Jelaskan pengertian Disiplin Militer.",
         "context": "Sesuai UU Nomor 25 Tahun 2014, Disiplin Militer adalah kesadaran, kepatuhan, dan ketaatan untuk melaksanakan peraturan perundang-undangan, peraturan kedinasan, dan tata kehidupan yang berlaku bagi Militer.",
         "response": "Disiplin Militer"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Disiplin Pegawai Negeri Sipil\"?",
+        "instruction": "Apa yang dimaksud dengan Disiplin Pegawai Negeri Sipil?",
         "context": "Menurut PP Nomor 53 Tahun 2010, ini adalah kesanggupan PNS untuk menaati kewajiban dan menghindari larangan yang ditentukan dalam peraturan, yang jika dilanggar akan dijatuhi hukuman disiplin.",
         "response": "Disiplin Pegawai Negeri Sipil"
     },
     {
-        "instruction": "Apa definisi \"Disiplin PNS\"?",
+        "instruction": "Apa definisi Disiplin PNS?",
         "context": "Berdasarkan PP Nomor 53 Tahun 2010, Disiplin PNS adalah kesanggupan Pegawai Negeri Sipil untuk menaati kewajiban dan menghindari larangan yang ditentukan dalam peraturan perundang-undangan dan/atau peraturan kedinasan.",
         "response": "Disiplin PNS"
     },
     {
-        "instruction": "Jelaskan apa itu \"Diskresi\" dalam administrasi negara.",
+        "instruction": "Jelaskan apa itu Diskresi dalam administrasi negara.",
         "context": "Menurut UU Nomor 30 Tahun 2014, Diskresi adalah keputusan/tindakan Pejabat Pemerintahan untuk mengatasi persoalan konkret ketika peraturan perundang-undangan tidak mengatur, tidak lengkap, tidak jelas, atau terjadi stagnasi pemerintahan. ",
         "response": "Diskresi"
     },
     {
-        "instruction": "Apa definisi \"Diskriminasi\" terhadap penyandang disabilitas?",
+        "instruction": "Apa definisi Diskriminasi terhadap penyandang disabilitas?",
         "context": "Sesuai UU Nomor 8 Tahun 2016, Diskriminasi adalah setiap pembedaan, pengecualian, pembatasan, pelecehan, atau pengucilan atas dasar disabilitas yang bermaksud/berdampak pada pembatasan hak Penyandang Disabilitas.",
         "response": "Diskriminasi"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Diskriminasi ras dan etnis\"?",
+        "instruction": "Apa yang dimaksud dengan Diskriminasi ras dan etnis?",
         "context": "Berdasarkan PP No. 56/2010 dan UU No. 40/2008, ini adalah segala bentuk pembedaan, pengecualian, pembatasan, atau pemilihan berdasarkan ras dan etnis yang mengakibatkan pencabutan/pengurangan hak asasi manusia.",
         "response": "Diskriminasi ras dan etnis"
     },
     {
-        "instruction": "Apa definisi \"Dispensasi\"?",
+        "instruction": "Apa definisi Dispensasi?",
         "context": "Menurut UU Nomor 30 Tahun 2014, Dispensasi adalah keputusan Pejabat Pemerintahan yang merupakan wujud persetujuan atas permohonan warga sebagai pengecualian terhadap suatu larangan atau perintah sesuai peraturan.",
         "response": "Dispensasi"
     },
     {
-        "instruction": "Jelaskan apa itu \"Distribusi\".",
+        "instruction": "Jelaskan apa itu Distribusi.",
         "context": "Sesuai UU No. 7/2014 dan PP No. 29/2021, Distribusi adalah kegiatan penyaluran Barang secara langsung atau tidak langsung kepada konsumen. ",
         "response": "Distribusi"
     },
     {
-        "instruction": "Siapakah \"Distributor\"?",
+        "instruction": "Siapakah Distributor?",
         "context": "Berdasarkan PP No. 29/2021 dan Permendag No. 22/2016, Distributor adalah Pelaku Usaha Distribusi yang bertindak atas namanya sendiri dan/atau atas penunjukan dari Produsen/Importir untuk melakukan pemasaran Barang.",
         "response": "Distributor"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Distrik\" di Papua?",
+        "instruction": "Apa yang dimaksud dengan Distrik di Papua?",
         "context": "Menurut UU Nomor 21 Tahun 2001, Distrik adalah wilayah kerja Kepala Distrik sebagai perangkat daerah Kabupaten/Kota (setingkat kecamatan).",
         "response": "Distrik"
     },
     {
-        "instruction": "Jelaskan perubahan istilah \"Distrik, yang dahulu dikenal dengan kecamatan\".",
+        "instruction": "Jelaskan perubahan istilah Distrik, yang dahulu dikenal dengan kecamatan.",
         "context": "Sesuai UU Nomor 23 Tahun 2012, ini merujuk pada wilayah kerja sebagaimana dimaksud dalam UU Otonomi Khusus bagi Provinsi Papua (menggantikan istilah kecamatan).",
         "response": "Distrik, yang dahulu dikenal dengan kecamatan"
     },
     {
-        "instruction": "Apa definisi \"Diversifikasi energi\"?",
+        "instruction": "Apa definisi Diversifikasi energi?",
         "context": "Berdasarkan UU No. 30/2007 dan PP No. 79/2014, Diversifikasi energi adalah penganekaragaman pemanfaatan sumber energi.",
         "response": "Diversifikasi energi"
     },
     {
-        "instruction": "Apa itu \"Diversifikasi Usaha\" dalam pertanian?",
+        "instruction": "Apa itu Diversifikasi Usaha dalam pertanian?",
         "context": "Menurut Permentan Nomor 98 Tahun 2013, ini adalah penganekaragaman usaha untuk memaksimalkan keuntungan dengan mengutamakan usaha di bidang perkebunan.",
         "response": "Diversifikasi Usaha"
     },
     {
-        "instruction": "Apa definisi \"Divestasi\"?",
+        "instruction": "Apa definisi Divestasi?",
         "context": "Sesuai PP Nomor 63 Tahun 2019, Divestasi adalah penjualan surat berharga dan/atau kepemilikan Pemerintah baik sebagian atau keseluruhan kepada pihak lain.",
         "response": "Divestasi"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Divestasi saham\"?",
+        "instruction": "Apa yang dimaksud dengan Divestasi saham?",
         "context": "Berdasarkan PP No. 23/2010 dan Permen ESDM No. 25/2018, Divestasi saham adalah jumlah saham asing yang harus ditawarkan untuk dijual kepada peserta Indonesia (dalam usaha pertambangan).",
         "response": "Divestasi saham"
     },
     {
-        "instruction": "Apa fungsi \"DJSN\" (Dewan Jaminan Sosial Nasional)?",
+        "instruction": "Apa fungsi DJSN (Dewan Jaminan Sosial Nasional)?",
         "context": "Menurut PP No. 88/2013 dan UU No. 24/2011, DJSN adalah dewan yang berfungsi membantu Presiden dalam perumusan kebijakan umum dan sinkronisasi penyelenggaraan Sistem Jaminan Sosial Nasional.",
         "response": "DJSN"
     },
     {
-        "instruction": "Apa tugas \"DKPP\"?",
+        "instruction": "Apa tugas DKPP?",
         "context": "Sesuai UU No. 7/2017 dan UU No. 8/2015, DKPP (Dewan Kehormatan Penyelenggara Pemilu) adalah lembaga yang bertugas menangani pelanggaran kode etik Penyelenggara Pemilu.",
         "response": "DKPP"
     },
     {
-        "instruction": "Apa itu \"DMO\" (Domestic Market Obligation)?",
+        "instruction": "Apa itu DMO (Domestic Market Obligation)?",
         "context": "Berdasarkan PP Nomor 53 Tahun 2017, DMO adalah kewajiban penyerahan bagian Kontraktor berupa Minyak Bumi dan/atau Gas Bumi untuk memenuhi kebutuhan dalam negeri.",
         "response": "DMO"
     },
     {
-        "instruction": "Jelaskan definisi \"Dokumen\".",
+        "instruction": "Jelaskan definisi Dokumen.",
         "context": "Menurut UU No. 10/2020 dan Permenkes No. 269/2008, Dokumen adalah sesuatu yang ditulis/tulisan (termasuk elektronik) yang dapat dipakai sebagai alat bukti, atau catatan medis/kesehatan.",
         "response": "Dokumen"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"Dokumen Cukai\"?",
+        "instruction": "Apa yang dimaksud dengan Dokumen Cukai?",
         "context": "Sesuai UU Nomor 39 Tahun 2007, Dokumen Cukai adalah dokumen yang digunakan dalam rangka pelaksanaan undang-undang cukai dalam bentuk formulir atau media elektronik.",
         "response": "Dokumen Cukai"
     },
     {
-        "instruction": "Apa definisi \"Dokumen Elektronik\"?",
+        "instruction": "Apa definisi Dokumen Elektronik?",
         "context": "Berdasarkan PP No. 71/2019 dan peraturan terkait lainnya, Dokumen Elektronik adalah setiap Informasi Elektronik (analog/digital) yang dapat dilihat/didengar melalui komputer/sistem elektronik, termasuk tulisan, suara, gambar, peta, rancangan, dll.",
         "response": "Dokumen Elektronik"
     },
     {
-        "instruction": "Apa saja yang termasuk \"Dokumen Keimigrasian\"?",
+        "instruction": "Apa saja yang termasuk Dokumen Keimigrasian?",
         "context": "Menurut PP Nomor 31 Tahun 2013, ini mencakup Dokumen Perjalanan Republik Indonesia dan Izin Tinggal yang dikeluarkan oleh Pejabat Imigrasi atau Pejabat Dinas Luar Negeri.",
         "response": "Dokumen Keimigrasian"
     },
     {
-        "instruction": "Apa itu \"Dokumen Kependudukan\"?",
+        "instruction": "Apa itu Dokumen Kependudukan?",
         "context": "Sesuai UU Nomor 23 Tahun 2006, Dokumen Kependudukan adalah dokumen resmi yang diterbitkan oleh Instansi Pelaksana yang mempunyai kekuatan hukum sebagai alat bukti autentik hasil pelayanan Pendaftaran Penduduk dan Pencatatan Sipil (misal: KTP, KK).",
         "response": "Dokumen Kependudukan"
     },
     {
-        "instruction": "Apa definisi \"Dokumen Lingkungan Hidup\"?",
+        "instruction": "Apa definisi Dokumen Lingkungan Hidup?",
         "context": "Berdasarkan PP Nomor 32 Tahun 2009, ini adalah dokumen yang berisi upaya pengelolaan dan pemantauan lingkungan hidup (AMDAL, UKL-UPL) sesuai persyaratan perundang-undangan.",
         "response": "Dokumen Lingkungan Hidup"
     },
     {
-        "instruction": "Jelaskan apa itu \"Dokumen pengelolaan lingkungan hidup\".",
+        "instruction": "Jelaskan apa itu Dokumen pengelolaan lingkungan hidup.",
         "context": "Sesuai PP Nomor 37 Tahun 2010, ini adalah dokumen yang berisi upaya pengelolaan dan pemantauan lingkungan hidup, terdiri atas dokumen AMDAL atau dokumen UKL-UPL.",
         "response": "Dokumen pengelolaan lingkungan hidup"
     },
     {
-        "instruction": "Apa definisi \"Dokumen Perjalanan\"?",
+        "instruction": "Apa definisi Dokumen Perjalanan?",
         "context": "Menurut PP Nomor 31 Tahun 2013, Dokumen Perjalanan adalah dokumen resmi yang dikeluarkan oleh pejabat berwenang (negara/PBB) untuk perjalanan antarnegara yang memuat identitas pemegangnya, termasuk Paspor RI dan Surat Perjalanan Laksana Paspor.",
         "response": "Dokumen Perjalanan"
     },
     {
-        "instruction": "Apa saja yang termasuk \"Dokumen Perjalanan Republik Indonesia\"?",
+        "instruction": "Apa saja yang termasuk Dokumen Perjalanan Republik Indonesia?",
         "context": "Berdasarkan UU Nomor 6 Tahun 2011 dan PP Nomor 31 Tahun 2013, ini terdiri dari Paspor Republik Indonesia dan Surat Perjalanan Laksana Paspor Republik Indonesia. ",
         "response": "Dokumen Perjalanan Republik Indonesia"
     },
     {
-        "instruction": "Siapakah \"Dosen\"?",
+        "instruction": "Siapakah Dosen?",
         "context": "Menurut UU No. 12/2012 dan PP terkait, Dosen adalah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan IPTEK melalui Tri Dharma Perguruan Tinggi (Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat).",
         "response": "Dosen"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"DPD\"?",
+        "instruction": "Apa yang dimaksud dengan DPD?",
         "context": "Berdasarkan UU Nomor 15 Tahun 2019 dan UU Nomor 17 Tahun 2014, DPD adalah Dewan Perwakilan Daerah sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
         "response": "DPD"
     },
     {
-        "instruction": "Apa definisi \"DPR\"?",
+        "instruction": "Apa definisi DPR?",
         "context": "Sesuai UU Nomor 15 Tahun 2019 dan UU Nomor 1 Tahun 2014, DPR adalah Dewan Perwakilan Rakyat sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
         "response": "DPR"
     },
     {
-        "instruction": "Jelaskan apa itu \"DPRD\".",
+        "instruction": "Jelaskan apa itu DPRD.",
         "context": "Menurut PP Nomor 54 Tahun 2017 dan UU Nomor 15 Tahun 2019, DPRD (Dewan Perwakilan Rakyat Daerah) adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai unsur penyelenggara pemerintahan daerah.",
         "response": "DPRD"
     },
     {
-        "instruction": "Apa definisi \"DPRD Provinsi\"?",
+        "instruction": "Apa definisi DPRD Provinsi?",
         "context": "Berdasarkan UU Nomor 8 Tahun 2015, ini adalah lembaga perwakilan rakyat daerah di provinsi yang berkedudukan sebagai unsur penyelenggara Pemerintahan Daerah.",
         "response": "DPRD Provinsi"
     },
     {
-        "instruction": "Apa yang dimaksud dengan \"DPRK\"?",
+        "instruction": "Apa yang dimaksud dengan DPRK?",
         "context": "Sesuai UU Nomor 2 Tahun 2021 dan UU Nomor 8 Tahun 2015, DPRK adalah lembaga perwakilan rakyat daerah kabupaten/kota yang berkedudukan sebagai salah satu unsur penyelenggara pemerintahan daerah kabupaten/kota (biasanya terkait daerah otonomi khusus).",
         "response": "DPRK"
     },
     {
-        "instruction": "Apa itu \"DPRP\"?",
+        "instruction": "Apa itu DPRP?",
         "context": "Menurut UU Nomor 21 Tahun 2001, DPRP adalah Dewan Perwakilan Rakyat Daerah Provinsi Papua yang bertindak sebagai badan legislatif Daerah Provinsi Papua.",
         "response": "DPRP"
     }
