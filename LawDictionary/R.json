@@ -472,7 +472,7 @@
   {
     "instruction": "Apa arti Res?",
     "context": "Benda atau hal (Latin).",
-    "response": "N. (baca: rayz) Benda/Hal (Res); istilah Latin untuk \"benda\"."
+    "response": "N. (baca: rayz) Benda/Hal (Res); istilah Latin untuk benda."
   },
   {
     "instruction": "Apa itu Res Adjudicata?",
@@ -612,7 +612,7 @@
   {
     "instruction": "Apa itu Restrictive Endorsement?",
     "context": "Endosemen cek dengan batasan (misal: 'hanya untuk deposit').",
-    "response": "N. Endosemen terbatas; tanda tangan di belakang cek yang membatasi kepada siapa cek itu bisa dialihkan (misal: \"hanya untuk disetor\")."
+    "response": "N. Endosemen terbatas; tanda tangan di belakang cek yang membatasi kepada siapa cek itu bisa dialihkan (misal: hanya untuk disetor)."
   },
   {
     "instruction": "Apa arti Result?",

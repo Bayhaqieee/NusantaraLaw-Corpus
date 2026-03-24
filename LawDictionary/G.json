@@ -27,12 +27,12 @@
   {
     "instruction": "Apa itu Kehadiran Umum (General Appearance)?",
     "context": "Tindakan pengacara mewakili klien secara penuh di pengadilan.",
-    "response": "N. Kehadiran umum; perwakilan pengacara atas klien di pengadilan untuk semua tujuan yang terkait dengan gugatan atau penuntutan yang tertunda. Setelah \"muncul\", pengacara bertanggung jawab atas semua penampilan masa depan kecuali dibebastugaskan secara resmi."
+    "response": "N. Kehadiran umum; perwakilan pengacara atas klien di pengadilan untuk semua tujuan yang terkait dengan gugatan atau penuntutan yang tertunda. Setelah muncul, pengacara bertanggung jawab atas semua penampilan masa depan kecuali dibebastugaskan secara resmi."
   },
   {
     "instruction": "Siapa itu Penasihat Umum (General Counsel)?",
     "context": "Kepala pengacara internal perusahaan.",
-    "response": "N. Penasihat umum (General Counsel); kepala pengacara untuk sebuah korporasi, yang biasanya dibayar penuh waktu (in-house). Pengacara yang bekerja hanya untuk satu bisnis disebut \"house counsel.\""
+    "response": "N. Penasihat umum (General Counsel); kepala pengacara untuk sebuah korporasi, yang biasanya dibayar penuh waktu (in-house). Pengacara yang bekerja hanya untuk satu bisnis disebut house counsel."
   },
   {
     "instruction": "Apa itu Ganti Rugi Umum (General Damages)?",
@@ -57,7 +57,7 @@
   {
     "instruction": "Apa itu Melompati Generasi (Generation Skipping)?",
     "context": "Memberikan warisan langsung ke cucu untuk menghindari pajak ganda.",
-    "response": "Adj., Adv. Melompati generasi; merujuk pada hadiah yang dibuat melalui perwalian (trust) oleh kakek-nenek kepada cucu, melewati anak (orang tua cucu). Awalnya dimaksudkan untuk menghindari pajak warisan federal, tetapi sekarang dikenakan \"pajak pelompatan generasi.\""
+    "response": "Adj., Adv. Melompati generasi; merujuk pada hadiah yang dibuat melalui perwalian (trust) oleh kakek-nenek kepada cucu, melewati anak (orang tua cucu). Awalnya dimaksudkan untuk menghindari pajak warisan federal, tetapi sekarang dikenakan pajak pelompatan generasi."
   },
   {
     "instruction": "Apa definisi Hadiah (Gift)?",
@@ -82,7 +82,7 @@
   {
     "instruction": "Apa itu Alasan yang Sah (Good Cause)?",
     "context": "Alasan hukum yang cukup untuk keputusan hakim.",
-    "response": "N. Alasan yang sah/baik; alasan yang cukup secara hukum untuk putusan atau tindakan lain oleh hakim. Bahasa umumnya: \"Dengan ditunjukkannya alasan yang baik, pengadilan memerintahkan...\""
+    "response": "N. Alasan yang sah/baik; alasan yang cukup secara hukum untuk putusan atau tindakan lain oleh hakim. Bahasa umumnya: Dengan ditunjukkannya alasan yang baik, pengadilan memerintahkan..."
   },
   {
     "instruction": "Apa arti Itikad Baik (Good Faith)?",
@@ -177,7 +177,7 @@
   {
     "instruction": "Apa arti Gravamen?",
     "context": "Inti dari tuduhan atau gugatan.",
-    "response": "N. Inti tuduhan (Gravamen); bahasa Latin untuk \"membebani,\" inti dari setiap klaim (dasar gugatan) atau tuduhan dalam keluhan yang diajukan untuk memulai gugatan (misal: dalam kasus kecelakaan, gravamennya adalah kelalaian)."
+    "response": "N. Inti tuduhan (Gravamen); bahasa Latin untuk membebani, inti dari setiap klaim (dasar gugatan) atau tuduhan dalam keluhan yang diajukan untuk memulai gugatan (misal: dalam kasus kecelakaan, gravamennya adalah kelalaian)."
   },
   {
     "instruction": "Apa itu Pendapatan Kotor (Gross Income)?",
@@ -217,7 +217,7 @@
   {
     "instruction": "Apa arti Tamu (Guest) dalam hukum?",
     "context": "Bisa tamu hotel (berbayar) atau tamu sosial (gratis), yang memiliki hak berbeda.",
-    "response": "N. Tamu; 1) Orang yang membayar untuk menginap di hotel (punya hak keamanan tinggi). 2) Orang yang tinggal di kediaman orang lain tanpa biaya (\"tamu sosial\")."
+    "response": "N. Tamu; 1) Orang yang membayar untuk menginap di hotel (punya hak keamanan tinggi). 2) Orang yang tinggal di kediaman orang lain tanpa biaya (tamu sosial)."
   },
   {
     "instruction": "Apa itu Undang-undang Tamu (Guest Statute)?",
@@ -227,6 +227,6 @@
   {
     "instruction": "Apa arti Bersalah (Guilty)?",
     "context": "Status terbukti melakukan kejahatan.",
-    "response": "Adj. Bersalah; telah dihukum karena kejahatan atau telah mengakui melakukan kejahatan dengan memohon \"bersalah\" (pleading guilty)."
+    "response": "Adj. Bersalah; telah dihukum karena kejahatan atau telah mengakui melakukan kejahatan dengan memohon bersalah (pleading guilty)."
   }
 ]

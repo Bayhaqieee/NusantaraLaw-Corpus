@@ -2,7 +2,7 @@
   {
     "instruction": "Apa yang dimaksud dengan a fortiori?",
     "context": "Istilah ini berasal dari bahasa Latin yang sering digunakan dalam logika hukum untuk menarik kesimpulan yang lebih kuat.",
-    "response": "Prep. Bahasa Latin untuk \"dengan alasan yang lebih kuat\". Ini berlaku pada situasi di mana jika satu hal benar, maka dapat disimpulkan bahwa hal kedua bahkan lebih pasti benar. Contohnya: Jika Ahmad terlalu muda untuk menjabat sebagai administrator, maka adiknya yang lebih muda pasti juga terlalu muda."
+    "response": "Prep. Bahasa Latin untuk dengan alasan yang lebih kuat. Ini berlaku pada situasi di mana jika satu hal benar, maka dapat disimpulkan bahwa hal kedua bahkan lebih pasti benar. Contohnya: Jika Ahmad terlalu muda untuk menjabat sebagai administrator, maka adiknya yang lebih muda pasti juga terlalu muda."
   },
   {
     "instruction": "Apa definisi dari a priori assumption?",
@@ -12,12 +12,12 @@
   {
     "instruction": "Apa kepanjangan dan arti dari a.k.a.?",
     "context": "Singkatan ini sering digunakan ketika seseorang menggunakan nama samaran atau alias dalam dokumen hukum atau kepolisian.",
-    "response": "Prep. Singkatan untuk \"also known as\" (juga dikenal sebagai) ketika seseorang menggunakan inisial berbeda, nama panggilan, nama gadis, atau nama pernikahan. Contoh: Budi G. Santoso, a.k.a. Budi Santoso, a.k.a. B. G. Santoso."
+    "response": "Prep. Singkatan untuk also known as (juga dikenal sebagai) ketika seseorang menggunakan inisial berbeda, nama panggilan, nama gadis, atau nama pernikahan. Contoh: Budi G. Santoso, a.k.a. Budi Santoso, a.k.a. B. G. Santoso."
   },
   {
     "instruction": "Apa arti istilah hukum ab initio?",
     "context": "Bahasa Latin yang sering digunakan oleh pengacara untuk menjelaskan status hukum sesuatu sejak awal mula.",
-    "response": "Prep. Bahasa Latin pengacara untuk \"dari awal\", seperti dalam kalimat \"hal tersebut sah secara hukum ab initio\"."
+    "response": "Prep. Bahasa Latin pengacara untuk dari awal, seperti dalam kalimat hal tersebut sah secara hukum ab initio."
   },
   {
     "instruction": "Jelaskan konsep 'Meninggalkan' (Abandon) dalam hukum.",
@@ -77,7 +77,7 @@
   {
     "instruction": "Apa itu Melarikan Diri (Abscond)?",
     "context": "Tindakan pergi secara diam-diam untuk menghindari hukum atau membawa lari barang curian.",
-    "response": "V. 1) Secara tradisional meninggalkan yurisdiksi (di mana pengadilan atau penegak hukum dapat menemukannya) untuk menghindari panggilan hukum atau penangkapan. 2) Pergi secara mengejutkan dengan dana atau barang yang telah dicuri, seperti dalam \"dia melarikan diri dengan membawa hasil jarahan\"."
+    "response": "V. 1) Secara tradisional meninggalkan yurisdiksi (di mana pengadilan atau penegak hukum dapat menemukannya) untuk menghindari panggilan hukum atau penangkapan. 2) Pergi secara mengejutkan dengan dana atau barang yang telah dicuri, seperti dalam dia melarikan diri dengan membawa hasil jarahan."
   },
   {
     "instruction": "Apa arti Mutlak (Absolute) dalam istilah hukum?",
@@ -107,7 +107,7 @@
   {
     "instruction": "Apa definisi Penyalahgunaan Wewenang (Abuse of Discretion)?",
     "context": "Kesalahan fatal yang dilakukan hakim dalam persidangan yang dapat menjadi alasan pembatalan putusan.",
-    "response": "N. Cara sopan untuk mengatakan bahwa hakim pengadilan telah membuat kesalahan buruk (\"jelas bertentangan dengan alasan dan bukti\" atau hukum yang berlaku) selama persidangan atau saat memutuskan mosi sehingga seseorang tidak mendapatkan pengadilan yang adil. Pengadilan banding akan menggunakan temuan penyalahgunaan ini sebagai alasan untuk membatalkan hasil pengadilan."
+    "response": "N. Cara sopan untuk mengatakan bahwa hakim pengadilan telah membuat kesalahan buruk (jelas bertentangan dengan alasan dan bukti atau hukum yang berlaku) selama persidangan atau saat memutuskan mosi sehingga seseorang tidak mendapatkan pengadilan yang adil. Pengadilan banding akan menggunakan temuan penyalahgunaan ini sebagai alasan untuk membatalkan hasil pengadilan."
   },
   {
     "instruction": "Apa itu Penyalahgunaan Proses Hukum (Abuse of Process)?",
@@ -132,7 +132,7 @@
   {
     "instruction": "Apa arti Menerima (Accept) secara hukum?",
     "context": "Tindakan menyetujui untuk mengambil sesuatu dengan niat memilikinya.",
-    "response": "V. Menerima sesuatu dengan persetujuan dan niat untuk menyimpannya. Penggunaan ini sering muncul pada pertanyaan menerima pembayaran yang terlambat atau tidak lengkap atau menerima \"layanan\" (pengiriman) dokumen hukum."
+    "response": "V. Menerima sesuatu dengan persetujuan dan niat untuk menyimpannya. Penggunaan ini sering muncul pada pertanyaan menerima pembayaran yang terlambat atau tidak lengkap atau menerima layanan (pengiriman) dokumen hukum."
   },
   {
     "instruction": "Jelaskan definisi Penerimaan (Acceptance).",
@@ -142,12 +142,12 @@
   {
     "instruction": "Apa itu Penerimaan Layanan (Acceptance of Service)?",
     "context": "Persetujuan terdakwa untuk menerima dokumen hukum tanpa perlu diantar oleh petugas.",
-    "response": "N. Persetujuan oleh terdakwa (atau pengacaranya) dalam tindakan hukum untuk menerima keluhan atau petisi lain (seperti surat cerai) tanpa harus didatangi sheriff atau petugas pengantar dokumen. Persetujuan \"penerimaan layanan\" harus tertulis."
+    "response": "N. Persetujuan oleh terdakwa (atau pengacaranya) dalam tindakan hukum untuk menerima keluhan atau petisi lain (seperti surat cerai) tanpa harus didatangi sheriff atau petugas pengantar dokumen. Persetujuan penerimaan layanan harus tertulis."
   },
   {
     "instruction": "Apa arti Akses (Access) dalam hukum properti dan keluarga?",
     "context": "Hak untuk mencapai properti atau kesempatan hubungan suami-istri.",
-    "response": "N. 1) Dalam real estat, hak dan kemampuan untuk menuju ke properti. 2) Ketika seorang suami memiliki kesempatan untuk berhubungan intim dengan istrinya, dikatakan dia memiliki akses. Penggunaan \"akses\" ini penting karena jika suami \"memiliki akses\" saat istri hamil, dia dianggap sebagai bapaknya."
+    "response": "N. 1) Dalam real estat, hak dan kemampuan untuk menuju ke properti. 2) Ketika seorang suami memiliki kesempatan untuk berhubungan intim dengan istrinya, dikatakan dia memiliki akses. Penggunaan akses ini penting karena jika suami memiliki akses saat istri hamil, dia dianggap sebagai bapaknya."
   },
   {
     "instruction": "Apa itu Pembantu Kejahatan (Accessory)?",
@@ -227,7 +227,7 @@
   {
     "instruction": "Apa arti 'Act' dalam hukum?",
     "context": "Bisa berarti tindakan seseorang, atau undang-undang yang disahkan.",
-    "response": "1) N. Secara umum, tindakan apa pun oleh seseorang. 2) N. Rencana undang-undang yang disahkan oleh Kongres atau badan legislatif yang merupakan \"RUU\" sampai diberlakukan dan menjadi hukum. 3) V. Bagi pengadilan untuk membuat keputusan."
+    "response": "1) N. Secara umum, tindakan apa pun oleh seseorang. 2) N. Rencana undang-undang yang disahkan oleh Kongres atau badan legislatif yang merupakan RUU sampai diberlakukan dan menjadi hukum. 3) V. Bagi pengadilan untuk membuat keputusan."
   },
   {
     "instruction": "Jelaskan istilah Act of God (Bencana Alam/Takdir Tuhan).",
@@ -242,12 +242,12 @@
   {
     "instruction": "Apa arti Dapat Digugat (Actionable)?",
     "context": "Ketika fakta yang ada cukup kuat untuk mengajukan gugatan hukum yang sah.",
-    "response": "Adj. Ketika fakta atau keadaan yang cukup ada untuk memenuhi persyaratan hukum guna mengajukan gugatan yang sah. Jika fakta yang diperlukan untuk membuktikan kasus tidak dapat dituduhkan dalam keluhan, kasus tersebut tidak \"actionable\"."
+    "response": "Adj. Ketika fakta atau keadaan yang cukup ada untuk memenuhi persyaratan hukum guna mengajukan gugatan yang sah. Jika fakta yang diperlukan untuk membuktikan kasus tidak dapat dituduhkan dalam keluhan, kasus tersebut tidak actionable."
   },
   {
     "instruction": "Apa itu Kontroversi Nyata (Actual Controversy)?",
     "context": "Perselisihan hukum yang sesungguhnya, bukan sekadar hipotetis.",
-    "response": "N. Perselisihan hukum sejati yang mengarah pada gugatan asli daripada sekadar tindakan hukum yang \"dibuat-buat\" untuk mendapatkan pendapat penasehat dari pengadilan. Pengadilan federal hanya akan mempertimbangkan \"kontroversi nyata\"."
+    "response": "N. Perselisihan hukum sejati yang mengarah pada gugatan asli daripada sekadar tindakan hukum yang dibuat-buat untuk mendapatkan pendapat penasehat dari pengadilan. Pengadilan federal hanya akan mempertimbangkan kontroversi nyata."
   },
   {
     "instruction": "Apa definisi Pemberitahuan Nyata (Actual Notice)?",
@@ -257,22 +257,22 @@
   {
     "instruction": "Apa arti istilah ad hoc?",
     "context": "Bahasa Latin yang berarti khusus untuk tujuan tertentu.",
-    "response": "Adj. Bahasa Latin yang berarti \"hanya untuk tujuan ini\". Jadi, komite ad hoc dibentuk untuk tujuan tertentu, biasanya ditunjuk untuk memecahkan masalah tertentu."
+    "response": "Adj. Bahasa Latin yang berarti hanya untuk tujuan ini. Jadi, komite ad hoc dibentuk untuk tujuan tertentu, biasanya ditunjuk untuk memecahkan masalah tertentu."
   },
   {
     "instruction": "Apa arti istilah ad litem?",
     "context": "Bahasa Latin yang digunakan untuk wali yang ditunjuk khusus selama proses hukum.",
-    "response": "Adj. Bahasa Latin hukum yang berarti \"hanya untuk tujuan tindakan hukum\". Paling sering istilah ini berlaku untuk orang tua yang mengajukan gugatan untuk anak di bawah umur mereka sebagai \"wali ad litem\"."
+    "response": "Adj. Bahasa Latin hukum yang berarti hanya untuk tujuan tindakan hukum. Paling sering istilah ini berlaku untuk orang tua yang mengajukan gugatan untuk anak di bawah umur mereka sebagai wali ad litem."
   },
   {
     "instruction": "Apa arti istilah ad seriatim?",
     "context": "Bahasa Latin yang menunjukkan urutan.",
-    "response": "Adj. (baca: ad sear-ee-ah-tim) Bahasa Latin untuk \"satu demi satu\"."
+    "response": "Adj. (baca: ad sear-ee-ah-tim) Bahasa Latin untuk satu demi satu."
   },
   {
     "instruction": "Apa arti istilah ad valorem?",
     "context": "Biasanya digunakan dalam konteks pajak properti yang berdasarkan nilai aset.",
-    "response": "Adj. Bahasa Latin untuk \"berdasarkan nilai\", yang berlaku untuk pajak properti berdasarkan persentase dari penilaian nilai properti oleh kabupaten."
+    "response": "Adj. Bahasa Latin untuk berdasarkan nilai, yang berlaku untuk pajak properti berdasarkan persentase dari penilaian nilai properti oleh kabupaten."
   },
   {
     "instruction": "Apa itu Addendum?",
@@ -292,7 +292,7 @@
   {
     "instruction": "Apa yang dimaksud Pemulihan yang Memadai (Adequate Remedy)?",
     "context": "Solusi hukum yang dianggap cukup dan efisien untuk menyelesaikan masalah.",
-    "response": "N. Pemulihan (uang atau kinerja) yang diberikan oleh pengadilan atau melalui tindakan pribadi yang memberikan kepuasan \"lengkap\", dan \"praktis, efisien, serta sesuai\" dalam keadaan tersebut."
+    "response": "N. Pemulihan (uang atau kinerja) yang diberikan oleh pengadilan atau melalui tindakan pribadi yang memberikan kepuasan lengkap, dan praktis, efisien, serta sesuai dalam keadaan tersebut."
   },
   {
     "instruction": "Apa itu Kontrak Adhesi (Adhesion Contract)?",
@@ -377,7 +377,7 @@
   {
     "instruction": "Apa definisi Pengakuan Bersalah (Admission of Guilt)?",
     "context": "Pernyataan terdakwa bahwa dia melakukan kejahatan.",
-    "response": "N. Pernyataan oleh seseorang yang dituduh melakukan kejahatan bahwa dia melakukan pelanggaran tersebut. Jika pengakuan dibuat di luar pengadilan kepada polisi, itu dapat dijadikan bukti jika terdakwa telah diberi peringatan hak yang tepat (\"Peringatan Miranda\")."
+    "response": "N. Pernyataan oleh seseorang yang dituduh melakukan kejahatan bahwa dia melakukan pelanggaran tersebut. Jika pengakuan dibuat di luar pengadilan kepada polisi, itu dapat dijadikan bukti jika terdakwa telah diberi peringatan hak yang tepat (Peringatan Miranda)."
   },
   {
     "instruction": "Apa itu Pemberian Jaminan (Admission to Bail)?",
@@ -467,7 +467,7 @@
   {
     "instruction": "Jelaskan Pembelaan Afirmatif (Affirmative Defense).",
     "context": "Bagian jawaban terdakwa yang berisi tuduhan balik atau fakta baru.",
-    "response": "N. Bagian dari jawaban atas tuduhan atau keluhan di mana terdakwa mengambil alih serangan dan menanggapi tuduhan dengan tuduhannya sendiri, yang disebut \"pembelaan afirmatif.\""
+    "response": "N. Bagian dari jawaban atas tuduhan atau keluhan di mana terdakwa mengambil alih serangan dan menanggapi tuduhan dengan tuduhannya sendiri, yang disebut pembelaan afirmatif."
   },
   {
     "instruction": "Apa arti Melekatkan (Affix) pada properti?",
@@ -547,7 +547,7 @@
   {
     "instruction": "Apa arti kata Alibi?",
     "context": "Bukti bahwa tersangka berada di tempat lain saat kejadian.",
-    "response": "N. Alasan yang digunakan oleh orang yang dituduh atau dicurigai melakukan kejahatan. Dalam bahasa Latin asli berarti \"di tempat lain\"."
+    "response": "N. Alasan yang digunakan oleh orang yang dituduh atau dicurigai melakukan kejahatan. Dalam bahasa Latin asli berarti di tempat lain."
   },
   {
     "instruction": "Siapa yang disebut Alien dalam hukum AS?",
@@ -602,7 +602,7 @@
   {
     "instruction": "Apa itu Pleidoi Alternatif (Alternative Pleading)?",
     "context": "Fiksi hukum di mana seseorang mengajukan dua pembelaan yang bertentangan sekaligus.",
-    "response": "N. Fiksi hukum di mana pihak yang berperkara atau terdakwa dapat memohon dua cara yang tidak konsisten satu sama lain. Contoh: \"tidak bersalah\" dan \"tidak bersalah karena alasan kegilaan\"."
+    "response": "N. Fiksi hukum di mana pihak yang berperkara atau terdakwa dapat memohon dua cara yang tidak konsisten satu sama lain. Contoh: tidak bersalah dan tidak bersalah karena alasan kegilaan."
   },
   {
     "instruction": "Apa definisi Ambiguitas (Ambiguity) dalam hukum?",
@@ -632,7 +632,7 @@
   {
     "instruction": "Apa itu American Civil Liberties Union (ACLU)?",
     "context": "Organisasi yang fokus membela hak-hak sipil dan kebebasan individu.",
-    "response": "N. Organisasi keanggotaan yang didirikan pada tahun 1920 untuk membela dan melindungi \"hak asasi manusia\". ACLU meneliti legalitas kebijakan publik dan membela klien di pengadilan ketika kebebasan sipil dipertanyakan."
+    "response": "N. Organisasi keanggotaan yang didirikan pada tahun 1920 untuk membela dan melindungi hak asasi manusia. ACLU meneliti legalitas kebijakan publik dan membela klien di pengadilan ketika kebebasan sipil dipertanyakan."
   },
   {
     "instruction": "Apa itu American Depository Receipt (ADR)?",
@@ -642,7 +642,7 @@
   {
     "instruction": "Apa arti istilah amicus curiae?",
     "context": "Bahasa Latin untuk 'sahabat pengadilan', pihak luar yang memberi masukan dalam kasus.",
-    "response": "N. Bahasa Latin untuk \"sahabat pengadilan,\" sebuah pihak atau organisasi yang tertarik pada suatu masalah yang mengajukan ringkasan (brief) atau berpartisipasi dalam argumen dalam kasus di mana pihak tersebut bukan salah satu yang bersengketa."
+    "response": "N. Bahasa Latin untuk sahabat pengadilan, sebuah pihak atau organisasi yang tertarik pada suatu masalah yang mengajukan ringkasan (brief) atau berpartisipasi dalam argumen dalam kasus di mana pihak tersebut bukan salah satu yang bersengketa."
   },
   {
     "instruction": "Apa definisi Amnesti?",
@@ -657,7 +657,7 @@
   {
     "instruction": "Jelaskan Administrasi Tambahan (Ancillary Administration).",
     "context": "Pengurusan aset warisan yang berada di negara bagian/wilayah lain.",
-    "response": "N. Administrasi aset warisan di negara bagian lain. Seorang \"administrator tambahan\" dipilih untuk menangani properti (terutama real estat) dari harta peninggalan orang yang meninggal di negara bagian selain tempat harta itu disahkan."
+    "response": "N. Administrasi aset warisan di negara bagian lain. Seorang administrator tambahan dipilih untuk menangani properti (terutama real estat) dari harta peninggalan orang yang meninggal di negara bagian selain tempat harta itu disahkan."
   },
   {
     "instruction": "Apa itu Yurisdiksi Tambahan (Ancillary Jurisdiction)?",
@@ -667,7 +667,7 @@
   {
     "instruction": "Apa pentingnya kata 'Dan' (And) dalam hukum?",
     "context": "Kata sambung yang menentukan apakah kewajiban bersifat kolektif.",
-    "response": "Conj. Kata kecil ini penting dalam hukum. Paling umum menentukan apakah satu atau kedua pemilik harus menandatangani dokumen. Contoh: jika kepemilikan tertulis \"Budi dan Sari\", maka keduanya harus tanda tangan."
+    "response": "Conj. Kata kecil ini penting dalam hukum. Paling umum menentukan apakah satu atau kedua pemilik harus menandatangani dokumen. Contoh: jika kepemilikan tertulis Budi dan Sari, maka keduanya harus tanda tangan."
   },
   {
     "instruction": "Apa itu Anuitas (Annuity)?",
@@ -687,7 +687,7 @@
   {
     "instruction": "Apa itu Pelanggaran Antisipatif (Anticipatory Breach)?",
     "context": "Pernyataan tidak sanggup memenuhi kontrak sebelum jatuh tempo.",
-    "response": "N. Ketika pihak dalam kontrak mengingkari kewajibannya berdasarkan kontrak tersebut sebelum sepenuhnya melaksanakan kewajiban itu. Ini bisa melalui kata-kata (\"Saya tidak akan mengirim barang\") atau tindakan."
+    "response": "N. Ketika pihak dalam kontrak mengingkari kewajibannya berdasarkan kontrak tersebut sebelum sepenuhnya melaksanakan kewajiban itu. Ini bisa melalui kata-kata (Saya tidak akan mengirim barang) atau tindakan."
   },
   {
     "instruction": "Apa tujuan Hukum Antimonopoli (Antitrust Laws)?",
@@ -712,7 +712,7 @@
   {
     "instruction": "Apa itu Kehadiran (Appearance) secara formal?",
     "context": "Tindakan resmi pengacara mewakili klien di pengadilan.",
-    "response": "N. Tindakan pihak atau pengacara muncul di pengadilan. Setelah ditetapkan bahwa pengacara mewakili orang tersebut, pengacara dapat melakukan \"kehadiran\" untuk klien pada beberapa hal tanpa klien hadir."
+    "response": "N. Tindakan pihak atau pengacara muncul di pengadilan. Setelah ditetapkan bahwa pengacara mewakili orang tersebut, pengacara dapat melakukan kehadiran untuk klien pada beberapa hal tanpa klien hadir."
   },
   {
     "instruction": "Siapa itu Pembanding (Appellant)?",
@@ -752,7 +752,7 @@
   {
     "instruction": "Apa arti Pendekatan (Approach) dalam sidang?",
     "context": "Singkatan untuk izin mendekati meja hakim.",
-    "response": "V. Singkatan untuk \"mendekati bangku hakim\" (approach the bench), seperti dalam \"bolehkah saya mendekat, yang mulia?\""
+    "response": "V. Singkatan untuk mendekati bangku hakim (approach the bench), seperti dalam bolehkah saya mendekat, yang mulia?"
   },
   {
     "instruction": "Apa maksud 'Approach the bench'?",
@@ -787,12 +787,12 @@
   {
     "instruction": "Siapa itu Arbitrator?",
     "context": "Orang yang memimpin arbitrase.",
-    "response": "N. Orang yang melakukan arbitrase, dan bertindak sebagai hakim yang melakukan \"persidangan mini\". Dalam banyak kasus, arbiter adalah seorang pengacara."
+    "response": "N. Orang yang melakukan arbitrase, dan bertindak sebagai hakim yang melakukan persidangan mini. Dalam banyak kasus, arbiter adalah seorang pengacara."
   },
   {
     "instruction": "Apa arti istilah arguendo?",
     "context": "Bahasa Latin untuk 'demi argumen', dipakai saat berandai-andai.",
-    "response": "Prep. Bahasa Latin yang berarti \"demi argumen,\" digunakan oleh pengacara dalam konteks \"mengasumsikan arguendo\" bahwa fakta-fakta adalah seperti yang dikatakan pihak lain, namun hukum tetap mencegah pihak lain untuk menang."
+    "response": "Prep. Bahasa Latin yang berarti demi argumen, digunakan oleh pengacara dalam konteks mengasumsikan arguendo bahwa fakta-fakta adalah seperti yang dikatakan pihak lain, namun hukum tetap mencegah pihak lain untuk menang."
   },
   {
     "instruction": "Apa itu pertanyaan Argumentatif (Argumentative)?",
@@ -1002,7 +1002,7 @@
   {
     "instruction": "Apa itu Attorney-in-fact?",
     "context": "Orang yang diberi kuasa lewat surat kuasa (Power of Attorney), tidak harus pengacara.",
-    "response": "N. Seseorang yang secara khusus ditunjuk oleh orang lain melalui \"surat kuasa\" tertulis untuk bertindak bagi orang tersebut dalam urusan bisnis penunjuk."
+    "response": "N. Seseorang yang secara khusus ditunjuk oleh orang lain melalui surat kuasa tertulis untuk bertindak bagi orang tersebut dalam urusan bisnis penunjuk."
   },
   {
     "instruction": "Apa itu Doktrin Gangguan Menarik (Attractive Nuisance)?",
@@ -1022,7 +1022,7 @@
   {
     "instruction": "Apa arti Otoritas (Authorities) dalam argumen hukum?",
     "context": "Preseden atau putusan pengadilan sebelumnya yang menjadi rujukan.",
-    "response": "N. 1) Keputusan sebelumnya oleh pengadilan banding yang memberikan panduan hukum kepada pengadilan tentang pertanyaan dalam gugatan saat ini, yang disebut \"preseden.\" Pengacara \"mengutip\" kasus yang diputuskan sebelumnya sebagai \"otoritas\"."
+    "response": "N. 1) Keputusan sebelumnya oleh pengadilan banding yang memberikan panduan hukum kepada pengadilan tentang pertanyaan dalam gugatan saat ini, yang disebut preseden. Pengacara mengutip kasus yang diputuskan sebelumnya sebagai otoritas."
   },
   {
     "instruction": "Apa definisi Wewenang (Authority)?",
@@ -1042,6 +1042,6 @@
   {
     "instruction": "Apa arti Award dalam arbitrase atau pengadilan?",
     "context": "Putusan pemberian uang atau kemenangan.",
-    "response": "1) N. Keputusan arbiter atas suatu kontroversi. 2) V. Memberikan penilaian uang kepada pihak dalam gugatan. Contoh: \"Penggugat diberikan (awarded) Rp 270 juta.\""
+    "response": "1) N. Keputusan arbiter atas suatu kontroversi. 2) V. Memberikan penilaian uang kepada pihak dalam gugatan. Contoh: Penggugat diberikan (awarded) Rp 270 juta."
   }
 ]

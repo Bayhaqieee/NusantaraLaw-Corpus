@@ -7,7 +7,7 @@
   {
     "instruction": "Apa arti singkatan d.b.a.?",
     "context": "Digunakan ketika bisnis beroperasi menggunakan nama yang berbeda dari nama resmi pemiliknya.",
-    "response": "N. Singkatan untuk \"doing business as\" (berbisnis sebagai), ketika seseorang atau entitas menggunakan nama bisnis alih-alih namanya sendiri."
+    "response": "N. Singkatan untuk doing business as (berbisnis sebagai), ketika seseorang atau entitas menggunakan nama bisnis alih-alih namanya sendiri."
   },
   {
     "instruction": "Apa itu D.U.I.?",
@@ -47,7 +47,7 @@
   {
     "instruction": "Apa arti De Facto?",
     "context": "Bahasa Latin yang berarti 'pada kenyataannya', sering dilawankan dengan 'de jure'.",
-    "response": "Adj. De facto (Pada kenyataannya); Bahasa Latin untuk \"in fact.\" Sering digunakan untuk menunjukkan bahwa pengadilan akan memperlakukan suatu otoritas sebagai fakta meskipun persyaratan hukum belum dipenuhi."
+    "response": "Adj. De facto (Pada kenyataannya); Bahasa Latin untuk in fact. Sering digunakan untuk menunjukkan bahwa pengadilan akan memperlakukan suatu otoritas sebagai fakta meskipun persyaratan hukum belum dipenuhi."
   },
   {
     "instruction": "Apa itu De Facto Corporation?",
@@ -57,7 +57,7 @@
   {
     "instruction": "Apa arti De Jure?",
     "context": "Bahasa Latin yang berarti 'menurut hukum'.",
-    "response": "Adj. De jure (Secara hukum); Bahasa Latin untuk \"sah secara hukum,\" dibedakan dari de facto."
+    "response": "Adj. De jure (Secara hukum); Bahasa Latin untuk sah secara hukum, dibedakan dari de facto."
   },
   {
     "instruction": "Apa itu De Jure Corporation?",
@@ -67,12 +67,12 @@
   {
     "instruction": "Apa arti De Minimis?",
     "context": "Hal yang terlalu sepele untuk dipermasalahkan oleh hukum.",
-    "response": "Adj. (baca: dee-minnie-miss) Bahasa Latin untuk \"kepentingan minimum\" atau \"sepele.\" Pada dasarnya merujuk pada sesuatu atau perbedaan yang begitu kecil sehingga hukum tidak menganggapnya."
+    "response": "Adj. (baca: dee-minnie-miss) Bahasa Latin untuk kepentingan minimum atau sepele. Pada dasarnya merujuk pada sesuatu atau perbedaan yang begitu kecil sehingga hukum tidak menganggapnya."
   },
   {
     "instruction": "Apa arti De Novo?",
     "context": "Memulai sesuatu dari awal lagi, seperti persidangan ulang.",
-    "response": "Adj. De novo (Dari awal); Bahasa Latin untuk \"baru,\" yang berarti memulai dari awal, seperti dalam pengadilan de novo."
+    "response": "Adj. De novo (Dari awal); Bahasa Latin untuk baru, yang berarti memulai dari awal, seperti dalam pengadilan de novo."
   },
   {
     "instruction": "Apa definisi Deadly Weapon?",
@@ -147,12 +147,12 @@
   {
     "instruction": "Siapa itu Declarant?",
     "context": "Orang yang membuat pernyataan tertulis di bawah sumpah.",
-    "response": "N. Deklaran; orang yang membuat pernyataan, biasanya tertulis dan ditandatangani oleh orang itu, di bawah \"ancaman hukuman sumpah palsu.\""
+    "response": "N. Deklaran; orang yang membuat pernyataan, biasanya tertulis dan ditandatangani oleh orang itu, di bawah ancaman hukuman sumpah palsu."
   },
   {
     "instruction": "Apa itu Declaration?",
     "context": "Pernyataan tertulis di bawah sumpah, pengganti afidavit.",
-    "response": "N. Deklarasi/Pernyataan; 2) Pernyataan tertulis yang dibuat \"di bawah ancaman hukuman sumpah palsu\" dan ditandatangani oleh deklaran, yang merupakan pengganti modern untuk afidavit."
+    "response": "N. Deklarasi/Pernyataan; 2) Pernyataan tertulis yang dibuat di bawah ancaman hukuman sumpah palsu dan ditandatangani oleh deklaran, yang merupakan pengganti modern untuk afidavit."
   },
   {
     "instruction": "Apa itu Declaration of Mailing?",
@@ -402,7 +402,7 @@
   {
     "instruction": "Apa itu Dereliction?",
     "context": "Penelantaran tugas atau properti.",
-    "response": "N. Penelantaran; 1) Meninggalkan kepemilikan, terkadang digunakan dalam frasa \"penelantaran tugas.\""
+    "response": "N. Penelantaran; 1) Meninggalkan kepemilikan, terkadang digunakan dalam frasa penelantaran tugas."
   },
   {
     "instruction": "Apa itu Derivative Action?",
@@ -467,7 +467,7 @@
   {
     "instruction": "Apa itu Dictum?",
     "context": "Komentar hakim yang bukan bagian inti dari putusan (tidak mengikat).",
-    "response": "N. Bahasa Latin untuk \"komentar,\" komentar oleh hakim dalam putusan yang tidak diharuskan untuk mencapai keputusan (opini tambahan)."
+    "response": "N. Bahasa Latin untuk komentar, komentar oleh hakim dalam putusan yang tidak diharuskan untuk mencapai keputusan (opini tambahan)."
   },
   {
     "instruction": "Apa itu Diligence?",
@@ -582,7 +582,7 @@
   {
     "instruction": "Apa itu Disjunctive Allegations?",
     "context": "Tuduhan yang menggunakan kata 'atau', yang sering ditolak pengadilan.",
-    "response": "N. Tuduhan disjungtif; upaya untuk mengklaim dalam gugatan bahwa satu hal \"atau\" hal lain terjadi. Tuduhan semacam ini biasanya ditolak karena terdakwa berhak tahu pasti apa yang harus dia bela."
+    "response": "N. Tuduhan disjungtif; upaya untuk mengklaim dalam gugatan bahwa satu hal atau hal lain terjadi. Tuduhan semacam ini biasanya ditolak karena terdakwa berhak tahu pasti apa yang harus dia bela."
   },
   {
     "instruction": "Apa arti Dismiss dalam pengadilan?",

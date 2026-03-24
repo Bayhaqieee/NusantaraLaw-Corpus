@@ -2,7 +2,7 @@
   {
     "instruction": "Apa arti Said dalam dokumen hukum?",
     "context": "Rujukan ke sesuatu yang sudah disebutkan sebelumnya.",
-    "response": "Adj. Tersebut (Said); referensi kembali ke sesuatu yang disebutkan sebelumnya (misal: \"pengemudi tersebut mengendarai mobil tersebut\")."
+    "response": "Adj. Tersebut (Said); referensi kembali ke sesuatu yang disebutkan sebelumnya (misal: pengemudi tersebut mengendarai mobil tersebut)."
   },
   {
     "instruction": "Apa definisi Sale?",
@@ -52,7 +52,7 @@
   {
     "instruction": "Apa arti Scintilla?",
     "context": "Bukti yang sangat sedikit.",
-    "response": "N. Percikan (Scintilla); jumlah bukti yang sangat sedikit (setidaknya ada \"sepercik bukti\")."
+    "response": "N. Percikan (Scintilla); jumlah bukti yang sangat sedikit (setidaknya ada sepercik bukti)."
   },
   {
     "instruction": "Apa itu Scope of Employment?",

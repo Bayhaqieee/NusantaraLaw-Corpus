@@ -12,7 +12,7 @@
   {
     "instruction": "Apa arti Egress?",
     "context": "Jalan keluar dari suatu properti.",
-    "response": "N. Jalan keluar; cara keberangkatan. Kata yang biasanya digunakan bersama dengan \"akses\" atau \"masuk\" (ingress)."
+    "response": "N. Jalan keluar; cara keberangkatan. Kata yang biasanya digunakan bersama dengan akses atau masuk (ingress)."
   },
   {
     "instruction": "Apa singkatan dari EIR?",
@@ -27,7 +27,7 @@
   {
     "instruction": "Apa arti frasa Latin ejusdem generis?",
     "context": "Prinsip penafsiran hukum: kata umum mengikuti makna kata khusus sebelumnya.",
-    "response": "V./Adj. (baca: eh-youse-dem generous) Bahasa Latin untuk \"dari jenis yang sama,\" digunakan untuk menafsirkan undang-undang. Jika hukum mencantumkan kelas tertentu lalu merujuk secara umum, pernyataan umum itu hanya berlaku untuk jenis yang sama dengan yang tercantum."
+    "response": "V./Adj. (baca: eh-youse-dem generous) Bahasa Latin untuk dari jenis yang sama, digunakan untuk menafsirkan undang-undang. Jika hukum mencantumkan kelas tertentu lalu merujuk secara umum, pernyataan umum itu hanya berlaku untuk jenis yang sama dengan yang tercantum."
   },
   {
     "instruction": "Apa itu Elder Law?",
@@ -107,12 +107,12 @@
   {
     "instruction": "Apa itu Employment?",
     "context": "Hubungan kerja.",
-    "response": "N. Pekerjaan/Ketenagakerjaan; perekrutan seseorang untuk kompensasi. Penting untuk menentukan apakah tindakan terjadi dalam \"lingkup pekerjaan\" untuk menetapkan tanggung jawab majikan."
+    "response": "N. Pekerjaan/Ketenagakerjaan; perekrutan seseorang untuk kompensasi. Penting untuk menentukan apakah tindakan terjadi dalam lingkup pekerjaan untuk menetapkan tanggung jawab majikan."
   },
   {
     "instruction": "Apa arti En Banc?",
     "context": "Sidang yang dihadiri oleh seluruh hakim pengadilan banding, bukan hanya panel kecil.",
-    "response": "Adj. (baca: on bonk) Bahasa Prancis untuk \"di bangku,\" menandakan keputusan oleh pengadilan penuh dari semua hakim banding, bukan hanya panel kecil."
+    "response": "Adj. (baca: on bonk) Bahasa Prancis untuk di bangku, menandakan keputusan oleh pengadilan penuh dari semua hakim banding, bukan hanya panel kecil."
   },
   {
     "instruction": "Apa itu Enabling Clause?",
@@ -162,12 +162,12 @@
   {
     "instruction": "Apa arti Enjoyment dalam properti?",
     "context": "Hak untuk menggunakan dan menikmati properti.",
-    "response": "N. Penikmatan; 1) Menjalankan hak. 2) Penggunaan dana atau hunian properti. \"Penikmatan yang tenang\" (quiet enjoyment) berarti berhak bebas dari gangguan."
+    "response": "N. Penikmatan; 1) Menjalankan hak. 2) Penggunaan dana atau hunian properti. Penikmatan yang tenang (quiet enjoyment) berarti berhak bebas dari gangguan."
   },
   {
     "instruction": "Apa arti Enter a Judgment?",
     "context": "Mencatat putusan secara resmi dalam buku pengadilan.",
-    "response": "V. Memasukkan putusan; mencatat putusan secara resmi pada \"daftar putusan,\" yang biasanya dilakukan oleh panitera pengadilan."
+    "response": "V. Memasukkan putusan; mencatat putusan secara resmi pada daftar putusan, yang biasanya dilakukan oleh panitera pengadilan."
   },
   {
     "instruction": "Apa definisi Entity?",
@@ -212,7 +212,7 @@
   {
     "instruction": "Apa itu Equitable Estoppel?",
     "context": "Larangan hukum bagi pihak yang bertindak tidak jujur untuk menuntut.",
-    "response": "N. Estoppel yang adil; pengadilan tidak akan memberikan bantuan hukum kepada pihak yang tidak bertindak adil (misalnya berbohong), sesuai prinsip \"siapa yang mencari keadilan harus melakukan keadilan.\""
+    "response": "N. Estoppel yang adil; pengadilan tidak akan memberikan bantuan hukum kepada pihak yang tidak bertindak adil (misalnya berbohong), sesuai prinsip siapa yang mencari keadilan harus melakukan keadilan."
   },
   {
     "instruction": "Apa itu Equitable Lien?",
@@ -227,7 +227,7 @@
   {
     "instruction": "Apa itu Equity of Redemption?",
     "context": "Hak pemilik rumah melunasi utang untuk mencegah penyitaan.",
-    "response": "N. Hak tebus ekuitas; hak pemberi hipotek untuk \"menyembuhkan\" kegagalan bayarnya dengan melakukan pembayaran yang menunggak untuk mempertahankan properti."
+    "response": "N. Hak tebus ekuitas; hak pemberi hipotek untuk menyembuhkan kegagalan bayarnya dengan melakukan pembayaran yang menunggak untuk mempertahankan properti."
   },
   {
     "instruction": "Apa arti Equivalent?",
@@ -237,7 +237,7 @@
   {
     "instruction": "Apa arti Ergo?",
     "context": "Oleh karena itu (Latin).",
-    "response": "Conj. (baca: air-go) Bahasa Latin untuk \"oleh karena itu\" (therefore)."
+    "response": "Conj. (baca: air-go) Bahasa Latin untuk oleh karena itu (therefore)."
   },
   {
     "instruction": "Apa arti Erroneous?",
@@ -272,7 +272,7 @@
   {
     "instruction": "Apa itu Escrow?",
     "context": "Rekening bersama yang dipegang pihak ketiga sampai transaksi selesai.",
-    "response": "1) N. Escrow (Rekening bersama); bentuk akun yang dipegang oleh \"agen escrow\" (pihak ketiga) tempat dokumen dan dana transaksi real estat disimpan sampai syarat terpenuhi."
+    "response": "1) N. Escrow (Rekening bersama); bentuk akun yang dipegang oleh agen escrow (pihak ketiga) tempat dokumen dan dana transaksi real estat disimpan sampai syarat terpenuhi."
   },
   {
     "instruction": "Siapa itu Escrow Agent?",
@@ -322,17 +322,17 @@
   {
     "instruction": "Apa singkatan et al.?",
     "context": "Dan lain-lain (untuk orang).",
-    "response": "N. Singkatan dari frasa Latin *et alii* yang berarti \"dan orang lain.\" Digunakan untuk menyingkat nama kasus (misal: Budi v. Sari, et al.)."
+    "response": "N. Singkatan dari frasa Latin *et alii* yang berarti dan orang lain. Digunakan untuk menyingkat nama kasus (misal: Budi v. Sari, et al.)."
   },
   {
     "instruction": "Apa singkatan et seq.?",
     "context": "Dan halaman-halaman berikutnya.",
-    "response": "N. (baca: et seek) Singkatan frasa Latin *et sequentes* yang berarti \"dan yang berikut.\" Digunakan untuk merujuk halaman atau pasal berurutan."
+    "response": "N. (baca: et seek) Singkatan frasa Latin *et sequentes* yang berarti dan yang berikut. Digunakan untuk merujuk halaman atau pasal berurutan."
   },
   {
     "instruction": "Apa singkatan et ux.?",
     "context": "Dan istri.",
-    "response": "N. (baca: et uhks) Singkatan frasa Latin *et uxor* yang berarti \"dan istri.\" Biasanya ditemukan dalam akta tanah."
+    "response": "N. (baca: et uhks) Singkatan frasa Latin *et uxor* yang berarti dan istri. Biasanya ditemukan dalam akta tanah."
   },
   {
     "instruction": "Apa itu Evasion of Tax?",
@@ -357,22 +357,22 @@
   {
     "instruction": "Apa arti ex officio?",
     "context": "Karena jabatan.",
-    "response": "Adj. (baca: ex oh-fish-ee-oh) Bahasa Latin untuk \"dari kantor/jabatan,\" menggambarkan seseorang yang memiliki hak karena jabatan yang dipegangnya."
+    "response": "Adj. (baca: ex oh-fish-ee-oh) Bahasa Latin untuk dari kantor/jabatan, menggambarkan seseorang yang memiliki hak karena jabatan yang dipegangnya."
   },
   {
     "instruction": "Apa arti ex parte?",
     "context": "Satu pihak saja (tanpa kehadiran pihak lawan).",
-    "response": "Adj. (baca: ex par-tay) Bahasa Latin yang berarti \"untuk satu pihak,\" merujuk pada sidang atau perintah yang diberikan atas permintaan satu pihak saja tanpa kehadiran pihak lain."
+    "response": "Adj. (baca: ex par-tay) Bahasa Latin yang berarti untuk satu pihak, merujuk pada sidang atau perintah yang diberikan atas permintaan satu pihak saja tanpa kehadiran pihak lain."
   },
   {
     "instruction": "Apa arti ex post facto?",
     "context": "Berlaku surut (biasanya dilarang dalam hukum pidana).",
-    "response": "Adj. Latin untuk \"setelah fakta,\" merujuk pada undang-undang yang dibuat setelah tindakan dilakukan yang menjadikannya ilegal. Hukum semacam ini dilarang oleh Konstitusi AS."
+    "response": "Adj. Latin untuk setelah fakta, merujuk pada undang-undang yang dibuat setelah tindakan dilakukan yang menjadikannya ilegal. Hukum semacam ini dilarang oleh Konstitusi AS."
   },
   {
     "instruction": "Apa arti ex rel.?",
     "context": "Gugatan pemerintah atas nama individu.",
-    "response": "Conj. Singkatan Latin *ex relatione* (\"atas informasi\"), digunakan dalam judul proses hukum yang diajukan Jaksa Agung atas nama pemerintah atas hasutan orang pribadi."
+    "response": "Conj. Singkatan Latin *ex relatione* (atas informasi), digunakan dalam judul proses hukum yang diajukan Jaksa Agung atas nama pemerintah atas hasutan orang pribadi."
   },
   {
     "instruction": "Apa itu Examination dalam sidang?",

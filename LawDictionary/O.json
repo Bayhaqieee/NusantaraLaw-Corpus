@@ -167,7 +167,7 @@
   {
     "instruction": "Apa itu Omnibus Clause?",
     "context": "Klausul sapu jagat dalam asuransi atau wasiat.",
-    "response": "N. Klausul omnibus; 1) Klausul asuransi yang mencakup siapa saja yang mengemudikan mobil. 2) Ketentuan dalam wasiat yang membagikan \"semua harta lainnya\"."
+    "response": "N. Klausul omnibus; 1) Klausul asuransi yang mencakup siapa saja yang mengemudikan mobil. 2) Ketentuan dalam wasiat yang membagikan semua harta lainnya."
   },
   {
     "instruction": "Apa arti On All Fours?",
@@ -232,7 +232,7 @@
   {
     "instruction": "Apa pentingnya kata Or dalam hukum?",
     "context": "Menunjukkan pilihan (salah satu), beda dengan 'dan' (keduanya).",
-    "response": "Conj. Atau; menunjukkan alternatif. Penting untuk membedakan dari \"dan\" (and) yang berarti kumulatif."
+    "response": "Conj. Atau; menunjukkan alternatif. Penting untuk membedakan dari dan (and) yang berarti kumulatif."
   },
   {
     "instruction": "Apa itu Oral Contract?",
@@ -257,7 +257,7 @@
   {
     "instruction": "Apa arti Ordinary?",
     "context": "Biasa atau wajar.",
-    "response": "Adj. Biasa; teratur, lazim, dan tidak luar biasa (seperti dalam \"kehati-hatian biasa\")."
+    "response": "Adj. Biasa; teratur, lazim, dan tidak luar biasa (seperti dalam kehati-hatian biasa)."
   },
   {
     "instruction": "Apa itu Ordinary Course of Business?",

@@ -2,7 +2,7 @@
   {
     "instruction": "Apa itu M'Naughten Rule?",
     "context": "Tes hukum kuno untuk menentukan kewarasan terdakwa dalam kasus pidana.",
-    "response": "N. Aturan M'Naughten; tes tradisional \"benar dan salah\" untuk kegilaan hukum dalam penuntutan pidana. Terdakwa dianggap gila secara hukum jika dia tidak dapat membedakan antara benar dan salah terkait kejahatannya."
+    "response": "N. Aturan M'Naughten; tes tradisional benar dan salah untuk kegilaan hukum dalam penuntutan pidana. Terdakwa dianggap gila secara hukum jika dia tidak dapat membedakan antara benar dan salah terkait kejahatannya."
   },
   {
     "instruction": "Apa singkatan M.O. dalam kriminologi?",
@@ -112,7 +112,7 @@
   {
     "instruction": "Apa itu Mann Act?",
     "context": "UU AS yang melarang perdagangan manusia (wanita) antar negara bagian.",
-    "response": "N. Undang-undang federal AS yang menjadikannya kejahatan untuk mengangkut wanita melintasi batas negara bagian untuk tujuan \"tidak bermoral\" (prostitusi)."
+    "response": "N. Undang-undang federal AS yang menjadikannya kejahatan untuk mengangkut wanita melintasi batas negara bagian untuk tujuan tidak bermoral (prostitusi)."
   },
   {
     "instruction": "Apa itu Manslaughter?",
@@ -137,7 +137,7 @@
   {
     "instruction": "Apa itu Mark sebagai tanda tangan?",
     "context": "Tanda 'X' bagi orang buta huruf sebagai pengganti tanda tangan.",
-    "response": "N. Tanda (Mark); tanda \"X\" yang dibuat oleh orang yang buta huruf atau terlalu lemah untuk menandatangani nama lengkapnya, digunakan sebagai tanda tangan."
+    "response": "N. Tanda (Mark); tanda X yang dibuat oleh orang yang buta huruf atau terlalu lemah untuk menandatangani nama lengkapnya, digunakan sebagai tanda tangan."
   },
   {
     "instruction": "Apa arti Marked for Identification?",
@@ -172,12 +172,12 @@
   {
     "instruction": "Apa itu Massachusetts Trust?",
     "context": "Bentuk bisnis trust investasi.",
-    "response": "N. Trust Massachusetts; bisnis di mana investor memberikan wewenang manajemen kepada wali amanat dan menerima \"sertifikat trust\" (mirip saham)."
+    "response": "N. Trust Massachusetts; bisnis di mana investor memberikan wewenang manajemen kepada wali amanat dan menerima sertifikat trust (mirip saham)."
   },
   {
     "instruction": "Apa arti Master dalam hukum kerja?",
     "context": "Istilah lama untuk majikan.",
-    "response": "N. Majikan (Master); istilah lama untuk pemberi kerja dalam hubungan kerja \"master and servant.\""
+    "response": "N. Majikan (Master); istilah lama untuk pemberi kerja dalam hubungan kerja master and servant."
   },
   {
     "instruction": "Apa itu Master and Servant?",
@@ -212,12 +212,12 @@
   {
     "instruction": "Apa itu Maxims?",
     "context": "Prinsip-prinsip hukum dasar.",
-    "response": "N. Maksim (Pepatah hukum); kumpulan kebenaran hukum yang digunakan sebagai pedoman oleh hakim dan pengacara (misal: \"Siapa yang menyetujui tidak dirugikan\")."
+    "response": "N. Maksim (Pepatah hukum); kumpulan kebenaran hukum yang digunakan sebagai pedoman oleh hakim dan pengacara (misal: Siapa yang menyetujui tidak dirugikan)."
   },
   {
     "instruction": "Apa arti May dalam undang-undang?",
     "context": "Boleh (opsional), beda dengan 'shall' (wajib).",
-    "response": "V. Boleh/Dapat (May); pilihan untuk bertindak atau tidak, dibedakan dari \"shall\" (harus/wajib)."
+    "response": "V. Boleh/Dapat (May); pilihan untuk bertindak atau tidak, dibedakan dari shall (harus/wajib)."
   },
   {
     "instruction": "Apa itu Mayhem?",
@@ -262,7 +262,7 @@
   {
     "instruction": "Apa itu Mens Rea?",
     "context": "Niat jahat (unsur mental kejahatan).",
-    "response": "N. (menz ray-ah) Mens Rea (Niat jahat); bahasa Latin untuk \"pikiran yang bersalah,\" atau niat kriminal dalam melakukan tindakan."
+    "response": "N. (menz ray-ah) Mens Rea (Niat jahat); bahasa Latin untuk pikiran yang bersalah, atau niat kriminal dalam melakukan tindakan."
   },
   {
     "instruction": "Apa itu Mental Anguish?",
@@ -297,7 +297,7 @@
   {
     "instruction": "Apa arti Mesne?",
     "context": "Tengah atau perantara.",
-    "response": "Adj. (mean) Menengah/Perantara; titik tengah di antara dua ekstrem (jarang digunakan kecuali dalam \"mesne profits\")."
+    "response": "Adj. (mean) Menengah/Perantara; titik tengah di antara dua ekstrem (jarang digunakan kecuali dalam mesne profits)."
   },
   {
     "instruction": "Apa itu Mesne Profits?",
@@ -417,7 +417,7 @@
   {
     "instruction": "Apa itu Modus Operandi?",
     "context": "Cara operasi penjahat.",
-    "response": "N. (baca: mode-us ah-purr-and-ee) Modus operandi; istilah Latin untuk \"cara beroperasi,\" pola perilaku kriminal."
+    "response": "N. (baca: mode-us ah-purr-and-ee) Modus operandi; istilah Latin untuk cara beroperasi, pola perilaku kriminal."
   },
   {
     "instruction": "Apa arti Moiety?",

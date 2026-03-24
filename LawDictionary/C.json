@@ -37,7 +37,7 @@
   {
     "instruction": "Apa itu Caning?",
     "context": "Hukuman fisik menggunakan rotan, umum di beberapa negara Asia.",
-    "response": "N. Hukuman cambuk untuk kejahatan yang digunakan di negara-negara Asia tertentu (terutama Singapura, dan di Indonesia berlaku di Aceh) bahkan untuk pelanggaran ringan, di mana terdakwa yang dihukum menerima beberapa cambukan dengan \"rotan\" fleksibel."
+    "response": "N. Hukuman cambuk untuk kejahatan yang digunakan di negara-negara Asia tertentu (terutama Singapura, dan di Indonesia berlaku di Aceh) bahkan untuk pelanggaran ringan, di mana terdakwa yang dihukum menerima beberapa cambukan dengan rotan fleksibel."
   },
   {
     "instruction": "Apa definisi Canon Law?",
@@ -47,7 +47,7 @@
   {
     "instruction": "Apa arti Cap dalam keuangan?",
     "context": "Istilah slang untuk batas maksimum.",
-    "response": "N. Slang untuk batas atas (maksimum), seperti bunga terbanyak yang dapat dibebankan pada surat sanggup bayar dengan \"suku bunga yang dapat disesuaikan\"."
+    "response": "N. Slang untuk batas atas (maksimum), seperti bunga terbanyak yang dapat dibebankan pada surat sanggup bayar dengan suku bunga yang dapat disesuaikan."
   },
   {
     "instruction": "Apa definisi Capital?",
@@ -127,7 +127,7 @@
   {
     "instruction": "Apa istilah hukum untuk hubungan seksual (Carnal Knowledge)?",
     "context": "Istilah lama atau formal untuk penetrasi seksual.",
-    "response": "N. Pengetahuan karnal (persetubuhan); dari bahasa Latin 'carnalis' untuk \"daging\": hubungan seksual antara laki-laki dan perempuan di mana setidaknya ada sedikit penetrasi vagina wanita oleh penis pria. Penting secara hukum dalam kasus pemerkosaan atau pencabulan."
+    "response": "N. Pengetahuan karnal (persetubuhan); dari bahasa Latin 'carnalis' untuk daging: hubungan seksual antara laki-laki dan perempuan di mana setidaknya ada sedikit penetrasi vagina wanita oleh penis pria. Penting secara hukum dalam kasus pemerkosaan atau pencabulan."
   },
   {
     "instruction": "Apa itu Carrier?",
@@ -147,7 +147,7 @@
   {
     "instruction": "Apa definisi Carrying on Business?",
     "context": "Melakukan aktivitas bisnis secara berkelanjutan.",
-    "response": "V. Menjalankan bisnis; menekuni pekerjaan tertentu secara terus-menerus dan substansial. Tidak harus ada \"entitas\" bisnis fisik atau terlihat."
+    "response": "V. Menjalankan bisnis; menekuni pekerjaan tertentu secara terus-menerus dan substansial. Tidak harus ada entitas bisnis fisik atau terlihat."
   },
   {
     "instruction": "Apa itu Carryover dalam pajak?",
@@ -187,7 +187,7 @@
   {
     "instruction": "Apa arti Casual?",
     "context": "Sesuatu yang kebetulan atau tenaga kerja lepas.",
-    "response": "Adj. Kasual; mendefinisikan sesuatu yang terjadi secara kebetulan, tanpa diduga, atau secara informal. Ini termasuk \"tenaga kerja kasual\" (pekerja lepas) yang dipekerjakan hanya karena dia tersedia saat itu."
+    "response": "Adj. Kasual; mendefinisikan sesuatu yang terjadi secara kebetulan, tanpa diduga, atau secara informal. Ini termasuk tenaga kerja kasual (pekerja lepas) yang dipekerjakan hanya karena dia tersedia saat itu."
   },
   {
     "instruction": "Apa definisi Casualty?",
@@ -202,22 +202,22 @@
   {
     "instruction": "Apa arti Cause?",
     "context": "Menyebabkan sesuatu atau alasan terjadinya sesuatu.",
-    "response": "Dari bahasa Latin 'causa'. 1) V. Membuat sesuatu terjadi. 2) N. Alasan sesuatu terjadi. Sebuah penyebab menyiratkan apa yang disebut \"hubungan sebab akibat\"."
+    "response": "Dari bahasa Latin 'causa'. 1) V. Membuat sesuatu terjadi. 2) N. Alasan sesuatu terjadi. Sebuah penyebab menyiratkan apa yang disebut hubungan sebab akibat."
   },
   {
     "instruction": "Apa itu Cause of Action?",
     "context": "Dasar hukum untuk mengajukan gugatan.",
-    "response": "N. Dasar gugatan; dasar tuntutan hukum yang didasarkan pada alasan hukum dan fakta yang dituduhkan yang, jika terbukti, akan memenuhi semua \"unsur\" yang dipersyaratkan oleh undang-undang."
+    "response": "N. Dasar gugatan; dasar tuntutan hukum yang didasarkan pada alasan hukum dan fakta yang dituduhkan yang, jika terbukti, akan memenuhi semua unsur yang dipersyaratkan oleh undang-undang."
   },
   {
     "instruction": "Apa arti Caveat?",
     "context": "Bahasa Latin untuk peringatan.",
-    "response": "N. (baca: kah-vee-ott) Dari bahasa Latin 'caveat' untuk \"biarkan dia waspada\". 1) Peringatan atau kehati-hatian. 2) Istilah populer yang digunakan pengacara untuk menunjukkan adanya masalah tersembunyi."
+    "response": "N. (baca: kah-vee-ott) Dari bahasa Latin 'caveat' untuk biarkan dia waspada. 1) Peringatan atau kehati-hatian. 2) Istilah populer yang digunakan pengacara untuk menunjukkan adanya masalah tersembunyi."
   },
   {
     "instruction": "Apa arti Caveat Emptor?",
     "context": "Prinsip hukum bahwa pembeli menanggung risiko kualitas barang.",
-    "response": "Latin untuk \"biarkan pembeli waspada\". Premis dasar bahwa pembeli membeli dengan risikonya sendiri dan karenanya harus memeriksa dan menguji produk itu sendiri untuk cacat yang jelas."
+    "response": "Latin untuk biarkan pembeli waspada. Premis dasar bahwa pembeli membeli dengan risikonya sendiri dan karenanya harus memeriksa dan menguji produk itu sendiri untuk cacat yang jelas."
   },
   {
     "instruction": "Apa itu Cease and Desist Order?",
@@ -352,7 +352,7 @@
   {
     "instruction": "Apa definisi hukum Child?",
     "context": "Anak kandung atau orang di bawah umur tertentu.",
-    "response": "N. Anak; 1) Keturunan alami seseorang. 2) Seseorang yang berusia 14 tahun ke bawah. Harus dibedakan dari \"anak di bawah umur\" (minor) yang biasanya di bawah 18 tahun."
+    "response": "N. Anak; 1) Keturunan alami seseorang. 2) Seseorang yang berusia 14 tahun ke bawah. Harus dibedakan dari anak di bawah umur (minor) yang biasanya di bawah 18 tahun."
   },
   {
     "instruction": "Apa itu Child Custody?",
@@ -472,17 +472,17 @@
   {
     "instruction": "Apa itu Class Action?",
     "context": "Gugatan perwakilan kelompok.",
-    "response": "N. Gugatan *class action* (perwakilan kelompok); gugatan yang diajukan oleh satu orang atau lebih atas nama diri mereka sendiri dan kelompok orang yang lebih besar yang \"situasinya serupa.\""
+    "response": "N. Gugatan *class action* (perwakilan kelompok); gugatan yang diajukan oleh satu orang atau lebih atas nama diri mereka sendiri dan kelompok orang yang lebih besar yang situasinya serupa."
   },
   {
     "instruction": "Apa itu Clean Hands Doctrine?",
     "context": "Prinsip bahwa penggugat tidak boleh berbuat curang dalam perkara yang sama.",
-    "response": "N. Doktrin tangan bersih; aturan hukum bahwa seseorang yang datang ke pengadilan dengan gugatan harus bebas dari perilaku tidak adil (memiliki \"tangan bersih\") terkait dengan pokok klaimnya."
+    "response": "N. Doktrin tangan bersih; aturan hukum bahwa seseorang yang datang ke pengadilan dengan gugatan harus bebas dari perilaku tidak adil (memiliki tangan bersih) terkait dengan pokok klaimnya."
   },
   {
     "instruction": "Apa standar Clear and Convincing Evidence?",
     "context": "Standar pembuktian di tengah-tengah perdata dan pidana.",
-    "response": "N. Bukti yang jelas dan meyakinkan; bukti yang membuktikan suatu masalah lebih kuat dari sekadar \"preponderance\" (dominasi bukti) di perdata tapi belum sampai \"beyond reasonable doubt\" (tanpa keraguan) di pidana."
+    "response": "N. Bukti yang jelas dan meyakinkan; bukti yang membuktikan suatu masalah lebih kuat dari sekadar preponderance (dominasi bukti) di perdata tapi belum sampai beyond reasonable doubt (tanpa keraguan) di pidana."
   },
   {
     "instruction": "Apa doktrin Clear and Present Danger?",
@@ -672,7 +672,7 @@
   {
     "instruction": "Apa itu Common Property?",
     "context": "Tanah atau fasilitas yang dimiliki bersama.",
-    "response": "N. Properti bersama; 1) Properti nyata yang dimiliki oleh \"penyewa bersama\". 2) Properti yang dikelola oleh asosiasi pemilik rumah."
+    "response": "N. Properti bersama; 1) Properti nyata yang dimiliki oleh penyewa bersama. 2) Properti yang dikelola oleh asosiasi pemilik rumah."
   },
   {
     "instruction": "Apa itu Common Stock?",
@@ -737,7 +737,7 @@
   {
     "instruction": "Apa arti Compos Mentis?",
     "context": "Bahasa Latin untuk waras.",
-    "response": "N. (baca: com-pose-men-tis) Bahasa Latin untuk \"memiliki pikiran yang sehat\" (waras)."
+    "response": "N. (baca: com-pose-men-tis) Bahasa Latin untuk memiliki pikiran yang sehat (waras)."
   },
   {
     "instruction": "Apa itu Compound Interest?",
@@ -802,7 +802,7 @@
   {
     "instruction": "Apa itu Condemnation?",
     "context": "Proses pencabutan hak milik tanah oleh negara.",
-    "response": "N. Proses hukum di mana badan pemerintah menggunakan hak \"eminent domain\" untuk memperoleh properti pribadi demi kepentingan umum (seperti jalan raya)."
+    "response": "N. Proses hukum di mana badan pemerintah menggunakan hak eminent domain untuk memperoleh properti pribadi demi kepentingan umum (seperti jalan raya)."
   },
   {
     "instruction": "Apa itu Condemnation Action?",
@@ -857,7 +857,7 @@
   {
     "instruction": "Apa itu Confession and Avoidance?",
     "context": "Strategi hukum: mengaku melakukan perbuatan tapi punya alasan pembenar.",
-    "response": "N. Pengakuan dan penghindaran; ketika terdakwa mengakui tuduhan tetapi menuduh fakta lain untuk menunjukkan bahwa tuduhan asli tidak membuktikan kasus terhadapnya (misalnya: \"Saya memukulnya, tapi karena membela diri\")."
+    "response": "N. Pengakuan dan penghindaran; ketika terdakwa mengakui tuduhan tetapi menuduh fakta lain untuk menunjukkan bahwa tuduhan asli tidak membuktikan kasus terhadapnya (misalnya: Saya memukulnya, tapi karena membela diri)."
   },
   {
     "instruction": "Apa itu Confession of Judgment?",
@@ -897,7 +897,7 @@
   {
     "instruction": "Apa arti Confrontation dalam sidang?",
     "context": "Hak terdakwa untuk berhadapan dengan saksi yang memberatkannya.",
-    "response": "N. Konfrontasi; hak terdakwa kriminal \"untuk dikonfrontasi dengan saksi-saksi yang melawannya\" (Hak untuk menanyai saksi lawan)."
+    "response": "N. Konfrontasi; hak terdakwa kriminal untuk dikonfrontasi dengan saksi-saksi yang melawannya (Hak untuk menanyai saksi lawan)."
   },
   {
     "instruction": "Apa arti Confusingly Similar?",
@@ -907,7 +907,7 @@
   {
     "instruction": "Apa itu Conjugal Rights?",
     "context": "Hak berhubungan intim suami-istri.",
-    "response": "N. Hak konjugal (nafkah batin); \"hak\" pasangan untuk kenyamanan dan persahabatan dari pasangannya, yang berarti hubungan seksual."
+    "response": "N. Hak konjugal (nafkah batin); hak pasangan untuk kenyamanan dan persahabatan dari pasangannya, yang berarti hubungan seksual."
   },
   {
     "instruction": "Siapa itu Conscientious Objector?",
@@ -1057,7 +1057,7 @@
   {
     "instruction": "Apa arti Contiguous?",
     "context": "Tanah yang saling berbatasan.",
-    "response": "Adj. Berbatasan; terhubung atau \"di sebelah\", biasanya berarti sebidang real estat yang berdampingan."
+    "response": "Adj. Berbatasan; terhubung atau di sebelah, biasanya berarti sebidang real estat yang berdampingan."
   },
   {
     "instruction": "Apa arti Contingency?",
@@ -1097,7 +1097,7 @@
   {
     "instruction": "Apa itu Continuing Objection?",
     "context": "Keberatan pengacara yang berlaku untuk seluruh topik, tidak perlu diulang-ulang.",
-    "response": "N. Keberatan berkelanjutan; keberatan terhadap kesaksian yang telah ditolak oleh hakim, tetapi pengacara mengumumkan dia \"melanjutkan\" keberatan untuk semua pertanyaan lain tentang topik yang sama."
+    "response": "N. Keberatan berkelanjutan; keberatan terhadap kesaksian yang telah ditolak oleh hakim, tetapi pengacara mengumumkan dia melanjutkan keberatan untuk semua pertanyaan lain tentang topik yang sama."
   },
   {
     "instruction": "Apa itu Continuing Trespass?",
@@ -1107,7 +1107,7 @@
   {
     "instruction": "Apa arti Contra dalam argumen hukum?",
     "context": "Berlawanan dengan.",
-    "response": "Adj. Bahasa Latin untuk \"melawan\" atau \"berlawanan dengan\". Digunakan dalam penulisan hukum untuk membandingkan putusan yang berbeda."
+    "response": "Adj. Bahasa Latin untuk melawan atau berlawanan dengan. Digunakan dalam penulisan hukum untuk membandingkan putusan yang berbeda."
   },
   {
     "instruction": "Apa definisi Contract?",
@@ -1192,7 +1192,7 @@
   {
     "instruction": "Apa itu Cop a Plea?",
     "context": "Istilah slang untuk negosiasi hukuman (Plea Bargain).",
-    "response": "N. Slang untuk \"plea bargain\" di mana terdakwa setuju untuk mengaku bersalah dengan imbalan janji rekomendasi hukuman ringan."
+    "response": "N. Slang untuk plea bargain di mana terdakwa setuju untuk mengaku bersalah dengan imbalan janji rekomendasi hukuman ringan."
   },
   {
     "instruction": "Siapa itu Copartner?",
@@ -1217,7 +1217,7 @@
   {
     "instruction": "Apa definisi Corporation?",
     "context": "Badan hukum terpisah dari pemiliknya (Perseroan Terbatas).",
-    "response": "N. Korporasi (Perseroan Terbatas); organisasi yang dibentuk dengan persetujuan pemerintah untuk bertindak sebagai \"orang buatan\" untuk menjalankan bisnis, yang dapat menuntut atau dituntut."
+    "response": "N. Korporasi (Perseroan Terbatas); organisasi yang dibentuk dengan persetujuan pemerintah untuk bertindak sebagai orang buatan untuk menjalankan bisnis, yang dapat menuntut atau dituntut."
   },
   {
     "instruction": "Apa arti Corpus?",
@@ -1312,7 +1312,7 @@
   {
     "instruction": "Apa arti Course dalam frasa hukum?",
     "context": "Sedang berlangsung.",
-    "response": "N. Di tengah-tengah atau terlibat aktif pada waktu itu, seperti \"dalam kegiatan bisnis\" (course of business)."
+    "response": "N. Di tengah-tengah atau terlibat aktif pada waktu itu, seperti dalam kegiatan bisnis (course of business)."
   },
   {
     "instruction": "Apa itu Course of Employment?",
@@ -1427,7 +1427,7 @@
   {
     "instruction": "Apa itu Crime of Passion?",
     "context": "Kejahatan akibat emosi mendadak (bukan berencana).",
-    "response": "N. Kejahatan karena gairah/emosi; alasan terdakwa melakukan kejahatan karena kemarahan mendadak atau sakit hati, untuk menghilangkan unsur \"perencanaan\"."
+    "response": "N. Kejahatan karena gairah/emosi; alasan terdakwa melakukan kejahatan karena kemarahan mendadak atau sakit hati, untuk menghilangkan unsur perencanaan."
   },
   {
     "instruction": "Siapa itu Criminal?",
@@ -1527,6 +1527,6 @@
   {
     "instruction": "Apa itu Cy Pres Doctrine?",
     "context": "Prinsip mengalihkan dana amal ke tujuan yang mirip jika tujuan asli gagal.",
-    "response": "N. Doktrin Cy Pres; dari bahasa Prancis, yang berarti \"sedekat mungkin.\" Ketika tujuan asli hadiah amal tidak mungkin dilaksanakan, pengadilan dapat mengarahkannya ke tujuan amal yang serupa."
+    "response": "N. Doktrin Cy Pres; dari bahasa Prancis, yang berarti sedekat mungkin. Ketika tujuan asli hadiah amal tidak mungkin dilaksanakan, pengadilan dapat mengarahkannya ke tujuan amal yang serupa."
   }
 ]

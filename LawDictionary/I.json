@@ -2,7 +2,7 @@
   {
     "instruction": "Apa singkatan i.e.?",
     "context": "Singkatan untuk penjelasan lebih lanjut.",
-    "response": "Prep. (id est) Yaitu/Yakni; singkatan bahasa Latin untuk \"that is\" (yaitu). Digunakan untuk menjelaskan istilah umum."
+    "response": "Prep. (id est) Yaitu/Yakni; singkatan bahasa Latin untuk that is (yaitu). Digunakan untuk menjelaskan istilah umum."
   },
   {
     "instruction": "Apa definisi Illegal?",
@@ -27,7 +27,7 @@
   {
     "instruction": "Apa arti Immediately dalam kontrak?",
     "context": "Segera, tanpa alasan penundaan.",
-    "response": "Adv. Segera; 1) Seketika itu juga. 2) Dalam perintah pengadilan atau kontrak berarti \"secepat mungkin yang dapat dilakukan\" tanpa alasan."
+    "response": "Adv. Segera; 1) Seketika itu juga. 2) Dalam perintah pengadilan atau kontrak berarti secepat mungkin yang dapat dilakukan tanpa alasan."
   },
   {
     "instruction": "Apa itu Immunity?",
@@ -82,7 +82,7 @@
   {
     "instruction": "Apa itu Implied Warranty?",
     "context": "Jaminan kualitas produk yang otomatis ada menurut hukum.",
-    "response": "N. Garansi tersirat; asumsi hukum bahwa produk layak jual dan berfungsi normal, kecuali dinyatakan dijual \"apa adanya\" (as is)."
+    "response": "N. Garansi tersirat; asumsi hukum bahwa produk layak jual dan berfungsi normal, kecuali dinyatakan dijual apa adanya (as is)."
   },
   {
     "instruction": "Apa arti Impossibility dalam kontrak?",
@@ -152,7 +152,7 @@
   {
     "instruction": "Apa arti In Lieu?",
     "context": "Sebagai pengganti.",
-    "response": "Prep. Sebagai pengganti (In lieu); misal \"deed in lieu of foreclosure\" (menyerahkan sertifikat tanah sebagai pengganti penyitaan)."
+    "response": "Prep. Sebagai pengganti (In lieu); misal deed in lieu of foreclosure (menyerahkan sertifikat tanah sebagai pengganti penyitaan)."
   },
   {
     "instruction": "Apa arti In Limine?",
@@ -187,7 +187,7 @@
   {
     "instruction": "Apa arti In Propria Persona?",
     "context": "Bertindak sendiri tanpa pengacara di pengadilan.",
-    "response": "Adj. Atas nama sendiri; bertindak sebagai pengacara untuk diri sendiri dalam gugatan (sering disingkat \"pro per\" atau \"pro se\")."
+    "response": "Adj. Atas nama sendiri; bertindak sebagai pengacara untuk diri sendiri dalam gugatan (sering disingkat pro per atau pro se)."
   },
   {
     "instruction": "Apa arti In Re?",
@@ -312,7 +312,7 @@
   {
     "instruction": "Apa itu Indemnity?",
     "context": "Ganti rugi atau perlindungan dari kerugian.",
-    "response": "N. Ganti rugi (Indemnitas); tindakan membuat seseorang \"utuh\" kembali atau melindunginya dari kerugian."
+    "response": "N. Ganti rugi (Indemnitas); tindakan membuat seseorang utuh kembali atau melindunginya dari kerugian."
   },
   {
     "instruction": "Apa itu Indenture?",
@@ -327,7 +327,7 @@
   {
     "instruction": "Apa itu Indeterminate Sentence?",
     "context": "Vonis penjara dengan rentang waktu (misal 5-10 tahun).",
-    "response": "N. Hukuman tidak pasti; masa penjara yang tidak menyatakan tanggal pelepasan spesifik, melainkan rentang waktu (misal \"lima sampai sepuluh tahun\")."
+    "response": "N. Hukuman tidak pasti; masa penjara yang tidak menyatakan tanggal pelepasan spesifik, melainkan rentang waktu (misal lima sampai sepuluh tahun)."
   },
   {
     "instruction": "Apa itu Indicia?",

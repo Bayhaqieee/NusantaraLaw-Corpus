@@ -7,7 +7,7 @@
   {
     "instruction": "Apa itu Pain and Suffering?",
     "context": "Ganti rugi untuk penderitaan fisik dan mental.",
-    "response": "N. Rasa sakit dan penderitaan; penderitaan fisik dan mental akibat cedera, termasuk patah tulang, keterbatasan aktivitas, depresi, dan rasa malu, yang merupakan bagian dari \"ganti rugi umum\"."
+    "response": "N. Rasa sakit dan penderitaan; penderitaan fisik dan mental akibat cedera, termasuk patah tulang, keterbatasan aktivitas, depresi, dan rasa malu, yang merupakan bagian dari ganti rugi umum."
   },
   {
     "instruction": "Apa itu Palimony?",
@@ -32,7 +32,7 @@
   {
     "instruction": "Apa arti Paper Hanger?",
     "context": "Penipu cek kosong.",
-    "response": "N. Pengedar cek kosong (Paper hanger); slang untuk orang yang secara kriminal menulis dan mencairkan cek \"buruk\" (kosong)."
+    "response": "N. Pengedar cek kosong (Paper hanger); slang untuk orang yang secara kriminal menulis dan mencairkan cek buruk (kosong)."
   },
   {
     "instruction": "Apa arti Par?",
@@ -177,7 +177,7 @@
   {
     "instruction": "Apa arti Passive dalam hukum?",
     "context": "Tidak aktif atau pasif.",
-    "response": "Adj. Pasif; tidak aktif. \"Wali amanat pasif\" tidak memiliki tanggung jawab selain memegang hak milik."
+    "response": "Adj. Pasif; tidak aktif. Wali amanat pasif tidak memiliki tanggung jawab selain memegang hak milik."
   },
   {
     "instruction": "Apa definisi Patent?",
@@ -282,7 +282,7 @@
   {
     "instruction": "Apa arti Peer?",
     "context": "Rekan sebaya atau setara.",
-    "response": "N. Rekan sebaya (Peer); orang yang setara. \"Juri dari rekan sebaya\" berarti juri yang dipilih secara tidak memihak dari warga daerah tersebut."
+    "response": "N. Rekan sebaya (Peer); orang yang setara. Juri dari rekan sebaya berarti juri yang dipilih secara tidak memihak dari warga daerah tersebut."
   },
   {
     "instruction": "Apa itu Peer Review?",
@@ -322,7 +322,7 @@
   {
     "instruction": "Apa arti Per?",
     "context": "Per atau demi.",
-    "response": "Prep. Per/Demi; dari bahasa Latin, misal \"per day\" (per hari)."
+    "response": "Prep. Per/Demi; dari bahasa Latin, misal per day (per hari)."
   },
   {
     "instruction": "Apa arti Per Capita?",
@@ -767,7 +767,7 @@
   {
     "instruction": "Apa itu Preponderance of the Evidence?",
     "context": "Standar bukti dalam kasus perdata (lebih mungkin benar daripada tidak).",
-    "response": "N. Bukti yang lebih kuat (Preponderance of evidence); standar bukti dalam kasus perdata, artinya \"lebih mungkin benar daripada tidak\" (>50%)."
+    "response": "N. Bukti yang lebih kuat (Preponderance of evidence); standar bukti dalam kasus perdata, artinya lebih mungkin benar daripada tidak (>50%)."
   },
   {
     "instruction": "Apa itu Prerogative Writ?",
@@ -957,7 +957,7 @@
   {
     "instruction": "Apa arti Pro Tanto?",
     "context": "Hanya sejauh itu.",
-    "response": "Latin untuk \"hanya sampai sejauh itu.\""
+    "response": "Latin untuk hanya sampai sejauh itu."
   },
   {
     "instruction": "Apa arti Pro Tem?",

@@ -2,7 +2,7 @@
   {
     "instruction": "Apa arti singkatan N.O.V.?",
     "context": "Putusan hakim yang membatalkan vonis juri.",
-    "response": "Adj. Putusan mengabaikan vonis (Non obstante veredicto); singkatan Latin untuk \"notwithstanding the verdict\" (meskipun ada vonis), merujuk pada keputusan hakim untuk membatalkan keputusan juri jika hakim yakin keputusan itu salah secara hukum."
+    "response": "Adj. Putusan mengabaikan vonis (Non obstante veredicto); singkatan Latin untuk notwithstanding the verdict (meskipun ada vonis), merujuk pada keputusan hakim untuk membatalkan keputusan juri jika hakim yakin keputusan itu salah secara hukum."
   },
   {
     "instruction": "Apa itu National Labor Relations Board (NLRB)?",
@@ -17,7 +17,7 @@
   {
     "instruction": "Apa itu Natural Person?",
     "context": "Manusia asli, bukan badan hukum.",
-    "response": "N. Orang perseorangan (Manusia pribadi); manusia nyata, dibedakan dari korporasi yang diperlakukan hukum sebagai \"orang fiktif\" (badan hukum)."
+    "response": "N. Orang perseorangan (Manusia pribadi); manusia nyata, dibedakan dari korporasi yang diperlakukan hukum sebagai orang fiktif (badan hukum)."
   },
   {
     "instruction": "Apa arti Necessary dalam hukum?",
@@ -42,7 +42,7 @@
   {
     "instruction": "Apa itu Negative Pregnant?",
     "context": "Penyangkalan yang secara tidak langsung mengakui fakta.",
-    "response": "N. Penyangkalan yang mengandung pengakuan; penyangkalan tuduhan di mana seseorang sebenarnya mengakui lebih dari yang dia sangkal (misal: \"Saya tidak mencuri $100.000\" menyiratkan mungkin mencuri $99.000)."
+    "response": "N. Penyangkalan yang mengandung pengakuan; penyangkalan tuduhan di mana seseorang sebenarnya mengakui lebih dari yang dia sangkal (misal: Saya tidak mencuri $100.000 menyiratkan mungkin mencuri $99.000)."
   },
   {
     "instruction": "Apa definisi Negligence?",
@@ -97,7 +97,7 @@
   {
     "instruction": "Apa arti Nihil?",
     "context": "Nol atau tidak ada.",
-    "response": "N. (baca: ni-hill) Dari bahasa Latin untuk \"tidak ada\" (kosong)."
+    "response": "N. (baca: ni-hill) Dari bahasa Latin untuk tidak ada (kosong)."
   },
   {
     "instruction": "Apa arti Nil?",
@@ -117,7 +117,7 @@
   {
     "instruction": "Apa itu No Fault Divorce?",
     "context": "Perceraian tanpa perlu membuktikan kesalahan pasangan.",
-    "response": "N. Perceraian tanpa kesalahan; perceraian di mana tidak ada pasangan yang perlu membuktikan \"kesalahan\" atau pelanggaran perkawinan pihak lain, cukup dengan alasan ketidakcocokan."
+    "response": "N. Perceraian tanpa kesalahan; perceraian di mana tidak ada pasangan yang perlu membuktikan kesalahan atau pelanggaran perkawinan pihak lain, cukup dengan alasan ketidakcocokan."
   },
   {
     "instruction": "Apa itu No Fault Insurance?",
@@ -267,7 +267,7 @@
   {
     "instruction": "Apa arti Nunc Pro Tunc?",
     "context": "Berlaku surut (sekarang untuk waktu yang lalu).",
-    "response": "Adj. (baca: nuhnk proh tuhnk) Berlaku surut (Nunc pro tunc); bahasa Latin untuk \"sekarang untuk nanti,\" merujuk pada pengubahan tanggal perintah atau dokumen ke tanggal sebelumnya (retroaktif)."
+    "response": "Adj. (baca: nuhnk proh tuhnk) Berlaku surut (Nunc pro tunc); bahasa Latin untuk sekarang untuk nanti, merujuk pada pengubahan tanggal perintah atau dokumen ke tanggal sebelumnya (retroaktif)."
   },
   {
     "instruction": "Apa arti Notary?",

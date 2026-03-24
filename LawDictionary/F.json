@@ -7,7 +7,7 @@
   {
     "instruction": "Apa itu Face Value?",
     "context": "Nilai asli saham yang tertera di sertifikat.",
-    "response": "N. Nilai nominal (Par value); dalam saham, biaya asli saham yang ditunjukkan pada sertifikat, atau \"nilai pari\"."
+    "response": "N. Nilai nominal (Par value); dalam saham, biaya asli saham yang ditunjukkan pada sertifikat, atau nilai pari."
   },
   {
     "instruction": "Apa definisi Fact?",
@@ -42,7 +42,7 @@
   {
     "instruction": "Apa itu Fair Market Value?",
     "context": "Harga pasar wajar suatu properti.",
-    "response": "N. Nilai pasar wajar; jumlah harga properti jika dijual di pasar terbuka. Penilai real estat menggunakan penjualan \"sebanding\" untuk menentukannya."
+    "response": "N. Nilai pasar wajar; jumlah harga properti jika dijual di pasar terbuka. Penilai real estat menggunakan penjualan sebanding untuk menentukannya."
   },
   {
     "instruction": "Apa itu Fair Trade Laws?",
@@ -97,7 +97,7 @@
   {
     "instruction": "Apa arti Fee dalam properti?",
     "context": "Hak kepemilikan mutlak atas tanah.",
-    "response": "N. Hak milik mutlak; gelar mutlak dalam tanah, dari bahasa Prancis kuno 'fief'. Sering muncul dalam akta sebagai \"in fee.\""
+    "response": "N. Hak milik mutlak; gelar mutlak dalam tanah, dari bahasa Prancis kuno 'fief'. Sering muncul dalam akta sebagai in fee."
   },
   {
     "instruction": "Apa itu Fee Simple?",
@@ -412,7 +412,7 @@
   {
     "instruction": "Apa itu Full Disclosure?",
     "context": "Kewajiban mengungkapkan semua fakta penting dalam transaksi.",
-    "response": "N. Pengungkapan penuh; kebutuhan dalam transaksi bisnis untuk menceritakan \"kebenaran sepenuhnya\" tentang masalah apa pun yang harus diketahui pihak lain."
+    "response": "N. Pengungkapan penuh; kebutuhan dalam transaksi bisnis untuk menceritakan kebenaran sepenuhnya tentang masalah apa pun yang harus diketahui pihak lain."
   },
   {
     "instruction": "Apa prinsip Full Faith and Credit?",
