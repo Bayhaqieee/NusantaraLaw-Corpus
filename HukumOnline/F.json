@@ -2,86 +2,86 @@
     {
         "instruction": "Apa definisi Faktur Pajak?",
         "context": "Berdasarkan UU Nomor 42 Tahun 2009, Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh Pengusaha Kena Pajak (PKP) yang melakukan penyerahan Barang Kena Pajak atau Jasa Kena Pajak.",
-        "response": "Faktur Pajak"
+        "response": "Faktur Pajak adalah bukti pungutan pajak yang dibuat oleh Pengusaha Kena Pajak (PKP) yang melakukan penyerahan Barang Kena Pajak atau Jasa Kena Pajak."
     },
     {
         "instruction": "Apa yang dimaksud dengan Fasilitas Kefarmasian Dan Alat Kesehatan?",
         "context": "Menurut Permenkes Nomor 10 Tahun 2018, ini adalah suatu tempat yang digunakan untuk menyelenggarakan proses produksi, distribusi, dan pelayanan kefarmasian, alat kesehatan, alat kesehatan diagnostik in vitro, dan/atau perbekalan kesehatan rumah tangga.",
-        "response": "Fasilitas Kefarmasian Dan Alat Kesehatan"
+        "response": "Fasilitas Kefarmasian Dan Alat Kesehatan adalah suatu tempat yang digunakan untuk menyelenggarakan proses produksi, distribusi, dan pelayanan kefarmasian, alat kesehatan, alat kesehatan diagnostik in vitro, dan/atau perbekalan kesehatan rumah tangga."
     },
     {
         "instruction": "Jelaskan definisi Fasilitas Kesehatan.",
         "context": "Sesuai Perpres Nomor 82 Tahun 2018, Fasilitas Kesehatan adalah fasilitas pelayanan kesehatan (baik pemerintah maupun swasta) yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan perorangan, baik promotif, preventif, kuratif, maupun rehabilitatif.",
-        "response": "Fasilitas Kesehatan"
+        "response": "Fasilitas Kesehatan adalah fasilitas pelayanan kesehatan, baik milik pemerintah maupun swasta, yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan perorangan yang bersifat promotif, preventif, kuratif, maupun rehabilitatif."
     },
     {
         "instruction": "Apa itu Fasilitas Kesehatan Rujukan Tingkat Lanjutan?",
         "context": "Berdasarkan Perpres Nomor 82 Tahun 2018, ini adalah fasilitas kesehatan yang melakukan pelayanan kesehatan perorangan bersifat spesialistik atau subspesialistik, meliputi rawat jalan tingkat lanjutan, rawat inap tingkat lanjutan, dan rawat inap khusus.",
-        "response": "Fasilitas Kesehatan Rujukan Tingkat Lanjutan"
+        "response": "Fasilitas Kesehatan Rujukan Tingkat Lanjutan adalah fasilitas kesehatan yang melakukan pelayanan kesehatan perorangan bersifat spesialistik atau subspesialistik, yang meliputi rawat jalan tingkat lanjutan, rawat inap tingkat lanjutan, dan rawat inap khusus."
     },
     {
         "instruction": "Apa definisi Fasilitas Kesehatan Tingkat Pertama?",
         "context": "Menurut Perpres Nomor 82 Tahun 2018, ini adalah fasilitas kesehatan yang melakukan pelayanan kesehatan perorangan bersifat nonspesialistik untuk keperluan observasi, promotif, preventif, diagnosis, perawatan, dan pengobatan.",
-        "response": "Fasilitas Kesehatan Tingkat Pertama"
+        "response": "Fasilitas Kesehatan Tingkat Pertama adalah fasilitas kesehatan yang melakukan pelayanan kesehatan perorangan bersifat nonspesialistik untuk keperluan observasi, promotif, preventif, diagnosis, perawatan, dan pengobatan."
     },
     {
         "instruction": "Apa yang dimaksud dengan Fasilitas negara dalam konteks pemilu?",
         "context": "Sesuai PP Nomor 14 Tahun 2009, Fasilitas negara adalah sarana dan prasarana yang dibiayai dari APBN dan/atau APBD.",
-        "response": "Fasilitas negara"
+        "response": "Fasilitas negara adalah sarana dan prasarana yang pembiayaannya bersumber dari Anggaran Pendapatan dan Belanja Negara (APBN) dan/atau Anggaran Pendapatan dan Belanja Daerah (APBD)."
     },
     {
         "instruction": "Jelaskan definisi Fasilitas Nonfiskal dalam industri.",
         "context": "Berdasarkan PP Nomor 2 Tahun 2017, ini adalah kemudahan dari Pemerintah Pusat/Daerah kepada Perusahaan Industri berupa jasa, nilai kegunaan hak/barang/bangunan yang pemanfaatannya tidak selalu komersial, tanpa memindahkan kepemilikan aset tersebut.",
-        "response": "Fasilitas Nonfiskal"
+        "response": "Fasilitas Nonfiskal adalah kemudahan yang diberikan oleh Pemerintah Pusat atau Pemerintah Daerah kepada Perusahaan Industri berupa jasa atau nilai kegunaan hak, barang, atau bangunan yang pemanfaatannya tidak selalu komersial, tanpa memindahkan kepemilikan aset tersebut."
     },
     {
         "instruction": "Apa itu Fasilitas Pelayanan Kefarmasian?",
         "context": "Menurut PP Nomor 51 Tahun 2009, ini adalah sarana untuk menyelenggarakan pelayanan kefarmasian, seperti apotek, instalasi farmasi rumah sakit, puskesmas, klinik, toko obat, atau praktek bersama.",
-        "response": "Fasilitas Pelayanan Kefarmasian"
+        "response": "Fasilitas Pelayanan Kefarmasian adalah sarana yang digunakan untuk menyelenggarakan pelayanan kefarmasian, seperti apotek, instalasi farmasi rumah sakit, puskesmas, klinik, toko obat, atau praktek bersama."
     },
     {
         "instruction": "Apa definisi Fasilitas Pelayanan Kesehatan?",
         "context": "Sesuai Permenkes Nomor 10 Tahun 2018, ini adalah alat dan/atau tempat yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan (promotif, preventif, kuratif, rehabilitatif) oleh pemerintah atau masyarakat.",
-        "response": "Fasilitas Pelayanan Kesehatan"
+        "response": "Fasilitas Pelayanan Kesehatan adalah alat dan/atau tempat yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan, baik promotif, preventif, kuratif, maupun rehabilitatif yang dilakukan oleh pemerintah, pemerintah daerah, dan/atau masyarakat."
     },
     {
         "instruction": "Apa yang dimaksud dengan Fasilitas Pelayanan Kesehatan Tradisional?",
         "context": "Berdasarkan PP Nomor 103 Tahun 2014, ini adalah Fasilitas Pelayanan Kesehatan yang menyelenggarakan pengobatan/perawatan Pelayanan Kesehatan Tradisional Komplementer.",
-        "response": "Fasilitas Pelayanan Kesehatan Tradisional"
+        "response": "Fasilitas Pelayanan Kesehatan Tradisional adalah Fasilitas Pelayanan Kesehatan yang menyelenggarakan pengobatan atau perawatan Pelayanan Kesehatan Tradisional Komplementer."
     },
     {
         "instruction": "Apa itu Fasilitas Produksi Sediaan Farmasi?",
         "context": "Menurut PP Nomor 51 Tahun 2009, ini adalah sarana yang digunakan untuk memproduksi obat, bahan baku obat, obat tradisional, dan kosmetika.",
-        "response": "Fasilitas Produksi Sediaan Farmasi"
+        "response": "Fasilitas Produksi Sediaan Farmasi adalah sarana yang digunakan untuk memproduksi obat, bahan baku obat, obat tradisional, dan kosmetika."
     },
     {
         "instruction": "Jelaskan definisi File Data Pribadi.",
         "context": "Sesuai RUU Pelindungan Data Pribadi Tahun 2022, File Data Pribadi adalah kumpulan data perseorangan yang terorganisir secara sistematik.",
-        "response": "File Data Pribadi"
+        "response": "File Data Pribadi adalah kumpulan data perseorangan yang terorganisir secara sistematik."
     },
     {
         "instruction": "Apa definisi Film dalam hukum?",
         "context": "Berdasarkan UU Nomor 33 Tahun 2009 dan PP Nomor 18 Tahun 2014, Film adalah karya seni budaya (pranata sosial dan media komunikasi massa) yang dibuat berdasarkan kaidah sinematografi dengan atau tanpa suara dan dapat dipertunjukkan.",
-        "response": "Film"
+        "response": "Film adalah karya seni budaya berupa pranata sosial dan media komunikasi massa yang dibuat berdasarkan kaidah sinematografi dengan atau tanpa suara dan dapat dipertunjukkan."
     },
     {
         "instruction": "Apa itu Forkopimda?",
         "context": "Menurut UU Nomor 23 Tahun 2014, Forkopimda (Forum Koordinasi Pimpinan Daerah) adalah forum yang digunakan untuk membahas penyelenggaraan urusan pemerintahan umum.",
-        "response": "Forkopimda"
+        "response": "Forkopimda atau Forum Koordinasi Pimpinan Daerah adalah forum yang digunakan untuk membahas penyelenggaraan urusan pemerintahan umum."
     },
     {
         "instruction": "Apa yang dimaksud dengan Formasi Jabatan Notaris?",
         "context": "Sesuai UU Nomor 2 Tahun 2014, ini adalah penentuan jumlah Notaris yang dibutuhkan pada suatu Kabupaten/Kota (sebelumnya disebut wilayah jabatan Notaris).",
-        "response": "Formasi Jabatan Notaris"
+        "response": "Formasi Jabatan Notaris adalah penentuan jumlah Notaris yang dibutuhkan pada suatu Kabupaten/Kota, yang sebelumnya dikenal sebagai wilayah jabatan Notaris."
     },
     {
         "instruction": "Apa definisi Fungsi Kepolisian?",
         "context": "Berdasarkan PP Nomor 43 Tahun 2012, Fungsi Kepolisian adalah salah satu fungsi pemerintahan negara di bidang pemeliharaan keamanan dan ketertiban masyarakat, penegakan hukum, perlindungan, pengayoman, dan pelayanan kepada masyarakat.",
-        "response": "Fungsi Kepolisian"
+        "response": "Fungsi Kepolisian adalah salah satu fungsi pemerintahan negara di bidang pemeliharaan keamanan dan ketertiban masyarakat, penegakan hukum, perlindungan, pengayoman, dan pelayanan kepada masyarakat."
     },
     {
         "instruction": "Jelaskan Fungsi Pemerintahan dalam administrasi negara.",
         "context": "Menurut UU Nomor 30 Tahun 2014, Fungsi Pemerintahan adalah fungsi dalam melaksanakan Administrasi Pemerintahan yang meliputi fungsi pengaturan, pelayanan, pembangunan, pemberdayaan, dan pelindungan.",
-        "response": "Fungsi Pemerintahan"
+        "response": "Fungsi Pemerintahan adalah fungsi dalam melaksanakan Administrasi Pemerintahan yang meliputi fungsi pengaturan, pelayanan, pembangunan, pemberdayaan, dan pelindungan."
     }
 ]
