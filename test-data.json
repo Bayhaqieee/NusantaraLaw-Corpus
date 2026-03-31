@@ -1410,5 +1410,443 @@
   {
     "instruction": "Jelaskan istilah Akomodasi (Accommodation) dalam transaksi.", 
     "context": "Penandatanganan penjaminan utang tanpa komisi (Accommodation).", 
-    "response": "N. Tindakan seseorang yang membantu temannya dengan membubuhkan tanda tangannya sebagai pihak penjamin tambahan (avalist) pada sebuah surat utang, tanpa meminta kompensasi apa pun. Posisi ini berisiko fatal, karena jika sang peminjam kabur, kreditur berhak menuntut penjamin tersebut sepenuhnya."}
+    "response": "N. Tindakan seseorang yang membantu temannya dengan membubuhkan tanda tangannya sebagai pihak penjamin tambahan (avalist) pada sebuah surat utang, tanpa meminta kompensasi apa pun. Posisi ini berisiko fatal, karena jika sang peminjam kabur, kreditur berhak menuntut penjamin tersebut sepenuhnya."},
+  {
+    "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 1?",
+    "context": "Landasan filosofis Konstitusi Indonesia mengenai penolakan terhadap kolonialisme global.",
+    "response": "Alinea pertama ini secara tegas mendeklarasikan bahwa kemerdekaan merupakan hak asasi yang melekat pada semua bangsa di dunia. Konsekuensinya, segala praktik penjajahan di muka bumi wajib diberantas karena secara fundamental menyalahi prinsip-prinsip perikemanusiaan dan perikeadilan."
+  },
+  {
+    "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 2?",
+    "context": "Pernyataan historis mengenai puncak pergerakan kemerdekaan nasional Indonesia.",
+    "response": "Alinea ini menggambarkan bahwa perjuangan panjang pergerakan kemerdekaan bangsa Indonesia telah berhasil mencapai titik puncaknya. Momentum tersebut mengantarkan rakyat Indonesia ke gerbang kemerdekaan untuk membentuk sebuah negara yang merdeka, bersatu, berdaulat, adil, dan makmur."
+  },
+  {
+    "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 3?",
+    "context": "Pengakuan spiritual dan teologis atas kemerdekaan Republik Indonesia.",
+    "response": "Bagian ini merupakan pengakuan religius yang menegaskan bahwa kemerdekaan Indonesia bukan semata-mata hasil perjuangan fisik, melainkan terwujud atas berkat rahmat Allah Yang Maha Kuasa. Didorong oleh cita-cita luhur untuk memiliki kehidupan kebangsaan yang bebas, maka rakyat Indonesia secara resmi menyatakan kemerdekaannya."
+  },
+  {
+    "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 4?",
+    "context": "Rumusan tujuan bernegara dan landasan ideologis (Pancasila) dalam konstitusi.",
+    "response": "Alinea keempat merumuskan empat tujuan utama pembentukan negara: melindungi segenap bangsa dan tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, serta ikut serta dalam ketertiban dunia (berbasis kemerdekaan, perdamaian abadi, dan keadilan sosial). Hal ini diwujudkan dalam susunan Negara Republik Indonesia yang berkedaulatan rakyat dan berlandaskan pada lima sila dasar falsafah negara, yaitu Pancasila."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 1 Ayat (1) UUD 1945 (Naskah Asli) mengenai Bentuk Negara?",
+    "context": "Ketentuan konstitusional dasar mengenai wujud tata negara Indonesia.",
+    "response": "Pasal ini secara eksplisit menetapkan bahwa bentuk negara Indonesia adalah Negara Kesatuan, dengan sistem pemerintahan yang dijalankan dalam bentuk Republik."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 1 Ayat (2) UUD 1945 (Naskah Asli) mengenai Kedaulatan?",
+    "context": "Prinsip supremasi kekuasaan rakyat dalam naskah konstitusi sebelum amandemen.",
+    "response": "Dalam naskah aslinya, ayat ini mengamanatkan bahwa kedaulatan mutlak berada di tangan rakyat. Namun, pengejawantahan atau pelaksanaan sepenuhnya dari kedaulatan tersebut dimandatkan kepada Majelis Permusyawaratan Rakyat (MPR)."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 2 Ayat (1) UUD 1945 (Naskah Asli) mengenai Susunan MPR?",
+    "context": "Struktur keanggotaan lembaga tertinggi negara pada versi awal konstitusi.",
+    "response": "Pasal ini mengatur komposisi MPR yang dibentuk dari para anggota Dewan Perwakilan Rakyat (DPR), yang kemudian digabungkan dengan elemen utusan dari berbagai daerah serta representasi golongan-golongan fungsional, yang tata cara penentuannya diatur lebih lanjut melalui undang-undang."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 2 Ayat (2) UUD 1945 (Naskah Asli) mengenai Sidang MPR?",
+    "context": "Kewajiban konstitusional terkait intensitas pertemuan Majelis Permusyawaratan Rakyat.",
+    "response": "Ketentuan ini mewajibkan Majelis Permusyawaratan Rakyat untuk mengadakan sidang formal di ibu kota negara dengan frekuensi minimal satu kali dalam kurun waktu lima tahun."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 2 Ayat (3) UUD 1945 (Naskah Asli) mengenai Putusan MPR?",
+    "context": "Mekanisme sahnya pengambilan keputusan di tingkat Majelis.",
+    "response": "Ayat ini memberikan dasar hukum bahwa seluruh keputusan yang dikeluarkan oleh Majelis Permusyawaratan Rakyat harus ditetapkan melalui mekanisme pemungutan suara (suara terbanyak)."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 3 UUD 1945 (Naskah Asli) mengenai Tugas MPR?",
+    "context": "Wewenang absolut MPR sebelum era Reformasi.",
+    "response": "Pada naskah aslinya, Pasal 3 memberikan mandat tunggal kepada Majelis Permusyawaratan Rakyat untuk menetapkan konstitusi (Undang-Undang Dasar) sekaligus merumuskan Garis-Garis Besar Haluan Negara (GBHN)."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 4 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Presiden?",
+    "context": "Dasar legitimasi kewenangan eksekutif di Republik Indonesia.",
+    "response": "Ketentuan ini menegaskan bahwa pemegang otoritas dan kekuasaan tertinggi dalam menjalankan roda pemerintahan negara adalah Presiden Republik Indonesia, dengan batasan bahwa pelaksanaannya harus tunduk pada Undang-Undang Dasar."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 4 Ayat (2) UUD 1945 (Naskah Asli) mengenai Wakil Presiden?",
+    "context": "Kedudukan pendamping eksekutif dalam menjalankan amanat negara.",
+    "response": "Pasal ini menetapkan bahwa dalam melaksanakan segala tugas dan kewajiban kenegaraannya, Presiden didampingi dan dibantu secara langsung oleh satu orang Wakil Presiden."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 5 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Legislatif?",
+    "context": "Konsep pembagian kekuasaan legislasi dalam versi asli UUD 1945.",
+    "response": "Di dalam naskah sebelum amandemen, kekuasaan utama untuk merancang dan membentuk sebuah undang-undang dipegang oleh Presiden, dengan syarat rancangan tersebut harus mendapatkan persetujuan dari Dewan Perwakilan Rakyat."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 5 Ayat (2) UUD 1945 (Naskah Asli) mengenai Peraturan Pemerintah?",
+    "context": "Wewenang regulasi turunan yang dimiliki oleh kepala negara.",
+    "response": "Ayat ini memberikan kewenangan kepada Presiden untuk merumuskan dan menetapkan Peraturan Pemerintah (PP) yang berfungsi sebagai instrumen teknis agar suatu undang-undang dapat dijalankan secara operasional."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 6 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kebangsaan Presiden?",
+    "context": "Prasyarat asal-usul warga negara untuk menjadi pemimpin eksekutif (versi lama).",
+    "response": "Pada versi awal UUD 1945, terdapat syarat konstitusional yang secara ketat mengharuskan bahwa figur yang menduduki jabatan Presiden haruslah seorang warga negara Indonesia asli."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 6 Ayat (2) UUD 1945 (Naskah Asli) mengenai Pemilihan Presiden?",
+    "context": "Sistem demokrasi perwakilan untuk penentuan kepala negara sebelum amandemen.",
+    "response": "Ketentuan lama ini mengatur bahwa Presiden dan Wakil Presiden tidak dipilih secara langsung oleh rakyat, melainkan ditunjuk dan dipilih oleh anggota Majelis Permusyawaratan Rakyat melalui sistem suara terbanyak."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 7 UUD 1945 (Naskah Asli) mengenai Masa Jabatan?",
+    "context": "Ketentuan periodisasi kepemimpinan eksekutif yang memicu perdebatan di era Orde Baru.",
+    "response": "Pasal ini menyatakan bahwa masa bakti Presiden dan Wakil Presiden adalah lima tahun. Setelah masa jabatan tersebut berakhir, mereka berhak dan dapat dipilih kembali untuk periode selanjutnya tanpa adanya batasan jumlah periode yang jelas."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 8 UUD 1945 (Naskah Asli) mengenai Kekosongan Jabatan?",
+    "context": "Mekanisme suksesi kekuasaan darurat atau pergantian antarwaktu.",
+    "response": "Apabila Presiden mangkat, mengundurkan diri, atau secara permanen tidak sanggup lagi menjalankan mandat konstitusinya sebelum masa jabatannya berakhir, maka secara otomatis posisi tersebut akan digantikan oleh Wakil Presiden hingga sisa periode jabatan usai."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 9 UUD 1945 (Naskah Asli) mengenai Sumpah Presiden?",
+    "context": "Janji moral dan hukum kepala negara sebelum memegang kekuasaan.",
+    "response": "Sebelum resmi menjabat, Presiden dan Wapres diwajibkan mengucapkan sumpah agama atau janji setia di hadapan MPR/DPR. Inti sumpah tersebut adalah komitmen untuk menjalankan tugas kepresidenan dengan adil, berpegang teguh pada Konstitusi, mengeksekusi undang-undang secara lurus, serta berbakti sepenuhnya kepada Nusa dan Bangsa."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 10 UUD 1945 (Naskah Asli) mengenai Komando Militer?",
+    "context": "Otoritas sipil tertinggi dalam memegang kendali atas angkatan bersenjata.",
+    "response": "Pasal ini mengukuhkan Presiden sebagai Panglima Tertinggi yang memegang kekuasaan komando absolut atas ketiga matra pertahanan negara, yaitu Angkatan Darat, Angkatan Laut, dan Angkatan Udara."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 11 UUD 1945 (Naskah Asli) mengenai Pernyataan Perang?",
+    "context": "Syarat check and balance dalam memutuskan kebijakan pertahanan luar negeri yang esensial.",
+    "response": "Presiden diberikan wewenang untuk mendeklarasikan perang, mengadakan perjanjian damai, serta menandatangani traktat dengan negara-negara asing, namun tindakan-tindakan vital tersebut mutlak memerlukan persetujuan dari Dewan Perwakilan Rakyat."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 12 UUD 1945 (Naskah Asli) mengenai Keadaan Bahaya?",
+    "context": "Dasar hukum penetapan status darurat (State of Emergency).",
+    "response": "Presiden memiliki otoritas untuk memproklamirkan status keadaan bahaya. Mengenai prasyarat penetapan status darurat tersebut beserta segala dampak hukum yang ditimbulkannya, akan diatur lebih lanjut melalui sebuah undang-undang."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 13 Ayat (1) UUD 1945 (Naskah Asli) mengenai Duta?",
+    "context": "Kewenangan diplomatik kepala negara dalam menunjuk perwakilan di luar negeri.",
+    "response": "Ayat pertama pada pasal ini memberikan hak prerogatif kepada Presiden untuk mengangkat perwakilan diplomatik Republik Indonesia, yang mencakup penunjukan Duta Besar maupun Konsul."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 14 UUD 1945 (Naskah Asli) mengenai Grasi?",
+    "context": "Hak istimewa yudisial yang dimiliki lembaga eksekutif.",
+    "response": "Konstitusi memberikan kekuasaan khusus kepada Presiden untuk memberikan pengampunan hukum atau meringankan beban pidana melalui instrumen Grasi, Amnesti, Abolisi, serta pemulihan nama baik melalui Rehabilitasi."
+  },
+  {
+    "instruction": "Apa bunyi Pasal 15 UUD 1945 (Naskah Asli) mengenai Gelar Kehormatan?",
+    "context": "Wewenang simbolik negara dalam memberikan apresiasi kepada warga berprestasi.",
+    "response": "Pasal ini menetapkan bahwa Presiden memiliki hak dan wewenang untuk menganugerahkan berbagai macam gelar kepahlawanan, bintang tanda jasa, dan ragam tanda kehormatan kenegaraan lainnya."
+  },
+  {
+    "instruction": "Apa latar belakang konstitusional ditetapkannya TAP MPRS No. I/MPRS/1960?",
+    "context": "Analisis dari bagian konsiderans yang melegitimasi GBHN pada era Demokrasi Terpimpin.",
+    "response": "Penetapan ini didasari oleh kebutuhan untuk mengonsolidasi arah revolusi pasca Dekrit Presiden 1959. Pertimbangannya mencakup: (a) UUD 1945 merupakan pijakan mutlak negara; (b) Pidato 'Manipol' yang bersumber pada Pancasila adalah manifestasi nyata tujuan proklamasi; (c) Sebuah negara yang sedang membangun wajib memiliki Haluan Negara yang kokoh; (d) Manipol harus dikukuhkan statusnya sebagai pedoman ideologis-praktis yang mengikat."
+  },
+  {
+    "instruction": "Apa judul dan inti dari Ketetapan MPRS Nomor I/MPRS/1960?",
+    "context": "Fokus pada dokumen yang mengikat Manifesto Politik Soekarno menjadi kebijakan resmi kenegaraan.",
+    "response": "Ketetapan ini diberi judul 'Manifesto Politik Republik Indonesia sebagai Garis-Garis Besar daripada Haluan Negara'. Substansi utamanya adalah mengangkat dan mengesahkan pidato Presiden Soekarno (Manipol) yang disampaikan pada 17 Agustus 1959 menjadi landasan operasional dan ideologis tertinggi (GBHN) bagi seluruh aparatur dan kegiatan negara."
+  },
+  {
+    "instruction": "Apa yang diputuskan dalam Pasal 1 Ketetapan MPRS No. I/MPRS/1960?",
+    "context": "Pasal yang mentransformasikan pidato politik menjadi haluan tata negara.",
+    "response": "Pasal ini memutuskan untuk menguatkan kedudukan Manifesto Politik Republik Indonesia, beserta seluruh rinciannya, agar diakui secara sah sebagai kerangka dasar dari Garis-Garis Besar Haluan Negara yang menjadi fondasi pembangunan ideologis bangsa."
+  },
+  {
+    "instruction": "Berdasarkan TAP MPRS No. I/MPRS/1960 Pasal 2, apa yang ditetapkan sebagai garis-garis besar haluan pembangunan?",
+    "context": "Dokumen pelengkap Manipol yang berfokus pada eksekusi rancangan ekonomi dan tata ruang.",
+    "response": "Pasal 2 menggariskan bahwa Amanat Presiden mengenai 'Pembangunan Semesta Berencana'—yang dibacakan secara lisan maupun dibagikan secara tertulis dalam Sidang Dewan Perancang Nasional pada 28 Agustus 1959—diadopsi secara resmi sebagai panduan utama untuk arah pembangunan fisik dan ekonomi nasional."
+  },
+  {
+    "instruction": "Sebutkan dan jelaskan lima prinsip utama Manifesto Politik menurut Pasal 1 TAP MPRS No. I/MPRS/1960.",
+    "context": "Pilar penyangga ideologi Manipol-USDEK dalam sistem Demokrasi Terpimpin.",
+    "response": "Lima pilar ideologis tersebut meliputi: (1) Kembali secara murni kepada UUD 1945; (2) Menjadikan Pancasila sebagai ideologi tunggal; (3) Menerapkan Demokrasi Terpimpin yang berbasis musyawarah, menolak liberalisme; (4) Melaksanakan Ekonomi Terpimpin untuk mewujudkan keadilan sosial; serta (5) Membentuk Kepribadian Nasional yang kuat, mandiri, dan anti-imperialisme."
+  },
+  {
+    "instruction": "Sebutkan pedoman pelaksanaan Manifesto Politik Republik Indonesia menurut Pasal 3 TAP MPRS No. I/MPRS/1960.",
+    "context": "Dua literatur utama yang bertindak sebagai manual instruksional bagi penyelenggara negara era 60-an.",
+    "response": "Pedoman pelaksanaannya ditarik dari dua dokumen penting: Pertama, Pidato kemerdekaan 17 Agustus 1959 yang populer dengan tajuk 'Penemuan Kembali Revolusi Kita'; Kedua, Arahan Presiden pada 28 Agustus 1959 di hadapan Depernas yang merumuskan konsep 'Pembangunan Semesta Berencana'."
+  },
+  {
+    "instruction": "Bagaimana substansi 'Amanat Presiden tanggal 17 Agustus 1959' mencerminkan penjabaran Manifesto Politik?",
+    "context": "Korelasi antara pidato 'Penemuan Kembali Revolusi Kita' dengan doktrin tata negara Soekarno.",
+    "response": "Pidato tersebut berfungsi sebagai penjabaran ideologis dengan poin utama: (1) Menegaskan bahwa revolusi Indonesia belum usai dan harus terus menyala; (2) Membuang demokrasi gaya Barat yang liberal dan menggantinya dengan Demokrasi Terpimpin yang fokus pada kesejahteraan substantif; (3) Menerapkan ekonomi berdikari yang anti-kolonialisme; (4) Memobilisasi persatuan faksi nasionalis, agama, dan komunis (Nasakom) sebagai motor revolusi; (5) Membangun kedaulatan bangsa agar tidak mudah disetir oleh intervensi asing."
+  },
+  {
+    "instruction": "Siapa yang diberi tugas melaksanakan putusan TAP MPRS No. I/MPRS/1960 menurut Pasal 4?",
+    "context": "Delegasi kekuasaan penuh pasca disahkannya Manipol sebagai pedoman negara.",
+    "response": "MPRS melimpahkan kekuasaan eksekusi secara absolut kepada Presiden Republik Indonesia, yang pada masa itu juga menyandang status sebagai Panglima Tertinggi sekaligus Pemimpin Besar Revolusi. Sebagai mandataris, ia wajib merealisasikan haluan ini dan mempertanggungjawabkannya kembali ke MPRS."
+  },
+  {
+    "instruction": "Apa hubungan antara TAP MPRS No. I/MPRS/1960 dan TAP MPRS No. II/MPRS/1960 dalam kerangka pembangunan nasional?",
+    "context": "Keterkaitan filosofis dan operasional antara dua TAP krusial di era Demokrasi Terpimpin.",
+    "response": "TAP No. I berfungsi sebagai landasan nilai dan kompas ideologis (Manifesto Politik), yang menetapkan 'mengapa' dan 'apa' visi negara ini. Sementara TAP No. II bertindak sebagai cetak biru teknis atau manual operasional (Pola Pembangunan Semesta Berencana 1961-1969) yang merincikan 'bagaimana' visi tersebut dieksekusi menjadi program-program nyata di lapangan."
+  },
+  {
+    "instruction": "Apa isi dari Ketetapan MPRS Nomor II/MPRS/1960 dan latar belakangnya?",
+    "context": "Rencana pembangunan jangka menengah pertama yang disusun komprehensif pada dekade 60-an.",
+    "response": "Ketetapan ini mengesahkan rancangan 'Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama' untuk jangka waktu 1961 hingga 1969, sebuah mahakarya dari Dewan Perancang Nasional (Depernas). Latar belakangnya didorong oleh urgensi negara untuk memiliki blue-print pembangunan yang tak hanya menyentuh ekonomi, tetapi juga sosial, budaya, dan mental bangsa."
+  },
+  {
+    "instruction": "Apa tujuan dari Pembangunan Nasional Semesta Berencana menurut bagian 'Menimbang' dalam TAP MPRS No. II/MPRS/1960?",
+    "context": "Visi sosial-ekonomi yang ingin dicapai melalui grand-design pembangunan Depernas.",
+    "response": "Tujuan akhirnya adalah mewujudkan suatu tatanan 'Masyarakat Sosialis Indonesia' yang berlandaskan Pancasila—sebuah masyarakat di mana kesejahteraan dan keadilan merata, serta terbebas dari sistem eksploitasi antarmanusia (penghisapan kelas). Pembangunan ini dirancang terstruktur sebagai pemenuhan janji atas Amanat Penderitaan Rakyat."
+  },
+  {
+    "instruction": "Apa keputusan Pasal 1 dalam TAP MPRS No. II/MPRS/1960 mengenai Rancangan Depernas?",
+    "context": "Legalitas hukum atas dokumen perencanaan yang disusun oleh dewan arsitek pembangunan.",
+    "response": "Pasal 1 secara resmi menerima dan mengesahkan seluruh kerangka perencanaan dari Depernas (yang termuat dalam Buku I, II, dan III) untuk diadopsi menjadi cetak biru negara yang sah, yakni Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama periode 1961-1969."
+  },
+  {
+    "instruction": "Bagaimana struktur dan sistematika GBHN dalam Pola Pembangunan Nasional Semesta Berencana 1961-1969?",
+    "context": "Susunan hierarki dari dokumen master-plan pembangunan era Orde Lama.",
+    "response": "Dokumen GBHN ini dirajut secara sistematis, dimulai dari: (1) Bab Pendahuluan (asas filosofis konstitusional); (2) Pola Dasar Pembangunan Nasional; (3) Pola Umum Pembangunan Jangka Panjang; (4) Penjabaran rinci Program Pembangunan Tahap Pertama; (5) Penentuan kebijakan lintas sektor; serta diakhiri dengan (6) Bab Penutup yang menjabarkan aturan eksekusi di lapangan."
+  },
+  {
+    "instruction": "Jelaskan kebijakan Bidang Mental/Agama/Kerohanian dalam Pasal 2 TAP MPRS No. II/MPRS/1960.",
+    "context": "Intervensi negara dalam pembangunan karakter dan pendidikan kerohanian bangsa.",
+    "response": "Pasal ini memfokuskan pembangunan pada pembentukan karakter (character building) demi menangkal infiltrasi budaya asing. Kebijakan intinya meliputi: kewajiban mengajarkan Pancasila dan Manipol di seluruh jenjang pendidikan; menjadikan agama sebagai pelajaran wajib; sokongan penuh negara terhadap pembangunan sarana ibadah; serta dorongan untuk memajukan kesenian lokal yang mencerminkan jati diri Pancasila."
+  },
+  {
+    "instruction": "Bagaimana kebijakan pendidikan nasional diatur dalam Pasal 2 Ayat 5 TAP MPRS No. II/MPRS/1960?",
+    "context": "Orientasi sistem kurikulum pendidikan yang disesuaikan dengan iklim revolusi sosialis.",
+    "response": "Ayat ini menginstruksikan agar sistem pendidikan nasional difokuskan untuk melahirkan sumber daya manusia dan tenaga ahli yang tak hanya cakap secara teknis, tetapi juga memiliki mentalitas revolusioner, berjiwa luhur, dan seutuhnya mencerminkan karakter 'Manusia Sosialis Indonesia' yang siap terjun dalam pembangunan semesta."
+  },
+  {
+    "instruction": "Apa fokus pembangunan Bidang Kesejahteraan menurut Pasal 3 TAP MPRS No. II/MPRS/1960?",
+    "context": "Target sosial yang ingin dieliminasi oleh konsep kesejahteraan era Demokrasi Terpimpin.",
+    "response": "Titik beratnya adalah pada penciptaan distribusi kesejahteraan yang berkeadilan, menjamin tiap warga negara memperoleh pekerjaan dengan upah memadai, memberantas pengangguran sistemik, dan membongkar sisa-sisa penindasan ekonomi yang diwariskan oleh praktik feodalisme serta kolonialisme."
+  },
+  {
+    "instruction": "Apa peran Landreform dalam pembangunan menurut Pasal 4 TAP MPRS No. II/MPRS/1960?",
+    "context": "Restrukturisasi kepemilikan tanah sebagai fondasi pembebasan kaum agraris.",
+    "response": "Landreform diposisikan sebagai pilar krusial dalam revolusi Indonesia. Perannya adalah mengakhiri sistem tanah sebagai alat monopoli dan eksploitasi, dengan cara meredistribusikan lahan kepada petani penggarap, menghapus feodalisme agraria, mendongkrak panen, dan membangun basis ekonomi perdesaan yang kuat guna menyokong industrialisasi."
+  },
+  {
+    "instruction": "Jelaskan prinsip-prinsip utama pelaksanaan Landreform menurut TAP MPRS No. II/MPRS/1960.",
+    "context": "Etika dan aturan main dalam melakukan redistribusi lahan secara radikal di Indonesia.",
+    "response": "Pelaksanaan landreform berpegang pada prinsip: (1) Tanah mutlak harus dikuasai dan dikerjakan oleh rakyat kecil yang bertani; (2) Praktik penghisapan tenaga kerja tani harus dihentikan; (3) Negara menjadi aktor sentral yang mengatur distribusi; (4) Eksekusi dilakukan bertahap tapi tegas; (5) Pemberian lahan wajib diiringi dengan fasilitasi kredit serta teknologi bagi petani."
+  },
+  {
+    "instruction": "Bagaimana sifat pertahanan negara menurut Pasal 4 Ayat 5 TAP MPRS No. II/MPRS/1960?",
+    "context": "Doktrin kemiliteran Indonesia yang berfokus pada ketahanan rakyat berbasis anti-kolonialisme.",
+    "response": "Doktrin pertahanan digariskan bersumber pada prinsip 'defensif-aktif' yang sangat menentang imperialisme, bertumpu pada Sistem Pertahanan Rakyat Semesta. Artinya, Indonesia tidak akan memicu agresi terhadap negara lain, namun akan merespons ancaman secara militer dengan mengintegrasikan kekuatan tentara profesional beserta seluruh komponen rakyat."
+  },
+  {
+    "instruction": "Apa kebijakan utama Bidang Produksi dalam Pasal 5 TAP MPRS No. II/MPRS/1960?",
+    "context": "Arah pergerakan ekonomi riil dan industrialisasi dalam sistem Ekonomi Terpimpin.",
+    "response": "Arah utamanya difokuskan pada: (1) Prioritas swasembada kebutuhan primer seperti beras, jagung, dan garam; (2) Nasionalisasi dan penguasaan mutlak oleh negara atas urat nadi produksi seperti tambang dan energi dasar; (3) Pengembangan industri lokal untuk memotong impor; (4) Suntikan modal dan manajemen bagi sektor hulu; serta (5) Pelibatan koperasi sebagai pilar usaha rakyat."
+  },
+  {
+    "instruction": "Bagaimana peran pemerintah dalam Bidang Distribusi menurut Pasal 6 TAP MPRS No. II/MPRS/1960?",
+    "context": "Kewajiban negara dalam memastikan pemerataan logistik dan menghalau kartel.",
+    "response": "Negara diamanatkan untuk campur tangan secara langsung guna memastikan kebutuhan pokok tiba di tangan rakyat secara merata dan murah. Pemerintah juga wajib memegang kendali atas keran ekspor-impor yang vital, memutus mata rantai monopoli swasta yang mencekik konsumen, dan membangun sistem rantai pasok hingga ke pelosok."
+  },
+  {
+    "instruction": "Apa ketentuan mengenai transportasi dan telekomunikasi dalam Pasal 6 TAP MPRS No. II/MPRS/1960?",
+    "context": "Penguasaan negara terhadap jaringan urat nadi konektivitas antar wilayah.",
+    "response": "Semua infrastruktur perhubungan—baik jalur laut, udara, darat—dan jaringan telekomunikasi yang berdampak luas wajib dikuasai dan diselenggarakan langsung oleh negara. Hal ini bertujuan untuk menekan tarif agar ramah di kantong rakyat, sekaligus menjadikan transportasi sebagai alat pemersatu bangsa yang memfasilitasi logistik dengan aman."
+  },
+  {
+    "instruction": "Dari mana sumber pembiayaan pembangunan diperoleh menurut Pasal 7 TAP MPRS No. II/MPRS/1960?",
+    "context": "Strategi pendanaan mandiri untuk memutar roda pembangunan semesta.",
+    "response": "Pembiayaan diprioritaskan bersumber dari kemandirian domestik (swadaya), mencakup: optimalisasi setoran pajak, dividen BUMN, penarikan tabungan publik via bank dan koperasi, serta pemanfaatan kekayaan alam. Bantuan, kredit, atau investasi dari entitas asing diizinkan secara selektif, asalkan tidak mensyaratkan ikatan politik yang menggadaikan kedaulatan bangsa."
+  },
+  {
+    "instruction": "Apa syarat kerja sama ekonomi luar negeri menurut Pasal 7 Ayat 2 TAP MPRS No. II/MPRS/1960?",
+    "context": "Filter proteksi kedaulatan saat menerima masuknya investasi atau hutang asing.",
+    "response": "Kemitraan asing baru boleh dijalankan jika memenuhi kualifikasi ketat: tidak boleh mengkhianati semangat revolusi Manipol, harus menguntungkan rakyat Indonesia, mengharamkan kondisi yang membuat RI bergantung (neo-kolonialisme), transparan tanpa klausul jebakan utang jangka panjang, dan wajib dilegitimasi melalui undang-undang bersama DPR."
+  },
+  {
+    "instruction": "Apa yang dimaksud dengan 'Ketentuan Pelaksanaan' dalam Pasal 8 TAP MPRS No. II/MPRS/1960?",
+    "context": "Buku panduan teknis turunan dari grand design GBHN era Depernas.",
+    "response": "Ketentuan Pelaksanaan mengacu pada himpunan dokumen hasil rancangan Depernas (Jilid IV hingga XVII) yang berstatus sebagai buku panduan teknis bagi pemerintah. Isinya merupakan rincian konkret dari GBHN, memuat target sektoral spesifik, pembagian anggaran, hingga mekanisme pengawasan dan indikator pencapaian setiap kementerian."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Abolisi.",
+    "context": "Hak prerogatif kepala negara untuk menghapus tuntutan tindak pidana.",
+    "response": "Abolisi adalah sebuah instrumen hukum yang digunakan untuk menggugurkan atau menghentikan proses hukum maupun segala konsekuensi pemidanaan terhadap seseorang yang berstatus sebagai terdakwa atau terpidana dalam suatu perkara tindak pidana."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Acara pemeriksaan singkat.",
+    "context": "Jalur persidangan cepat untuk pelanggaran dengan klasifikasi ancaman hukuman tertentu.",
+    "response": "Proses peradilan yang difokuskan pada tindak pidana berintensitas rendah, di mana ancaman pidananya berupa penjara maksimal tiga bulan dan/atau denda paling banyak Rp7.500, termasuk kasus penghinaan ringan, namun mengecualikan perkara pelanggaran lalu lintas."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Acara pemeriksaan tindak pidana ringan.",
+    "context": "Klasifikasi hukum acara untuk mengadili kasus kejahatan minor.",
+    "response": "Mekanisme sidang yang diperuntukkan secara eksklusif bagi pelanggaran atau tindak pidana kecil yang memiliki batas maksimal hukuman penjara tiga bulan dan/atau sanksi denda yang tidak melebihi tujuh ribu lima ratus rupiah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Actio in pauliana.",
+    "context": "Hak istimewa kreditur untuk membatalkan tindakan curang dari debiturnya.",
+    "response": "Gugatan perdata yang dilayangkan oleh pihak kreditur ke pengadilan untuk menuntut pembatalan atas transaksi-transaksi atau perbuatan hukum debitur yang dilakukan secara sukarela, yang terbukti secara sengaja dilakukan untuk menyembunyikan aset dan merugikan pihak kreditur."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Actor rei forum sequitur.",
+    "context": "Prinsip dasar dalam menentukan lokasi pengadilan yang berhak memeriksa perkara.",
+    "response": "Asas hukum prosedural yang mewajibkan seorang penggugat untuk mendaftarkan dan mengajukan perkara perdatanya di wilayah hukum pengadilan tempat pihak tergugat berdomisili."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Actor sequitur forum rei.",
+    "context": "Penegasan tentang kompetensi relatif berdasarkan tempat tinggal tergugat.",
+    "response": "Sebuah kaidah dalam hukum acara yang menegaskan bahwa pengadilan negeri yang memegang kompetensi dan wewenang untuk menyidangkan suatu gugatan adalah pengadilan yang berada di yurisdiksi alamat domisili sang tergugat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Administrasi pengadilan.",
+    "context": "Konsep manajemen back-office yang memastikan kelancaran operasional institusi kehakiman.",
+    "response": "Sistem tata kelola manajerial di pengadilan yang dirancang guna meningkatkan akurasi dan kecepatan sistem peradilan. Tugasnya mencakup pengawasan distribusi anggaran, penyusunan agenda sidang, plotting majelis hakim, serta peningkatan kualitas layanan administratif bagi para pencari keadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Administrasi perkara.",
+    "context": "Manajemen berkas dan dokumen sengketa dari hulu ke hilir.",
+    "response": "Rangkaian prosedur pengelolaan dan dokumentasi teknis terhadap sebuah kasus hukum. Hal ini bermula dari fase pendaftaran awal perkara, pendokumentasian jalannya persidangan, pemrosesan banding/kasasi, hingga tuntasnya proses eksekusi putusan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Advokasi.",
+    "context": "Tindakan memperjuangkan suatu isu atau hak di ruang publik maupun pengadilan.",
+    "response": "Sebuah gerakan, pendampingan, atau tindakan pembelaan yang terencana guna menyuarakan, memperdebatkan, serta memperjuangkan suatu ide, kebijakan, maupun pemenuhan hak-hak hukum pihak tertentu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Advokat.",
+    "context": "Praktisi penyedia jasa pendampingan hukum berlisensi.", "response": "Seorang profesional hukum independen yang kualifikasi dan legalitasnya diakui oleh UU Nomor 18 Tahun 2003, dengan tugas utama memberikan konsultasi, mewakili klien, serta melakukan pembelaan hukum, baik di ruang sidang maupun di luar pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Advokat / pengacara asing.",
+    "context": "Praktisi hukum berkewarganegaraan non-Indonesia yang beroperasi di wilayah hukum RI.",
+    "response": "Seseorang yang memegang izin profesi pengacara namun berstatus sebagai warga negara asing, yang diperkenankan untuk memberikan konsultasi hukum tertentu di Indonesia dengan tunduk pada regulasi dan batasan undang-undang nasional yang berlaku."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Aequo et bono.",
+    "context": "Petitum subsider yang memohon keadilan nurani dari majelis hakim.",
+    "response": "Istilah hukum yang disisipkan di penghujung dokumen gugatan, yang secara harfiah berarti permohonan agar hakim memutus perkara tersebut berdasarkan keadilan dan kepatutan yang seadil-adilnya (ex aequo et bono), manakala hakim memiliki pandangan atau pertimbangan yang berbeda dari tuntutan utama."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Ajudikasi/ adjudication.",
+    "context": "Penyelesaian sengketa melalui jalur pengadilan formal.",
+    "response": "Tahapan penyelesaian sebuah perselisihan atau sengketa melalui mekanisme pemeriksaan dan persidangan di lembaga peradilan, yang berujung pada penetapan suatu keputusan hukum yang mengikat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Akta.",
+    "context": "Bukti tertulis yang disengaja untuk memiliki kekuatan hukum.",
+    "response": "Sebuah dokumen yang sengaja ditulis dan ditandatangani oleh pembuatnya, dengan tujuan spesifik untuk difungsikan sebagai instrumen pembuktian resmi apabila terjadi permasalahan atau sengketa atas suatu perbuatan atau kesepakatan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Akta autentik.",
+    "context": "Dokumen pembuktian sempurna yang diterbitkan oleh pejabat publik.",
+    "response": "Akta yang kekuatan pembuktiannya sangat tinggi karena pembuatannya difasilitasi, disaksikan, dan disahkan secara langsung oleh pejabat negara yang berwenang (seperti Notaris atau PPAT), sesuai dengan format baku yang diperintahkan undang-undang."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Akta di bawah tangan.",
+    "context": "Perjanjian privat yang dibuat tanpa keterlibatan saksi pejabat berwenang.",
+    "response": "Sebuah dokumen kesepakatan tertulis yang secara mandiri dibuat dan ditandatangani oleh pihak-pihak yang bertransaksi, tanpa adanya pengesahan atau keterlibatan dari notaris maupun pejabat negara lainnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Akta notariil.",
+    "context": "Dokumen hukum yang diresmikan oleh profesi notaris.",
+    "response": "Bentuk spesifik dari akta autentik di mana dokumen kesepakatan tersebut penyusunan, pembacaan, dan penandatanganannya dilakukan secara langsung di hadapan dan disahkan oleh seorang pejabat notaris."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Alat bukti.",
+    "context": "Segala instrumen yang diakui hukum acara untuk meyakinkan hakim.",
+    "response": "Sarana atau material pembuktian yang keabsahan dan jenisnya telah dibatasi serta diatur ketat secara hukum (seperti saksi, surat, atau keterangan ahli). Segala sesuatu yang tidak memenuhi standar formal undang-undang tidak dapat diterima sebagai bahan pembuktian di pengadilan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Alat bukti surat.",
+    "context": "Dokumen tertulis yang memiliki kedudukan sebagai bukti di persidangan.",
+    "response": "Sebuah berkas tertulis yang memiliki kekuatan pembuktian yang sah, di mana dokumen tersebut dibuat berdasarkan otoritas sumpah jabatan seseorang, atau telah diverifikasi kebenarannya melalui sebuah sumpah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Alibi.",
+    "context": "Bantahan kehadiran fisik tersangka di tempat kejadian perkara.",
+    "response": "Sebuah argumen pembelaan yang disertai bukti untuk mendemonstrasikan bahwa pihak tersangka atau terdakwa sedang berada di lokasi yang sama sekali berbeda pada saat tindak pidana tersebut berlangsung."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Amnestie.",
+    "context": "Pengampunan hukum massal melalui kewenangan kepala negara.",
+    "response": "Deklarasi pengampunan secara luas yang menghapus dan menggugurkan segala bentuk tuntutan maupun hukuman pidana atas suatu kelompok kejahatan tertentu. Amnesti ini secara efektif membersihkan rekam jejak kriminal bagi para terpidana yang tercakup di dalamnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Aparatur hukum.",
+    "context": "Personel dan instansi yang bertugas menegakkan keadilan dan ketertiban.",
+    "response": "Mereka adalah para penegak hukum dan abdi negara yang lingkup tugas utamanya mencakup fungsi penyuluhan literasi hukum, pengawasan kepatuhan, eksekusi penegakan sanksi, hingga penyediaan layanan perlindungan hukum bagi masyarakat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Asas audie et alteram partem.",
+    "context": "Asas keseimbangan dalam mendengar keterangan pihak yang bersengketa.",
+    "response": "Sebuah prinsip keadilan alamiah dalam peradilan yang mengharuskan majelis hakim untuk bersikap netral dan memberi kesempatan yang sama bagi kedua belah pihak untuk menyampaikan penjelasan dan pembelaan mereka."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Asas domisili.",
+    "context": "Aturan penentuan status hukum berdasarkan tempat kediaman.",
+    "response": "Kaidah hukum yang menyatakan bahwa segala aspek terkait status personal, wewenang, serta kewajiban seseorang akan tunduk pada sistem hukum yang berlaku di wilayah tempat tinggal permanennya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari istilah hukum Asas droit de suite.",
+    "context": "Karakteristik hak kebendaan yang absolut melekat pada objeknya.",
+    "response": "Prinsip hukum yang memberikan kekuatan bagi pemilik sah suatu benda untuk terus mengikuti, mempertahankan, dan menggugat penguasaan benda miliknya tersebut, tak peduli benda itu sedang berpindah ke tangan siapa pun atau berada di mana pun."
+  },
+  {
+    "instruction": "Apa arti dari dalil hukum 'a fortiori'?",
+    "context": "Pola argumentasi perbandingan logika dari hukum Romawi.",
+    "response": "Prep. Jargon Latin yang bermakna 'dengan alasan yang lebih kuat'. Digunakan dalam argumen silogisme: bila sebuah premis yang lebih sulit/berat saja terbukti benar, maka premis yang lebih ringan sudah dipastikan valid (misal: jika ia mampu mengangkat 50kg, a fortiori ia mampu mengangkat 10kg)."},
+      {
+    "instruction": "Apa definisi dari 'a priori assumption'?", 
+    "context": "Tingkat asumsi rasional sebelum adanya konfirmasi empiris.", 
+    "response": "N. Konsep dari bahasa Latin untuk sebuah dalil atau asumsi awal yang diterima akal sebagai suatu kebenaran tanpa perlu pembuktian eksperimental (contoh: bola itu bundar). Dalam ranah hukum, mengandalkan asumsi a priori tanpa analisis fakta sering dianggap sebagai kecacatan nalar."},
+  {
+    "instruction": "Apa kepanjangan dan arti dari 'a.k.a.'?", 
+    "context": "Akronim populer untuk penggunaan nama samaran atau identitas alternatif.", 
+    "response": "Prep. Merupakan singkatan dari 'also known as' (dikenal juga sebagai). Label ini lazim digunakan pada berkas hukum atau laporan investigasi untuk mengidentifikasi seseorang yang memiliki nama alias, nama panggung, atau inisial ganda."},
+  {
+    "instruction": "Apa arti istilah hukum 'ab initio'?", 
+    "context": "Kosakata Latin untuk mendeskripsikan status kebatalan dokumen sejak diterbitkan.", 
+    "response": "Prep. Frasa Latin yang diterjemahkan sebagai 'dari sejak awal mula'. Biasanya digunakan oleh praktisi hukum untuk mendeklarasikan bahwa sebuah perjanjian atau undang-undang telah cacat atau batal sedari pertama kali disahkan."},
+  {
+    "instruction": "Jelaskan konsep 'Meninggalkan' (Abandon) dalam hukum.", 
+    "context": "Tindakan pelepasan hak atas properti atau keluarga secara sadar.", 
+    "response": "V. Aksi memutus segala ikatan tanggung jawab, penguasaan, maupun hak milik secara permanen dan disengaja. Contoh penerapannya mencakup melepaskan kepemilikan apartemen, menelantarkan hak asuh, atau melarikan diri dari kewajiban keluarga."},
+  {
+    "instruction": "Apa itu Properti yang Ditinggalkan (Abandoned Property)?", 
+    "context": "Status barang atau aset yang pemiliknya menghilang tanpa jejak niat untuk kembali.", 
+    "response": "N. Segala wujud aset fisik (seperti kendaraan yang dibiarkan mangkrak di jalan atau perabotan yang ditinggal penyewa) yang secara nyata telah dilepaskan penguasaannya oleh pemilik asal, dengan indikasi bahwa mereka tak akan pernah kembali untuk mengklaimnya."},
+  {
+    "instruction": "Apa definisi Penelantaran (Abandonment)?", 
+    "context": "Pelepasan hak atau kewajiban secara total dalam lingkup perdata maupun keluarga.", 
+    "response": "N. Tindakan melepaskan, menyerahkan, atau memutus hak kepemilikan dan kewajiban secara absolut. Dalam ranah keluarga, ini bermakna meninggalkan pasangan tanpa intensi kembali, atau membiarkan anak tanpa memberikan nafkah dan komunikasi."},
+  {
+    "instruction": "Apa arti 'Abate' (Meredakan/Menghilangkan) dalam hukum?", 
+    "context": "Aksi penyelesaian masalah gangguan publik atau pembongkaran pelanggaran.", 
+    "response": "V. Mengambil tindakan fisik maupun hukum untuk menghapus atau melenyapkan sebuah gangguan (nuisance). Hal ini mencakup menertibkan bangunan yang menabrak tata kota, mematikan polusi suara, atau membongkar sumur ilegal yang membahayakan lingkungan."},
+  {
+    "instruction": "Apa yang dimaksud dengan Pengurangan (Abatement)?", 
+    "context": "Pengurangan proporsional atas utang pailit atau penghapusan gangguan.", 
+    "response": "N. Memiliki dwimakna: 1) Tindakan membersihkan/menghapus kondisi yang merugikan publik (misal menertibkan ilalang pemicu kebakaran); 2) Skema pemotongan sisa utang yang dilakukan secara proporsional kepada semua kreditur manakala aset debitur tidak lagi cukup untuk melunasi tagihan penuh."},
+  {
+    "instruction": "Jelaskan tindak pidana Penculikan (Abduction).", 
+    "context": "Aksi pidana membawa kabur seseorang dari wilayah amannya.", 
+    "response": "N. Tindakan kriminal merampas kemerdekaan seseorang dengan cara membawanya pergi secara tidak sah. Pelaku dapat menggunakan metode bujuk rayu licik, memanipulasi situasi, ataupun menggunakan ancaman kekerasan fisik yang nyata."},
+  {
+    "instruction": "Apa arti 'Abet' (Bersekongkol/Membantu)?", 
+    "context": "Aksi kolaborasi sekunder dalam sebuah tindak kriminal.", 
+    "response": "V. Turut serta menyokong, mendorong, atau memfasilitasi seseorang untuk melancarkan niat jahat kejahatannya, seperti menyediakan rute pelarian, menyembunyikan alat bukti, atau mendanai rencana kriminal tersebut."},
+  {
+    "instruction": "Apa itu Penundaan Kepemilikan (Abeyance)?", 
+    "context": "Status menggantungnya hak kepemilikan dalam urusan harta waris.", 
+    "response": "N. Suatu jeda atau kondisi vakum di mana hak kepemilikan atas sebuah properti sedang dalam posisi ditangguhkan atau belum ada kejelasan hukumnya (misalnya, menanti putusan pengadilan mengenai siapa pewaris sah dari aset orang yang meninggal)."},
+  {
+    "instruction": "Apa definisi Sehat Jasmani (Able-bodied)?", 
+    "context": "Kondisi kebugaran fisik yang dijadikan patokan dalam sengketa tunjangan.", 
+    "response": "Adj. Deskripsi bagi seseorang yang secara medis memiliki fisik yang bugar dan kompeten untuk mencari nafkah. Dalam sidang perceraian, status ini sering dipakai hakim untuk mewajibkan orang tersebut membayar tunjangan anak atau mantan pasangan."},
+  {
+    "instruction": "Jelaskan definisi Aborsi dalam konteks hukum.", 
+    "context": "Prosedur medis penghentian kehamilan yang memiliki regulasi hukum bervariasi.", 
+    "response": "N. Tindakan mengintervensi atau mengakhiri kehamilan secara sengaja sebelum janin dapat berkembang hidup di luar kandungan. Secara historis (seperti sebelum Roe v. Wade 1973 di AS), aborsi kerap diposisikan sebagai kejahatan kriminal kecuali jika diindikasikan darurat medis untuk menyelamatkan ibu."},
+  {
+    "instruction": "Apa arti Mencabut (Abrogate) dalam hukum?", 
+    "context": "Aksi formal membatalkan ketentuan hukum atau kontrak.", 
+    "response": "V. Langkah resmi untuk membatalkan, menganulir, atau mencabut kekuatan berlakunya sebuah aturan hukum lama dengan menerbitkan perundang-undangan baru, atau tindakan menghapus daya ikat dari sebuah klausul dalam kontrak perjanjian."},
+  {
+    "instruction": "Apa itu Melarikan Diri (Abscond)?", 
+    "context": "Aksi buron (abscond) tersangka untuk menghindari hukum.", 
+    "response": "V. (1) Tindakan menghilang secara diam-diam dan keluar dari jangkauan yurisdiksi penegak hukum guna mengelak dari surat perintah pengadilan, panggilan sidang, atau proses penangkapan. (2) Melarikan diri bersama aset atau uang hasil kejahatan."}
 ]
