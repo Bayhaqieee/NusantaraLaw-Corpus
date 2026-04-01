@@ -1,0 +1,447 @@
+[
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Absolute sentienfia expositore non indiget.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Sebuah dalil yang sederhana tidak membutuhkan penjelasan lebih lanjut."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Accipere quid ut justitiam focias non est team accipere quam exiorquere.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Menerima sesuatu sebagai imbalan untuk menegakkan keadilan lebih condong ke tindakan pemerasan, bukan hadiah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Actory in cumbit probatio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Siapa yang menggugat dialah yang wajib membuktikan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Adaequatio intellectus et rei.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Adanya kesesuaian pikiran dengan objek. Prinsip ini pada dasarnya merupakan rambu-rambu dalam merumuskan materi hukum yang telah diterima secara universal."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Afgirmantis est probare.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Orang yang menyiyakan harus membuktikan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Affirmanti, non neganti, incumbit probatio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Pembuktian bersifat wajib bagi yang mengajukan, bukan bagi penyangkal."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Audi et alteram partem atau audiatur et altera pars.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Para pihak harus didengar. Apabila persidangan dimulai, hakim harus mendengar dari kedua belah pihak yang bersengketa, bukan hanya dari satu pihak saja."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Bis de eadem re ne sit actio atau ne bis in idem.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Perkara sama dan sejenis tidak boleh disidangkan untuk yang kedua kalinya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Clausula rebus sic stantibus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Perjanjian antarnegara masih tetap berlaku, apabila situasi dan kondisinya tetap sama."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cogitationis poenam nemo patitur.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Tidak ada seorang pun dapat dihukum atas apa yang dipikirkannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cujus est commodum, ejus debet esse inc ommodum.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seseorang yang mendapatkan suatu keuntungan juga akan mendapatkan kerugian."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cujus est dominium, ejus est periculum.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Risiko atas suatu kepemilikkan ditanggung oleh pemilik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Culpae poena par esto.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukuman harus setimpal dengan kejahatannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cum adsunt testimonia rerum, quid opus est verbist.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Saat ada bukti dari fakta-fakta, apa gunanya kata-kata?."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cum aliquis renunciaverit sociatati, solvitur societas.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Saat rekan telah meninggalkan persekutuannya, maka persekutuan tersebut dinyatakan bubar."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Cum letitimae nuptiae factae sunt, patrem liberi sequuntur.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Anak yang lahir dalam perkawinan yang sah mengikuti kondisi ayahnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Da tua sunt, post mortem tune tua sunt.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Berikanlah benda-benda kepunyaanmu saat kau masih memilikinya; setelah meninggal benda-benda tersebut bukan kepunyaanmu lagi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum De gustibus non est disputandum.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Perihal selera tidak dapat disengketakan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Debet quis juri subjacere rrbi delinquit.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seseorang penggugat harus tunduk pada hukum yang berlaku di tempat dia mengajukan gugatan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Dormiunt aliquando leges, nunquam moriuntur.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum terkadang tidur, tetapi hukum tidak pernah mati."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Droil ne done, pluis que soit demaunde.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum memberi tidak lebih dari yang dibutuhkan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ei incumbit probatio quidicit, nonqui negat.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Beban pembuktian diberikan pada orang yang menggugat, bukan tergugat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Equality before the law.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Semua orang sama di depan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Equum et bonum est lex legum.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Apa yang adil dan baik adalah hukumnya hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Facta sunt potentiora verbis.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Perbuatan atau fakta lebih kuat dari kata-kata."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Fiat justitia ruat coelum atau fiat justitia pereat mundus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Sekalipun esok langit akan runtuh, meski dunia akan musnah, atau walaupun harus mengorbankan kebaikan, keadilan harus tetap ditegakkan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Frustra legis auxilium quaerit qui in legem committit.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Adalah sia-sia bagi seseorang yang menentang hukum namun ia sendiri meminya bantuan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Geen straf zonder schuld.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Tiada hukum tanpa kesalahan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Gouverner c.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Menjalankan pemerintahan berarti melihat ke depan dan menjalankan apa yang harus dilakukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Heares est cadem persona cum antecessore.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Ahli waris sama kedudukannya dengan pendahulunya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Het recht hinkt achter de feiten aan.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum senantiasa tertatih-tatih mengejar perubahan zaman."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Het vermoeden van rechtmatigheid.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Kebijakan pemerintah harus dianggap benar dan memiliki kekuatan hukum mengikat sampai dibuktikan sebaliknya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Id perfectum est quad ex omnibus suis partibus constant.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Sesuatu dinyatakan sempurna apabila setiap bagiannya lengkap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ignorantia excusatur non juris sed facti.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Ketidaktahuan akan fakta-fakta dapat dimaafkan, tapi tidak demikian halnya ketidaktahuan akan hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ignorantia judicis est calanaitax innocentis.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Ketidaktahuan hakim ialah suatu kerugian bagi pihak yang tidak bersalah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ignorantia juris non excusat.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Ketidaktahuan akan hukum tidak dimaafkan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Inde datae leges be fortior omnia posset.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum dibuat, jika tidak orang yang kuat akan mempunyai kekuasaan tidak terbatas."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Index animi sermo.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Cara seseorang berbicara menunjukkan pikirannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Iniquum est aliquem rei sui esse judicem.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Adalah tidak adil bagi seseorang untuk diadili pada perkaranya sendiri."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Interpretatio cessat in claris, interpretation est perversio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Jika teks atau redaksi UU telah jelas, maka tidak diperkenankan lagi menafsirkannya. Sebab, penafsiran terhadap kata-kata yang jelas berarti penghancuran."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Interset reipublicae res judicatoas non rescindi.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Adalah kepentingan negara bahwa suatu keputusan tidak dapat diganggu gugat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Iudex ne procedat ex officio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hakim bersifat pasif menunggu datangnya tuntutan hak yang diajukan kepadanya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Iudex non ultra petita atau ultra petita non cognoscitur.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hakim hanya menimbang hal-hal yang diajukan para pihak dan tuntutan hukum yang didasarkan kepadanya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ius curia novit.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seorang hakim dianggap tahu akan hukumnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judex debet judicare secundum allegata et probata.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seorang hakim harus memberikan penilaian berdasarkan fakta-fakta dan pernyataan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judex herbere debet duos sales, salem sapientiae, ne sit insipidus, et salem conscientiae, ne sit diabolus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seorang hakim harus mempunyai dua hal: suatu kebijakan, kecuali dia bodoh; dan hati nurani, kecuali dia mempunyai sifat yang kejam."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judex non potest esse testis in propria causa.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seorang hakim tidak dapat menjadi seorang saksi dalam perkaranya sendiri."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judex non reddit plus quam quod petens ipsse requirit means.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Seorang hakim tidak memberikan permintaan lebih banyak dari si penuntut."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judex set lex laguens.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hakim ialah hukum yang berbicara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judicandum est legibus non exemplis.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Putusan hakim harus berdasarkan hukum, bukan berdasarkan contoh. Seorang hakim tidak dibatasi untuk menjelaskan penilaian atau putusannya sendiri."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Judicia poxteriora sunt in lege fortiora.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Keputusan terakhir ialah yang terkuat di mata hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Juramentum est indivisinle, et non est admittendum in partly true and partly falsum.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Sebuah sumpah tidak dapat dibagi; sumpah tersebut tidak dapat diterima jika sebagiannya benar dan sebagian lagi salah."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Jurare eat deum in testem vocare et est actus divini cultus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Memberikan sumpah ialah sama halnya dengan memanggil Tuhan sebagai saksi, bagian dari keagamaan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Juris quidem ignorantium cuique nocere, facti verum ignorantiam non nocere.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Pengabaian terhadap hukum akan merugikan semua orang; tetapi pengabaian terhadap fakta tidak."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Justitiae non est neganda, non differenda.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Keadilan tidak dapat disangkal atau ditunda."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex dura sed ita scripta.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum adalah keras tetapi harus ditegakkan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex dura, sed tamen scripta.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum memang kejam, tetapi begitulah yang tertulis."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex neminem cigit ad impossibilia.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum tidak memaksakan seseorang untuk melakukan sesuatu yang tidak mungkin."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex nemini operatur iniquum, neminini facit injuriam.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum tidak memberikan ketidakadilan kepada siapa pun dan tidak melakukan kesalahan kepada siapa pun."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex posterior derogat legi priori atau lex posteriori derogat legi anteriori.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum (undang-undang) yang baru menyampingkan undang-undang yang lama."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex prospicit, non respicit.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum melihat ke depan, bukan ke belakang."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex rejicit superflua, pugnantia, incongrua.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum menolak hal yang bertentangan dan tidak layak."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex semper dabit remedium.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum selalu memberikan solusi."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex specialis derogat lex generali.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum yang spesifik harus didahulukan daripada hukum yang umum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Lex superior derogat legi inferiori.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum yang lebih tinggi menyampingkan undang-undang yang lebih rendah tingkatannya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Moneat lex, priusquam feriat.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Undang-undang harus disosialisasikan terlebih dahulu sebelum digunakan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Nemo judex in causa sua.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hakim tidak boleh mengatur atau mengadili dirinya sendiri."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Nemo plus juris transferre potest quam ipse habet.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Tidak seorang pun dapat mengalihkan lebih banyak haknya daripada yang ia miliki)."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Nullum delictum noela poena sine praevia lege poenali.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Suatu aturan hukum tidak bisa diterapkan terhadap suatu peristiwa yang timbul sebelum aturan hukum yang mengatur tentang peristiwa itu dibuat."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Opinio necessitatis.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Keyakinan atas sesuatu menurut hukum adalah perlu sebagai syarat untuk timbulnya hukum kebiasaan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Pacta sunt servanda.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Setiap perjanjian itu mengikat para pihak dan harus ditaati dengan iktikad baik."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Politiae legius non leges politii adoptandae.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Politik harus tunduk pada hukum, bukan sebaliknya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Presumptio iures de iure.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Semua orang dianggap tahu hukum. Dikenal juga sebagai asas fiksi hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Presumpito iustae causa.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Suatu keputusan pemerintahan dianggap absah sampai ada putusan hakim berkekuatan hukum mengikat yang menyatakan sebaliknya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Presumption of innocence.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Asas praduga tidak bersalah: seseorang dianggap tidak bersalah sebelum ada putusan hakim yang menyatakan ia bersalah dan putusan hakim tersebut telah mempunyai kekuatan tetap."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Quiquid est in territorio, etiam est de territorio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Asas dalam hukum internasional yang menyatakan bahwa apa yang berada dalam batas-batas wilayah negara tunduk kepada hukum negara itu."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Reo negate actori incumbit probatio.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Jika tergugat tidak mengakui gugatan, maka penggugat harus membuktikan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Res nullius credit occupanti.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Benda yang ditelantarkan oleh pemiliknya bisa diambil atau dimiliki."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Salus populi suprema lex.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Kemakmuran dan kesejahteraan rakyat adalah hukum yang tertinggi dalam suatu negara."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Similia similibus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Dalam perkara yang sama, harus diputus dengan hal yang sama pula, tidak pilih kasih."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Spreekhuis van de wet.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Apa kata undang-undang itulah hukumnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Summum ius summa injuria, summa lex, summa crux.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Hukum yang keras dapat melukai, kecuali keadilan yang dapat menolongnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Testimonium de auditu.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Kesaksian yang didengar dari orang lain."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ubi jus ibi remedium.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Di mana ada hak, di sana ada kemungkinan menuntut, memperolehnya, atau memperbaikinya jika hak tersebut dilanggar."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ubi societas, ibi jus.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Di mana ada masyarakat, di situ ada hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Ut sementem faceris ita metes.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Siapa yang menanam sesuatu dia yang akan memetik hasilnya."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Van rechtswege nieting; null and void.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Suatu proses peradilan yang dilakukan tidak menurut hukum adalah batal demi hukum."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Volenti non fit iniuria; nulla iniuria est, quae in volentem fiat.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Tidak ada ketidakadilan yang dilakukan kepada seseorang yang menginginkan hal itu dilakukan."
+  },
+  {
+    "instruction": "Jelaskan definisi dari asas hukum Vox populi vox dei.",
+    "context": "Asas hukum dalam tradisi hukum.",
+    "response": "Asas ini menyatakan bahwa Suara rakyat adalah suara Tuhan."
+  }
+]
