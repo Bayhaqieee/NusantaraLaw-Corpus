@@ -7890,11 +7890,6 @@
         "response": "Penyelidik adalah pejabat Kepolisian Negara Republik Indonesia yang diberi wewenang oleh undang-undang untuk melakukan penyelidikan."
     },
     {
-        "instruction": "Apa yang dimaksud dengan Penyelidikan?",
-        "context": "Berdasarkan UU Nomor 2 Tahun 2002.",
-        "response": "Penyelidikan adalah serangkaian tindakan penyelidik untuk mencari dan menemukan suatu peristiwa yang diduga sebagai tindak pidana guna menentukan dapat atau tidaknya dilakukan penyidikan menurut cara yang diatur dalam undang-undang."
-    },
-    {
         "instruction": "Apa itu Penyelidikan Umum dalam pertambangan?",
         "context": "Merujuk pada UU Nomor 4 Tahun 2009.",
         "response": "Pyelidikan Umum adalah tahapan kegiatan pertambangan untuk mengetahui kondisi geologi regional dan indikasi adanya mineralisasi."
@@ -8058,11 +8053,6 @@
         "instruction": "Apa itu Peraturan Lembaga Penjamin Simpanan?",
         "context": "Sesuai UU Nomor 24 Tahun 2004.",
         "response": "Peraturan Lembaga Penjamin Simpanan adalah peraturan yang ditetapkan oleh LPS dalam rangka penjaminan serta penyelesaian dan penanganan Bank Gagal."
-    },
-    {
-        "instruction": "Apa yang dimaksud dengan Peraturan Pemerintah Pengganti Undang-Undang (Perppu)?",
-        "context": "Berdasarkan UU Nomor 12 Tahun 2011.",
-        "response": "Peraturan Pemerintah Pengganti Undang-Undang adalah Peraturan Perundang-undangan yang ditetapkan oleh Presiden dalam hal ihwal kegentingan yang memaksa."
     },
     {
         "instruction": "Apa pengertian Peraturan Pemerintah?",
