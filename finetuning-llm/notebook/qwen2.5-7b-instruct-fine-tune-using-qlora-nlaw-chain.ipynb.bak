@@ -90,7 +90,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\ud83e\udda5 Unsloth: Will patch your computer to enable 2x faster free finetuning.\n"
+      "🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.\n"
      ]
     },
     {
@@ -111,7 +111,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\ud83e\udda5 Unsloth Zoo will now patch everything to make training faster!\n",
+      "🦥 Unsloth Zoo will now patch everything to make training faster!\n",
       "GPU Model: Tesla T4\n"
      ]
     }
@@ -552,7 +552,7 @@
     "    r = 64,\n",
     "    target_modules = [\"q_proj\", \"k_proj\", \"v_proj\", \"o_proj\",\n",
     "                      \"gate_proj\", \"up_proj\", \"down_proj\"],\n",
-    "    lora_alpha = 64,        \n",
+    "    lora_alpha = 32,        \n",
     "    lora_dropout = 0.05,\n",
     "    bias = \"none\",\n",
     "    use_gradient_checkpointing = \"unsloth\",\n",
@@ -632,7 +632,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\ud83e\udda5 Unsloth: Padding-free auto-enabled, enabling faster training.\n",
+      "🦥 Unsloth: Padding-free auto-enabled, enabling faster training.\n",
       "Prediksi Estimasi Waktu Pelatihan\n",
       "Total Data Latih: 7055 sampel\n",
       "Total Steps: 2640\n",
@@ -654,7 +654,7 @@
     "    per_device_train_batch_size=2,\n",
     "    gradient_accumulation_steps=8, \n",
     "    num_train_epochs=6,    \n",
-    "    learning_rate=2e-5,    \n",
+    "    learning_rate=5e-5,    \n",
     "    lr_scheduler_type=\"cosine\",\n",
     "    warmup_ratio=0.1,      \n",
     "    optim=\"adamw_8bit\",\n",
@@ -840,15 +840,7 @@
     }
    ],
    "source": [
-    "trainer_stats = trainer.train()",
-    "\n\n# Menghitung Perplexity pada Eval Dataset\n",
-    "import math\n",
-    "eval_results = trainer.evaluate()\n",
-    "try:\n",
-    "    perplexity = math.exp(eval_results[\"eval_loss\"])\n",
-    "    print(f\"\\nEvaluation Perplexity: {perplexity:.2f}\")\n",
-    "except OverflowError:\n",
-    "    print(\"\\nEvaluation Perplexity: Infinity\")\n"
+    "trainer_stats = trainer.train()"
    ]
   },
   {
@@ -964,7 +956,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Generating Responses: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 50/50 [03:05<00:00,  3.72s/it]\n"
+      "Generating Responses: 100%|██████████| 50/50 [03:05<00:00,  3.72s/it]\n"
      ]
     },
     {
@@ -1053,7 +1045,7 @@
     "    with torch.no_grad():\n",
     "        outputs = model.generate(\n",
     "            **inputs,\n",
-    "            max_new_tokens=1024,          \n",
+    "            max_new_tokens=512,          \n",
     "            use_cache=True,\n",
     "            do_sample=False,             \n",
     "            repetition_penalty=1.15,\n",
@@ -1406,7 +1398,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Unsloth: Preparing safetensor model files:  25%|\u2588\u2588\u258c       | 1/4 [00:14<00:42, 14.24s/it]"
+      "Unsloth: Preparing safetensor model files:  25%|██▌       | 1/4 [00:14<00:42, 14.24s/it]"
      ]
     },
     {
@@ -1427,7 +1419,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Unsloth: Preparing safetensor model files:  50%|\u2588\u2588\u2588\u2588\u2588     | 2/4 [00:31<00:31, 15.99s/it]"
+      "Unsloth: Preparing safetensor model files:  50%|█████     | 2/4 [00:31<00:31, 15.99s/it]"
      ]
     },
     {
@@ -1448,7 +1440,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Unsloth: Preparing safetensor model files:  75%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u258c  | 3/4 [00:50<00:17, 17.19s/it]"
+      "Unsloth: Preparing safetensor model files:  75%|███████▌  | 3/4 [00:50<00:17, 17.19s/it]"
      ]
     },
     {
@@ -1469,7 +1461,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Unsloth: Preparing safetensor model files: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 4/4 [00:54<00:00, 13.60s/it]\n"
+      "Unsloth: Preparing safetensor model files: 100%|██████████| 4/4 [00:54<00:00, 13.60s/it]\n"
      ]
     },
     {
@@ -1483,7 +1475,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "Unsloth: Merging weights into 16bit: 100%|\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588| 4/4 [02:02<00:00, 30.54s/it]\n"
+      "Unsloth: Merging weights into 16bit: 100%|██████████| 4/4 [02:02<00:00, 30.54s/it]\n"
      ]
     },
     {
@@ -1712,11 +1704,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_f424cc9919494be3be8fd11c52026628",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_d7b8878e08c245f0a5883fa6881542b9",
        "tabbable": null,
        "tooltip": null,
-       "value": "special_tokens_map.json:\u2007100%"
+       "value": "special_tokens_map.json: 100%"
       }
      },
      "00512f7c1d264c8d9560418515a1ae58": {
@@ -1857,11 +1849,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_a150d2d3aa6b47e48af6dff6c43aba63",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_38f240cb8652453da876e25462958c2c",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20078.15k/?\u2007[00:00&lt;00:00,\u2007677kB/s]"
+       "value": " 8.15k/? [00:00&lt;00:00, 677kB/s]"
       }
      },
      "01d449d60f634ef691e4a29051461ba4": {
@@ -1986,11 +1978,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_60d4044a6735495f87bd9fa53803aa57",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_1ac79fb4234c4a9b8f771d575b4ab783",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20077.96MB\u2007/\u20077.96MB,\u20079.95MB/s\u2007\u2007"
+       "value": " 7.96MB / 7.96MB, 9.95MB/s  "
       }
      },
      "050c09e484914497828e756c471f4a94": {
@@ -2220,11 +2212,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_f8a2fe4975ac440183138d7b75738e5e",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_45ee8a9ef34a488fa9f880aa66b5f2b8",
        "tabbable": null,
        "tooltip": null,
-       "value": "Downloading\u2007builder\u2007script:\u2007"
+       "value": "Downloading builder script: "
       }
      },
      "088aa79ea19a4d6ea95ade37cbc3d9e7": {
@@ -2322,11 +2314,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_a877eacdc1844f20add7620d42b1fd2e",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_807410e6e3374c31986d7ee3da12cf18",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007444/444\u2007[00:01&lt;00:00,\u2007226.57\u2007examples/s]"
+       "value": " 444/444 [00:01&lt;00:00, 226.57 examples/s]"
       }
      },
      "098831f67f4e46c593c13cc93c5e671d": {
@@ -2523,11 +2515,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_7efd7e529da647aa8b2290c6bf0bec47",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_9a51290a2ea141c595e39ec7a077eb49",
        "tabbable": null,
        "tooltip": null,
-       "value": "README.md:\u2007100%"
+       "value": "README.md: 100%"
       }
      },
      "0ed011fca43c4569b503b888c8fd85da": {
@@ -2564,11 +2556,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_05a7d4bde48d43ada670f45a6d713e2d",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_37c60149e7d540cda12aec3755ecfe32",
        "tabbable": null,
        "tooltip": null,
-       "value": "Processing\u2007Files\u2007(0\u2007/\u20071):\u2007100%"
+       "value": "Processing Files (0 / 1): 100%"
       }
      },
      "100ef3bc8ba04aa5ba3cf5ba0ba48877": {
@@ -2664,11 +2656,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_bef8bc6e5bfd4c7cabd030f384e34fd9",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_c2d6b843a0174e6fb4f8c15a5734ca38",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007762/762\u2007[00:00&lt;00:00,\u200794.6kB/s]"
+       "value": " 762/762 [00:00&lt;00:00, 94.6kB/s]"
       }
      },
      "114e604dfda549b88f6c808429950b69": {
@@ -2970,11 +2962,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_fa32dd6ad3fc46cba5627690e94e5848",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_dbf5c9a4213144fe81649c429d38271d",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u200711.4M/11.4M\u2007[00:00&lt;00:00,\u200730.3MB/s]"
+       "value": " 11.4M/11.4M [00:00&lt;00:00, 30.3MB/s]"
       }
      },
      "1e3451dec4d64fbca3d92adea189e9df": {
@@ -3062,11 +3054,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_333e882818fa4711bee2b1a7d5382a0c",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_75ada2fc07304ce390bde6742f45ea90",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20074.93G/4.93G\u2007[00:17&lt;00:00,\u2007798MB/s]"
+       "value": " 4.93G/4.93G [00:17&lt;00:00, 798MB/s]"
       }
      },
      "2143dede4dcd4707b2bdfb04a8bfbd2d": {
@@ -3386,11 +3378,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_114e604dfda549b88f6c808429950b69",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_f9c165ca1b1d469dae8cee5d0df0ce7b",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20077.36k/?\u2007[00:00&lt;00:00,\u2007620kB/s]"
+       "value": " 7.36k/? [00:00&lt;00:00, 620kB/s]"
       }
      },
      "287b74977c104aeab0cb002a63fe93a3": {
@@ -3409,11 +3401,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_1e3451dec4d64fbca3d92adea189e9df",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_c80af64925c6447cb792696f53f54898",
        "tabbable": null,
        "tooltip": null,
-       "value": "Downloading\u2007builder\u2007script:\u2007"
+       "value": "Downloading builder script: "
       }
      },
      "2ae9d57ef9fd4584b4069444393587ee": {
@@ -3474,11 +3466,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_725516947ba3419ab45f434cef25a177",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_a6beca5892b641719204662bde290530",
        "tabbable": null,
        "tooltip": null,
-       "value": "model-00003-of-00004.safetensors:\u2007100%"
+       "value": "model-00003-of-00004.safetensors: 100%"
       }
      },
      "2cd31cf6e6154ac28e78e316a242dbcb": {
@@ -3647,11 +3639,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_ca8ed47b355c40d0a80878b4a2f4a5f0",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_2cfef02739bf45efb90c0054691e8426",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20073.97GB\u2007/\u20073.97GB,\u2007\u2007131MB/s\u2007\u2007"
+       "value": " 3.97GB / 3.97GB,  131MB/s  "
       }
      },
      "3279aa7c93a8429691444e6a892e5128": {
@@ -3854,11 +3846,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_a594c363fcfa4874a6dbbae6d7cf96bb",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_e2257070dbdf4238b46b8e4fe3e1b3c0",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20077.02k/?\u2007[00:00&lt;00:00,\u2007705kB/s]"
+       "value": " 7.02k/? [00:00&lt;00:00, 705kB/s]"
       }
      },
      "37c60149e7d540cda12aec3755ecfe32": {
@@ -3895,11 +3887,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_933e189a08064df9b682bfd2ad7f5fe1",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_0ed011fca43c4569b503b888c8fd85da",
        "tabbable": null,
        "tooltip": null,
-       "value": "Downloading\u2007builder\u2007script:\u2007"
+       "value": "Downloading builder script: "
       }
      },
      "38f240cb8652453da876e25462958c2c": {
@@ -3936,11 +3928,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_504b5e97f9d94418a7020588afc1ed70",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_ae9551336b9a49a7aecb59afc0b8198a",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20072.78M/?\u2007[00:00&lt;00:00,\u200739.7MB/s]"
+       "value": " 2.78M/? [00:00&lt;00:00, 39.7MB/s]"
       }
      },
      "3b09b50b9404414881f4168aef488d3a": {
@@ -4131,11 +4123,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_8c608edf71f44dfc8ec2499bb38e6fe1",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_6ff1784337174f249e67acf36f656a78",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20074.88G/4.88G\u2007[00:14&lt;00:00,\u20071.09GB/s]"
+       "value": " 4.88G/4.88G [00:14&lt;00:00, 1.09GB/s]"
       }
      },
      "40d896e85d194f28a839088119667231": {
@@ -4198,11 +4190,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_2cd31cf6e6154ac28e78e316a242dbcb",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_5ba73785447f40eeb70a489166d6785d",
        "tabbable": null,
        "tooltip": null,
-       "value": "Map:\u2007100%"
+       "value": "Map: 100%"
       }
      },
      "45d42a463ae24058aa8980ad09d4f623": {
@@ -4525,11 +4517,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_b7b19e63186643908f1550494b14498d",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_ccad72c3d80648b8af1758ff3a30c845",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007614/614\u2007[00:00&lt;00:00,\u200765.5kB/s]"
+       "value": " 614/614 [00:00&lt;00:00, 65.5kB/s]"
       }
      },
      "4c1cd1da705045c0b486b3da2e9fc022": {
@@ -4765,11 +4757,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_83200a39e4764057b2dbb0e824d5e984",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_79bbc1e55fb7434f861635d563bfb722",
        "tabbable": null,
        "tooltip": null,
-       "value": "model.safetensors.index.json:\u2007"
+       "value": "model.safetensors.index.json: "
       }
      },
      "529bd2fd8a8d4aba965610a9a7e5f581": {
@@ -4788,11 +4780,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_fe68766b762d451c904dee20cc349605",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_33b68f692f2142fbb87008329fde2f59",
        "tabbable": null,
        "tooltip": null,
-       "value": "config.json:\u2007100%"
+       "value": "config.json: 100%"
       }
      },
      "52b7dfdb375c4fd090d121fa301561f0": {
@@ -5019,11 +5011,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_7575bf2b7e8547b2b08e2b4d919ec894",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_902f6e7226a84847a02243c2345fd0bb",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20076.14k/?\u2007[00:00&lt;00:00,\u2007539kB/s]"
+       "value": " 6.14k/? [00:00&lt;00:00, 539kB/s]"
       }
      },
      "5f620807b574461f8be82f693fb8ff61": {
@@ -5095,11 +5087,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_9889977484564bfda729ef6b3713e0d7",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_0e53de5caed24c4b985b8f1f42ddaa7a",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007\u2007646MB\u2007/\u2007\u2007646MB,\u200795.0MB/s\u2007\u2007"
+       "value": "  646MB /  646MB, 95.0MB/s  "
       }
      },
      "6029404dc447454cac09e9e64734a6a3": {
@@ -5294,11 +5286,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_49323ea00f2848e199be35d1828c9bc8",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_f025ad2d476246ee8f0c289bb5236efc",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u200711.4MB\u2007/\u200711.4MB,\u200714.3MB/s\u2007\u2007"
+       "value": " 11.4MB / 11.4MB, 14.3MB/s  "
       }
      },
      "653912542da642df94fefb7c12c3d6d8": {
@@ -5737,11 +5729,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_559715f3704140a4ad75d2d6524c7d5b",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_f54b4b14d0db409981202c2327ecd4a5",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007271/271\u2007[00:00&lt;00:00,\u200733.5kB/s]"
+       "value": " 271/271 [00:00&lt;00:00, 33.5kB/s]"
       }
      },
      "7213be6a2cc541808078f54c595b8c40": {
@@ -6092,11 +6084,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_2e65c3b81b9b46f4821d6170844bd750",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_f2aa9a13230543c58bffa0853dd7ee1b",
        "tabbable": null,
        "tooltip": null,
-       "value": "vocab.json:\u2007"
+       "value": "vocab.json: "
       }
      },
      "795eeb0ef04e4181a964b429a9757eb5": {
@@ -6186,11 +6178,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_32a3dbb908644915afa40893e00bc8af",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_afefc74992fb4cdc98ed32c2e76ac4d4",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20075.55G/5.55G\u2007[00:15&lt;00:00,\u2007592MB/s]"
+       "value": " 5.55G/5.55G [00:15&lt;00:00, 592MB/s]"
       }
      },
      "7acc3e2741f64612b9ce910186279783": {
@@ -7164,11 +7156,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_c101135e37ab47d0af38b0776e15fcb2",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_b66a0179ce964a9daf058a257ae2a969",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007444/444\u2007[00:00&lt;00:00,\u200711401.61\u2007examples/s]"
+       "value": " 444/444 [00:00&lt;00:00, 11401.61 examples/s]"
       }
      },
      "895be5e3fff94076afbcc78f68b9fd40": {
@@ -7187,11 +7179,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_fb678ccb50f04a7b89a78218e471c183",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_40d896e85d194f28a839088119667231",
        "tabbable": null,
        "tooltip": null,
-       "value": "generation_config.json:\u2007100%"
+       "value": "generation_config.json: 100%"
       }
      },
      "8a0bc163cca040e895b56d2a353cbc35": {
@@ -7226,11 +7218,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_8f42ad434b624b68bddb7267d37e4f47",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_e0fd515a2ab34b7fbb04f9922f6a7ced",
        "tabbable": null,
        "tooltip": null,
-       "value": "added_tokens.json:\u2007100%"
+       "value": "added_tokens.json: 100%"
       }
      },
      "8c608edf71f44dfc8ec2499bb38e6fe1": {
@@ -7617,11 +7609,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_826628c05c5d4d5988435089950a54a2",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_d525a1ea59e747119c1770554a6fd4be",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007605/605\u2007[00:00&lt;00:00,\u200761.0kB/s]"
+       "value": " 605/605 [00:00&lt;00:00, 61.0kB/s]"
       }
      },
      "917a080024ea4bd78b2bff0316bb4da0": {
@@ -7640,11 +7632,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_997ea760640447a59d7b98d17fdd932b",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_7e5ac6dde1024b48b2c344c8cda9c297",
        "tabbable": null,
        "tooltip": null,
-       "value": "merges.txt:\u2007"
+       "value": "merges.txt: "
       }
      },
      "91b73b3c3ed64726beb4bc0a28c29327": {
@@ -8184,11 +8176,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_c46875ae479c4102a2c3766ffc0c680c",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_0eb9b15392754bc49f294cf8015408bc",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20071.09G/1.09G\u2007[00:04&lt;00:00,\u2007545MB/s]"
+       "value": " 1.09G/1.09G [00:04&lt;00:00, 545MB/s]"
       }
      },
      "a09392fada5944d0a826ac3743957667": {
@@ -8521,11 +8513,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_100ef3bc8ba04aa5ba3cf5ba0ba48877",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_bb491f6af8b54c67ad3ee0cf53981468",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20074.33G/4.33G\u2007[00:18&lt;00:00,\u2007497MB/s]"
+       "value": " 4.33G/4.33G [00:18&lt;00:00, 497MB/s]"
       }
      },
      "a63bddc51a7642dd87300f30acfee6e2": {
@@ -8831,11 +8823,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_cf7652e913654742a6456c9f66faac33",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_e46d8dc6796849b78efc0e57e5146f00",
        "tabbable": null,
        "tooltip": null,
-       "value": "Processing\u2007Files\u2007(1\u2007/\u20071):\u2007100%"
+       "value": "Processing Files (1 / 1): 100%"
       }
      },
      "abea62325d464b4b98d58761033e696a": {
@@ -9040,11 +9032,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_45d42a463ae24058aa8980ad09d4f623",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_b8bf00e04fd74b37b77e2876855659a5",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20077055/7055\u2007[00:03&lt;00:00,\u20073090.83\u2007examples/s]"
+       "value": " 7055/7055 [00:03&lt;00:00, 3090.83 examples/s]"
       }
      },
      "b2f73e5b1a26444dba0061801a86cc59": {
@@ -9079,11 +9071,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_a2e3569afdeb41a09523193465130783",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_4c1cd1da705045c0b486b3da2e9fc022",
        "tabbable": null,
        "tooltip": null,
-       "value": "README.md:\u2007100%"
+       "value": "README.md: 100%"
       }
      },
      "b66a0179ce964a9daf058a257ae2a969": {
@@ -9173,11 +9165,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_f9c02290f35f4603a959f7ec2ebb54c2",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_e21122cd8b994c03a367471da29aa035",
        "tabbable": null,
        "tooltip": null,
-       "value": "tokenizer_config.json:\u2007"
+       "value": "tokenizer_config.json: "
       }
      },
      "b7701b1f50ce43eb84fdfaeab4289877": {
@@ -9468,11 +9460,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_c81849aeef19400db7251b152d966c00",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_ded6304aa68f49c59da4f14a4b2ee9d6",
        "tabbable": null,
        "tooltip": null,
-       "value": "New\u2007Data\u2007Upload:\u2007100%"
+       "value": "New Data Upload: 100%"
       }
      },
      "ba23c827409f4d53a6175003acea2b8b": {
@@ -9562,11 +9554,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_22e17e74f0ec4660a3fc2743b5f891e5",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_b04bb3acad9f4b8fb9b80c8cbdb140b5",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20077055/7055\u2007[00:00&lt;00:00,\u200717220.88\u2007examples/s]"
+       "value": " 7055/7055 [00:00&lt;00:00, 17220.88 examples/s]"
       }
      },
      "bca0b822041941a5b18c53da0887a5f3": {
@@ -9717,11 +9709,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_48bbc4a89310482eaacea0de71393ca7",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_69e959a2cc6c4c63af3eddfadf6fb9ea",
        "tabbable": null,
        "tooltip": null,
-       "value": "model-00001-of-00004.safetensors:\u2007100%"
+       "value": "model-00001-of-00004.safetensors: 100%"
       }
      },
      "c28761d4cd724f01906cc0e48acefe6e": {
@@ -9893,11 +9885,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_612a98ca0f6c49a8ade6ad198f88d00d",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_81362669a9b64370b28b1c3d65b491b8",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007\u2007646MB\u2007/\u2007\u2007646MB,\u200795.0MB/s\u2007\u2007"
+       "value": "  646MB /  646MB, 95.0MB/s  "
       }
      },
      "c80af64925c6447cb792696f53f54898": {
@@ -10011,11 +10003,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_3dfe56ef161940c6934a850532aca84c",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_f53ba8b0b5c043f4b4924377e0a90b3b",
        "tabbable": null,
        "tooltip": null,
-       "value": "Unsloth:\u2007Tokenizing\u2007[&quot;text&quot;]\u2007(num_proc=2):\u2007100%"
+       "value": "Unsloth: Tokenizing [&quot;text&quot;] (num_proc=2): 100%"
       }
      },
      "c9782de07ac640d48c297acfc9b11ca7": {
@@ -10592,11 +10584,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_74229573621d46c5b9f255d401514655",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_5c2901395ec54b1e82d8177081c2e897",
        "tabbable": null,
        "tooltip": null,
-       "value": "Map:\u2007100%"
+       "value": "Map: 100%"
       }
      },
      "d505c6ee1a0842e6858fd9ff7fe58bcf": {
@@ -10702,11 +10694,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_2719dc813a124eaa8c162cd25b65c722",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_0c10b07db5654c1a87f2f27c8097f205",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20071.67M/?\u2007[00:00&lt;00:00,\u200764.5MB/s]"
+       "value": " 1.67M/? [00:00&lt;00:00, 64.5MB/s]"
       }
      },
      "d77b31b1594d4f91976bf0f82906a156": {
@@ -10796,11 +10788,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_8e784902674c4ce7b9b9edf55a98d3c3",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_6029404dc447454cac09e9e64734a6a3",
        "tabbable": null,
        "tooltip": null,
-       "value": "model.safetensors:\u2007100%"
+       "value": "model.safetensors: 100%"
       }
      },
      "dae8d0fbbd454ea9aa5f5cfa9744661f": {
@@ -10819,11 +10811,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_a3e04c3154864daa889aad46075dff44",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_24f634daff954228b29a7842779dad59",
        "tabbable": null,
        "tooltip": null,
-       "value": "tokenizer.json:\u2007100%"
+       "value": "tokenizer.json: 100%"
       }
      },
      "dbf5c9a4213144fe81649c429d38271d": {
@@ -10989,11 +10981,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_65ea199a18f94ebaa469f705cd240565",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_6c42f07b6efb42908ef51711641ad760",
        "tabbable": null,
        "tooltip": null,
-       "value": "model-00002-of-00004.safetensors:\u2007100%"
+       "value": "model-00002-of-00004.safetensors: 100%"
       }
      },
      "e18a4963c79b4fe2a6e11e82890198c1": {
@@ -11081,11 +11073,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_9d99a868240c4084a4c4cb6eabf8803a",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_34a3efb6cb78428385b7e6b94d2c0129",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007740/740\u2007[00:00&lt;00:00,\u200777.3kB/s]"
+       "value": " 740/740 [00:00&lt;00:00, 77.3kB/s]"
       }
      },
      "e21122cd8b994c03a367471da29aa035": {
@@ -11271,11 +11263,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_d505c6ee1a0842e6858fd9ff7fe58bcf",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_b7f4081fe32141ee9b5c0a367a7836a7",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u20074.68GB\u2007/\u20074.68GB,\u2007\u2007131MB/s\u2007\u2007"
+       "value": " 4.68GB / 4.68GB,  131MB/s  "
       }
      },
      "e92f2f81a7c345639e9bfdd2057d1f75": {
@@ -11326,11 +11318,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_67f08ea9bc0c40be8c635a133eb700bb",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_c551b0b4d1074376b9be1b4a7e340856",
        "tabbable": null,
        "tooltip": null,
-       "value": "Processing\u2007Files\u2007(1\u2007/\u20071):\u2007100%"
+       "value": "Processing Files (1 / 1): 100%"
       }
      },
      "ef45f5990e1f43ae913361f2550aa86a": {
@@ -11512,11 +11504,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_e52ecf801eec41f692dda12d91839389",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_098831f67f4e46c593c13cc93c5e671d",
        "tabbable": null,
        "tooltip": null,
-       "value": "New\u2007Data\u2007Upload:\u2007100%"
+       "value": "New Data Upload: 100%"
       }
      },
      "f424cc9919494be3be8fd11c52026628": {
@@ -11701,11 +11693,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_851d1bc0509c42f0ae26b9f57e99520e",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_73efc695950a4c78870899535695f6d8",
        "tabbable": null,
        "tooltip": null,
-       "value": "New\u2007Data\u2007Upload:\u2007100%"
+       "value": "New Data Upload: 100%"
       }
      },
      "f974ba2e2be14a14979b7f82ac964446": {
@@ -11724,11 +11716,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_cf25bce935c34887b86de980cd0b0bc8",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_a331752395da4bcf880ae4c26859f4a7",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u2007741/741\u2007[00:00&lt;00:00,\u200787.5kB/s]"
+       "value": " 741/741 [00:00&lt;00:00, 87.5kB/s]"
       }
      },
      "f9c02290f35f4603a959f7ec2ebb54c2": {
@@ -11977,11 +11969,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_48e51c29cfee49eca3aa3f3645c42316",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_3c6dbc71c97e4298afcc3aec14a3491c",
        "tabbable": null,
        "tooltip": null,
-       "value": "\u200727.8k/?\u2007[00:00&lt;00:00,\u20072.85MB/s]"
+       "value": " 27.8k/? [00:00&lt;00:00, 2.85MB/s]"
       }
      },
      "fd7ef24975684feb9c006317092acf61": {
@@ -12053,11 +12045,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_ca0623c24e0a46c1ad7c242d7047d964",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_73d77ed640b74ab0ba6964fc2be712e1",
        "tabbable": null,
        "tooltip": null,
-       "value": "model-00004-of-00004.safetensors:\u2007100%"
+       "value": "model-00004-of-00004.safetensors: 100%"
       }
      },
      "fe68766b762d451c904dee20cc349605": {
@@ -12129,11 +12121,11 @@
        "description": "",
        "description_allow_html": false,
        "layout": "IPY_MODEL_b21a5025b30a4e15bec0d1738c32bc24",
-       "placeholder": "\u200b",
+       "placeholder": "​",
        "style": "IPY_MODEL_e598bc4499874473a10746e8f33ca2ba",
        "tabbable": null,
        "tooltip": null,
-       "value": "Unsloth:\u2007Tokenizing\u2007[&quot;text&quot;]\u2007(num_proc=2):\u2007100%"
+       "value": "Unsloth: Tokenizing [&quot;text&quot;] (num_proc=2): 100%"
       }
      }
     },

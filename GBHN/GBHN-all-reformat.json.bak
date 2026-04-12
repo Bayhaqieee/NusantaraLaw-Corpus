@@ -1,8 +1,13 @@
 [
   {
-    "instruction": "Jelaskan Dasar Pemikiran penyusunan GBHN 1999-2004.",
+    "instruction": "Jelaskan Dasar Pemikiran penyusunan GBHN 1999-2004. (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Dasar pemikiran penyusunan GBHN didasarkan pada keinginan luhur untuk berkehidupan kebangsaan yang bebas, merdeka, bersatu, berdaulat, adil, dan makmur sesuai dengan Proklamasi 17 Agustus\n- Pembangunan yang terpusat dan tidak merata selama ini hanya mengutamakan pertumbuhan ekonomi tanpa diimbangi kehidupan sosial politik yang demokratis, menyebabkan krisis moneter, ekonomi, dan moral. Reformasi di segala bidang diperlukan untuk menyelamatkan, memulihkan, dan memantapkan pembangunan dengan paradigma baru guna mewujudkan cita-cita Proklamasi."
+    "response": "Dasar pemikiran penyusunan GBHN didasarkan pada keinginan luhur untuk berkehidupan kebangsaan yang bebas, merdeka, bersatu, berdaulat, adil, dan makmur sesuai dengan Proklamasi 17 Agustus"
+  },
+  {
+    "instruction": "Jelaskan Dasar Pemikiran penyusunan GBHN 1999-2004. (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pembangunan yang terpusat dan tidak merata selama ini hanya mengutamakan pertumbuhan ekonomi tanpa diimbangi kehidupan sosial politik yang demokratis, menyebabkan krisis moneter, ekonomi, dan moral. Reformasi di segala bidang diperlukan untuk menyelamatkan, memulihkan, dan memantapkan pembangunan dengan paradigma baru guna mewujudkan cita-cita Proklamasi."
   },
   {
     "instruction": "Apa pengertian, maksud, dan tujuan dari Garis-garis Besar Haluan Negara (GBHN)?",
@@ -20,29 +25,269 @@
     "response": "Bidang ekonomi mengalami fundamental yang rapuh akibat sentralisasi dan campur tangan pemerintah yang terlalu besar, mematikan kedaulatan ekonomi rakyat. Kesenjangan ekonomi meluas, pengangguran meningkat, jumlah penduduk miskin membengkak, dan derajat kesehatan menurun (indikasi kurang gizi). Selain itu, terjadi kerusakan lingkungan akibat eksploitasi SDA yang tidak terkendali serta merebaknya penyakit sosial dan narkoba di masyarakat."
   },
   {
-    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004.",
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Visi: Terwujudnya masyarakat Indonesia yang damai, demokratis, berkeadilan, berdaya saing, maju dan sejahtera, dalam wadah NKRI yang didukung oleh manusia Indonesia yang sehat, mandiri, beriman, bertakwa, berakhlak mulia, cinta tanah air, berkesadaran hukum dan lingkungan, menguasai IPTEK, serta memiliki etos kerja tinggi.\n\nMisi:\n- Pengamalan Pancasila secara konsisten.\n- Penegakan kedaulatan rakyat.\n- Peningkatan pengamalan ajaran agama dan kerukunan umat beragama.\n- Penjaminan kondisi aman, damai, tertib, dan ketentraman.\n- Pewujudan sistem hukum nasional dan supremasi hukum.\n- Pewujudan kehidupan sosial budaya yang berkepribadian dan dinamis.\n- Pemberdayaan ekonomi kerakyatan, pengusaha kecil, menengah, dan koperasi.\n- Pewujudan otonomi daerah dan pemerataan pembangunan.\n- Pewujudan kesejahteraan rakyat (pangan, sandang, papan, kesehatan, pendidikan, lapangan kerja).\n- Pewujudan aparatur negara yang profesional dan bebas KKN.\n- Pewujudan sistem pendidikan nasional yang demokratis dan bermutu.\n- Pewujudan politik luar negeri yang bebas dan pro-aktif."
+    "response": "Visi: Terwujudnya masyarakat Indonesia yang damai, demokratis, berkeadilan, berdaya saing, maju dan sejahtera, dalam wadah NKRI yang didukung oleh manusia Indonesia yang sehat, mandiri, beriman, bertakwa, berakhlak mulia, cinta tanah air, berkesadaran hukum dan lingkungan, menguasai IPTEK, serta memiliki etos kerja tinggi.\n\nMisi:"
   },
   {
-    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004?",
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 2)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Mengembangkan budaya hukum di semua lapisan masyarakat.\n- Menata sistem hukum nasional yang menyeluruh, terpadu, mengakui hukum agama dan adat, serta memperbaharui hukum warisan kolonial.\n- Menegakkan hukum secara konsisten untuk menjamin kepastian hukum dan keadilan.\n- Melanjutkan ratifikasi konvensi internasional terutama berkaitan dengan HAM.\n- Meningkatkan integritas moral dan keprofesionalan aparat penegak hukum termasuk Polri.\n- Mewujudkan lembaga peradilan yang mandiri dan bebas pengaruh penguasa.\n- Mengembangkan peraturan perundang-undangan yang mendukung kegiatan ekonomi di era perdagangan bebas.\n- Menyelenggarakan proses peradilan yang cepat, mudah, murah, terbuka, dan bebas KKN.\n- Meningkatkan pemahaman dan penegakan hak asasi manusia.\n- Menyelesaikan proses peradilan terhadap pelanggaran hukum dan HAM yang belum tuntas."
+    "response": "Pengamalan Pancasila secara konsisten."
   },
   {
-    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN.",
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 3)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Mengembangkan sistem ekonomi kerakyatan bertumpu pada mekanisme pasar berkeadilan.\n- Mengembangkan persaingan sehat dan menghindarkan struktur pasar monopolistik.\n- Mengoptimalkan peran pemerintah dalam mengoreksi ketidaksempurnaan pasar secara transparan.\n- Mengupayakan kehidupan layak bagi fakir miskin dan anak terlantar melalui jaminan sosial.\n- Mengembangkan perekonomian berorientasi global berbasis keunggulan komparatif (maritim dan agraris).\n- Mengelola kebijakan makro dan mikroekonomi secara sinergis (suku bunga wajar, inflasi terkendali).\n- Mengembangkan kebijakan fiskal yang transparan, disiplin, dan efisien.\n- Mengembangkan pasar modal yang sehat dan transparan.\n- Mengoptimalkan pinjaman luar negeri untuk kegiatan produktif dengan persetujuan DPR.\n- Mengembangkan kebijakan industri, perdagangan, dan investasi untuk daya saing global.\n- Memberdayakan pengusaha kecil, menengah, dan koperasi.\n- Menata BUMN secara efisien dan transparan; BUMN diatur dengan undang-undang.\n- Mengembangkan kemitraan usaha antara koperasi, swasta, dan BUMN.\n- Mengembangkan sistem ketahanan pangan berbasis keragaman sumber daya lokal."
+    "response": "Penegakan kedaulatan rakyat."
   },
   {
-    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN.",
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 4)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Meningkatkan penyediaan energi dan listrik yang murah dan ramah lingkungan.\n- Mengembangkan kebijakan pertanahan yang adil, mengakui hak ulayat/adat.\n- Meningkatkan sarana dan prasarana publik (transportasi, telekomunikasi, air bersih).\n- Mengembangkan ketenagakerjaan secara terpadu (kompetensi, pengupahan, perlindungan).\n- Meningkatkan kualitas penempatan dan perlindungan tenaga kerja ke luar negeri.\n- Meningkatkan penguasaan dan pemanfaatan IPTEK dalam dunia usaha.\n- Mempercepat pengentasan kemiskinan dan pengangguran.\n- Mempercepat penyelamatan dan pemulihan ekonomi sektor riil.\n- Menyehatkan APBN dengan mengurangi defisit dan subsidi bertahap serta pajak progresif.\n- Mempercepat rekapitalisasi perbankan dan restrukturisasi utang swasta.\n- Melaksanakan restrukturisasi aset negara secara transparan dengan konsultasi DPR.\n- Melakukan renegosiasi dan restrukturisasi utang luar negeri secara transparan.\n- Melakukan negosiasi dan kerja sama ekonomi bilateral/multilateral secara proaktif.\n- Menyehatkan BUMN/BUMD; mendorong privatisasi BUMN yang tidak berkaitan dengan kepentingan umum."
+    "response": "Peningkatan pengamalan ajaran agama dan kerukunan umat beragama."
   },
   {
-    "instruction": "Apa saja Arah Kebijakan Politik Dalam Negeri?",
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 5)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "a. Memperkuat keberadaan NKRI dan melakukan rekonsiliasi nasional.\nb. Menyempurnakan UUD 1945 sejalan dengan reformasi.\nc. Meningkatkan peran MPR, DPR, dan lembaga tinggi negara lainnya dengan pemisahan kekuasaan yang jelas.\nd. Mengembangkan sistem politik yang berkedaulatan rakyat, demokratis, dan terbuka.\ne. Meningkatkan kemandirian partai politik dan pengawasan terhadap kinerja negara.\nf. Meningkatkan pendidikan politik secara intensif kepada masyarakat.\ng. Menerapkan prinsip persamaan dan anti-diskriminasi.\nh. Menyelenggarakan Pemilu yang lebih berkualitas selambat-lambatnya tahun\n- i. Membangun karakter bangsa (nation and character building).\nj. Menindaklanjuti paradigma baru TNI (reposisi dan redefinisi), menghilangkan peran politik TNI; keikutsertaan TNI dalam kebijakan nasional hanya melalui MPR."
+    "response": "Penjaminan kondisi aman, damai, tertib, dan ketentraman."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 6)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan sistem hukum nasional dan supremasi hukum."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 7)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan kehidupan sosial budaya yang berkepribadian dan dinamis."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 8)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pemberdayaan ekonomi kerakyatan, pengusaha kecil, menengah, dan koperasi."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 9)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan otonomi daerah dan pemerataan pembangunan."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 10)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan kesejahteraan rakyat (pangan, sandang, papan, kesehatan, pendidikan, lapangan kerja)."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 11)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan aparatur negara yang profesional dan bebas KKN."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 12)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan sistem pendidikan nasional yang demokratis dan bermutu."
+  },
+  {
+    "instruction": "Sebutkan Visi dan Misi Indonesia menurut GBHN 1999-2004. (Bagian 13)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Pewujudan politik luar negeri yang bebas dan pro-aktif."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan budaya hukum di semua lapisan masyarakat."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menata sistem hukum nasional yang menyeluruh, terpadu, mengakui hukum agama dan adat, serta memperbaharui hukum warisan kolonial."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menegakkan hukum secara konsisten untuk menjamin kepastian hukum dan keadilan."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melanjutkan ratifikasi konvensi internasional terutama berkaitan dengan HAM."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan integritas moral dan keprofesionalan aparat penegak hukum termasuk Polri."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 6)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mewujudkan lembaga peradilan yang mandiri dan bebas pengaruh penguasa."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 7)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan peraturan perundang-undangan yang mendukung kegiatan ekonomi di era perdagangan bebas."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 8)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menyelenggarakan proses peradilan yang cepat, mudah, murah, terbuka, dan bebas KKN."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 9)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan pemahaman dan penegakan hak asasi manusia."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan di bidang Hukum dalam GBHN 1999-2004? (Bagian 10)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menyelesaikan proses peradilan terhadap pelanggaran hukum dan HAM yang belum tuntas."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan sistem ekonomi kerakyatan bertumpu pada mekanisme pasar berkeadilan."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan persaingan sehat dan menghindarkan struktur pasar monopolistik."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengoptimalkan peran pemerintah dalam mengoreksi ketidaksempurnaan pasar secara transparan."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengupayakan kehidupan layak bagi fakir miskin dan anak terlantar melalui jaminan sosial."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan perekonomian berorientasi global berbasis keunggulan komparatif (maritim dan agraris)."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 6)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengelola kebijakan makro dan mikroekonomi secara sinergis (suku bunga wajar, inflasi terkendali)."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 7)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan kebijakan fiskal yang transparan, disiplin, dan efisien."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 8)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan pasar modal yang sehat dan transparan."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 9)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengoptimalkan pinjaman luar negeri untuk kegiatan produktif dengan persetujuan DPR."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 10)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan kebijakan industri, perdagangan, dan investasi untuk daya saing global."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 11)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Memberdayakan pengusaha kecil, menengah, dan koperasi."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 12)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menata BUMN secara efisien dan transparan; BUMN diatur dengan undang-undang."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 13)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan kemitraan usaha antara koperasi, swasta, dan BUMN."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 1-14) menurut GBHN. (Bagian 14)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan sistem ketahanan pangan berbasis keragaman sumber daya lokal."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan penyediaan energi dan listrik yang murah dan ramah lingkungan."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan kebijakan pertanahan yang adil, mengakui hak ulayat/adat."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan sarana dan prasarana publik (transportasi, telekomunikasi, air bersih)."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan ketenagakerjaan secara terpadu (kompetensi, pengupahan, perlindungan)."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan kualitas penempatan dan perlindungan tenaga kerja ke luar negeri."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 6)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan penguasaan dan pemanfaatan IPTEK dalam dunia usaha."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 7)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mempercepat pengentasan kemiskinan dan pengangguran."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 8)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mempercepat penyelamatan dan pemulihan ekonomi sektor riil."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 9)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menyehatkan APBN dengan mengurangi defisit dan subsidi bertahap serta pajak progresif."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 10)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mempercepat rekapitalisasi perbankan dan restrukturisasi utang swasta."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 11)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melaksanakan restrukturisasi aset negara secara transparan dengan konsultasi DPR."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 12)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melakukan renegosiasi dan restrukturisasi utang luar negeri secara transparan."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 13)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melakukan negosiasi dan kerja sama ekonomi bilateral/multilateral secara proaktif."
+  },
+  {
+    "instruction": "Jelaskan rincian Arah Kebijakan di bidang Ekonomi (Poin 15-28) menurut GBHN. (Bagian 14)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menyehatkan BUMN/BUMD; mendorong privatisasi BUMN yang tidak berkaitan dengan kepentingan umum."
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan Politik Dalam Negeri? (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "a. Memperkuat keberadaan NKRI dan melakukan rekonsiliasi nasional.\nb. Menyempurnakan UUD 1945 sejalan dengan reformasi.\nc. Meningkatkan peran MPR, DPR, dan lembaga tinggi negara lainnya dengan pemisahan kekuasaan yang jelas.\nd. Mengembangkan sistem politik yang berkedaulatan rakyat, demokratis, dan terbuka.\ne. Meningkatkan kemandirian partai politik dan pengawasan terhadap kinerja negara.\nf. Meningkatkan pendidikan politik secara intensif kepada masyarakat.\ng. Menerapkan prinsip persamaan dan anti-diskriminasi.\nh. Menyelenggarakan Pemilu yang lebih berkualitas selambat-lambatnya tahun"
+  },
+  {
+    "instruction": "Apa saja Arah Kebijakan Politik Dalam Negeri? (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "i. Membangun karakter bangsa (nation and character building).\nj. Menindaklanjuti paradigma baru TNI (reposisi dan redefinisi), menghilangkan peran politik TNI; keikutsertaan TNI dalam kebijakan nasional hanya melalui MPR."
   },
   {
     "instruction": "Apa saja Arah Kebijakan Hubungan Luar Negeri?",
@@ -60,14 +305,64 @@
     "response": "a. Meningkatkan peran komunikasi media massa untuk mencerdaskan bangsa dan memperkukuh persatuan.\nb. Meningkatkan kualitas komunikasi melalui teknologi informasi untuk daya saing global.\nc. Meningkatkan peran pers yang bebas, profesional, dan berintegritas.\nd. Membangun jaringan informasi antara pusat dan daerah secara timbal balik.\ne. Memperkuat penerangan luar negeri untuk kepentingan nasional."
   },
   {
-    "instruction": "Sebutkan Arah Kebijakan di bidang Agama.",
+    "instruction": "Sebutkan Arah Kebijakan di bidang Agama. (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Memantapkan fungsi agama sebagai landasan moral dan etika dalam penyelenggaraan negara.\n- Meningkatkan kualitas pendidikan agama dan menyempurnakan sistemnya.\n- Meningkatkan dan memantapkan kerukunan hidup antarumat beragama melalui dialog.\n- Meningkatkan kemudahan umat beragama dalam beribadah, termasuk penyempurnaan haji dan zakat.\n- Meningkatkan peran lembaga keagamaan dalam mengatasi dampak perubahan sosial."
+    "response": "Memantapkan fungsi agama sebagai landasan moral dan etika dalam penyelenggaraan negara."
   },
   {
-    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan.",
+    "instruction": "Sebutkan Arah Kebijakan di bidang Agama. (Bagian 2)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Mengupayakan perluasan dan pemerataan kesempatan pendidikan bermutu tinggi dengan peningkatan anggaran.\n- Meningkatkan kemampuan dan kesejahteraan tenaga kependidikan.\n- Melakukan pembaharuan sistem pendidikan, termasuk kurikulum nasional dan lokal.\n- Memberdayakan lembaga pendidikan sekolah dan luar sekolah sebagai pusat nilai.\n- Melakukan pembaharuan sistem pendidikan berdasarkan desentralisasi dan otonomi keilmuan.\n- Meningkatkan kualitas lembaga pendidikan baik milik pemerintah maupun masyarakat.\n- Mengembangkan kualitas SDM sedini mungkin secara terarah dan terpadu."
+    "response": "Meningkatkan kualitas pendidikan agama dan menyempurnakan sistemnya."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Agama. (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan dan memantapkan kerukunan hidup antarumat beragama melalui dialog."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Agama. (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan kemudahan umat beragama dalam beribadah, termasuk penyempurnaan haji dan zakat."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Agama. (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan peran lembaga keagamaan dalam mengatasi dampak perubahan sosial."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengupayakan perluasan dan pemerataan kesempatan pendidikan bermutu tinggi dengan peningkatan anggaran."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan kemampuan dan kesejahteraan tenaga kependidikan."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melakukan pembaharuan sistem pendidikan, termasuk kurikulum nasional dan lokal."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Memberdayakan lembaga pendidikan sekolah dan luar sekolah sebagai pusat nilai."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Melakukan pembaharuan sistem pendidikan berdasarkan desentralisasi dan otonomi keilmuan."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 6)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan kualitas lembaga pendidikan baik milik pemerintah maupun masyarakat."
+  },
+  {
+    "instruction": "Sebutkan Arah Kebijakan di bidang Pendidikan. (Bagian 7)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan kualitas SDM sedini mungkin secara terarah dan terpadu."
   },
   {
     "instruction": "Apa arah kebijakan Kesehatan dan Kesejahteraan Sosial?",
@@ -100,19 +395,79 @@
     "response": "Daerah Istimewa Aceh:\na. Mempertahankan integrasi bangsa dengan menetapkan Aceh sebagai daerah otonom khusus yang diatur UU.\nb. Menyelesaikan kasus Aceh secara berkeadilan, termasuk pengadilan bagi pelanggar HAM (selama dan pasca DOM).\n\nIrian Jaya:\na. Mempertahankan integrasi bangsa dengan menetapkan otonomi khusus yang diatur UU.\nb. Menyelesaikan kasus pelanggaran HAM di Irian Jaya melalui pengadilan jujur.\n\nMaluku:\nMenugaskan pemerintah segera menyelesaikan konflik sosial secara adil dan menyeluruh serta mendorong rekonsiliasi."
   },
   {
-    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup?",
+    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup? (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Mengelola SDA agar bermanfaat bagi kesejahteraan rakyat antargenerasi.\n- Meningkatkan pemanfaatan potensi SDA dengan konservasi dan teknologi ramah lingkungan.\n- Mendelegasikan wewenang pengelolaan SDA kepada pemerintah daerah secara bertahap dan selektif.\n- Mendayagunakan SDA untuk kemakmuran rakyat dengan memperhatikan kelestarian lingkungan dan hak masyarakat lokal.\n- Menerapkan indikator pelestarian keterbaharuan dalam pengelolaan SDA."
+    "response": "Mengelola SDA agar bermanfaat bagi kesejahteraan rakyat antargenerasi."
   },
   {
-    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan?",
+    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup? (Bagian 2)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Menata kembali TNI sesuai paradigma baru (reposisi, redefinisi, reaktualisasi) sebagai alat negara pertahanan.\n- Mengembangkan sistem pertahanan keamanan rakyat semesta (TNI & Polri kekuatan utama, didukung rakyat).\n- Meningkatkan profesionalisme TNI dan kekuatan pertahanan wilayah.\n- Memperluas kerja sama pertahanan bilateral untuk stabilitas regional dan perdamaian dunia.\n- Menuntaskan kemandirian Polri (pemisahan dari TNI) sebagai alat negara penegak hukum dan pengayom masyarakat."
+    "response": "Meningkatkan pemanfaatan potensi SDA dengan konservasi dan teknologi ramah lingkungan."
   },
   {
-    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004.",
+    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup? (Bagian 3)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "Presiden berkewajiban mengerahkan potensi pemerintahan untuk melaksanakan pembangunan nasional.\n- DPR, MA, BPK, dan DPA berkewajiban melaksanakan GBHN sesuai wewenangnya.\n- Semua lembaga tinggi negara wajib menyampaikan laporan pelaksanaan GBHN dalam sidang tahunan MPR.\n- GBHN dituangkan dalam Program Pembangunan Nasional lima tahun (PROPENAS) yang ditetapkan Presiden bersama DPR.\n- PROPENAS dirinci dalam Rencana Pembangunan Tahunan (REPETA) yang memuat APBN."
+    "response": "Mendelegasikan wewenang pengelolaan SDA kepada pemerintah daerah secara bertahap dan selektif."
+  },
+  {
+    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup? (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mendayagunakan SDA untuk kemakmuran rakyat dengan memperhatikan kelestarian lingkungan dan hak masyarakat lokal."
+  },
+  {
+    "instruction": "Apa arah kebijakan Sumber Daya Alam dan Lingkungan Hidup? (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menerapkan indikator pelestarian keterbaharuan dalam pengelolaan SDA."
+  },
+  {
+    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan? (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menata kembali TNI sesuai paradigma baru (reposisi, redefinisi, reaktualisasi) sebagai alat negara pertahanan."
+  },
+  {
+    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan? (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Mengembangkan sistem pertahanan keamanan rakyat semesta (TNI & Polri kekuatan utama, didukung rakyat)."
+  },
+  {
+    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan? (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Meningkatkan profesionalisme TNI dan kekuatan pertahanan wilayah."
+  },
+  {
+    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan? (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Memperluas kerja sama pertahanan bilateral untuk stabilitas regional dan perdamaian dunia."
+  },
+  {
+    "instruction": "Apa arah kebijakan Pertahanan dan Keamanan? (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Menuntaskan kemandirian Polri (pemisahan dari TNI) sebagai alat negara penegak hukum dan pengayom masyarakat."
+  },
+  {
+    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004. (Bagian 1)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Presiden berkewajiban mengerahkan potensi pemerintahan untuk melaksanakan pembangunan nasional."
+  },
+  {
+    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004. (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "DPR, MA, BPK, dan DPA berkewajiban melaksanakan GBHN sesuai wewenangnya."
+  },
+  {
+    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004. (Bagian 3)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Semua lembaga tinggi negara wajib menyampaikan laporan pelaksanaan GBHN dalam sidang tahunan MPR."
+  },
+  {
+    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004. (Bagian 4)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "GBHN dituangkan dalam Program Pembangunan Nasional lima tahun (PROPENAS) yang ditetapkan Presiden bersama DPR."
+  },
+  {
+    "instruction": "Sebutkan Kaidah Pelaksanaan GBHN 1999-2004. (Bagian 5)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "PROPENAS dirinci dalam Rencana Pembangunan Tahunan (REPETA) yang memuat APBN."
   },
   {
     "instruction": "Apa isi Penutup dari dokumen GBHN ini?",
@@ -140,9 +495,14 @@
     "response": "GBHN 1999-2004 mengusulkan 'Ekonomi Kerakyatan' sebagai paradigma ekonomi utama untuk Indonesia, menggantikan model ekonomi Orde Baru. Istilah 'kerakyatan' adalah kunci yang menggambarkan pergeseran fundamental dalam konsep ekonomi. KONSEP EKONOMI KERAKYATAN: 'Ekonomi Kerakyatan' berarti ekonomi yang dikendalikan dan diuntungkan oleh rakyat (the people's economy), bukan ekonomi yang dikendalikan oleh negara (state-controlled) atau ekonomi yang dimonopoli oleh oligarki (oligarchic economy). Elemen-elemen Ekonomi Kerakyatan menurut GBHN: (1) MEKANISME PASAR BERKEADILAN—ekonomi kerakyatan bertumpu pada mekanisme pasar (supply-demand menentukan harga, efisiensi alokasi sumber daya melalui kompetisi), tetapi pasar 'berkeadilan' artinya tidak ada monopoli, tidak ada dominasi, tidak ada eksploitasi. Mekanisme pasar diatur untuk melindungi konsumen, buruh, dan kompetitor kecil dari abuse; (2) KEPEMILIKAN YANG LUAS—dalam ekonomi kerakyatan, kepemilikan aset ekonomi tersebar luas di masyarakat, bukan terkonsentrasi pada sedikit oligark atau negara. UMKM (Usaha Mikro Kecil Menengah) menjadi tulang punggung ekonomi, bukan hanya BUMN atau korporasi besar; (3) PEMBERDAYAAN RAKYAT EKONOMI—rakyat diberdayakan untuk menjadi pelaku ekonomi (entrepreneur), bukan sekadar konsumen atau buruh; program pelatihan kewirausahaan, akses kredit untuk UMKM, akselerasi koperasi adalah instrumen pemberdayaan; (4) KEADILAN DISTRIBUSI—hasil ekonomi harus didistribusikan secara adil kepada semua lapisan masyarakat, bukan hanya kepada kelompok elite. Upah buruh layak, kesejahteraan pengusaha kecil, keuntungan yang wajar bagi konsumen adalah prioritas keadilan; (5) PERAN NEGARA TERBATAS—negara tidak mengendalikan ekonomi secara langsung tetapi menciptakan kondisi untuk pasar berfungsi dengan baik dan adil (rule of law, kompetisi sehat, perlindungan konsumen). Ini berbeda dari Orde Baru di mana negara sangat intervensionis. PERBEDAAN DENGAN EKONOMI ORDE BARU: Orde Baru menganut model ekonomi yang berbeda—disebut 'Kapitalisme Crony' atau 'Ekonomi Korporatisme Negara': (1) DOMINASI BUMN DAN KONGLOMERAT DEKAT PUSAT—ekonomi Orde Baru terpusat pada BUMN besar (Pertamina, PLN, Garuda) dan konglomerat yg punya hubungan dekat dengan Presiden/keluarga (Cendana, Salim, Soemitro, Liem Sioe Liong); bisnis kecil-menengah terdesak; (2) PEMERINTAH MENGENDALIKAN EKONOMI—pemerintah (Presiden + ekonom birokrat seperti Tim Penstabilan Ekonomi) membuat keputusan ekonomi strategis; alokasi kredit bank diatur oleh pemerintah (bukan pasar), lisensi usaha dikontrol birokrasi, harga strategis (BBM, listrik) ditetapkan pemerintah; (3) KORUPSI SISTEMIK—karena ekonomi dikendalikan pemerintah, akses ke aset ekonomi bergantung pada koneksi political; ini menciptakan korupsi yang sistemik—pejabat menerima upeti dari pelaku bisnis, keluarga Presiden diberi monopoli tertentu (mobil, TV), crony capitalism merajalela; (4) KESENJANGAN LEBAR—model ini menghasilkan kesenjangan pendapatan yg sangat lebar: kelompok dekat pusat kaya raya, sementara rakyat biasa terdesak; ini menciptakan ekonomi yang tidak stabil (krisis 1997-1998 adalah bukti); (5) KETERGANTUNGAN PADA UTANG LUAR NEGERI—karena investasi tidak dioptimalkan (banyak terbuang untuk BUMN ineffisien atau proyek crony), pemerintah terpaksa meminjam luar negeri besar-besaran; pada 1997 total utang luar negeri Indonesia mencapai >$130 miliaran (unsustainable). OPERASIONALISASI EKONOMI KERAKYATAN DALAM GBHN: GBHN 1999-2004 menetapkan mekanisme untuk mengimplementasikan ekonomi kerakyatan: (1) PEMBERDAYAAN UMKM (Poin 11)—GBHN menetapkan bahwa UMKM harus diberdayakan melalui akses kredit, pelatihan, dan pasar. Ini adalah instrumen utama untuk menyebarkan kepemilikan ekonomi ke rakyat. Jika UMKM berkembang, maka ekonomi menjadi 'rakyat' karena banyak pihak yang memiliki bisnis; (2) KOPERASI SEBAGAI PILAR EKONOMI (Poin 13)—koperasi adalah badan usaha yang dimiliki anggota secara kolektif (kerakyatan). GBHN menetapkan partnership antara koperasi, swasta, BUMN, sehingga ekonomi tidak monopoli satu jenis entitas; (3) PENGHAPUSAN MONOPOLI (Poin 2)—GBHN melarang struktur pasar monopolistik; ini adalah instrumen anti-crony karena monopoli sering adalah alat untuk memberikan privilege kepada konglomerat dekat pusat; (4) PEMERATAAN PEMBANGUNAN (Poin 8, Section G)—GBHN menetapkan bahwa pembangunan harus merata ke seluruh wilayah, tidak tertarik ke pusat saja; ini adalah instrumen untuk memberdayakan ekonomi lokal dan menciptakan entrepreneur di daerah; (5) ANTI KKN (Poin 10, Section G)—aparatur negara harus bebas KKN; ini adalah instrumen untuk menghilangkan korupsi sistemik yang menciptakan crony capitalism. Tantangan Implementasi: Transisi dari ekonomi Orde Baru ke ekonomi kerakyatan sangat challenging karena: (1) Konglomerat besar dan BUMN sudah mapan dengan privileged position; mereka resist perubahan; (2) Birokrasi terbiasa dengan intervensi ekonomi; deregulasi memerlukan retraining; (3) UMKM memerlukan infrastruktur support (akses kredit, pelatihan, pasar) yang kompleks; (4) Dalam situasi krisis ekonomi 1999-2003 (pemulihan dari krisis 1997-1998), fokus pada ekonomi kerakyatan compete dengan kebutuhan immediate stabilisasi makro. Namun, GBHN 1999-2004 menetapkan arah yang jelas: ekonomi harus menjadi rakyat, bukan hanya menjadi instrumen pusat atau oligarki."
   },
   {
-    "instruction": "Bagaimana GBHN 1999-2004 mengatasi 'Krisis Multidimensi' yang dihadapi Indonesia saat itu melalui kerangka kebijakan terintegrasi?",
+    "instruction": "Bagaimana GBHN 1999-2004 mengatasi 'Krisis Multidimensi' yang dihadapi Indonesia saat itu melalui kerangka kebijakan terintegrasi? (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "GBHN 1999-2004 ditulis dalam konteks Indonesia menghadapi 'krisis multidimensi'—krisis yang tidak hanya ekonomi tetapi juga politik, hukum, sosial, keamanan, moral. Kondisi Umum GBHN menjelaskan bahwa krisis ini adalah inherited dari Orde Baru tetapi exacerbated oleh Krisis Finansial Asia 1997-\n- Krisis yang dihadapi: KRISIS EKONOMI: Krisis keuangan 1997-1998 menyebabkan: rupiah collapse (dari 2.400/USD menjadi 16.000/USD pada puncaknya), bank banyak gagal (30+ bank di-bailout oleh Bank Indonesia), pengangguran meningkat drastis (dari 5% jadi 15%+), kemiskinan meningkat (dari 11% menjadi 25%), sektor UMKM collapse karena akses kredit terputus, utang korporat tidak terbayar (bad credit ratio naik ke 50%+). Orde Baru memberikan warisan ekonomi yang rapuh: struktur hutang besar (external debt >$130 miliaran), sistem financial yang lemah (perbankan tidak prudent), corporate governance buruk (KKN, no transparency). KRISIS POLITIK: Jatuhnya Suharto Mei 1998 menciptakan vacuum of power dan instabilitas. Transisi politiek dari Orde Baru (otoriter, Presiden dominan) ke Reformasi (demokratik, multi-party, free elections) sangat uncertain. Pertanyaan fundamental: apakah Indonesia akan tetap NKRI atau akan fragmentasi (separatism Aceh, Papua, Riau)? Apakah transisi akan peaceful atau terjadi civil conflict? Kepercayaan pada institusi government sangat rendah. KRISIS HUKUM: Orde Baru tidak memiliki rule of law sejati—hukum adalah instrumen kekuasaan Presiden. Pasca-Reformasi, inkonsistensi hukum meningkat: undang-undang lama Orde Baru tidak compatible dengan nilai Reformasi, tapi belum ada legal framework baru yang jelas. Pelanggaran HAM masa lalu (Timor, Aceh DOM, Maluku) belum diproses secara hukum (impunity). Kepercayaan pada aparat hukum sangat rendah (polisi dipersepsikan corrupt, hakim dipersepsikan bias). KRISIS SOSIAL: Kesenjangan ekonomi melebar (karena Orde Baru korupsi dan konglomerat privilege). Pengangguran tinggi (terutama youth unemployment) menciptakan social unrest. Penyakit sosial meningkat (narkoba, crime, prostitution). Anak terlantar meningkat karena kemiskinan. Konflik horizontal (religious, ethnic) meningkat karena tension yang terakumulasi di bawah penekanan Orde Baru sekarang tersalurkan (e.g., Maluku violence 1999-2002, Sambas violence). KRISIS KEAMANAN: Separatism intensifies: Aceh GAM re-armed post-1998, Papua (newly renamed West Papua) independence rhetoric rising post-1999 (Timor independence trigger), Riau elite mulai berbicara tentang independence (karena oil resources). Military credibility damaged (karena Orde Baru role sebagai internal security force dengan human rights violation). Polisi tidak independent (masih bagian dari ABRI), tidak trustworthy untuk civil security. KRISIS MORAL: Trust dalam institusi sangat rendah. People disillusioned dengan Orde Baru promises dan achievements. Leaders credibility low (karena corruption scandals, human rights violations). Budaya civic engagement lemah (tidak ada tradition partisipasi rakyat dalam governance). KERANGKA GBHN UNTUK MENGATASI KRISIS MULTIDIMENSI: GBHN 1999-2004 tidak melihat krisis sebagai issue-issue terpisah tetapi sebagai systemic crisis yang memerlukan reformation lintas bidang. GBHN mengusulkan integrated approach: (1) REFORMASI EKONOMI (Bab IV-B)—untuk mengatasi krisis ekonomi, GBHN menetapkan: stabilisasi makro (inflasi kontrol, rupiah stable), restrukturisasi korporat (bad credit resolution, bank recapitalization), shift ke ekonomi kerakyatan (anti-monopoli, pemberdayaan UMKM). Tujuan: recovery ekonomi dan transisi ke sistem ekonomi yang lebih sustainable dan inclusive; (2) REFORMASI POLITIK (Bab IV-C)—untuk mengatasi krisis politik, GBHN menetapkan: democratic transition (sistem multi-party, elections, civil society), pemisahan kekuasaan (strong DPR, independent judiciary), national reconciliation (khususnya untuk Aceh, Irian Jaya, Maluku). Tujuan: stabilisasi politiek dan transisi yang peaceful; (3) REFORMASI HUKUM (Bab IV-A)—untuk mengatasi krisis hukum, GBHN menetapkan: new legal framework (amandemen UUD, new laws), independent judiciary (courts mandiri dari eksekutif), rule of law yang konsisten (hukum untuk semua, not rule of man). Tujuan: kepastian hukum dan justice; (4) REFORMASI INSTITUSIONAL (Bab IV-I untuk TNI/Polri, Bab IV-C-3 untuk aparatur negara, Bab IV-A untuk judiciary)—untuk mengatasi krisis kepercayaan pada institusi, GBHN menetapkan: TNI-Polri separation (hilangkan ABRI fusion yang problematis), profesionalisasi aparatur (training, clear code of conduct), anti-KKN (accountability mechanisms). Tujuan: institutions yang credible dan effective; (5) REFORMASI SOSIAL (Bab IV-F)—untuk mengatasi krisis sosial (kesenjangan, pengangguran, penyakit sosial), GBHN menetapkan: social safety net (jaminan sosial, subsidi untuk fakir miskin), pemberdayaan ekonomi (UMKM, koperasi), anti-narkoba campaign, perhatian terhadap kelompok marginal. Tujuan: mengurangi kesenjangan dan memberikan harapan kepada masyarakat; (6) REFORMASI PERTAHANAN KEAMANAN (Bab IV-I)—untuk mengatasi krisis keamanan (separatism, low trust dalam keamanan forces), GBHN menetapkan: redefinisi TNI (pertahanan eksternal, bukan internal security), Polri independence (law enforcement, bukan political tool), community security system (people defense). Tujuan: keamanan yang legitimate dan effective tanpa human rights violation. INTEGRASI LINTAS SEKTOR: Kecanggihan GBHN adalah mengakui bahwa krisis-krisis ini interconnected—tidak bisa menyelesaikan krisis ekonomi tanpa menyelesaikan krisis politiek (karena confidence pada government penting untuk recovery), tidak bisa menyelesaikan krisis politiek tanpa menyelesaikan krisis keamanan (karena separatism undermines political stability), tidak bisa menyelesaikan krisis keamanan tanpa menyelesaikan krisis ekonomi (karena poverty drives conflict). Oleh karena itu GBHN menetapkan bahwa reformasi harus simultaneous across multiple sectors, dengan koordinasi antar lembaga negara. Misalnya, untuk mengatasi Maluku conflict (yang adalah krisis sosial + keamanan): reformasi ekonomi local (development Maluku), reformasi hukum (justice untuk violence victims), reformasi sosial (inter-religious reconciliation), reformasi keamanan (Polri manage violence, bukan TNI dengan military approach). Strategi ini berbeda dari Orde Baru yang cenderung handle krisis dengan keamanan approach (military dominasi, suppress konflik, tidak address root causes). HASIL IMPLEMENTASI 1999-2004: Meskipun GBHN menetapkan comprehensive framework, implementasi 1999-2004 menghadapi banyak tantangan dan hanya partially berhasil: SUCCESS: (1) Ekonomi recover dari krisis (2000-2004 pertumbuhan 3-5%, inflation control), (2) Democratic transition completed (2004 election, first direct presidential election), (3) TNI-Polri separation formalized, (4) Institutional reforms started (judiciary independence increase, parliament empowerment, anti-corruption mechanisms). FAILURES/SETBACKS: (1) Separatism continue (Aceh violence sampai 2005, Papua tensions ongoing, Riau elite tetap resentful), (2) Maluku violence peak 2000-2002 sebelum resolve, (3) Economic recovery unequal (urban area recover faster than rural), (4) Reformasi institusional superficial di beberapa area (KKN persist, aparatur corruption still high), (5) Kesenjangan ekonomi tetap wide. Namun, overall GBHN 1999-2004 dianggap sebagai framework yang benar untuk mengatasi krisis multidimensi—problem adalah implementasi, bukan konsep. Di dekade 2000s, Indonesia gradually improve dalam semua dimensi krisis (ekonomi growth stronger, political stability increase, institutional reform deepen, separatism ultimately resolved mostly through negotiations) berdasarkan foundation yang ditetapkan GBHN 1999-2004."
+    "response": "GBHN 1999-2004 ditulis dalam konteks Indonesia menghadapi 'krisis multidimensi'—krisis yang tidak hanya ekonomi tetapi juga politik, hukum, sosial, keamanan, moral. Kondisi Umum GBHN menjelaskan bahwa krisis ini adalah inherited dari Orde Baru tetapi exacerbated oleh Krisis Finansial Asia 1997-"
+  },
+  {
+    "instruction": "Bagaimana GBHN 1999-2004 mengatasi 'Krisis Multidimensi' yang dihadapi Indonesia saat itu melalui kerangka kebijakan terintegrasi? (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Krisis yang dihadapi: KRISIS EKONOMI: Krisis keuangan 1997-1998 menyebabkan: rupiah collapse (dari 2.400/USD menjadi 16.000/USD pada puncaknya), bank banyak gagal (30+ bank di-bailout oleh Bank Indonesia), pengangguran meningkat drastis (dari 5% jadi 15%+), kemiskinan meningkat (dari 11% menjadi 25%), sektor UMKM collapse karena akses kredit terputus, utang korporat tidak terbayar (bad credit ratio naik ke 50%+). Orde Baru memberikan warisan ekonomi yang rapuh: struktur hutang besar (external debt >$130 miliaran), sistem financial yang lemah (perbankan tidak prudent), corporate governance buruk (KKN, no transparency). KRISIS POLITIK: Jatuhnya Suharto Mei 1998 menciptakan vacuum of power dan instabilitas. Transisi politiek dari Orde Baru (otoriter, Presiden dominan) ke Reformasi (demokratik, multi-party, free elections) sangat uncertain. Pertanyaan fundamental: apakah Indonesia akan tetap NKRI atau akan fragmentasi (separatism Aceh, Papua, Riau)? Apakah transisi akan peaceful atau terjadi civil conflict? Kepercayaan pada institusi government sangat rendah. KRISIS HUKUM: Orde Baru tidak memiliki rule of law sejati—hukum adalah instrumen kekuasaan Presiden. Pasca-Reformasi, inkonsistensi hukum meningkat: undang-undang lama Orde Baru tidak compatible dengan nilai Reformasi, tapi belum ada legal framework baru yang jelas. Pelanggaran HAM masa lalu (Timor, Aceh DOM, Maluku) belum diproses secara hukum (impunity). Kepercayaan pada aparat hukum sangat rendah (polisi dipersepsikan corrupt, hakim dipersepsikan bias). KRISIS SOSIAL: Kesenjangan ekonomi melebar (karena Orde Baru korupsi dan konglomerat privilege). Pengangguran tinggi (terutama youth unemployment) menciptakan social unrest. Penyakit sosial meningkat (narkoba, crime, prostitution). Anak terlantar meningkat karena kemiskinan. Konflik horizontal (religious, ethnic) meningkat karena tension yang terakumulasi di bawah penekanan Orde Baru sekarang tersalurkan (e.g., Maluku violence 1999-2002, Sambas violence). KRISIS KEAMANAN: Separatism intensifies: Aceh GAM re-armed post-1998, Papua (newly renamed West Papua) independence rhetoric rising post-1999 (Timor independence trigger), Riau elite mulai berbicara tentang independence (karena oil resources). Military credibility damaged (karena Orde Baru role sebagai internal security force dengan human rights violation). Polisi tidak independent (masih bagian dari ABRI), tidak trustworthy untuk civil security. KRISIS MORAL: Trust dalam institusi sangat rendah. People disillusioned dengan Orde Baru promises dan achievements. Leaders credibility low (karena corruption scandals, human rights violations). Budaya civic engagement lemah (tidak ada tradition partisipasi rakyat dalam governance). KERANGKA GBHN UNTUK MENGATASI KRISIS MULTIDIMENSI: GBHN 1999-2004 tidak melihat krisis sebagai issue-issue terpisah tetapi sebagai systemic crisis yang memerlukan reformation lintas bidang. GBHN mengusulkan integrated approach: (1) REFORMASI EKONOMI (Bab IV-B)—untuk mengatasi krisis ekonomi, GBHN menetapkan: stabilisasi makro (inflasi kontrol, rupiah stable), restrukturisasi korporat (bad credit resolution, bank recapitalization), shift ke ekonomi kerakyatan (anti-monopoli, pemberdayaan UMKM). Tujuan: recovery ekonomi dan transisi ke sistem ekonomi yang lebih sustainable dan inclusive; (2) REFORMASI POLITIK (Bab IV-C)—untuk mengatasi krisis politik, GBHN menetapkan: democratic transition (sistem multi-party, elections, civil society), pemisahan kekuasaan (strong DPR, independent judiciary), national reconciliation (khususnya untuk Aceh, Irian Jaya, Maluku). Tujuan: stabilisasi politiek dan transisi yang peaceful; (3) REFORMASI HUKUM (Bab IV-A)—untuk mengatasi krisis hukum, GBHN menetapkan: new legal framework (amandemen UUD, new laws), independent judiciary (courts mandiri dari eksekutif), rule of law yang konsisten (hukum untuk semua, not rule of man). Tujuan: kepastian hukum dan justice; (4) REFORMASI INSTITUSIONAL (Bab IV-I untuk TNI/Polri, Bab IV-C-3 untuk aparatur negara, Bab IV-A untuk judiciary)—untuk mengatasi krisis kepercayaan pada institusi, GBHN menetapkan: TNI-Polri separation (hilangkan ABRI fusion yang problematis), profesionalisasi aparatur (training, clear code of conduct), anti-KKN (accountability mechanisms). Tujuan: institutions yang credible dan effective; (5) REFORMASI SOSIAL (Bab IV-F)—untuk mengatasi krisis sosial (kesenjangan, pengangguran, penyakit sosial), GBHN menetapkan: social safety net (jaminan sosial, subsidi untuk fakir miskin), pemberdayaan ekonomi (UMKM, koperasi), anti-narkoba campaign, perhatian terhadap kelompok marginal. Tujuan: mengurangi kesenjangan dan memberikan harapan kepada masyarakat; (6) REFORMASI PERTAHANAN KEAMANAN (Bab IV-I)—untuk mengatasi krisis keamanan (separatism, low trust dalam keamanan forces), GBHN menetapkan: redefinisi TNI (pertahanan eksternal, bukan internal security), Polri independence (law enforcement, bukan political tool), community security system (people defense). Tujuan: keamanan yang legitimate dan effective tanpa human rights violation. INTEGRASI LINTAS SEKTOR: Kecanggihan GBHN adalah mengakui bahwa krisis-krisis ini interconnected—tidak bisa menyelesaikan krisis ekonomi tanpa menyelesaikan krisis politiek (karena confidence pada government penting untuk recovery), tidak bisa menyelesaikan krisis politiek tanpa menyelesaikan krisis keamanan (karena separatism undermines political stability), tidak bisa menyelesaikan krisis keamanan tanpa menyelesaikan krisis ekonomi (karena poverty drives conflict). Oleh karena itu GBHN menetapkan bahwa reformasi harus simultaneous across multiple sectors, dengan koordinasi antar lembaga negara. Misalnya, untuk mengatasi Maluku conflict (yang adalah krisis sosial + keamanan): reformasi ekonomi local (development Maluku), reformasi hukum (justice untuk violence victims), reformasi sosial (inter-religious reconciliation), reformasi keamanan (Polri manage violence, bukan TNI dengan military approach). Strategi ini berbeda dari Orde Baru yang cenderung handle krisis dengan keamanan approach (military dominasi, suppress konflik, tidak address root causes). HASIL IMPLEMENTASI 1999-2004: Meskipun GBHN menetapkan comprehensive framework, implementasi 1999-2004 menghadapi banyak tantangan dan hanya partially berhasil: SUCCESS: (1) Ekonomi recover dari krisis (2000-2004 pertumbuhan 3-5%, inflation control), (2) Democratic transition completed (2004 election, first direct presidential election), (3) TNI-Polri separation formalized, (4) Institutional reforms started (judiciary independence increase, parliament empowerment, anti-corruption mechanisms). FAILURES/SETBACKS: (1) Separatism continue (Aceh violence sampai 2005, Papua tensions ongoing, Riau elite tetap resentful), (2) Maluku violence peak 2000-2002 sebelum resolve, (3) Economic recovery unequal (urban area recover faster than rural), (4) Reformasi institusional superficial di beberapa area (KKN persist, aparatur corruption still high), (5) Kesenjangan ekonomi tetap wide. Namun, overall GBHN 1999-2004 dianggap sebagai framework yang benar untuk mengatasi krisis multidimensi—problem adalah implementasi, bukan konsep. Di dekade 2000s, Indonesia gradually improve dalam semua dimensi krisis (ekonomi growth stronger, political stability increase, institutional reform deepen, separatism ultimately resolved mostly through negotiations) berdasarkan foundation yang ditetapkan GBHN 1999-2004."
   },
   {
     "instruction": "Apa adalah mekanisme spesifik GBHN untuk menyelesaikan pelanggaran HAM masa lalu dan mencapai Transitional Justice?",
@@ -150,9 +510,14 @@
     "response": "GBHN 1999-2004 menghadapi dilema transitional justice yang sangat sulit: Indonesia mewarisi banyak pelanggaran HAM dari Orde Baru (Timor Timur violence 1975-1999, Aceh DOM 1989-1998, Maluku internal conflict, disappearances of activists, student massacres) tetapi pada saat yang bersamaan sedang menjalani transisi politiek yang fragile. GBHN harus menyeimbangkan justice dengan stability—too much prosecution bisa membuat military tidak accept transition, tapi tidak ada justice akan undermine legitimacy dari new regime. Mekanisme yang ditetapkan GBHN: PENGAKUAN DAN KOMITMEN TERHADAP JUSTICE: Poin 9-10 di Arah Kebijakan Hukum menetapkan: (1) Meningkatkan pemahaman dan penegakan hak asasi manusia (Poin 9)—ini adalah komitmen bahwa Indonesia akan move away dari Orde Baru culture of impunity terhadap HAM violations; (2) Menyelesaikan proses peradilan terhadap pelanggaran hukum dan HAM yang belum tuntas (Poin 10)—ini adalah spesifik commitment untuk prosecute masa lalu violations. GBHN mengakui bahwa ada cases yang belum diselesaikan (pending cases) dan pemerintah harus menyelesaikannya. MEKANISME UNTUK DAERAH KONFLIK (Aceh, Irian Jaya, Maluku): Untuk tiga daerah dengan konflik terberat, GBHN menetapkan mekanisme khusus yang menggabungkan justice, otonomi khusus, dan reconciliation: DAERAH ISTIMEWA ACEH: (1) Mempertahankan integrasi bangsa dengan menetapkan Aceh sebagai daerah otonom khusus yang diatur UU, ini adalah offer: Aceh diberi autonomy khusus (lebih luas dari otonomi normal) sebagai recognition terhadap special history dan conflict Aceh; autonomy ini diharapkan dapat address kekhawatiran Aceh tentang marginalisasi; (2) Menyelesaikan kasus Aceh secara berkeadilan, termasuk pengadilan bagi pelanggar HAM (selama dan pasca DOM), ini adalah commitment untuk justice: HAM violations yang dilakukan military (during DOM era 1989-1998) akan diadili. Ide adalah bahwa dengan justice (perpetrators face court) dan otonomi (Aceh governance terpisah dari pusat), konflik bisa diresolve. IRIAN JAYA (PAPUA): (1) Mempertahankan integrasi bangsa dengan menetapkan otonomi khusus yang diatur UU, similar approach untuk Papua; otonomi khusus diharapkan address grievances; (2) Menyelesaikan kasus pelanggaran HAM di Irian Jaya melalui pengadilan jujur—commitment untuk justice terhadap human rights violations (Operasi Terpadu, disappearances, extrajudicial killings yang sering dilakukan military). MALUKU: (1) Menugaskan pemerintah segera menyelesaikan konflik sosial secara adil dan menyeluruh serta mendorong rekonsiliasi untuk Maluku, GBHN tidak menyediakan framework yang sama (khusus autonomy + trials), melainkan emphasis pada RECONCILIATION dan CONFLICT RESOLUTION. Ini adalah recognition bahwa Maluku conflict adalah internal (Christian-Muslim, bukan separatism), jadi solusinya adalah peace-making, reconciliation antar komunitas, bukan institutional solution seperti autonomy. TANTANGAN MEKANISME TRANSITIONAL JUSTICE GBHN: Meskipun GBHN menetapkan framework, implementasi 1999-2004 menghadapi tantangan besar: (1) KOMPROMI POLITIEK—untuk membuat military terima transisi, pemerintah Reformasi tidak melakukan aggressive prosecution; cases dipilih selektif, dan sentences sering ringan (atau cases dismissed karena political pressure); hasil: perpetrators sering tidak benar-benar accountable; (2) KAPASITAS HUKUM TERBATAS—judicial system Indonesia weak; tidak ada institutional capacity untuk handle ratusan atau ribuan cases; pengadilan tidak independent (political pressure tetap ada meski kurang dari Orde Baru); (3) EVIDENCE PROBLEM—untuk cases masa lalu (15-20 tahun), evidence sering sudah hilang, witnesses intimidated atau amnesia, perpetrators deny; sulitt untuk membuktikan beyond reasonable doubt dalam international law standards; (4) VESTED INTERESTS—perpetrators sering adalah military officers yang masih active atau retired dengan political connections; mereka resist prosecution; dalam beberapa cases, military threatening institutional crisis jika cases proceed. HASIL IMPLEMENTASI: Setelah 1999-2004 dan beyond, transitional justice di Indonesia adalah mixed—di satu sisi ada progress (formation of Ad Hoc Human Rights Court untuk East Timor, Aceh, Tanjung Priok), tapi di sisi lain banyak cases tidak diselesaikan (Papua cases mostly unresolved, Aceh reconciliation incomplete), dan perpetrators sering escape justice or given amnesty. Kompromi antara justice dan stability yang dibuat GBHN—mencoba accommodate dua kebutuhan konflik—akhirnya satisfy neither: victims tidak merasa justice, dan military tidak sepenuhnya accept reconciliation karena fear of future prosecutions."
   },
   {
-    "instruction": "Bagaimana peran Pemilu 2004 dalam eksekusi GBHN 1999-2004 dan apa yang dimaksudkan dengan 'Pemilu yang lebih berkualitas'?",
+    "instruction": "Bagaimana peran Pemilu 2004 dalam eksekusi GBHN 1999-2004 dan apa yang dimaksudkan dengan 'Pemilu yang lebih berkualitas'? (Bagian 1)",
     "context": "Konteks hukum ketatanegaraan Indonesia.",
-    "response": "GBHN 1999-2004 menempatkan Pemilu 2004 sebagai checkpoint kritis untuk eksekusi reformasi dan sebagai tanda keberhasilan transisi demokratik Indonesia. Poin h dalam Arah Kebijakan Politik menetapkan: 'Menyelenggarakan Pemilu yang lebih berkualitas selambat-lambatnya tahun 2004.' Ini bukan sekedar elections biasa, tetapi adalah milestone yang signifikan dalam implementasi GBHN. KONTEKS: Pada 1999, Pemilu yang diselenggarakan adalah hasil dari Amandemen UUD dan pertama kalinya multiparty election setelah 44 tahun Orde Baru. Pemilu 1999 dianggap sebagai 'Pemilu Transisi'—(1) untuk memilih MPR/DPR yang akan menetapkan GBHN, (2) untuk memberikan legitimasi pada pemerintah Reformasi baru (Habibie pada awalnya, setelah itu Gus Dur), (3) untuk mendemonstrasikan bahwa Indonesia capable of democratic elections (international confidence building). Setelah Pemilu 1999, GBHN 1999-2004 ditetapkan oleh MPR baru. Saat GBHN disusun, pemerintah (Wahid, yang menggantikan Habibie November 1999) segera mulai implementasi GBHN. MAKNA 'PEMILU YANG LEBIH BERKUALITAS': Pemilu 2004 dimaksudkan untuk menunjukkan bahwa 5 tahun Reformasi telah menghasilkan demokratisasi yang lebih mature. 'Kualitas' Pemilu 2004 yang diharapkan: (1) FIRST DIRECT PRESIDENTIAL ELECTION—Pemilu 2004 akan menjalankan amandemen UUD yang memungkinkan pemilihan presiden langsung oleh rakyat (bukan oleh MPR seperti sebelumnya); ini adalah democratic innovation yang sangat signifikan—presiden harus mendapat legitimasi langsung dari rakyat, bukan dari perwakilan; (2) INCLUSIVE PARTICIPATION—partai politik lebih banyak dan beragam (tidak hanya PDI-P, Golkar, tapi juga PKB, PPP, Demokrat, Gerindra, PKS, dsb), candidates lebih diverse, voters lebih engaged; (3) INDEPENDENT ELECTION COMMISSION—pemilu dikelola oleh KPU (Komisi Pemilihan Umum) yang independent dari eksekutif, berbeda dari 1999 dimana masih banyak campur tangan birokrasi; (4) FREE AND FAIR—media lebih bebas untuk coverage, observers dari international dapat memonitor, hasil lebih transparent; (5) PEACEFUL TRANSITION—setelah pemilu, power dapat ditransfer secara peaceful, menunjukkan institutional maturity. SIGNIFIKANSI PEMILU 2004 DALAM EKSEKUSI GBHN: Pemilu 2004 adalah punctuation point dari 5 tahun GBHN 1999-2004 karena: (1) EVALUATION MECHANISM—sebelum Pemilu 2004, MPR akan melakukan evaluasi komprehensif terhadap eksekusi GBHN 1999-2004 oleh pemerintah Wahid (1999-2001), Megawati (2001-2004), dan sebelumnya Habibie. Evaluasi ini adalah mekanisme akuntabilitas—apakah reformasi political, ekonomi, hukum, sosial telah berjalan? Apakah separatism teratasi? Apakah ekonomi recover? Apakah HAM dilindungi? Jika evaluasi negative, DPR/MPR dapat mengambil tindakan (impeach presiden, change government direction). (2) DEMOCRATIC LEGITIMATION OF NEW LEADERSHIP—Pemilu 2004 akan memilih presiden baru yang akan menjalankan pembangunan fase berikutnya; presiden baru ini harus memiliki legitimasi kuat dari rakyat untuk melanjutkan atau merevise pembangunan; (3) RENEWAL OF GBHN—Pemilu 2004 juga akan memilih MPR baru yang akan menetapkan GBHN baru untuk 2004-2009; GBHN 2004-2009 akan didasarkan pada lessons learned dari implementasi GBHN 1999-\n- Struktur cyclical ini (GBHN untuk 5 tahun, diikuti Pemilu, MPR baru menetapkan GBHN baru) adalah mekanisme untuk renewal dan accountability dalam sistem Indonesia. IMPLEMENTASI: Pemilu 2004 actually dilaksanakan seperti yang direncanakan GBHN—dengan revolusi signifikan: (1) first direct presidential election—Soemarsono (Wiranto candidate dari Golkar) vs Megawati (incumbent PDI-P) vs Susilo Bambang Yudhoyono (relative newcomer dari Partai Demokrat); SBY won dengan 60%+ votes dalam runoff, memberikan mandate yang very strong; (2) military-free election—berbeda dari 1999 dimana military masih aktif dalam politics, 2004 election sangat civilian; (3) peaceful transition—dari Megawati ke SBY tanpa instability; (4) international recognition—pemilu 2004 diakui sebagai successful democratic election oleh international observers. HASIL: Pemilu 2004 menjadi confirmation bahwa reformasi 1999-2004 telah successful dalam democratic transition—Indonesia tidak hanya move dari Orde Baru authoritarian system, tetapi sudah establish institutions dan practices untuk democratic elections. Pemilu 2004 adalah evidence yang visible bahwa GBHN 1999-2004 (terutama Arah Kebijakan Politik) telah berhasil menggerakkan Indonesia ke democratic system. GBHN 2004-2009 (ditetapkan oleh MPR hasil Pemilu 2004) akan membangun di atas foundation ini, dengan fokus pada deepening democracy, institutional strengthening, dan economic development yang lebih balanced."
+    "response": "GBHN 1999-2004 menempatkan Pemilu 2004 sebagai checkpoint kritis untuk eksekusi reformasi dan sebagai tanda keberhasilan transisi demokratik Indonesia. Poin h dalam Arah Kebijakan Politik menetapkan: 'Menyelenggarakan Pemilu yang lebih berkualitas selambat-lambatnya tahun 2004.' Ini bukan sekedar elections biasa, tetapi adalah milestone yang signifikan dalam implementasi GBHN. KONTEKS: Pada 1999, Pemilu yang diselenggarakan adalah hasil dari Amandemen UUD dan pertama kalinya multiparty election setelah 44 tahun Orde Baru. Pemilu 1999 dianggap sebagai 'Pemilu Transisi'—(1) untuk memilih MPR/DPR yang akan menetapkan GBHN, (2) untuk memberikan legitimasi pada pemerintah Reformasi baru (Habibie pada awalnya, setelah itu Gus Dur), (3) untuk mendemonstrasikan bahwa Indonesia capable of democratic elections (international confidence building). Setelah Pemilu 1999, GBHN 1999-2004 ditetapkan oleh MPR baru. Saat GBHN disusun, pemerintah (Wahid, yang menggantikan Habibie November 1999) segera mulai implementasi GBHN. MAKNA 'PEMILU YANG LEBIH BERKUALITAS': Pemilu 2004 dimaksudkan untuk menunjukkan bahwa 5 tahun Reformasi telah menghasilkan demokratisasi yang lebih mature. 'Kualitas' Pemilu 2004 yang diharapkan: (1) FIRST DIRECT PRESIDENTIAL ELECTION—Pemilu 2004 akan menjalankan amandemen UUD yang memungkinkan pemilihan presiden langsung oleh rakyat (bukan oleh MPR seperti sebelumnya); ini adalah democratic innovation yang sangat signifikan—presiden harus mendapat legitimasi langsung dari rakyat, bukan dari perwakilan; (2) INCLUSIVE PARTICIPATION—partai politik lebih banyak dan beragam (tidak hanya PDI-P, Golkar, tapi juga PKB, PPP, Demokrat, Gerindra, PKS, dsb), candidates lebih diverse, voters lebih engaged; (3) INDEPENDENT ELECTION COMMISSION—pemilu dikelola oleh KPU (Komisi Pemilihan Umum) yang independent dari eksekutif, berbeda dari 1999 dimana masih banyak campur tangan birokrasi; (4) FREE AND FAIR—media lebih bebas untuk coverage, observers dari international dapat memonitor, hasil lebih transparent; (5) PEACEFUL TRANSITION—setelah pemilu, power dapat ditransfer secara peaceful, menunjukkan institutional maturity. SIGNIFIKANSI PEMILU 2004 DALAM EKSEKUSI GBHN: Pemilu 2004 adalah punctuation point dari 5 tahun GBHN 1999-2004 karena: (1) EVALUATION MECHANISM—sebelum Pemilu 2004, MPR akan melakukan evaluasi komprehensif terhadap eksekusi GBHN 1999-2004 oleh pemerintah Wahid (1999-2001), Megawati (2001-2004), dan sebelumnya Habibie. Evaluasi ini adalah mekanisme akuntabilitas—apakah reformasi political, ekonomi, hukum, sosial telah berjalan? Apakah separatism teratasi? Apakah ekonomi recover? Apakah HAM dilindungi? Jika evaluasi negative, DPR/MPR dapat mengambil tindakan (impeach presiden, change government direction). (2) DEMOCRATIC LEGITIMATION OF NEW LEADERSHIP—Pemilu 2004 akan memilih presiden baru yang akan menjalankan pembangunan fase berikutnya; presiden baru ini harus memiliki legitimasi kuat dari rakyat untuk melanjutkan atau merevise pembangunan; (3) RENEWAL OF GBHN—Pemilu 2004 juga akan memilih MPR baru yang akan menetapkan GBHN baru untuk 2004-2009; GBHN 2004-2009 akan didasarkan pada lessons learned dari implementasi GBHN 1999-"
+  },
+  {
+    "instruction": "Bagaimana peran Pemilu 2004 dalam eksekusi GBHN 1999-2004 dan apa yang dimaksudkan dengan 'Pemilu yang lebih berkualitas'? (Bagian 2)",
+    "context": "Konteks hukum ketatanegaraan Indonesia.",
+    "response": "Struktur cyclical ini (GBHN untuk 5 tahun, diikuti Pemilu, MPR baru menetapkan GBHN baru) adalah mekanisme untuk renewal dan accountability dalam sistem Indonesia. IMPLEMENTASI: Pemilu 2004 actually dilaksanakan seperti yang direncanakan GBHN—dengan revolusi signifikan: (1) first direct presidential election—Soemarsono (Wiranto candidate dari Golkar) vs Megawati (incumbent PDI-P) vs Susilo Bambang Yudhoyono (relative newcomer dari Partai Demokrat); SBY won dengan 60%+ votes dalam runoff, memberikan mandate yang very strong; (2) military-free election—berbeda dari 1999 dimana military masih aktif dalam politics, 2004 election sangat civilian; (3) peaceful transition—dari Megawati ke SBY tanpa instability; (4) international recognition—pemilu 2004 diakui sebagai successful democratic election oleh international observers. HASIL: Pemilu 2004 menjadi confirmation bahwa reformasi 1999-2004 telah successful dalam democratic transition—Indonesia tidak hanya move dari Orde Baru authoritarian system, tetapi sudah establish institutions dan practices untuk democratic elections. Pemilu 2004 adalah evidence yang visible bahwa GBHN 1999-2004 (terutama Arah Kebijakan Politik) telah berhasil menggerakkan Indonesia ke democratic system. GBHN 2004-2009 (ditetapkan oleh MPR hasil Pemilu 2004) akan membangun di atas foundation ini, dengan fokus pada deepening democracy, institutional strengthening, dan economic development yang lebih balanced."
   },
   {
     "instruction": "Bagaimana GBHN 1999-2004 mengintegrasikan prinsip 'Otonomi Daerah' dengan 'Persatuan NKRI' dan bagaimana mekanisme praktis untuk menyeimbangkan desentralisasi dengan integrasi nasional?",
