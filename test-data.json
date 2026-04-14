@@ -1286,131 +1286,131 @@
   {
     "instruction": "Apa yang dimaksud dengan a fortiori?", 
     "context": "Retorika logika deduktif 'a fortiori' (dari bahasa Latin).", 
-    "response": "Prep. Argumen hukum yang berarti 'apalagi' atau 'dengan alasan yang lebih kuat'. Ini adalah asas logika di mana jika sebuah klaim yang lebih berat saja terbukti benar, maka klaim yang lebih ringan atau bergantung padanya sudah pasti dan otomatis benar."},
+    "response": "Argumen hukum yang berarti 'apalagi' atau 'dengan alasan yang lebih kuat'. Ini adalah asas logika di mana jika sebuah klaim yang lebih berat saja terbukti benar, maka klaim yang lebih ringan atau bergantung padanya sudah pasti dan otomatis benar."},
   {
     "instruction": "Apa definisi dari a priori assumption?", 
     "context": "Asumsi deduktif 'a priori' dalam filsafat dan argumen hukum.", 
-    "response": "N. Konklusi awal yang ditarik atau dipercayai kebenarannya berdasarkan akal semata, bahkan sebelum ada data empiris atau pembuktian nyata di lapangan. Jika diandalkan tanpa penyelidikan lebih lanjut, hal ini bisa berubah menjadi bentuk kelemahan berpikir."},
+    "response": "Konklusi awal yang ditarik atau dipercayai kebenarannya berdasarkan akal semata, bahkan sebelum ada data empiris atau pembuktian nyata di lapangan. Jika diandalkan tanpa penyelidikan lebih lanjut, hal ini bisa berubah menjadi bentuk kelemahan berpikir."},
   {
     "instruction": "Apa kepanjangan dan arti dari a.k.a.?", 
     "context": "Singkatan untuk alias atau nama samaran di dokumen pidana/perdata.", 
-    "response": "Prep. Akronim bahasa Inggris untuk 'also known as' yang lazim digunakan dalam berkas kepolisian atau pengadilan untuk menyebutkan nama panggilan lain, inisial samaran, atau nama gadis dari seorang tersangka atau pihak."},
+    "response": "Akronim bahasa Inggris untuk 'also known as' yang lazim digunakan dalam berkas kepolisian atau pengadilan untuk menyebutkan nama panggilan lain, inisial samaran, atau nama gadis dari seorang tersangka atau pihak."},
   {
     "instruction": "Apa arti istilah hukum ab initio?", 
     "context": "Frasa Latin 'ab initio' mengenai pembatalan kontrak atau keabsahan.", 
-    "response": "Prep. Jargon klasik dari bahasa Latin yang bermakna 'sejak dari awal mula'. Sering dipakai oleh praktisi hukum untuk menyatakan bahwa suatu perjanjian cacat atau sudah batal 'ab initio' (dari saat pertama kali diteken)."},
+    "response": "Jargon klasik dari bahasa Latin yang bermakna 'sejak dari awal mula'. Sering dipakai oleh praktisi hukum untuk menyatakan bahwa suatu perjanjian cacat atau sudah batal 'ab initio' (dari saat pertama kali diteken)."},
   {
     "instruction": "Jelaskan konsep 'Meninggalkan' (Abandon) dalam hukum.", 
     "context": "Konsep penelantaran hak (abandon) dalam hukum properti dan keluarga.", 
-    "response": "V. Aksi melepas, membuang, atau meninggalkan secara permanen seluruh klaim kepentingan atas suatu kepemilikan benda, hak jalan, sewa apartemen, atau bahkan melarikan diri dari kewajiban terhadap keluarga dan pasangan tanpa niat kembali."},
+    "response": "Aksi melepas, membuang, atau meninggalkan secara permanen seluruh klaim kepentingan atas suatu kepemilikan benda, hak jalan, sewa apartemen, atau bahkan melarikan diri dari kewajiban terhadap keluarga dan pasangan tanpa niat kembali."},
   {
     "instruction": "Apa itu Properti yang Ditinggalkan (Abandoned Property)?", 
     "context": "Benda atau aset 'abandoned property' yang lenyap klaim kepemilikannya.", 
-    "response": "N. Segala jenis benda, dari barang kecil di apartemen sewaan hingga mobil di jalan, yang secara nyata telah diabaikan secara permanen oleh pemilik aslinya dengan indikasi kuat bahwa mereka tidak berniat lagi untuk mengambil hak atasnya."},
+    "response": "Segala jenis benda, dari barang kecil di apartemen sewaan hingga mobil di jalan, yang secara nyata telah diabaikan secara permanen oleh pemilik aslinya dengan indikasi kuat bahwa mereka tidak berniat lagi untuk mengambil hak atasnya."},
   {
     "instruction": "Apa definisi Penelantaran (Abandonment)?", 
     "context": "Tindak hukum pembiaran (abandonment) hak kebendaan atau relasi keluarga.", 
-    "response": "N. Pemutusan secara sepihak dan permanen atas sebuah kepemilikan properti, kontrak, atau tanggung jawab relasional. Dalam ranah keluarga, 'abandonment' merujuk pada penelantaran pasangan tanpa niat kembali, atau meninggalkan anak tanpa dukungan nafkah."},
+    "response": "Pemutusan secara sepihak dan permanen atas sebuah kepemilikan properti, kontrak, atau tanggung jawab relasional. Dalam ranah keluarga, 'abandonment' merujuk pada penelantaran pasangan tanpa niat kembali, atau meninggalkan anak tanpa dukungan nafkah."},
   {
     "instruction": "Apa arti 'Abate' (Meredakan/Menghilangkan) dalam hukum?", 
     "context": "Tindakan mitigasi atau eliminasi (abate) gangguan sipil.", 
-    "response": "V. Langkah untuk menetralisir, membasmi, atau menghapus sebuah sumber masalah yang melanggar aturan publik atau mengganggu hak pribadi orang lain, seperti merobohkan bangunan ilegal atau menghentikan polusi suara dari pabrik."},
+    "response": "Langkah untuk menetralisir, membasmi, atau menghapus sebuah sumber masalah yang melanggar aturan publik atau mengganggu hak pribadi orang lain, seperti merobohkan bangunan ilegal atau menghentikan polusi suara dari pabrik."},
   {
     "instruction": "Apa yang dimaksud dengan Pengurangan (Abatement)?", 
     "context": "Dua makna 'abatement' dalam hukum gangguan (nuisance) dan hukum utang.", 
-    "response": "N. Istilah ini memiliki dua arti: (1) Pemberantasan masalah atau gangguan yang membahayakan publik, seperti membersihkan lahan dari rumput pemicu kebakaran. (2) Skema pemotongan sisa pelunasan piutang secara proporsional kepada para kreditur ketika harta pailit debitur tidak mencukupi untuk membayar lunas utangnya."},
+    "response": "Istilah ini memiliki dua arti: (1) Pemberantasan masalah atau gangguan yang membahayakan publik, seperti membersihkan lahan dari rumput pemicu kebakaran. (2) Skema pemotongan sisa pelunasan piutang secara proporsional kepada para kreditur ketika harta pailit debitur tidak mencukupi untuk membayar lunas utangnya."},
   {
     "instruction": "Jelaskan tindak pidana Penculikan (Abduction).", 
     "context": "Definisi 'abduction' atau penculikan dalam sistem peradilan pidana.", 
-    "response": "N. Aksi kriminal di mana pelaku mengambil, merampas, atau membawa lari seseorang (khususnya perempuan atau anak-anak) secara melawan hukum, baik itu dilakukan dengan paksaan fisik, manipulasi kebohongan, maupun bujukan tipu daya."},
+    "response": "Aksi kriminal di mana pelaku mengambil, merampas, atau membawa lari seseorang (khususnya perempuan atau anak-anak) secara melawan hukum, baik itu dilakukan dengan paksaan fisik, manipulasi kebohongan, maupun bujukan tipu daya."},
   {
     "instruction": "Apa arti 'Abet' (Bersekongkol/Membantu)?", 
     "context": "Peran serta membantu (abet) dalam kelancaran aksi tindak pidana.", 
-    "response": "V. Membantu, memfasilitasi, atau memberi dorongan kepada pelaku utama dalam menyukseskan suatu tindak kejahatan, baik itu turut serta menyediakan pelarian maupun menyuplai alat kriminal."},
+    "response": "Membantu, memfasilitasi, atau memberi dorongan kepada pelaku utama dalam menyukseskan suatu tindak kejahatan, baik itu turut serta menyediakan pelarian maupun menyuplai alat kriminal."},
   {
     "instruction": "Apa itu Penundaan Kepemilikan (Abeyance)?", 
     "context": "Status menggantungnya hak milik (abeyance) dalam warisan.", 
-    "response": "N. Sebuah jeda atau kekosongan sementara atas status kepemilikan suatu properti (khususnya real estat), biasanya terjadi pada harta warisan saat pengadilan masih mencari siapa pihak yang paling sah untuk menjadi pewarisnya."},
+    "response": "Sebuah jeda atau kekosongan sementara atas status kepemilikan suatu properti (khususnya real estat), biasanya terjadi pada harta warisan saat pengadilan masih mencari siapa pihak yang paling sah untuk menjadi pewarisnya."},
   {
     "instruction": "Apa definisi Sehat Jasmani (Able-bodied)?", 
     "context": "Status kecakapan fisik (able-bodied) terkait kewajiban bayar nafkah/tunjangan.", 
-    "response": "Adj. Kondisi di mana seseorang memiliki fungsi tubuh yang sehat dan kapabel untuk melakukan suatu pekerjaan. Dalam pengadilan keluarga, istilah ini digunakan untuk menuntut seorang suami/istri yang secara fisik 'mampu bekerja' agar tetap wajib membayar tunjangan anak."},
+    "response": "Kondisi di mana seseorang memiliki fungsi tubuh yang sehat dan kapabel untuk melakukan suatu pekerjaan. Dalam pengadilan keluarga, istilah ini digunakan untuk menuntut seorang suami/istri yang secara fisik 'mampu bekerja' agar tetap wajib membayar tunjangan anak."},
   {
     "instruction": "Jelaskan definisi Aborsi dalam konteks hukum.", 
     "context": "Aborsi (abortion) dari perspektif yurisprudensi pidana dan medis.", 
-    "response": "N. Pengakhiran paksa atas usia kehamilan—dengan jalan bedah atau kimia—sebelum embrio/janin bisa hidup di luar rahim. Status legalnya sering menjadi perdebatan, di mana di beberapa yurisdiksi di masa lampau tindakan ini dikriminalisasi kecuali untuk tujuan penyelamatan nyawa ibu."},
+    "response": "Pengakhiran paksa atas usia kehamilan—dengan jalan bedah atau kimia—sebelum embrio/janin bisa hidup di luar rahim. Status legalnya sering menjadi perdebatan, di mana di beberapa yurisdiksi di masa lampau tindakan ini dikriminalisasi kecuali untuk tujuan penyelamatan nyawa ibu."},
   {
     "instruction": "Apa arti Mencabut (Abrogate) dalam hukum?", 
     "context": "Pembatalan formal (abrogate) terhadap undang-undang atau kontrak.", 
-    "response": "V. Langkah pembatalan, penganuliran, atau pencabutan secara resmi atas eksistensi sebuah perundang-undangan lama dengan menerbitkan aturan yang lebih baru, atau tindakan menarik kembali ketentuan kesepakatan dalam sebuah kontrak."},
+    "response": "Langkah pembatalan, penganuliran, atau pencabutan secara resmi atas eksistensi sebuah perundang-undangan lama dengan menerbitkan aturan yang lebih baru, atau tindakan menarik kembali ketentuan kesepakatan dalam sebuah kontrak."},
   {
     "instruction": "Apa itu Melarikan Diri (Abscond)?", 
     "context": "Aksi menghilang atau buron (abscond) dari kewajiban hukum atau peradilan.", 
-    "response": "V. (1) Tindakan kabur atau menyembunyikan diri dari radar yurisdiksi pihak berwenang guna mengelak dari surat perintah pengadilan, pemanggilan, atau penangkapan. (2) Melarikan diri dengan membawa aset berharga atau uang hasil curian/penggelapan."},
+    "response": "(1) Tindakan kabur atau menyembunyikan diri dari radar yurisdiksi pihak berwenang guna mengelak dari surat perintah pengadilan, pemanggilan, atau penangkapan. (2) Melarikan diri dengan membawa aset berharga atau uang hasil curian/penggelapan."},
   {
     "instruction": "Apa arti Mutlak (Absolute) dalam istilah hukum?", 
     "context": "Makna 'absolute' dalam hal klaim atau putusan hukum tak bersyarat.", 
-    "response": "Adj. Sebuah status yang bersifat sempurna, tuntas, utuh, tanpa celah pembatasan, dan tidak terikat oleh syarat apa pun."},
+    "response": "Sebuah status yang bersifat sempurna, tuntas, utuh, tanpa celah pembatasan, dan tidak terikat oleh syarat apa pun."},
   {
     "instruction": "Apa itu Doktrin Abstain (Abstention Doctrine)?", 
     "context": "Prinsip penolakan intervensi (abstention doctrine) pengadilan federal.", 
-    "response": "N. Sebuah prinsip kebijaksanaan yudisial di mana Mahkamah Agung federal (di AS) secara sengaja menolak untuk memutus atau mengintervensi suatu pertanyaan hukum yang seharusnya merupakan kewenangan yurisdiksi pengadilan di tingkat negara bagian."},
+    "response": "Sebuah prinsip kebijaksanaan yudisial di mana Mahkamah Agung federal (di AS) secara sengaja menolak untuk memutus atau mengintervensi suatu pertanyaan hukum yang seharusnya merupakan kewenangan yurisdiksi pengadilan di tingkat negara bagian."},
   {
     "instruction": "Apa arti Abstrak (Abstract) dalam dokumen?", 
     "context": "Bentuk ringkasan resmi (abstract) dari putusan atau pencatatan aset.", 
-    "response": "N. Laporan versi pendek, intisari, atau ringkasan resmi dari sebuah naskah atau catatan dokumen hukum yang panjang, seperti ringkasan riwayat akta tanah atau resume putusan hakim."},
+    "response": "Laporan versi pendek, intisari, atau ringkasan resmi dari sebuah naskah atau catatan dokumen hukum yang panjang, seperti ringkasan riwayat akta tanah atau resume putusan hakim."},
   {
     "instruction": "Jelaskan apa itu Ringkasan Putusan (Abstract of Judgment).", 
     "context": "Dokumen ringkasan kewajiban utang peradilan (Abstract of Judgment).", 
-    "response": "N. Formulir atau dokumen resmi dari panitera yang memuat intisari hukuman finansial dari sebuah vonis pengadilan, merinci nominal utang pokok pihak yang kalah kepada penggugat pemenang, beserta akumulasi bunga dan denda biaya persidangan."},
+    "response": "Formulir atau dokumen resmi dari panitera yang memuat intisari hukuman finansial dari sebuah vonis pengadilan, merinci nominal utang pokok pihak yang kalah kepada penggugat pemenang, beserta akumulasi bunga dan denda biaya persidangan."},
   {
     "instruction": "Apa itu Ringkasan Hak Milik (Abstract of Title)?", 
     "context": "Penelusuran historis dokumen tanah (Abstract of Title).", 
-    "response": "N. Laporan tertulis hasil penelusuran secara mendalam mengenai riwayat rantai kepemilikan sebidang tanah, yang juga membongkar apakah properti tersebut sedang diikat oleh beban hukum lain, seperti sengketa, utang hipotek, atau pajak yang menunggak."},
+    "response": "Laporan tertulis hasil penelusuran secara mendalam mengenai riwayat rantai kepemilikan sebidang tanah, yang juga membongkar apakah properti tersebut sedang diikat oleh beban hukum lain, seperti sengketa, utang hipotek, atau pajak yang menunggak."},
   {
     "instruction": "Apa definisi Penyalahgunaan Wewenang (Abuse of Discretion)?", 
     "context": "Kesalahan prosedural fatal oleh hakim (Abuse of Discretion) di pengadilan.", 
-    "response": "N. Argumen dari pengacara saat mengajukan banding bahwa hakim pengadilan tingkat pertama telah bertindak sangat tidak logis, cacat prosedural, atau mengabaikan fakta secara terang-terangan saat memutus perkara, sehingga kliennya gagal mendapatkan peradilan yang adil."},
+    "response": "Argumen dari pengacara saat mengajukan banding bahwa hakim pengadilan tingkat pertama telah bertindak sangat tidak logis, cacat prosedural, atau mengabaikan fakta secara terang-terangan saat memutus perkara, sehingga kliennya gagal mendapatkan peradilan yang adil."},
   {
     "instruction": "Apa itu Penyalahgunaan Proses Hukum (Abuse of Process)?", 
     "context": "Tindakan manipulatif (Abuse of Process) dalam prosedur litigasi hukum.", 
-    "response": "N. Eksploitasi, penyimpangan, atau penggunaan prosedur pengadilan yang ditujukan untuk intimidasi jahat atau melanggar hukum, alih-alih untuk mencari keadilan. Contohnya adalah sengaja mengirimkan draf somasi palsu untuk menakuti lawan."},
+    "response": "Eksploitasi, penyimpangan, atau penggunaan prosedur pengadilan yang ditujukan untuk intimidasi jahat atau melanggar hukum, alih-alih untuk mencari keadilan. Contohnya adalah sengaja mengirimkan draf somasi palsu untuk menakuti lawan."},
   {
     "instruction": "Apa arti Berbatasan (Abut)?", 
     "context": "Istilah hukum pertanahan untuk properti yang bersinggungan (Abut).", 
-    "response": "V. Deskripsi geografis ketika dua bidang batas tanah atau properti nyata letaknya tepat berdampingan dan garis batasnya saling bersentuhan secara fisik."},
+    "response": "Deskripsi geografis ketika dua bidang batas tanah atau properti nyata letaknya tepat berdampingan dan garis batasnya saling bersentuhan secara fisik."},
   {
     "instruction": "Jelaskan arti Percepatan (Acceleration) dalam hukum.", 
     "context": "Percepatan hak milik atau tagihan (Acceleration) dalam hukum kontrak.", 
-    "response": "N. Konsep yang memiliki dua dimensi: (1) Jatuh temponya hak kepemilikan atas sebuah warisan lebih cepat dari perkiraan. (2) Keputusan mengeksekusi sisa tagihan secara penuh dan mendadak, karena debitur kontrak melanggar satu kewajiban (seperti gagal bayar cicilan pertama)."},
+    "response": "Konsep yang memiliki dua dimensi: (1) Jatuh temponya hak kepemilikan atas sebuah warisan lebih cepat dari perkiraan. (2) Keputusan mengeksekusi sisa tagihan secara penuh dan mendadak, karena debitur kontrak melanggar satu kewajiban (seperti gagal bayar cicilan pertama)."},
   {
     "instruction": "Apa itu Klausul Percepatan (Acceleration Clause)?", 
     "context": "Klausul denda pelunasan otomatis (Acceleration Clause) dalam surat utang.", 
-    "response": "N. Sebuah paragraf ancaman dalam surat kontrak cicilan yang menyebutkan bahwa jika debitur gagal membayar satu kali angsuran saja (wanprestasi), maka seluruh total sisa utang yang tersisa seketika akan dianggap jatuh tempo dan harus dilunasi secara penuh pada hari itu juga."},
+    "response": "Sebuah paragraf ancaman dalam surat kontrak cicilan yang menyebutkan bahwa jika debitur gagal membayar satu kali angsuran saja (wanprestasi), maka seluruh total sisa utang yang tersisa seketika akan dianggap jatuh tempo dan harus dilunasi secara penuh pada hari itu juga."},
   {
     "instruction": "Apa arti Menerima (Accept) secara hukum?", 
     "context": "Tindakan persetujuan (Accept) dalam transaksi atau penerimaan dokumen.", 
-    "response": "V. Sikap menyetujui, menahan, atau mengambil alih sebuah objek, kompensasi, atau sebuah tawaran dengan itikad untuk menerimanya. Istilah ini krusial saat memutuskan apakah seseorang telah setuju menerima dokumen gugatan pengadilan atau setuju menerima penyelesaian pembayaran utang yang terlambat."},
+    "response": "Sikap menyetujui, menahan, atau mengambil alih sebuah objek, kompensasi, atau sebuah tawaran dengan itikad untuk menerimanya. Istilah ini krusial saat memutuskan apakah seseorang telah setuju menerima dokumen gugatan pengadilan atau setuju menerima penyelesaian pembayaran utang yang terlambat."},
   {
     "instruction": "Jelaskan definisi Penerimaan (Acceptance).", 
     "context": "Elemen penting penerimaan penawaran (Acceptance) agar kontrak sah.", 
-    "response": "N. Sebuah elemen fundamental pembentuk kontrak yang berarti tindakan afirmatif dan persetujuan (kabul) dari satu pihak secara lisan atau tertulis untuk mengikatkan diri terhadap tawaran (ijab) pihak lain, sekaligus mencerminkan niat untuk memegang komitmen tersebut."},
+    "response": "Sebuah elemen fundamental pembentuk kontrak yang berarti tindakan afirmatif dan persetujuan (kabul) dari satu pihak secara lisan atau tertulis untuk mengikatkan diri terhadap tawaran (ijab) pihak lain, sekaligus mencerminkan niat untuk memegang komitmen tersebut."},
   {
     "instruction": "Apa itu Penerimaan Layanan (Acceptance of Service)?", 
     "context": "Penyerahan mandiri atas surat panggilan sidang (Acceptance of service).", 
-    "response": "N. Pernyataan tertulis yang ditandatangani oleh tergugat atau pengacaranya yang menyetujui dan menerima salinan dokumen gugatan (seperti berkas cerai), tanpa mengharuskan pengadilan mengirimkan petugas (juru sita) untuk mendatangi dan mencari terdakwa secara fisik."},
+    "response": "Pernyataan tertulis yang ditandatangani oleh tergugat atau pengacaranya yang menyetujui dan menerima salinan dokumen gugatan (seperti berkas cerai), tanpa mengharuskan pengadilan mengirimkan petugas (juru sita) untuk mendatangi dan mencari terdakwa secara fisik."},
   {
     "instruction": "Apa arti Akses (Access) dalam hukum properti dan keluarga?", 
     "context": "Definisi 'Access' terkait hak masuk properti atau peluang relasi intim.", 
-    "response": "N. Di bidang perumahan, ini adalah hak hukum untuk mendapatkan jalan masuk menuju ke lahan properti (easement). Di ranah hukum pernikahan, akses merujuk pada adanya kesempatan seorang suami untuk berhubungan badan dengan istri pada suatu periode waktu (yang sangat krusial di mata hakim bila terjadi sengketa keabsahan ayah kandung dari anak yang dilahirkan)."},
+    "response": "Di bidang perumahan, ini adalah hak hukum untuk mendapatkan jalan masuk menuju ke lahan properti (easement). Di ranah hukum pernikahan, akses merujuk pada adanya kesempatan seorang suami untuk berhubungan badan dengan istri pada suatu periode waktu (yang sangat krusial di mata hakim bila terjadi sengketa keabsahan ayah kandung dari anak yang dilahirkan)."},
   {
     "instruction": "Apa itu Pembantu Kejahatan (Accessory)?", 
     "context": "Kaki tangan yang tidak berada di lokasi kejahatan (Accessory).", 
-    "response": "N. Seorang pemain di balik layar yang keterlibatannya adalah membantu memfasilitasi terjadinya kejahatan (seperti merancang strategi perampokan, menyediakan pistol, menyiapkan pelarian, atau menyembunyikan pelaku), namun lazimnya ia tidak berada di lokasi pada detik eksekusi tindak pidana itu terjadi."},
+    "response": "Seorang pemain di balik layar yang keterlibatannya adalah membantu memfasilitasi terjadinya kejahatan (seperti merancang strategi perampokan, menyediakan pistol, menyiapkan pelarian, atau menyembunyikan pelaku), namun lazimnya ia tidak berada di lokasi pada detik eksekusi tindak pidana itu terjadi."},
   {
     "instruction": "Jelaskan istilah Akomodasi (Accommodation) dalam transaksi.", 
     "context": "Penandatanganan penjaminan utang tanpa komisi (Accommodation).", 
-    "response": "N. Tindakan seseorang yang membantu temannya dengan membubuhkan tanda tangannya sebagai pihak penjamin tambahan (avalist) pada sebuah surat utang, tanpa meminta kompensasi apa pun. Posisi ini berisiko fatal, karena jika sang peminjam kabur, kreditur berhak menuntut penjamin tersebut sepenuhnya."},
+    "response": "Tindakan seseorang yang membantu temannya dengan membubuhkan tanda tangannya sebagai pihak penjamin tambahan (avalist) pada sebuah surat utang, tanpa meminta kompensasi apa pun. Posisi ini berisiko fatal, karena jika sang peminjam kabur, kreditur berhak menuntut penjamin tersebut sepenuhnya."},
   {
     "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 1?",
     "context": "Landasan filosofis Konstitusi Indonesia mengenai penolakan terhadap kolonialisme global.",
@@ -1788,65 +1788,65 @@
   {
     "instruction": "Apa arti dari dalil hukum 'a fortiori'?",
     "context": "Pola argumentasi perbandingan logika dari hukum Romawi.",
-    "response": "Prep. Jargon Latin yang bermakna 'dengan alasan yang lebih kuat'. Digunakan dalam argumen silogisme: bila sebuah premis yang lebih sulit/berat saja terbukti benar, maka premis yang lebih ringan sudah dipastikan valid (misal: jika ia mampu mengangkat 50kg, a fortiori ia mampu mengangkat 10kg)."},
+    "response": "Jargon Latin yang bermakna 'dengan alasan yang lebih kuat'. Digunakan dalam argumen silogisme: bila sebuah premis yang lebih sulit/berat saja terbukti benar, maka premis yang lebih ringan sudah dipastikan valid (misal: jika ia mampu mengangkat 50kg, a fortiori ia mampu mengangkat 10kg)."},
       {
     "instruction": "Apa definisi dari 'a priori assumption'?", 
     "context": "Tingkat asumsi rasional sebelum adanya konfirmasi empiris.", 
-    "response": "N. Konsep dari bahasa Latin untuk sebuah dalil atau asumsi awal yang diterima akal sebagai suatu kebenaran tanpa perlu pembuktian eksperimental (contoh: bola itu bundar). Dalam ranah hukum, mengandalkan asumsi a priori tanpa analisis fakta sering dianggap sebagai kecacatan nalar."},
+    "response": "Konsep dari bahasa Latin untuk sebuah dalil atau asumsi awal yang diterima akal sebagai suatu kebenaran tanpa perlu pembuktian eksperimental (contoh: bola itu bundar). Dalam ranah hukum, mengandalkan asumsi a priori tanpa analisis fakta sering dianggap sebagai kecacatan nalar."},
   {
     "instruction": "Apa kepanjangan dan arti dari 'a.k.a.'?", 
     "context": "Akronim populer untuk penggunaan nama samaran atau identitas alternatif.", 
-    "response": "Prep. Merupakan singkatan dari 'also known as' (dikenal juga sebagai). Label ini lazim digunakan pada berkas hukum atau laporan investigasi untuk mengidentifikasi seseorang yang memiliki nama alias, nama panggung, atau inisial ganda."},
+    "response": "Merupakan singkatan dari 'also known as' (dikenal juga sebagai). Label ini lazim digunakan pada berkas hukum atau laporan investigasi untuk mengidentifikasi seseorang yang memiliki nama alias, nama panggung, atau inisial ganda."},
   {
     "instruction": "Apa arti istilah hukum 'ab initio'?", 
     "context": "Kosakata Latin untuk mendeskripsikan status kebatalan dokumen sejak diterbitkan.", 
-    "response": "Prep. Frasa Latin yang diterjemahkan sebagai 'dari sejak awal mula'. Biasanya digunakan oleh praktisi hukum untuk mendeklarasikan bahwa sebuah perjanjian atau undang-undang telah cacat atau batal sedari pertama kali disahkan."},
+    "response": "Frasa Latin yang diterjemahkan sebagai 'dari sejak awal mula'. Biasanya digunakan oleh praktisi hukum untuk mendeklarasikan bahwa sebuah perjanjian atau undang-undang telah cacat atau batal sedari pertama kali disahkan."},
   {
     "instruction": "Jelaskan konsep 'Meninggalkan' (Abandon) dalam hukum.", 
     "context": "Tindakan pelepasan hak atas properti atau keluarga secara sadar.", 
-    "response": "V. Aksi memutus segala ikatan tanggung jawab, penguasaan, maupun hak milik secara permanen dan disengaja. Contoh penerapannya mencakup melepaskan kepemilikan apartemen, menelantarkan hak asuh, atau melarikan diri dari kewajiban keluarga."},
+    "response": "Aksi memutus segala ikatan tanggung jawab, penguasaan, maupun hak milik secara permanen dan disengaja. Contoh penerapannya mencakup melepaskan kepemilikan apartemen, menelantarkan hak asuh, atau melarikan diri dari kewajiban keluarga."},
   {
     "instruction": "Apa itu Properti yang Ditinggalkan (Abandoned Property)?", 
     "context": "Status barang atau aset yang pemiliknya menghilang tanpa jejak niat untuk kembali.", 
-    "response": "N. Segala wujud aset fisik (seperti kendaraan yang dibiarkan mangkrak di jalan atau perabotan yang ditinggal penyewa) yang secara nyata telah dilepaskan penguasaannya oleh pemilik asal, dengan indikasi bahwa mereka tak akan pernah kembali untuk mengklaimnya."},
+    "response": "Segala wujud aset fisik (seperti kendaraan yang dibiarkan mangkrak di jalan atau perabotan yang ditinggal penyewa) yang secara nyata telah dilepaskan penguasaannya oleh pemilik asal, dengan indikasi bahwa mereka tak akan pernah kembali untuk mengklaimnya."},
   {
     "instruction": "Apa definisi Penelantaran (Abandonment)?", 
     "context": "Pelepasan hak atau kewajiban secara total dalam lingkup perdata maupun keluarga.", 
-    "response": "N. Tindakan melepaskan, menyerahkan, atau memutus hak kepemilikan dan kewajiban secara absolut. Dalam ranah keluarga, ini bermakna meninggalkan pasangan tanpa intensi kembali, atau membiarkan anak tanpa memberikan nafkah dan komunikasi."},
+    "response": "Tindakan melepaskan, menyerahkan, atau memutus hak kepemilikan dan kewajiban secara absolut. Dalam ranah keluarga, ini bermakna meninggalkan pasangan tanpa intensi kembali, atau membiarkan anak tanpa memberikan nafkah dan komunikasi."},
   {
     "instruction": "Apa arti 'Abate' (Meredakan/Menghilangkan) dalam hukum?", 
     "context": "Aksi penyelesaian masalah gangguan publik atau pembongkaran pelanggaran.", 
-    "response": "V. Mengambil tindakan fisik maupun hukum untuk menghapus atau melenyapkan sebuah gangguan (nuisance). Hal ini mencakup menertibkan bangunan yang menabrak tata kota, mematikan polusi suara, atau membongkar sumur ilegal yang membahayakan lingkungan."},
+    "response": "Mengambil tindakan fisik maupun hukum untuk menghapus atau melenyapkan sebuah gangguan (nuisance). Hal ini mencakup menertibkan bangunan yang menabrak tata kota, mematikan polusi suara, atau membongkar sumur ilegal yang membahayakan lingkungan."},
   {
     "instruction": "Apa yang dimaksud dengan Pengurangan (Abatement)?", 
     "context": "Pengurangan proporsional atas utang pailit atau penghapusan gangguan.", 
-    "response": "N. Memiliki dwimakna: 1) Tindakan membersihkan/menghapus kondisi yang merugikan publik (misal menertibkan ilalang pemicu kebakaran); 2) Skema pemotongan sisa utang yang dilakukan secara proporsional kepada semua kreditur manakala aset debitur tidak lagi cukup untuk melunasi tagihan penuh."},
+    "response": "Memiliki dwimakna: 1) Tindakan membersihkan/menghapus kondisi yang merugikan publik (misal menertibkan ilalang pemicu kebakaran); 2) Skema pemotongan sisa utang yang dilakukan secara proporsional kepada semua kreditur manakala aset debitur tidak lagi cukup untuk melunasi tagihan penuh."},
   {
     "instruction": "Jelaskan tindak pidana Penculikan (Abduction).", 
     "context": "Aksi pidana membawa kabur seseorang dari wilayah amannya.", 
-    "response": "N. Tindakan kriminal merampas kemerdekaan seseorang dengan cara membawanya pergi secara tidak sah. Pelaku dapat menggunakan metode bujuk rayu licik, memanipulasi situasi, ataupun menggunakan ancaman kekerasan fisik yang nyata."},
+    "response": "Tindakan kriminal merampas kemerdekaan seseorang dengan cara membawanya pergi secara tidak sah. Pelaku dapat menggunakan metode bujuk rayu licik, memanipulasi situasi, ataupun menggunakan ancaman kekerasan fisik yang nyata."},
   {
     "instruction": "Apa arti 'Abet' (Bersekongkol/Membantu)?", 
     "context": "Aksi kolaborasi sekunder dalam sebuah tindak kriminal.", 
-    "response": "V. Turut serta menyokong, mendorong, atau memfasilitasi seseorang untuk melancarkan niat jahat kejahatannya, seperti menyediakan rute pelarian, menyembunyikan alat bukti, atau mendanai rencana kriminal tersebut."},
+    "response": "Turut serta menyokong, mendorong, atau memfasilitasi seseorang untuk melancarkan niat jahat kejahatannya, seperti menyediakan rute pelarian, menyembunyikan alat bukti, atau mendanai rencana kriminal tersebut."},
   {
     "instruction": "Apa itu Penundaan Kepemilikan (Abeyance)?", 
     "context": "Status menggantungnya hak kepemilikan dalam urusan harta waris.", 
-    "response": "N. Suatu jeda atau kondisi vakum di mana hak kepemilikan atas sebuah properti sedang dalam posisi ditangguhkan atau belum ada kejelasan hukumnya (misalnya, menanti putusan pengadilan mengenai siapa pewaris sah dari aset orang yang meninggal)."},
+    "response": "Suatu jeda atau kondisi vakum di mana hak kepemilikan atas sebuah properti sedang dalam posisi ditangguhkan atau belum ada kejelasan hukumnya (misalnya, menanti putusan pengadilan mengenai siapa pewaris sah dari aset orang yang meninggal)."},
   {
     "instruction": "Apa definisi Sehat Jasmani (Able-bodied)?", 
     "context": "Kondisi kebugaran fisik yang dijadikan patokan dalam sengketa tunjangan.", 
-    "response": "Adj. Deskripsi bagi seseorang yang secara medis memiliki fisik yang bugar dan kompeten untuk mencari nafkah. Dalam sidang perceraian, status ini sering dipakai hakim untuk mewajibkan orang tersebut membayar tunjangan anak atau mantan pasangan."},
+    "response": "Deskripsi bagi seseorang yang secara medis memiliki fisik yang bugar dan kompeten untuk mencari nafkah. Dalam sidang perceraian, status ini sering dipakai hakim untuk mewajibkan orang tersebut membayar tunjangan anak atau mantan pasangan."},
   {
     "instruction": "Jelaskan definisi Aborsi dalam konteks hukum.", 
     "context": "Prosedur medis penghentian kehamilan yang memiliki regulasi hukum bervariasi.", 
-    "response": "N. Tindakan mengintervensi atau mengakhiri kehamilan secara sengaja sebelum janin dapat berkembang hidup di luar kandungan. Secara historis (seperti sebelum Roe v. Wade 1973 di AS), aborsi kerap diposisikan sebagai kejahatan kriminal kecuali jika diindikasikan darurat medis untuk menyelamatkan ibu."},
+    "response": "Tindakan mengintervensi atau mengakhiri kehamilan secara sengaja sebelum janin dapat berkembang hidup di luar kandungan. Secara historis (seperti sebelum Roe v. Wade 1973 di AS), aborsi kerap diposisikan sebagai kejahatan kriminal kecuali jika diindikasikan darurat medis untuk menyelamatkan ibu."},
   {
     "instruction": "Apa arti Mencabut (Abrogate) dalam hukum?", 
     "context": "Aksi formal membatalkan ketentuan hukum atau kontrak.", 
-    "response": "V. Langkah resmi untuk membatalkan, menganulir, atau mencabut kekuatan berlakunya sebuah aturan hukum lama dengan menerbitkan perundang-undangan baru, atau tindakan menghapus daya ikat dari sebuah klausul dalam kontrak perjanjian."},
+    "response": "Langkah resmi untuk membatalkan, menganulir, atau mencabut kekuatan berlakunya sebuah aturan hukum lama dengan menerbitkan perundang-undangan baru, atau tindakan menghapus daya ikat dari sebuah klausul dalam kontrak perjanjian."},
   {
     "instruction": "Apa itu Melarikan Diri (Abscond)?", 
     "context": "Aksi buron (abscond) tersangka untuk menghindari hukum.", 
-    "response": "V. (1) Tindakan menghilang secara diam-diam dan keluar dari jangkauan yurisdiksi penegak hukum guna mengelak dari surat perintah pengadilan, panggilan sidang, atau proses penangkapan. (2) Melarikan diri bersama aset atau uang hasil kejahatan."}
+    "response": "(1) Tindakan menghilang secara diam-diam dan keluar dari jangkauan yurisdiksi penegak hukum guna mengelak dari surat perintah pengadilan, panggilan sidang, atau proses penangkapan. (2) Melarikan diri bersama aset atau uang hasil kejahatan."}
 ]
