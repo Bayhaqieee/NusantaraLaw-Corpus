@@ -90,12 +90,12 @@
         "response": "BAZNAS adalah institusi resmi yang dibentuk pemerintah dengan mandat khusus untuk menghimpun, mengelola, dan mendistribusikan dana zakat, infak, dan sedekah berskala nasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Badan Hukum Indonesia.",
+        "instruction": "Apa definisi Badan Hukum Indonesia?",
         "context": "Konteks hukum Indonesia.",
         "response": "Entitas korporasi, BUMN, atau BUMD yang didirikan secara sah, teregistrasi, dan tunduk penuh pada yurisdiksi serta hukum positif Republik Indonesia."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Badan Kepegawaian Negara.",
+        "instruction": "Apa fungsi Badan Kepegawaian Negara?",
         "context": "Konteks hukum Indonesia.",
         "response": "BKN bertindak sebagai otoritas pemerintah nonkementerian yang memiliki wewenang untuk mengelola, membina, dan menyelenggarakan sistem administrasi manajemen Aparatur Sipil Negara di seluruh Indonesia."
     },
@@ -105,17 +105,17 @@
         "response": "BLU adalah unit kerja pada instansi pemerintah yang didirikan dengan tujuan memberikan pelayanan barang/jasa publik secara efisien dan produktif, tanpa menjadikan pencarian keuntungan/laba sebagai tujuan utamanya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa peran Badan Pengawas Pemilihan Umum.",
+        "instruction": "Apa peran Badan Pengawas Pemilihan Umum?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bawaslu adalah elemen penyelenggara pemilu yang diberi mandat independen untuk melakukan pengawasan komprehensif terhadap seluruh tahapan pemilu di seluruh penjuru NKRI demi mencegah pelanggaran."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Badan Pengawas Perdagangan Berjangka Komoditi.",
+        "instruction": "Apa tugas Badan Pengawas Perdagangan Berjangka Komoditi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bappebti merupakan institusi pemerintah yang memiliki otoritas sentral dalam menetapkan aturan, membina, serta mengawasi operasional dan legalitas transaksi di ekosistem perdagangan berjangka."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Badan Penyelenggara Jaminan Produk Halal.",
+        "instruction": "Apa tugas Badan Penyelenggara Jaminan Produk Halal?",
         "context": "Konteks hukum Indonesia.",
         "response": "BPJPH adalah badan pemerintah di bawah Kementerian Agama yang ditugaskan khusus untuk mengeksekusi, mengelola, dan menertibkan penyelenggaraan sertifikasi Jaminan Produk Halal di Indonesia."
     },
@@ -135,7 +135,7 @@
         "response": "Secara yuridis, Bahasa Asing diklasifikasikan sebagai seluruh ragam bahasa dari negara lain yang posisinya berada di luar status Bahasa Indonesia (sebagai bahasa persatuan) dan bahasa daerah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bahasa Daerah.",
+        "instruction": "Apa definisi Bahasa Daerah?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bahasa Daerah merupakan identitas linguistik lokal yang secara turun-temurun digunakan sebagai bahasa ibu oleh berbagai kelompok masyarakat di wilayah geografis tertentu di dalam NKRI."
     },
@@ -150,12 +150,12 @@
         "response": "Banding adalah langkah hukum yang ditempuh oleh pihak yang kalah atau tidak puas terhadap vonis pengadilan tingkat pertama, untuk memohon agar perkaranya diperiksa ulang oleh pengadilan tingkat yang lebih tinggi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi umum dari Bank.",
+        "instruction": "Apa definisi umum dari Bank?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bank adalah badan usaha perantara keuangan yang menghimpun dana dari masyarakat luas dalam wujud simpanan, lalu mendistribusikannya kembali dalam bentuk kredit atau pinjaman guna mendongkrak ekonomi."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Bank Indonesia.",
+        "instruction": "Siapakah Bank Indonesia?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bank Indonesia merupakan institusi negara yang bertindak secara independen sebagai Bank Sentral Republik Indonesia, yang otoritas dan kewenangannya dalam menjaga stabilitas moneter dijamin langsung oleh konstitusi."
     },
@@ -165,22 +165,22 @@
         "response": "Bank Syariah adalah institusi perbankan yang operasional bisnis, investasi, dan produk keuangannya wajib selaras dengan kaidah dan prinsip syariat Islam (bebas riba, maysir, dan gharar)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bantuan Hukum.",
+        "instruction": "Apa definisi Bantuan Hukum?",
         "context": "Konteks hukum Indonesia.",
         "response": "Layanan advokasi dan pendampingan hukum yang diselenggarakan oleh praktisi hukum (advokat) secara gratis (probono) untuk mewakili dan membela kepentingan warga yang secara finansial tidak mampu."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bantuan Sosial (Bansos).",
+        "instruction": "Apa definisi Bantuan Sosial (Bansos)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bansos adalah distribusi dana atau bantuan barang dari anggaran pemerintah kepada individu, keluarga, atau kelompok masyarakat rentan untuk memitigasi risiko guncangan sosial dan kemiskinan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Bappebti.",
+        "instruction": "Apa tugas Bappebti?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bappebti adalah lembaga otoritas pemerintah yang diberikan wewenang khusus untuk meregulasi, mengembangkan ekosistem, serta mengawasi keamanan perniagaan di bursa perdagangan berjangka dan komoditi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Bappeda.",
+        "instruction": "Apa fungsi Bappeda?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bappeda merupakan perangkat birokrasi daerah yang memegang tanggung jawab teknis dalam merancang, mengevaluasi, dan mengkoordinasikan strategi perencanaan pembangunan di tingkat provinsi, kabupaten, atau kota."
     },
@@ -190,17 +190,17 @@
         "response": "Barang primer yang tingkat urgensi konsumsinya sangat vital bagi kelangsungan hajat hidup orang banyak, sehingga stabilitas harganya sangat mempengaruhi kesejahteraan sosial dan ekonomi secara luas."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa kriteria Barang Kena Cukai.",
+        "instruction": "Apa kriteria Barang Kena Cukai?",
         "context": "Konteks hukum Indonesia.",
         "response": "Barang spesifik yang ditarik cukainya oleh negara karena konsumsinya wajib direm, peredarannya butuh pengawasan, penggunaannya berefek buruk pada masyarakat/lingkungan, atau demi asas keadilan pungutan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Barang Milik Desa.",
+        "instruction": "Apa itu Barang Milik Desa?",
         "context": "Konteks hukum Indonesia.",
         "response": "Semua wujud aset kekayaan yang secara hukum sah dikuasai oleh pemerintah Desa, yang bentuknya dapat berupa barang tidak bergerak (seperti tanah desa) maupun barang bergerak (seperti inventaris mesin/kendaraan)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Batubara.",
+        "instruction": "Apa definisi Batubara?",
         "context": "Konteks hukum Indonesia.",
         "response": "Material bahan bakar fosil berbentuk batuan sedimen padat yang terbangun dari endapan senyawa karbon organik, yang tercipta dari proses geologis atas dekomposisi sisa flora selama jutaan tahun."
     },
@@ -210,12 +210,12 @@
         "response": "Pungutan pajak daerah yang diwajibkan setiap kali terjadi proses transisi atau pemindahan status kepemilikan kendaraan bermotor, baik karena transaksi jual beli, hibah, maupun karena mekanisme warisan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Bea Meterai.",
+        "instruction": "Apa itu Bea Meterai?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pajak negara yang secara spesifik dikenakan atas penerbitan suatu dokumen (fisik atau digital) yang dipersiapkan untuk menerangkan kejadian keperdataan atau yang akan dijadikan sebagai instrumen alat bukti hukum."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa pengertian Bela Negara.",
+        "instruction": "Apa pengertian Bela Negara?",
         "context": "Konteks hukum Indonesia.",
         "response": "Wujud komitmen, tindakan proaktif, dan disiplin dari setiap warga negara yang didasari rasa cinta tanah air, untuk melindungi kedaulatan, keamanan, dan keutuhan wilayah NKRI dari segala ancaman."
     },
@@ -225,17 +225,17 @@
         "response": "Keseluruhan alur pengeluaran finansial yang secara resmi diakui sebagai kewajiban dan beban oleh pemerintah daerah, yang akan mengurangi total nilai kekayaan kas daerah pada tahun anggaran berjalan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Belanja Hibah.",
+        "instruction": "Apa itu Belanja Hibah?",
         "context": "Konteks hukum Indonesia.",
         "response": "Aliran dana atau aset dari pemerintah yang diberikan secara sukarela kepada entitas lain (Pemda, organisasi, BUMN) di mana pihak penerima sama sekali tidak memiliki kewajiban untuk mengembalikannya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bencana Sosial.",
+        "instruction": "Apa definisi Bencana Sosial?",
         "context": "Konteks hukum Indonesia.",
         "response": "Krisis atau malapetaka yang akar pemicunya berasal dari rekayasa atau konflik antarmanusia, seperti meledaknya kerusuhan massal, gesekan kelompok, hingga serangkaian tindakan terorisme berskala luas."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Bendahara Umum Negara.",
+        "instruction": "Siapakah Bendahara Umum Negara?",
         "context": "Konteks hukum Indonesia.",
         "response": "Otoritas tertinggi yang diberikan kuasa oleh undang-undang untuk memegang kendali penuh atas sistem penerimaan, penyimpanan, dan pencairan kas negara (kewenangan ini secara ex-officio dipegang oleh Menteri Keuangan)."
     },
@@ -245,12 +245,12 @@
         "response": "Entitas bisnis asal mancanegara yang tidak berstatus badan hukum Indonesia, namun memiliki representasi fisik dan menjalankan sirkulasi operasi bisnis komersialnya secara menetap di dalam wilayah Republik Indonesia."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Berita Resmi Merek.",
+        "instruction": "Apa itu Berita Resmi Merek?",
         "context": "Konteks hukum Indonesia.",
         "response": "Publikasi jurnal resmi dari kementerian hukum yang dirilis secara periodik untuk mengumumkan pendaftaran, perpanjangan, atau perubahan status hukum atas hak merek kepada khalayak luas."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Biaya Penyelenggaraan Ibadah Haji (BPIH).",
+        "instruction": "Apa definisi Biaya Penyelenggaraan Ibadah Haji (BPIH)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Total nominal ongkos atau beban finansial yang secara resmi ditetapkan pemerintah dan wajib disetorkan oleh setiap calon jemaah sebagai prasyarat keberangkatannya menunaikan rukun haji."
     },
@@ -260,22 +260,22 @@
         "response": "Lembaga pemerintah yang diberikan fleksibilitas pengelolaan keuangan untuk menyuplai jasa/barang ke masyarakat dengan orientasi peningkatan pelayanan publik, tanpa mengedepankan motif mencari keuntungan komersial."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi BMN (Barang Milik Negara).",
+        "instruction": "Apa definisi BMN (Barang Milik Negara)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Segala jenis aset kekayaan, fasilitas, dan barang yang proses pengadaannya dibiayai menggunakan dana APBN, maupun aset yang beralih menjadi milik negara melalui mekanisme hukum yang sah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi BNPB.",
+        "instruction": "Apa fungsi BNPB?",
         "context": "Konteks hukum Indonesia.",
         "response": "BNPB adalah badan sentral nonkementerian yang memiliki wewenang untuk mengatur, memimpin, dan mengeksekusi operasi penanganan bencana, mulai dari fase mitigasi, respons darurat, hingga tahap rehabilitasi pascabencana."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas BNPT.",
+        "instruction": "Apa tugas BNPT?",
         "context": "Konteks hukum Indonesia.",
         "response": "Badan negara yang dikhususkan untuk memutus rantai radikalisme, mengatur kebijakan deradikalisasi, serta memimpin operasi pencegahan dan penanggulangan segala wujud ancaman tindak pidana terorisme di Indonesia."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu BP Tapera.",
+        "instruction": "Apa itu BP Tapera?",
         "context": "Konteks hukum Indonesia.",
         "response": "BP Tapera adalah entitas badan hukum publik yang diinstruksikan oleh negara untuk menghimpun, memupuk, dan menyalurkan dana tabungan pekerja guna memfasilitasi program pembiayaan kepemilikan rumah layak."
     },
@@ -285,17 +285,17 @@
         "response": "Pajak daerah yang secara wajib ditarik dari warga atau korporasi yang baru saja menerima pengalihan atau perolehan status hak milik atas sebuah aset bidang tanah maupun bangunan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas BPJPH.",
+        "instruction": "Apa tugas BPJPH?",
         "context": "Konteks hukum Indonesia.",
         "response": "Badan di bawah Kementerian Agama yang berfungsi menerbitkan, mengawasi, serta meregulasi seluruh proses perizinan sertifikasi halal untuk menjamin kelayakan produk bagi konsumen muslim di Indonesia."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi umum BPJS.",
+        "instruction": "Apa definisi umum BPJS?",
         "context": "Konteks hukum Indonesia.",
         "response": "BPJS merupakan lembaga berbadan hukum publik independen yang dibentuk oleh regulasi negara dengan mandat tunggal untuk mengatur dan mengeksekusi operasional program jaminan sosial bagi seluruh rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu BPJS Kesehatan.",
+        "instruction": "Apa itu BPJS Kesehatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Operator asuransi kesehatan sosial berbadan hukum publik yang memegang mandat dari negara untuk menyelenggarakan pembiayaan dan menjamin akses fasilitas medis melalui program Jaminan Kesehatan Nasional (JKN)."
     },
@@ -305,12 +305,12 @@
         "response": "Lembaga pelindung pekerja yang bertugas menghimpun premi dan menyalurkan kompensasi perlindungan asuransi untuk risiko kecelakaan kerja, kematian, program jaminan hari tua, serta dana pensiun bulanan pekerja."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas BPK (Badan Pemeriksa Keuangan).",
+        "instruction": "Apa tugas BPK (Badan Pemeriksa Keuangan)?",
         "context": "Konteks hukum Indonesia.",
         "response": "BPK adalah lembaga tinggi negara yang memegang independensi penuh untuk melaksanakan audit, pemeriksaan, dan mengevaluasi transparansi serta akuntabilitas pengelolaan arus keuangan di semua instansi pemerintah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi BPKP.",
+        "instruction": "Apa fungsi BPKP?",
         "context": "Konteks hukum Indonesia.",
         "response": "BPKP adalah aparat auditor internal eksekutif yang bertugas memantau, membina, dan mengawasi kepatuhan tata kelola anggaran instansi pemerintah dari dalam, dan bertanggung jawab langsung secara struktural kepada Presiden."
     },
@@ -320,12 +320,12 @@
         "response": "Status akuntansi gantung untuk aset fisik (BMN) yang pengadaannya dibeli dari uang negara dan fisiknya telah dioperasikan oleh BUMN, namun secara pembukuan belum dikonversi resmi menjadi penyertaan modal negara (PMN)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa peran BSN (Badan Standardisasi Nasional).",
+        "instruction": "Apa peran BSN (Badan Standardisasi Nasional)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Lembaga pemerintah yang memegang otoritas penuh untuk merancang, menetapkan Standar Nasional Indonesia (SNI), serta memfasilitasi skema akreditasi untuk memastikan kelayakan mutu produk dan jasa yang beredar."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bukti Pelanggaran (Tilang).",
+        "instruction": "Apa definisi Bukti Pelanggaran (Tilang)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dokumen blangko resmi yang diterbitkan oleh petugas kepolisian sebagai instrumen pencatatan dan alat bukti sah atas terjadinya suatu tindakan pelanggaran peraturan di ruang lalu lintas jalan."
     },
@@ -335,7 +335,7 @@
         "response": "Sekumpulan fakta, rekam jejak, atau dokumen temuan awal yang cukup valid untuk menyimpulkan adanya indikasi kuat tindak pidana kecurangan atau penggelapan pajak yang berpotensi merugikan penerimaan kas negara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi BUMD (Badan Usaha Milik Daerah).",
+        "instruction": "Apa definisi BUMD (Badan Usaha Milik Daerah)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Perusahaan atau korporasi yang kepemilikan modal saham mayoritasnya dipegang secara langsung oleh instansi Pemerintah Daerah, yang tujuannya untuk menghasilkan PAD sekaligus memberikan layanan publik di daerah."
     },
@@ -345,17 +345,17 @@
         "response": "Entitas korporasi berskala makro yang porsi kepemilikan modal utamanya dikuasai penuh oleh negara melalui injeksi investasi dari pemisahan aset kekayaan APBN untuk menjalankan sektor bisnis strategis."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa kriteria BUMN Di Bidang Industri Strategis.",
+        "instruction": "Apa kriteria BUMN Di Bidang Industri Strategis?",
         "context": "Konteks hukum Indonesia.",
         "response": "Perusahaan pelat merah yang lini produksinya difokuskan khusus pada sektor-sektor krusial yang menguasai hajat hidup publik, pengelolaan sumber daya alam vital, hingga penopang logistik pertahanan dan keamanan nasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Bupati/Wali Kota.",
+        "instruction": "Apa definisi Bupati/Wali Kota?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pejabat eksekutif dan pemimpin tertinggi pada struktur otonomi pemerintahan tingkat daerah (kabupaten atau kota) yang kedudukannya diperoleh melalui mandat kompetisi demokratis dalam Pemilihan Kepala Daerah secara langsung."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Bursa Berjangka.",
+        "instruction": "Apa itu Bursa Berjangka?",
         "context": "Konteks hukum Indonesia.",
         "response": "Institusi fasilitator yang mengoperasikan platform serta sistem untuk mewadahi kelancaran transaksi kontrak jual beli aset komoditas derivatif dan kontrak berjangka waktu bagi para pialang dan investor."
     },
@@ -370,12 +370,12 @@
         "response": "Artefak, situs, struktur, atau kawasan fisik yang memiliki signifikansi historis, nilai edukasi, atau warisan religius yang tinggi, sehingga oleh negara diwajibkan kelestariannya melalui ketetapan perlindungan hukum."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Cagar Budaya Nasional.",
+        "instruction": "Apa itu Cagar Budaya Nasional?",
         "context": "Konteks hukum Indonesia.",
         "response": "Objek warisan sejarah yang memiliki derajat urgensi tertinggi bagi identitas kebudayaan bangsa, sehingga status pelestariannya ditetapkan langsung di bawah wewenang Menteri terkait sebagai prioritas nasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Calon Pekerja Migran Indonesia.",
+        "instruction": "Siapakah Calon Pekerja Migran Indonesia?",
         "context": "Konteks hukum Indonesia.",
         "response": "Warga negara Indonesia pencari kerja yang telah melewati kualifikasi administrasi, mendaftarkan diri secara legal di dinas ketenagakerjaan, dan sedang dalam proses keberangkatan untuk dipekerjakan di luar negeri."
     },
@@ -390,12 +390,12 @@
         "response": "Segala wujud konkret dari hasil olah imajinasi, seni, sains, dan literatur yang dikreasikan oleh seseorang melalui keterampilan maupun ide orisinalnya, yang secara hukum otomatis dilindungi saat diekspresikan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Cukai.",
+        "instruction": "Apa definisi Cukai?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pungutan khusus yang dibebankan negara pada komoditas barang tertentu yang tingkat konsumsinya butuh ditekan dan peredarannya diawasi, karena dampaknya dapat membahayakan kesehatan publik atau lingkungan (seperti tembakau atau alkohol)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa pengertian Cuti dalam konteks pemilu.",
+        "instruction": "Apa pengertian Cuti dalam konteks pemilu?",
         "context": "Konteks hukum Indonesia.",
         "response": "Status izin absensi sementara secara resmi yang diberikan kepada pemegang jabatan publik (seperti Presiden, Kepala Daerah, atau Anggota Dewan) saat mereka hendak terlibat langsung dalam jadwal kegiatan kampanye politik."
     },
@@ -405,7 +405,7 @@
         "response": "Kawasan topografis daratan yang dikelilingi oleh punggung bukit, yang secara ekologis berfungsi layaknya corong alami untuk menadah curah hujan, kemudian menyimpan dan menyalurkan airnya melalui jaringan anak sungai menuju muara laut atau danau."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Daerah Lingkungan Pengamatan.",
+        "instruction": "Apa definisi Daerah Lingkungan Pengamatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Zona tata ruang di sekeliling fasilitas stasiun pengamat cuaca atau instrumen geofisika yang kondisinya sangat menentukan dan berpengaruh signifikan terhadap tingkat presisi alat ukur pengamatan tersebut."
     },
@@ -415,12 +415,12 @@
         "response": "Kesatuan wilayah hukum yang di dalamnya hidup suatu masyarakat, yang secara legal diizinkan oleh konstitusi untuk memimpin, meregulasi, dan menjalankan kebijakan urusan pemerintahannya sendiri secara mandiri di bawah sistem NKRI."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Daerah Pabean.",
+        "instruction": "Apa definisi Daerah Pabean?",
         "context": "Konteks hukum Indonesia.",
         "response": "Keseluruhan kedaulatan teritorial Republik Indonesia—meliputi daratan, perairan, ruang udara, serta instalasi zona ekonomi tertentu—di mana hukum kepabeanan dan pungutan bea masuk/keluar negara berlaku mutlak."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Daftar Hitam Penyelenggara.",
+        "instruction": "Apa itu Daftar Hitam Penyelenggara?",
         "context": "Konteks hukum Indonesia.",
         "response": "Database resmi berisi profil korporasi atau identitas dewan direksi perusahaan yang telah divonis terbukti melanggar hukum, sehingga mereka di-blacklist dan dijatuhi sanksi larangan operasi administratif."
     },
@@ -435,12 +435,12 @@
         "response": "Subsidi dana yang dikucurkan langsung dari kantong APBN ke pemerintah daerah terpilih, dengan syarat peruntukannya dikunci hanya untuk membiayai pelaksanaan proyek-proyek spesifik yang sejalan dengan target prioritas nasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dampak Lingkungan Hidup.",
+        "instruction": "Apa definisi Dampak Lingkungan Hidup?",
         "context": "Konteks hukum Indonesia.",
         "response": "Setiap manifestasi perubahan atau imbas kerusakan pada kondisi kelestarian rona alam (baik positif maupun negatif) yang diakibatkan oleh berlangsungnya sebuah operasional proyek, usaha, atau aktivitas manusia."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Abadi Daerah.",
+        "instruction": "Apa itu Dana Abadi Daerah?",
         "context": "Konteks hukum Indonesia.",
         "response": "Modal investasi yang disisihkan dari kas APBD yang nilai pokoknya dikunci agar tidak berkurang, di mana pemda hanya diperbolehkan mengeksekusi belanja daerah dengan menggunakan nilai imbal hasil dari perputaran investasi dana tersebut."
     },
@@ -455,12 +455,12 @@
         "response": "Aliran dana transfer rutin dari porsi APBN yang disalurkan ke kas setiap pemerintah daerah, dengan filosofi untuk menambal ketimpangan kekuatan fiskal antarprovinsi/kabupaten agar roda pelayanan publik daerah tetap berjalan setara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Asuransi.",
+        "instruction": "Apa itu Dana Asuransi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Cadangan himpunan kas finansial yang sengaja dibentuk oleh perusahaan asuransi dari pengumpulan premi nasabah, yang secara fungsional disiagakan khusus untuk membayar pencairan klaim saat risiko terjadi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dana Bagi Hasil (DBH).",
+        "instruction": "Apa definisi Dana Bagi Hasil (DBH)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Porsi dana dari APBN yang dikembalikan kepada daerah penghasil (misalnya daerah tambang atau cukai) dengan skema pembagian persentase tertentu dari total penerimaan negara atas aset yang ditarik dari daerah tersebut."
     },
@@ -470,7 +470,7 @@
         "response": "Pos alokasi keuangan khusus dari APBN yang ditransfer langsung menyasar ke rekening tingkat desa, dengan fungsi eksklusif untuk memodali pembangunan infrastruktur lokal dan menggerakkan roda ekonomi rakyat desa."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Haji.",
+        "instruction": "Apa itu Dana Haji?",
         "context": "Konteks hukum Indonesia.",
         "response": "Keseluruhan kumpulan aset likuid yang terdiri atas saldo setoran biaya pendaftaran jemaah, imbal hasil investasi dana umat, dan efisiensi penyelenggaraan, yang hak pengelolaannya diamanatkan kepada badan khusus negara."
     },
@@ -480,12 +480,12 @@
         "response": "Suntikan fasilitas finansial berupa penempatan modal jangka panjang atau instrumen kompensasi keuangan dari pemerintah pusat yang disalurkan untuk menopang proyek BUMN atau instansi Badan Layanan Umum (BLU)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dana Jaminan Sosial.",
+        "instruction": "Apa definisi Dana Jaminan Sosial?",
         "context": "Konteks hukum Indonesia.",
         "response": "Total himpunan uang amanat milik seluruh masyarakat peserta (akumulasi iuran dan nilai investasinya) yang pengelolaannya diserahkan kepada BPJS, yang haram digunakan untuk hal lain selain pembayaran klaim manfaat peserta."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Kompensasi dalam perdagangan berjangka.",
+        "instruction": "Apa itu Dana Kompensasi dalam perdagangan berjangka?",
         "context": "Konteks hukum Indonesia.",
         "response": "Fasilitas jaring pengaman keuangan yang disediakan untuk membayarkan kerugian atau restitusi dana kepada nasabah bursa, yang mana kerugian tersebut murni diakibatkan oleh malapraktik atau kejahatan penipuan dari pihak pialang berjangka."
     },
@@ -500,12 +500,12 @@
         "response": "Subsidi dana ekstra dari postur APBN yang dicairkan khusus bagi daerah-daerah yang menyandang status otonomi istimewa (seperti Papua dan Aceh) guna mendukung program percepatan pemenuhan hak-hak dasar warganya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Penanggulangan Bencana.",
+        "instruction": "Apa itu Dana Penanggulangan Bencana?",
         "context": "Konteks hukum Indonesia.",
         "response": "Anggaran siaga yang disiapkan secara spesifik dalam sistem APBN/APBD yang keran pencairannya diperuntukkan khusus untuk kegiatan mitigasi prakrisis, operasi SAR tanggap darurat, dan rehabilitasi infrastruktur pascabencana."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dana Penanggulangan Pencemaran Lingkungan.",
+        "instruction": "Apa definisi Dana Penanggulangan Pencemaran Lingkungan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Alokasi anggaran khusus yang disiagakan pemerintah untuk mengambil tindakan pemulihan darurat terhadap ekosistem yang telanjur rusak atau tercemar parah akibat insiden limbah/industri."
     },
@@ -520,12 +520,12 @@
         "response": "Sebuah mekanisme transfer fiskal dari APBN ke APBD (yang meliputi DAU, DAK, dan DBH) yang diciptakan untuk meratakan ketimpangan ekonomi agar setiap daerah bisa menjalankan otonomi dan pelayanan publiknya secara ideal."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dana Tabarru.",
+        "instruction": "Apa itu Dana Tabarru?",
         "context": "Konteks hukum Indonesia.",
         "response": "Kolam dana kolektif di asuransi syariah yang dihimpun dari iuran peserta dengan niat hibah tolong-menolong, di mana dana ini secara eksklusif hanya boleh dipakai untuk memberikan santunan kepada sesama peserta yang tertimpa musibah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dana Transfer Khusus.",
+        "instruction": "Apa definisi Dana Transfer Khusus?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bantuan subsidi dari pusat kepada pemerintah daerah yang peruntukannya sudah dikunci dan ditargetkan secara spesifik (earmarked) untuk mendanai program fisik atau nonfisik tertentu yang ditetapkan kementerian teknis."
     },
@@ -535,7 +535,7 @@
         "response": "Suntikan dana blok dari kas pemerintah pusat ke daerah yang mana kepala daerah diberikan fleksibilitas penuh untuk menggunakan dana tersebut sesuai diskresi dan skala prioritas dari masing-masing kebutuhan daerah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Data dalam industri migas.",
+        "instruction": "Apa definisi Data dalam industri migas?",
         "context": "Konteks hukum Indonesia.",
         "response": "Semua temuan mentah, sampel fisik (seperti inti batuan/fluida), rekam interpretasi geologis, dan peta survei yang dihasilkan dari mahalnya biaya kegiatan operasional eksplorasi serta pengeboran di wilayah tambang migas."
     },
@@ -550,12 +550,12 @@
         "response": "Format data presisi tinggi yang merekam titik koordinat geografis, dimensi elevasi, serta atribut fisik dari seluruh elemen (baik objek alam maupun bangunan manusia) yang melekat di atas permukaan atau di bawah tanah bumi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Data Kependudukan.",
+        "instruction": "Apa itu Data Kependudukan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Himpunan profil rekaman sipil individu (seperti nama, NIK, dan tanggal lahir) beserta rekapitulasi data demografis yang disahkan pengumpulannya lewat instansi Dinas Kependudukan dan Pencatatan Sipil."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Data Pembuatan Tanda Tangan Elektronik.",
+        "instruction": "Apa definisi Data Pembuatan Tanda Tangan Elektronik?",
         "context": "Konteks hukum Indonesia.",
         "response": "Parameter privat yang sangat rahasia (seperti algoritma kriptografi, pola pemindaian biometrik sidik jari, atau PIN) yang menjadi kunci utama bagi sebuah sistem untuk mengeksekusi penerbitan suatu Tanda Tangan Elektronik yang sah."
     },
@@ -565,12 +565,12 @@
         "response": "Setiap serpihan informasi atau gabungan metadata yang secara langsung maupun saat dirangkai dengan info lain dapat menunjukkan identitas serta mengungkap profil spesifik dari seseorang individu yang masih hidup."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa yang termasuk dalam Data Pribadi Sensitif.",
+        "instruction": "Apa yang termasuk dalam Data Pribadi Sensitif?",
         "context": "Konteks hukum Indonesia.",
         "response": "Profil data yang apabila bocor dapat memicu diskriminasi fatal bagi pemiliknya; seperti riwayat penyakit medis, identitas orientasi seksual, pandangan politik, rincian aset keuangan, catatan kriminal, hingga data rekaman genetik biometrik."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Daya Dukung Lingkungan Hidup.",
+        "instruction": "Apa definisi Daya Dukung Lingkungan Hidup?",
         "context": "Konteks hukum Indonesia.",
         "response": "Kapasitas ambang batas maksimal dari suatu ekosistem alamiah dalam menoleransi tekanan populasi, limbah, dan eksploitasi manusia tanpa menyebabkan runtuhnya keseimbangan fungsional lingkungan tersebut."
     },
@@ -580,7 +580,7 @@
         "response": "Setiap individu perorangan maupun lembaga korporasi bisnis yang diikat oleh kewajiban untuk melunasi tanggungan utang atau tagihan pembiayaan finansial kepada pihak lain yang meminjaminya."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Debitor Pailit.",
+        "instruction": "Siapakah Debitor Pailit?",
         "context": "Konteks hukum Indonesia.",
         "response": "Entitas peminjam yang karena ketidakmampuannya melunasi tagihan yang jatuh tempo, secara resmi dan sah oleh majelis hakim Pengadilan Niaga dijatuhi vonis pailit, sehingga hak kelola asetnya diambil alih oleh kurator."
     },
@@ -595,17 +595,17 @@
         "response": "Mekanisme perpindahan wewenang dari sebuah instansi tinggi kepada bawahan, di mana secara hukum seluruh beban tanggung jawab dan gugatan hukum atas kewenangan itu beralih sepenuhnya ke pundak si penerima mandat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Deportasi.",
+        "instruction": "Apa itu Deportasi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Aksi penegakan hukum berbentuk pengusiran dan pemulangan secara paksa terhadap warga negara asing keluar dari kedaulatan Indonesia akibat dari pelanggaran izin tinggal atau tindak kejahatan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Deposito.",
+        "instruction": "Apa definisi Deposito?",
         "context": "Konteks hukum Indonesia.",
         "response": "Fasilitas simpanan uang nasabah di bank yang tingkat bunganya lebih tinggi dari tabungan biasa, namun uang tersebut dikunci penarikannya dan hanya boleh dicairkan setelah berakhirnya jangka waktu kesepakatan (tenor)."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Deputi Gubernur di DKI Jakarta.",
+        "instruction": "Siapakah Deputi Gubernur di DKI Jakarta?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pejabat eselon senior setara madya yang secara khusus diangkat di struktur Pemprov DKI untuk membantu mengorganisasikan tugas-tugas Gubernur, mengingat beban Jakarta selaku epicentrum ibukota negara."
     },
@@ -615,7 +615,7 @@
         "response": "Program rehabilitasi dan pembinaan sistematis yang diselenggarakan negara untuk menetralisir, merekonstruksi, dan menghapus paham ekstremisme kekerasan pada diri tersangka atau mantan napi terorisme agar dapat kembali moderat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Derivatif Resi Gudang.",
+        "instruction": "Apa definisi Derivatif Resi Gudang?",
         "context": "Konteks hukum Indonesia.",
         "response": "Produk investasi finansial turunan yang underlying asetnya berbasis pada surat berharga Resi Gudang komoditas pertanian, yang mana transaksinya bisa berbentuk spekulasi kontrak opsi atau kontrak jual-beli berjangka."
     },
@@ -625,82 +625,82 @@
         "response": "Pelepasan kuasa penuh atau penyerahan kewenangan urusan publik dari struktur pemerintah pusat kepada entitas pemerintah daerah, agar daerah dapat leluasa mengurus nasib pembangunan masyarakatnya secara otonom."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Deteni.",
+        "instruction": "Siapakah Deteni?",
         "context": "Konteks hukum Indonesia.",
         "response": "Status yang diberikan kepada warga negara asing yang ditangkap, diisolasi, dan dikurung ke dalam sel Rumah Detensi Imigrasi sambil menunggu tahap proses investigasi pemulangan paksa (deportasi)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Devisa.",
+        "instruction": "Apa definisi Devisa?",
         "context": "Konteks hukum Indonesia.",
         "response": "Instrumen kekayaan moneter (seperti dolar tunai, emas, atau surat berharga) yang secara global diakui sebagai alat bayar lintas negara dan bertindak krusial untuk transaksi impor serta penstabil cadangan nilai tukar negara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Dewan Audit.",
+        "instruction": "Apa tugas Dewan Audit?",
         "context": "Konteks hukum Indonesia.",
         "response": "Komite fungsional yang bergerak independen dalam melakukan pemeriksaan akuntansi, mengaudit kewajaran belanja anggaran, serta memverifikasi kinerja tata kelola keuangan pada sebuah lembaga negara atau institusi BHMN."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Dewan Direksi.",
+        "instruction": "Siapakah Dewan Direksi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Organ pucuk pimpinan di struktur korporasi yang diberikan mandat eksekusi paling tinggi untuk mengambil keputusan strategis, mengemudikan operasional bisnis, dan merepresentasikan perusahaan tersebut di muka hukum."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Dewan Energi Nasional (DEN).",
+        "instruction": "Apa fungsi Dewan Energi Nasional (DEN)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dewan khusus yang dipimpin oleh Presiden untuk menyusun skenario ketahanan krisis, merumuskan desain bauran energi nasional, dan memastikan kemandirian pasokan listrik maupun bahan bakar bagi ketahanan negara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa peran Dewan Guru Besar.",
+        "instruction": "Apa peran Dewan Guru Besar?",
         "context": "Konteks hukum Indonesia.",
         "response": "Majelis akademik kehormatan yang diisi oleh para profesor di suatu universitas, yang tugasnya adalah membina pengembangan budaya saintifik serta mengawasi penegakan integritas etika kaum cendekiawan di perguruan tinggi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dewan Insinyur Indonesia.",
+        "instruction": "Apa itu Dewan Insinyur Indonesia?",
         "context": "Konteks hukum Indonesia.",
         "response": "Organisasi regulator pemangku kepentingan yang dibentuk secara independen untuk merumuskan kode etik, memfasilitasi ujian kelayakan akreditasi, dan mengawasi malapraktik di bidang profesi rekayasa keinsinyuran."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Dewan Jaminan Sosial Nasional (DJSN).",
+        "instruction": "Apa fungsi Dewan Jaminan Sosial Nasional (DJSN)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dewan perumus kebijakan yang diangkat presiden untuk menelaah kesiapan anggaran asuransi negara, memonitor kelemahan BPJS Kesehatan & Ketenagakerjaan, serta merumuskan standar jaminan kelayakan bagi peserta jaminan sosial."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Dewan Kawasan.",
+        "instruction": "Apa tugas Dewan Kawasan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dewan struktural bentukan pusat yang mengendalikan arah kebijakan makro perdagangan bebas, mengangkat direksi Badan Pengusahaan (BP) Kawasan, dan meninjau realisasi daya saing investasi di zona pelabuhan bebas Batam."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Dewan Kehormatan.",
+        "instruction": "Apa fungsi Dewan Kehormatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Komite pengadil etika di lembaga kepemiluan yang memiliki kewenangan penuh menyidangkan laporan dan menjatuhkan vonis sanksi etik kepada para komisioner KPU/Bawaslu jika terbukti tidak netral atau menyalahgunakan wewenang."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Dewan Komisaris.",
+        "instruction": "Siapakah Dewan Komisaris?",
         "context": "Konteks hukum Indonesia.",
         "response": "Organ pengendali dalam perusahaan (PT) yang secara fungsi tidak boleh mengelola bisnis harian, namun bertugas mutlak untuk memata-matai, mengawasi kejanggalan manajemen, serta memberi teguran/nasihat strategis pada Direksi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dewan Komisioner dalam OJK.",
+        "instruction": "Apa definisi Dewan Komisioner dalam OJK?",
         "context": "Konteks hukum Indonesia.",
         "response": "Susunan majelis kepemimpinan puncak di dalam Otoritas Jasa Keuangan yang cara pengambilan putusannya bersifat setara (kolegial), yang mengomandoi regulasi dan penindakan pada seluruh bank, pasar modal, dan asuransi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa peran Dewan Koperasi Indonesia (Dekopin).",
+        "instruction": "Apa peran Dewan Koperasi Indonesia (Dekopin)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Organisasi tunggal representasi gerakan koperasi skala nasional yang berfungsi mendidik perkoperasian rakyat, mengadvokasi tuntutan fasilitasi bisnis koperasi ke pemerintah, serta menjalin kerja sama jaringan koperasi internasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Dewan Masyayikh.",
+        "instruction": "Apa fungsi Dewan Masyayikh?",
         "context": "Konteks hukum Indonesia.",
         "response": "Majelis keulamaan internal di lembaga pesantren yang diberikan hak otonom untuk menjaga standar pengajaran agama (kurikulum kitab kuning), mengawasi kompetensi santri, dan mengkualifikasi kelulusan pendidikan di pesantren."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Dewan Pengawas Syariah (DPS).",
+        "instruction": "Apa tugas Dewan Pengawas Syariah (DPS)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Panel ulama atau pakar muamalah di perusahaan syariah yang memastikan dan menjamin bahwa produk keuangan, skema akad investasi, hingga sumber pendanaan perusahaan tersebut bebas mutlak dari unsur riba dan perjudian."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dewan Pertimbangan Presiden (Wantimpres).",
+        "instruction": "Apa definisi Dewan Pertimbangan Presiden (Wantimpres)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Lembaga penasihat senior negara yang diberikan akses langsung ke Presiden untuk memberikan masukan-masukan strategis yang mendesak, kajian intelijen, serta nasihat rahasia yang krusial untuk mengambil kebijakan penting."
     },
@@ -710,7 +710,7 @@
         "response": "Lembaga legislatif kamar kedua di parlemen nasional yang anggota-anggotanya diutus secara non-partisan dari setiap provinsi, untuk memastikan kepentingan politik dan kesejahteraan otonomi daerah didengar di tingkat pusat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dewan Perwakilan Rakyat (DPR).",
+        "instruction": "Apa definisi Dewan Perwakilan Rakyat (DPR)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Institusi pemegang kekuasaan perwakilan rakyat paling tinggi di republik ini yang mengeksekusi tiga peran vital: fungsi pembentukan undang-undang (legislasi), fungsi persetujuan penganggaran (budget), dan fungsi pengawasan (control)."
     },
@@ -720,27 +720,27 @@
         "response": "Badan legislatif di tataran wilayah lokal (provinsi, kabupaten/kota) yang bermitra sejajar dengan Kepala Daerah dalam menyusun perda lokal, merancang anggaran (APBD), dan menampung keluhan politik dari konstituen daerah."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Dewan Profesor.",
+        "instruction": "Apa fungsi Dewan Profesor?",
         "context": "Konteks hukum Indonesia.",
         "response": "Alat kelengkapan di Senat Akademik Universitas yang dipenuhi oleh mahaguru, dengan kewenangan eksklusif untuk menjaga arah pengembangan filsafat ilmu pengetahuan kampus serta memecat akademisi yang menjiplak (plagiarisme)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Dinas Provinsi.",
+        "instruction": "Apa itu Dinas Provinsi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Struktur unit birokrasi pemerintahan daerah yang membantu Gubernur untuk mengeksekusi fungsi pelayanan dasar administratif pada sektor-sektor urusan publik tertentu (misal: pendidikan, kesehatan, tata ruang) di wilayah provinsi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas Direksi.",
+        "instruction": "Apa tugas Direksi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Organ pelaksana di tubuh korporasi yang secara hukum wajib memimpin jalannya perusahaan dengan itikad baik (fiduciary duty), merumuskan strategi bisnis harian, dan menjadi representasi tanda tangan perusahaan di meja hukum."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Direktorat Jenderal.",
+        "instruction": "Apa itu Direktorat Jenderal?",
         "context": "Konteks hukum Indonesia.",
         "response": "Unit pelaksana operasional paling besar (Eselon I) di suatu kementerian yang memegang fokus tugas perumusan standar spesifik teknis dan mengendalikan kebijakan sektoral tertentu (seperti Ditjen Bea Cukai atau Ditjen Imigrasi)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi Direktorat Jenderal Imigrasi.",
+        "instruction": "Apa fungsi Direktorat Jenderal Imigrasi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pilar pengawasan di Kemenkumham yang menjalankan otoritas menerbitkan paspor RI, menginvestigasi sindikat penyelundupan imigran gelap, mendeportasi warga asing bermasalah, dan mendata visa tinggal pengunjung asing."
     },
@@ -760,12 +760,12 @@
         "response": "Keleluasaan hukum yang diberikan kepada pejabat pemerintah untuk mengambil jalan keluar sepihak dan langkah inovatif di saat suatu regulasi dinilai belum mengatur krisis tersebut demi mencegah roda pelayanan masyarakat lumpuh."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Diskriminasi terhadap penyandang disabilitas.",
+        "instruction": "Apa definisi Diskriminasi terhadap penyandang disabilitas?",
         "context": "Konteks hukum Indonesia.",
         "response": "Segala sikap pembedaan negatif, penolakan aksesibilitas (seperti tak ada ramp roda), hingga pembatasan peluang pekerjaan yang secara langsung mencederai kesetaraan hak sipil dari warga yang memiliki kelainan fungsi tubuh."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dispensasi.",
+        "instruction": "Apa definisi Dispensasi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Izin pembebasan dari otoritas pemerintahan yang melepaskan seseorang atau institusi dari jeratan kewajiban mutlak suatu peraturan larangan, sehingga aktivitas yang umumnya dilarang tersebut dilegalkan untuk kasus orang ini."
     },
@@ -775,7 +775,7 @@
         "response": "Rangkaian operasi logistik pemindahan barang manufaktur untuk menyebarluaskan produk tersebut melalui jaringan pengecer atau agen perantara agar mudah ditemukan dan dibeli secara langsung oleh pihak konsumen pengguna akhir."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Distributor.",
+        "instruction": "Siapakah Distributor?",
         "context": "Konteks hukum Indonesia.",
         "response": "Entitas korporat pedagang partai besar yang diberikan lisensi hukum oleh pabrikan utama untuk menyedot pasokan dalam kuantitas sangat masif, yang kelak akan didistribusikannya kembali menuju pedagang grosir atau rantai ritel pasar."
     },
@@ -785,27 +785,27 @@
         "response": "Wilayah pembagian unit pelayanan pemerintahan setara tingkat Kecamatan yang penamaannya dibakukan secara khusus (sebagai pengakuan otonomi kultural) di sistem tata negara untuk wilayah Provinsi Papua dan sekitarnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Diversifikasi energi.",
+        "instruction": "Apa definisi Diversifikasi energi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Program transisi negara untuk menghindari ketergantungan fatal pada satu sumur bahan bakar saja (misal impor minyak bumi) dengan memperbanyak instalasi penyediaan sumber listrik dari tenaga angin, arus hidro, atau geothermal."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Divestasi.",
+        "instruction": "Apa definisi Divestasi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Proses penjualan saham perusahaan, pelepasan instrumen investasi, atau likuidasi porsi aset secara terencana oleh entitas pemilik asalnya, yang sering diwajibkan bagi tambang asing untuk melepaskan kepemilikan pada pihak nasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fungsi DJSN (Dewan Jaminan Sosial Nasional).",
+        "instruction": "Apa fungsi DJSN (Dewan Jaminan Sosial Nasional)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dewan penyusun cetak biru arsitektur subsidi perlindungan sosial negara yang memegang komando untuk memastikan sinkronisasi antara layanan kesehatan (BPJS Kesehatan) dan santunan kecelakaan pekerja (BPJS Ketenagakerjaan)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tugas DKPP (Dewan Kehormatan Penyelenggara Pemilu).",
+        "instruction": "Apa tugas DKPP (Dewan Kehormatan Penyelenggara Pemilu)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Mahkamah pengadilan etik independen yang memiliki taring kuat untuk menginvestigasi sengketa moral, dan memiliki kuasa memecat komisioner pemilu (KPU dan Bawaslu) yang ketahuan menerima suap atau bersikap partisan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu DMO (Domestic Market Obligation).",
+        "instruction": "Apa itu DMO (Domestic Market Obligation)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketetapan krusial berupa penjatahan kuota persentase panen produksi tambang atau hasil kilang migas yang oleh aturan negara dipaksa untuk tidak diekspor, melainkan wajib disetor guna menghidupi kebutuhan industri dan listrik dalam negeri."
     },
@@ -815,17 +815,17 @@
         "response": "Rekaman tulisan fisik di atas kertas maupun data elektronik yang tercetak sebagai warkat dan dapat direproduksi keasliannya, sehingga material tersebut sah disodorkan untuk dijadikan rujukan informasi atau alat pembuktian di muka hakim."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Dokumen Elektronik.",
+        "instruction": "Apa definisi Dokumen Elektronik?",
         "context": "Konteks hukum Indonesia.",
         "response": "Format penyimpanan data dalam medium sirkuit digital (baik itu surel, log chat, gambar scan, maupun PDF) yang dibangkitkan dari transmisi jaringan komputasi dan bisa dipergunakan sebagai alat bukti informasi yang sah di mata peradilan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa saja yang termasuk Dokumen Perjalanan Republik Indonesia.",
+        "instruction": "Apa saja yang termasuk Dokumen Perjalanan Republik Indonesia?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pangkat administrasi identitas imigrasi yang wajib dibawa oleh WNI jika menyeberang perbatasan internasional, yang wujud legalnya terdiri atas buku Paspor (Reguler/Dinas/Diplomatik) dan Surat Perjalanan Laksana Paspor (SPLP)."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah Dosen.",
+        "instruction": "Siapakah Dosen?",
         "context": "Konteks hukum Indonesia.",
         "response": "Tenaga edukator, peneliti, dan ilmuwan di ranah pendidikan institusi perguruan tinggi yang memanggul amanat pelaksanaan Tri Dharma (pembelajaran kelas, temuan riset penemuan, dan penyuluhan edukatif dalam pengabdian masyarakat)."
     },
@@ -835,7 +835,7 @@
         "response": "Kamar legislatif pendamping DPR yang diisi oleh kuota para senator independen perwakilan masing-masing provinsi, yang memperjuangkan RUU khusus terkait alokasi pemekaran wilayah dan pendanaan bagi otonomi daerah lokal mereka."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi DPR (Dewan Perwakilan Rakyat).",
+        "instruction": "Apa definisi DPR (Dewan Perwakilan Rakyat)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Lembaga parlemen pusat yang diisi oleh faksi politisi parpol dan mengampu kekuatan veto paling vital di pemerintahan, yaitu hak membuat UU (Legislasi), hak membatasi anggaran presiden (Budget), dan hak memantau birokrasi (Pengawasan)."
     },
@@ -850,7 +850,7 @@
         "response": "Dewan Perwakilan Rakyat Kabupaten/Kota (DPRK) adalah modifikasi sebutan formal bagi DPRD di wilayah dengan status otonomi khusus seperti Aceh, yang mengakomodir representasi partai lokal Aceh dalam kompetisi pilkadanya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Ekspor Barang Kena Pajak Berwujud.",
+        "instruction": "Apa itu Ekspor Barang Kena Pajak Berwujud?",
         "context": "Konteks hukum Indonesia.",
         "response": "Peristiwa pengangkutan produk fisik komoditas manufaktur buatan pabrik di Indonesia (yang dikenakan tarif PPN) lalu barang itu diangkut menembus kawasan pabean internasional untuk diserahterimakan kepada pihak luar negeri."
     },
@@ -860,17 +860,17 @@
         "response": "Tahap krusial pengeboran awal, pemetaan seismik topografi, dan sampling bebatuan yang dilakukan perusahaan untuk mendeteksi letak pasti cadangan hidrokarbon migas, bijih mineral, atau uap panas bumi di dalam kerak bumi."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapakah yang disebut Eksportir.",
+        "instruction": "Siapakah yang disebut Eksportir?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pihak individu pebisnis, UMKM, maupun perusahaan berbadan hukum yang mengeksekusi sirkulasi perniagaan pengiriman logistik produknya menembus wilayah perbatasan bea cukai negara untuk dipasarkan di pasar internasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Energi Final.",
+        "instruction": "Apa definisi Energi Final?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bentuk energi yang sudah melewati berbagai proses kilang penyulingan panjang sehingga utilitasnya sudah dalam posisi langsung dibakar atau siap dikonsumsi final oleh pelanggan (seperti bensin di SPBU atau listrik di rumah warga)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa pengertian Energi terbarukan.",
+        "instruction": "Apa pengertian Energi terbarukan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Sumber kelistrikan maupun bahan bakar yang tenaga pembangkitnya dipanen murni dari siklus alam yang tak akan habis tersedot dan dapat beregenerasi sendiri (misalnya aliran hidrologi air, pancaran radiasi panas surya, dan pusaran angin)."
     },
@@ -1035,9 +1035,9 @@
         "response": "Prinsip dalam negara hukum yang memastikan bahwa setiap kebijakan dan tindakan dari penyelenggara negara selalu bertumpu pada kejelasan aturan perundang-undangan, asas keadilan, serta kepatutan."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Asas lex specialis derogat legi generali.",
+        "instruction": "Jelaskan definisi dari istilah hukum asas lex specialis derogat legi generali.",
         "context": "Konteks hukum Indonesia.",
-        "response": "Asas penafsiran hukum yang menetapkan bahwa jika terjadi tumpang tindih antara aturan hukum yang bersifat khusus dengan aturan yang bersifat umum, maka aturan yang khusus tersebutlah yang harus diutamakan atau diberlakukan."
+        "response": "Asas lex specialis derogat legi generali adalah prinsip hukum yang menyatakan bahwa ketentuan hukum yang lebih khusus mengesampingkan ketentuan hukum yang lebih umum apabila keduanya mengatur hal yang sama. Dalam hukum Indonesia, asas ini digunakan untuk menyelesaikan konflik norma antarundang-undang, di mana undang-undang sektoral seperti UU Perbankan atau UU Perpajakan berlaku lebih dahulu daripada KUHPerdata dalam bidang masing-masing."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Asas lex superior derogat legi inferiori.",
@@ -1105,9 +1105,9 @@
         "response": "Dokumen resmi yang mencatat kronologi seluruh peristiwa esensial selama persidangan berlangsung, termasuk dialog pemeriksaan saksi, pernyataan terdakwa, serta keterangan ahli."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Contempt of Court.",
+        "instruction": "Jelaskan definisi dari istilah hukum contempt of court (penghinaan terhadap pengadilan).",
         "context": "Konteks hukum Indonesia.",
-        "response": "Segala bentuk perbuatan (aktif/pasif), ucapan, atau sikap, baik di dalam maupun di luar ruang sidang, yang ditujukan untuk merongrong martabat pengadilan, mengganggu kelancaran proses peradilan, atau melecehkan kewibawaan hakim."
+        "response": "Contempt of court atau penghinaan terhadap pengadilan adalah segala bentuk perbuatan, ucapan, atau sikap, baik di dalam maupun di luar ruang sidang, yang ditujukan untuk merongrong martabat pengadilan, mengganggu kelancaran proses peradilan, atau melecehkan kewibawaan hakim. Di Indonesia, perbuatan ini dapat dikenai sanksi pidana berdasarkan KUHP maupun berdasarkan undang-undang khusus yang mengatur tata tertib persidangan."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Kadaluarsa (verjaring).",
@@ -1195,9 +1195,9 @@
         "response": "Hasil konklusi dari hakim dalam sebuah putusan peradilan, yang ditarik melalui penafsiran norma hukum secara teori (in abstracto) lalu diterapkan untuk menghakimi fakta-fakta spesifik dari kasus yang sedang disidangkan (in concretto)."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Doktrin ultra vires.",
+        "instruction": "Jelaskan definisi dari istilah hukum doktrin ultra vires dalam hukum korporasi.",
         "context": "Konteks hukum Indonesia.",
-        "response": "Sebuah asas hukum yang menegaskan bahwa sebuah perusahaan atau perseroan dilarang mengambil tindakan atau menjalankan aktivitas yang melampaui batas wewenang yang tercantum dalam anggaran dasar atau tujuan pendiriannya."
+        "response": "Doktrin ultra vires adalah prinsip dalam hukum korporasi yang menyatakan bahwa suatu tindakan atau perbuatan hukum yang dilakukan oleh suatu badan hukum atau pejabatnya di luar batas kewenangan yang ditetapkan dalam anggaran dasar atau peraturan perundang-undangan adalah batal demi hukum. Dalam hukum Indonesia, doktrin ini relevan dalam konteks pertanggungjawaban direksi dan pengawas perseroan terbatas sebagaimana diatur dalam UU No. 40 Tahun 2007 tentang Perseroan Terbatas."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Domisili.",
@@ -1305,9 +1305,9 @@
         "response": "Segala bentuk penerimaan hadiah berskala luas oleh Pegawai Negeri atau Penyelenggara Negara, baik berupa uang tunai, barang, diskon rahasia, fasilitas akomodasi, hingga layanan kesehatan gratis, yang rawan menjadi indikasi suap dan pelanggaran etika birokrasi."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Gugatan perwakilan / Class Action.",
+        "instruction": "Jelaskan definisi dari istilah hukum gugatan perwakilan kelompok.",
         "context": "Konteks hukum Indonesia.",
-        "response": "Sebuah mekanisme peradilan perdata di mana sebagian kecil perwakilan masyarakat diizinkan untuk mengajukan gugatan dan menuntut ganti rugi atas nama populasi masyarakat yang lebih luas, asalkan seluruh anggota kelompok tersebut memiliki kesamaan fakta kasus dan tuntutan."
+        "response": "Gugatan perwakilan kelompok atau class action adalah mekanisme gugatan perdata yang memungkinkan satu orang atau lebih yang memiliki kepentingan yang sama dengan sekelompok orang lain untuk mengajukan gugatan mewakili seluruh kelompok tersebut tanpa harus mendaftarkan seluruh anggota kelompok secara individual. Di Indonesia, mekanisme ini diatur dalam Peraturan Mahkamah Agung (PERMA) Nomor 1 Tahun 2002 tentang Acara Gugatan Perwakilan Kelompok."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Gugatan perwakilan kelompok.",
@@ -1395,9 +1395,9 @@
         "response": "Langkah hukum terakhir untuk meminta Mahkamah Agung membatalkan atau meninjau kesalahan penerapan hukum pada putusan maupun penetapan yang telah dikeluarkan oleh pengadilan di bawahnya pada tingkat peradilan terakhir."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Keadaan kahar; keadaan memaksa/force majeure / overmacht.",
+        "instruction": "Jelaskan definisi dari istilah hukum keadaan kahar atau keadaan memaksa.",
         "context": "Konteks hukum Indonesia.",
-        "response": "Sebuah insiden di luar kendali atau bencana tak terduga yang secara fisik dan logika menghalangi debitur untuk menepati janji kontraknya. Karena kejadian ini bukan akibat niat buruk atau kesalahan debitur, ia dibebaskan dari tuntutan ganti rugi."
+        "response": "Keadaan kahar atau keadaan memaksa (overmacht) adalah suatu kondisi di luar kendali dan kemampuan salah satu pihak dalam suatu perikatan yang menyebabkan pihak tersebut tidak dapat memenuhi kewajibannya tanpa dapat dipersalahkan. Berdasarkan Pasal 1244 dan 1245 KUHPerdata, debitur dibebaskan dari kewajiban membayar ganti rugi apabila ketidakpemenuhan prestasi disebabkan oleh keadaan memaksa yang tidak dapat diperkirakan sebelumnya dan tidak dapat dihindari."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Kegiatan eksaminasi publik.",
@@ -1545,9 +1545,9 @@
         "response": "Pegawai struktural pengadilan yang memiliki wewenang untuk membantu hakim menyelenggarakan kelancaran sidang, salah satunya dengan merekam dan menyusun Berita Acara Persidangan."
     },
     {
-        "instruction": "Jelaskan definisi dari istilah hukum Panitera pengadilan/ clerk of the court.",
+        "instruction": "Jelaskan definisi dari istilah hukum panitera pengadilan.",
         "context": "Konteks hukum Indonesia.",
-        "response": "Aparatur peradilan yang bertanggung jawab melakukan pengelolaan pekerjaan umum kantor pengadilan, termasuk memelihara keamanan dan mengarsipkan segala dokumen atau rekam jejak perkara."
+        "response": "Panitera pengadilan adalah pejabat pengadilan yang bertugas membantu hakim dalam persidangan dengan mencatat jalannya sidang, membuat berita acara persidangan, menyimpan berkas perkara, serta melayani kepentingan administrasi pihak-pihak yang berperkara. Berdasarkan UU No. 49 Tahun 2009 tentang Peradilan Umum, panitera bertanggung jawab atas ketertiban administrasi perkara dan keamanan dokumen pengadilan."
     },
     {
         "instruction": "Jelaskan definisi dari istilah hukum Pembantaran penahanan.",
@@ -1610,12 +1610,12 @@
         "response": "Argumen hukum yang berarti 'apalagi' atau 'dengan alasan yang lebih kuat'. Ini adalah asas logika di mana jika sebuah klaim yang lebih berat saja terbukti benar, maka klaim yang lebih ringan atau bergantung padanya sudah pasti dan otomatis benar."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi dari a priori assumption.",
+        "instruction": "Apa definisi dari a priori assumption?",
         "context": "Konteks hukum Indonesia.",
         "response": "Konklusi awal yang ditarik atau dipercayai kebenarannya berdasarkan akal semata, bahkan sebelum ada data empiris atau pembuktian nyata di lapangaJika diandalkan tanpa penyelidikan lebih lanjut, hal ini bisa berubah menjadi bentuk kelemahan berpikir."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa kepanjangan dan arti dari a.k.a.",
+        "instruction": "Apa kepanjangan dan arti dari a.k.a?",
         "context": "Konteks hukum Indonesia.",
         "response": "Akronim bahasa Inggris untuk 'also known as' yang lazim digunakan dalam berkas kepolisian atau pengadilan untuk menyebutkan nama panggilan lain, inisial samaran, atau nama gadis dari seorang tersangka atau pihak."
     },
@@ -1630,12 +1630,12 @@
         "response": "Aksi melepas, membuang, atau meninggalkan secara permanen seluruh klaim kepentingan atas suatu kepemilikan benda, hak jalan, sewa apartemen, atau bahkan melarikan diri dari kewajiban terhadap keluarga dan pasangan tanpa niat kembali."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Properti yang Ditinggalkan (Abandoned Property).",
+        "instruction": "Apa itu Properti yang Ditinggalkan (Abandoned Property)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Segala jenis benda, dari barang kecil di apartemen sewaan hingga mobil di jalan, yang secara nyata telah diabaikan secara permanen oleh pemilik aslinya dengan indikasi kuat bahwa mereka tidak berniat lagi untuk mengambil hak atasnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Penelantaran (Abandonment).",
+        "instruction": "Apa definisi Penelantaran (Abandonment)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pemutusan secara sepihak dan permanen atas sebuah kepemilikan properti, kontrak, atau tanggung jawab relasional. Dalam ranah keluarga, 'abandonment' merujuk pada penelantaran pasangan tanpa niat kembali, atau meninggalkan anak tanpa dukungan nafkah."
     },
@@ -1660,12 +1660,12 @@
         "response": "Membantu, memfasilitasi, atau memberi dorongan kepada pelaku utama dalam menyukseskan suatu tindak kejahatan, baik itu turut serta menyediakan pelarian maupun menyuplai alat kriminal."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Penundaan Kepemilikan (Abeyance).",
+        "instruction": "Apa itu Penundaan Kepemilikan (Abeyance)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Sebuah jeda atau kekosongan sementara atas status kepemilikan suatu properti (khususnya real estat), biasanya terjadi pada harta warisan saat pengadilan masih mencari siapa pihak yang paling sah untuk menjadi pewarisnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Sehat Jasmani (Able-bodied).",
+        "instruction": "Apa definisi Sehat Jasmani (Able-bodied)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Kondisi di mana seseorang memiliki fungsi tubuh yang sehat dan kapabel untuk melakukan suatu pekerjaaDalam pengadilan keluarga, istilah ini digunakan untuk menuntut seorang suami/istri yang secara fisik 'mampu bekerja' agar tetap wajib membayar tunjangan anak."
     },
@@ -1680,7 +1680,7 @@
         "response": "Langkah pembatalan, penganuliran, atau pencabutan secara resmi atas eksistensi sebuah perundang-undangan lama dengan menerbitkan aturan yang lebih baru, atau tindakan menarik kembali ketentuan kesepakatan dalam sebuah kontrak."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Melarikan Diri (Abscond).",
+        "instruction": "Apa itu Melarikan Diri (Abscond)?",
         "context": "Konteks hukum Indonesia.",
         "response": "(1) Tindakan kabur atau menyembunyikan diri dari radar yurisdiksi pihak berwenang guna mengelak dari surat perintah pengadilan, pemanggilan, atau penangkapa(2) Melarikan diri dengan membawa aset berharga atau uang hasil curian/penggelapan."
     },
@@ -1690,7 +1690,7 @@
         "response": "Sebuah status yang bersifat sempurna, tuntas, utuh, tanpa celah pembatasan, dan tidak terikat oleh syarat apa pun."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Doktrin Abstain (Abstention Doctrine).",
+        "instruction": "Apa itu Doktrin Abstain (Abstention Doctrine)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Sebuah prinsip kebijaksanaan yudisial di mana Mahkamah Agung federal (di AS) secara sengaja menolak untuk memutus atau mengintervensi suatu pertanyaan hukum yang seharusnya merupakan kewenangan yurisdiksi pengadilan di tingkat negara bagian."
     },
@@ -1705,17 +1705,17 @@
         "response": "Formulir atau dokumen resmi dari panitera yang memuat intisari hukuman finansial dari sebuah vonis pengadilan, merinci nominal utang pokok pihak yang kalah kepada penggugat pemenang, beserta akumulasi bunga dan denda biaya persidangan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Ringkasan Hak Milik (Abstract of Title).",
+        "instruction": "Apa itu Ringkasan Hak Milik (Abstract of Title)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Laporan tertulis hasil penelusuran secara mendalam mengenai riwayat rantai kepemilikan sebidang tanah, yang juga membongkar apakah properti tersebut sedang diikat oleh beban hukum lain, seperti sengketa, utang hipotek, atau pajak yang menunggak."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Penyalahgunaan Wewenang (Abuse of Discretion).",
+        "instruction": "Apa definisi Penyalahgunaan Wewenang (Abuse of Discretion)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Argumen dari pengacara saat mengajukan banding bahwa hakim pengadilan tingkat pertama telah bertindak sangat tidak logis, cacat prosedural, atau mengabaikan fakta secara terang-terangan saat memutus perkara, sehingga kliennya gagal mendapatkan peradilan yang adil."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Penyalahgunaan Proses Hukum (Abuse of Process).",
+        "instruction": "Apa itu Penyalahgunaan Proses Hukum (Abuse of Process)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Eksploitasi, penyimpangan, atau penggunaan prosedur pengadilan yang ditujukan untuk intimidasi jahat atau melanggar hukum, alih-alih untuk mencari keadilaContohnya adalah sengaja mengirimkan draf somasi palsu untuk menakuti lawan."
     },
@@ -1730,7 +1730,7 @@
         "response": "Konsep yang memiliki dua dimensi: (1) Jatuh temponya hak kepemilikan atas sebuah warisan lebih cepat dari perkiraa(2) Keputusan mengeksekusi sisa tagihan secara penuh dan mendadak, karena debitur kontrak melanggar satu kewajiban (seperti gagal bayar cicilan pertama)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Klausul Percepatan (Acceleration Clause).",
+        "instruction": "Apa itu Klausul Percepatan (Acceleration Clause)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Sebuah paragraf ancaman dalam surat kontrak cicilan yang menyebutkan bahwa jika debitur gagal membayar satu kali angsuran saja (wanprestasi), maka seluruh total sisa utang yang tersisa seketika akan dianggap jatuh tempo dan harus dilunasi secara penuh pada hari itu juga."
     },
@@ -1745,7 +1745,7 @@
         "response": "Sebuah elemen fundamental pembentuk kontrak yang berarti tindakan afirmatif dan persetujuan (kabul) dari satu pihak secara lisan atau tertulis untuk mengikatkan diri terhadap tawaran (ijab) pihak lain, sekaligus mencerminkan niat untuk memegang komitmen tersebut."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Penerimaan Layanan (Acceptance of Service).",
+        "instruction": "Apa itu Penerimaan Layanan (Acceptance of Service)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pernyataan tertulis yang ditandatangani oleh tergugat atau pengacaranya yang menyetujui dan menerima salinan dokumen gugatan (seperti berkas cerai), tanpa mengharuskan pengadilan mengirimkan petugas (juru sita) untuk mendatangi dan mencari terdakwa secara fisik."
     },
@@ -1755,7 +1755,7 @@
         "response": "Di bidang perumahan, ini adalah hak hukum untuk mendapatkan jalan masuk menuju ke lahan properti (easement). Di ranah hukum pernikahan, akses merujuk pada adanya kesempatan seorang suami untuk berhubungan badan dengan istri pada suatu periode waktu (yang sangat krusial di mata hakim bila terjadi sengketa keabsahan ayah kandung dari anak yang dilahirkan)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Pembantu Kejahatan (Accessory).",
+        "instruction": "Apa itu Pembantu Kejahatan (Accessory)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Seorang pemain di balik layar yang keterlibatannya adalah membantu memfasilitasi terjadinya kejahatan (seperti merancang strategi perampokan, menyediakan pistol, menyiapkan pelarian, atau menyembunyikan pelaku), namun lazimnya ia tidak berada di lokasi pada detik eksekusi tindak pidana itu terjadi."
     },
@@ -1765,142 +1765,142 @@
         "response": "Tindakan seseorang yang membantu temannya dengan membubuhkan tanda tangannya sebagai pihak penjamin tambahan (avalist) pada sebuah surat utang, tanpa meminta kompensasi apa puPosisi ini berisiko fatal, karena jika sang peminjam kabur, kreditur berhak menuntut penjamin tersebut sepenuhnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pembukaan UUD 1945 Alinea 1.",
+        "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 1?",
         "context": "Konteks hukum Indonesia.",
         "response": "Alinea pertama ini secara tegas mendeklarasikan bahwa kemerdekaan merupakan hak asasi yang melekat pada semua bangsa di dunia. Konsekuensinya, segala praktik penjajahan di muka bumi wajib diberantas karena secara fundamental menyalahi prinsip-prinsip perikemanusiaan dan perikeadilan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pembukaan UUD 1945 Alinea 2.",
+        "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 2?",
         "context": "Konteks hukum Indonesia.",
         "response": "Alinea ini menggambarkan bahwa perjuangan panjang pergerakan kemerdekaan bangsa Indonesia telah berhasil mencapai titik puncaknya. Momentum tersebut mengantarkan rakyat Indonesia ke gerbang kemerdekaan untuk membentuk sebuah negara yang merdeka, bersatu, berdaulat, adil, dan makmur."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pembukaan UUD 1945 Alinea 3.",
+        "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 3?",
         "context": "Konteks hukum Indonesia.",
         "response": "Bagian ini merupakan pengakuan religius yang menegaskan bahwa kemerdekaan Indonesia bukan semata-mata hasil perjuangan fisik, melainkan terwujud atas berkat rahmat Allah Yang Maha Kuasa. Didorong oleh cita-cita luhur untuk memiliki kehidupan kebangsaan yang bebas, maka rakyat Indonesia secara resmi menyatakan kemerdekaannya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pembukaan UUD 1945 Alinea 4.",
+        "instruction": "Apa bunyi Pembukaan UUD 1945 Alinea 4?",
         "context": "Konteks hukum Indonesia.",
         "response": "Alinea keempat merumuskan empat tujuan utama pembentukan negara: melindungi segenap bangsa dan tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, serta ikut serta dalam ketertiban dunia (berbasis kemerdekaan, perdamaian abadi, dan keadilan sosial). Hal ini diwujudkan dalam susunan Negara Republik Indonesia yang berkedaulatan rakyat dan berlandaskan pada lima sila dasar falsafah negara, yaitu Pancasila."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 1 Ayat (1) UUD 1945 (Naskah Asli) mengenai Bentuk Negara.",
+        "instruction": "Apa bunyi Pasal 1 Ayat (1) UUD 1945 (Naskah Asli) mengenai Bentuk Negara?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini secara eksplisit menetapkan bahwa bentuk negara Indonesia adalah Negara Kesatuan, dengan sistem pemerintahan yang dijalankan dalam bentuk Republik."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 1 Ayat (2) UUD 1945 (Naskah Asli) mengenai Kedaulatan.",
+        "instruction": "Apa bunyi Pasal 1 Ayat (2) UUD 1945 (Naskah Asli) mengenai Kedaulatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dalam naskah aslinya, ayat ini mengamanatkan bahwa kedaulatan mutlak berada di tangan rakyat. Namun, pengejawantahan atau pelaksanaan sepenuhnya dari kedaulatan tersebut dimandatkan kepada Majelis Permusyawaratan Rakyat (MPR)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 2 Ayat (1) UUD 1945 (Naskah Asli) mengenai Susunan MPR.",
+        "instruction": "Apa bunyi Pasal 2 Ayat (1) UUD 1945 (Naskah Asli) mengenai Susunan MPR?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini mengatur komposisi MPR yang dibentuk dari para anggota Dewan Perwakilan Rakyat (DPR), yang kemudian digabungkan dengan elemen utusan dari berbagai daerah serta representasi golongan-golongan fungsional, yang tata cara penentuannya diatur lebih lanjut melalui undang-undang."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 2 Ayat (2) UUD 1945 (Naskah Asli) mengenai Sidang MPR.",
+        "instruction": "Apa bunyi Pasal 2 Ayat (2) UUD 1945 (Naskah Asli) mengenai Sidang MPR?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketentuan ini mewajibkan Majelis Permusyawaratan Rakyat untuk mengadakan sidang formal di ibu kota negara dengan frekuensi minimal satu kali dalam kurun waktu lima tahun."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 2 Ayat (3) UUD 1945 (Naskah Asli) mengenai Putusan MPR.",
+        "instruction": "Apa bunyi Pasal 2 Ayat (3) UUD 1945 (Naskah Asli) mengenai Putusan MPR?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ayat ini memberikan dasar hukum bahwa seluruh keputusan yang dikeluarkan oleh Majelis Permusyawaratan Rakyat harus ditetapkan melalui mekanisme pemungutan suara (suara terbanyak)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 3 UUD 1945 (Naskah Asli) mengenai Tugas MPR.",
+        "instruction": "Apa bunyi Pasal 3 UUD 1945 (Naskah Asli) mengenai Tugas MPR?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pada naskah aslinya, Pasal 3 memberikan mandat tunggal kepada Majelis Permusyawaratan Rakyat untuk menetapkan konstitusi (Undang-Undang Dasar) sekaligus merumuskan Garis-Garis Besar Haluan Negara (GBHN)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 4 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Presiden.",
+        "instruction": "Apa bunyi Pasal 4 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Presiden?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketentuan ini menegaskan bahwa pemegang otoritas dan kekuasaan tertinggi dalam menjalankan roda pemerintahan negara adalah Presiden Republik Indonesia, dengan batasan bahwa pelaksanaannya harus tunduk pada Undang-Undang Dasar."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 4 Ayat (2) UUD 1945 (Naskah Asli) mengenai Wakil Presiden.",
+        "instruction": "Apa bunyi Pasal 4 Ayat (2) UUD 1945 (Naskah Asli) mengenai Wakil Presiden?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini menetapkan bahwa dalam melaksanakan segala tugas dan kewajiban kenegaraannya, Presiden didampingi dan dibantu secara langsung oleh satu orang Wakil Presiden."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 5 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Legislatif.",
+        "instruction": "Apa bunyi Pasal 5 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kekuasaan Legislatif?",
         "context": "Konteks hukum Indonesia.",
         "response": "Di dalam naskah sebelum amandemen, kekuasaan utama untuk merancang dan membentuk sebuah undang-undang dipegang oleh Presiden, dengan syarat rancangan tersebut harus mendapatkan persetujuan dari Dewan Perwakilan Rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 5 Ayat (2) UUD 1945 (Naskah Asli) mengenai Peraturan Pemerintah.",
+        "instruction": "Apa bunyi Pasal 5 Ayat (2) UUD 1945 (Naskah Asli) mengenai Peraturan Pemerintah?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ayat ini memberikan kewenangan kepada Presiden untuk merumuskan dan menetapkan Peraturan Pemerintah (PP) yang berfungsi sebagai instrumen teknis agar suatu undang-undang dapat dijalankan secara operasional."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 6 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kebangsaan Presiden.",
+        "instruction": "Apa bunyi Pasal 6 Ayat (1) UUD 1945 (Naskah Asli) mengenai Kebangsaan Presiden?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pada versi awal UUD 1945, terdapat syarat konstitusional yang secara ketat mengharuskan bahwa figur yang menduduki jabatan Presiden haruslah seorang warga negara Indonesia asli."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 6 Ayat (2) UUD 1945 (Naskah Asli) mengenai Pemilihan Presiden.",
+        "instruction": "Apa bunyi Pasal 6 Ayat (2) UUD 1945 (Naskah Asli) mengenai Pemilihan Presiden?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketentuan lama ini mengatur bahwa Presiden dan Wakil Presiden tidak dipilih secara langsung oleh rakyat, melainkan ditunjuk dan dipilih oleh anggota Majelis Permusyawaratan Rakyat melalui sistem suara terbanyak."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 7 UUD 1945 (Naskah Asli) mengenai Masa Jabatan.",
+        "instruction": "Apa bunyi Pasal 7 UUD 1945 (Naskah Asli) mengenai Masa Jabatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini menyatakan bahwa masa bakti Presiden dan Wakil Presiden adalah lima tahuSetelah masa jabatan tersebut berakhir, mereka berhak dan dapat dipilih kembali untuk periode selanjutnya tanpa adanya batasan jumlah periode yang jelas."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 8 UUD 1945 (Naskah Asli) mengenai Kekosongan Jabatan.",
+        "instruction": "Apa bunyi Pasal 8 UUD 1945 (Naskah Asli) mengenai Kekosongan Jabatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Apabila Presiden mangkat, mengundurkan diri, atau secara permanen tidak sanggup lagi menjalankan mandat konstitusinya sebelum masa jabatannya berakhir, maka secara otomatis posisi tersebut akan digantikan oleh Wakil Presiden hingga sisa periode jabatan usai."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 9 UUD 1945 (Naskah Asli) mengenai Sumpah Presiden.",
+        "instruction": "Apa bunyi Pasal 9 UUD 1945 (Naskah Asli) mengenai Sumpah Presiden?",
         "context": "Konteks hukum Indonesia.",
         "response": "Sebelum resmi menjabat, Presiden dan Wapres diwajibkan mengucapkan sumpah agama atau janji setia di hadapan MPR/DPR. Inti sumpah tersebut adalah komitmen untuk menjalankan tugas kepresidenan dengan adil, berpegang teguh pada Konstitusi, mengeksekusi undang-undang secara lurus, serta berbakti sepenuhnya kepada Nusa dan Bangsa."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 10 UUD 1945 (Naskah Asli) mengenai Komando Militer.",
+        "instruction": "Apa bunyi Pasal 10 UUD 1945 (Naskah Asli) mengenai Komando Militer?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini mengukuhkan Presiden sebagai Panglima Tertinggi yang memegang kekuasaan komando absolut atas ketiga matra pertahanan negara, yaitu Angkatan Darat, Angkatan Laut, dan Angkatan Udara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 11 UUD 1945 (Naskah Asli) mengenai Pernyataan Perang.",
+        "instruction": "Apa bunyi Pasal 11 UUD 1945 (Naskah Asli) mengenai Pernyataan Perang?",
         "context": "Konteks hukum Indonesia.",
         "response": "Presiden diberikan wewenang untuk mendeklarasikan perang, mengadakan perjanjian damai, serta menandatangani traktat dengan negara-negara asing, namun tindakan-tindakan vital tersebut mutlak memerlukan persetujuan dari Dewan Perwakilan Rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 12 UUD 1945 (Naskah Asli) mengenai Keadaan Bahaya.",
+        "instruction": "Apa bunyi Pasal 12 UUD 1945 (Naskah Asli) mengenai Keadaan Bahaya?",
         "context": "Konteks hukum Indonesia.",
         "response": "Presiden memiliki otoritas untuk memproklamirkan status keadaan bahaya. Mengenai prasyarat penetapan status darurat tersebut beserta segala dampak hukum yang ditimbulkannya, akan diatur lebih lanjut melalui sebuah undang-undang."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 13 Ayat (1) UUD 1945 (Naskah Asli) mengenai Duta.",
+        "instruction": "Apa bunyi Pasal 13 Ayat (1) UUD 1945 (Naskah Asli) mengenai Duta?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ayat pertama pada pasal ini memberikan hak prerogatif kepada Presiden untuk mengangkat perwakilan diplomatik Republik Indonesia, yang mencakup penunjukan Duta Besar maupun Konsul."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 14 UUD 1945 (Naskah Asli) mengenai Grasi.",
+        "instruction": "Apa bunyi Pasal 14 UUD 1945 (Naskah Asli) mengenai Grasi?",
         "context": "Konteks hukum Indonesia.",
         "response": "Konstitusi memberikan kekuasaan khusus kepada Presiden untuk memberikan pengampunan hukum atau meringankan beban pidana melalui instrumen Grasi, Amnesti, Abolisi, serta pemulihan nama baik melalui Rehabilitasi."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa bunyi Pasal 15 UUD 1945 (Naskah Asli) mengenai Gelar Kehormatan.",
+        "instruction": "Apa bunyi Pasal 15 UUD 1945 (Naskah Asli) mengenai Gelar Kehormatan?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini menetapkan bahwa Presiden memiliki hak dan wewenang untuk menganugerahkan berbagai macam gelar kepahlawanan, bintang tanda jasa, dan ragam tanda kehormatan kenegaraan lainnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa latar belakang konstitusional ditetapkannya TAP MPRS No. I/MPRS/1960.",
+        "instruction": "Apa latar belakang konstitusional ditetapkannya TAP MPRS No. I/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Penetapan ini didasari oleh kebutuhan untuk mengonsolidasi arah revolusi pasca Dekrit Presiden 1959. Pertimbangannya mencakup: (a) UUD 1945 merupakan pijakan mutlak negara; (b) Pidato 'Manipol' yang bersumber pada Pancasila adalah manifestasi nyata tujuan proklamasi; (c) Sebuah negara yang sedang membangun wajib memiliki Haluan Negara yang kokoh; (d) Manipol harus dikukuhkan statusnya sebagai pedoman ideologis-praktis yang mengikat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa judul dan inti dari Ketetapan MPRS Nomor I/MPRS/1960.",
+        "instruction": "Apa judul dan inti dari Ketetapan MPRS Nomor I/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketetapan ini diberi judul 'Manifesto Politik Republik Indonesia sebagai Garis-Garis Besar daripada Haluan Negara'. Substansi utamanya adalah mengangkat dan mengesahkan pidato Presiden Soekarno (Manipol) yang disampaikan pada 17 Agustus 1959 menjadi landasan operasional dan ideologis tertinggi (GBHN) bagi seluruh aparatur dan kegiatan negara."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa yang diputuskan dalam Pasal 1 Ketetapan MPRS No. I/MPRS/1960.",
+        "instruction": "Apa yang diputuskan dalam Pasal 1 Ketetapan MPRS No. I/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal ini memutuskan untuk menguatkan kedudukan Manifesto Politik Republik Indonesia, beserta seluruh rinciannya, agar diakui secara sah sebagai kerangka dasar dari Garis-Garis Besar Haluan Negara yang menjadi fondasi pembangunan ideologis bangsa."
     },
@@ -1920,37 +1920,37 @@
         "response": "Pedoman pelaksanaannya ditarik dari dua dokumen penting: Pertama, Pidato kemerdekaan 17 Agustus 1959 yang populer dengan tajuk 'Penemuan Kembali Revolusi Kita'; Kedua, Arahan Presiden pada 28 Agustus 1959 di hadapan Depernas yang merumuskan konsep 'Pembangunan Semesta Berencana'."
     },
     {
-        "instruction": "Jelaskan definisi dari Bagaimana substansi 'Amanat Presiden tanggal 17 Agustus 1959' mencerminkan penjabaran Manifesto Politik.",
+        "instruction": "Bagaimana substansi 'Amanat Presiden tanggal 17 Agustus 1959' mencerminkan penjabaran Manifesto Politik?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pidato tersebut berfungsi sebagai penjabaran ideologis dengan poin utama: (1) Menegaskan bahwa revolusi Indonesia belum usai dan harus terus menyala; (2) Membuang demokrasi gaya Barat yang liberal dan menggantinya dengan Demokrasi Terpimpin yang fokus pada kesejahteraan substantif; (3) Menerapkan ekonomi berdikari yang anti-kolonialisme; (4) Memobilisasi persatuan faksi nasionalis, agama, dan komunis (Nasakom) sebagai motor revolusi; (5) Membangun kedaulatan bangsa agar tidak mudah disetir oleh intervensi asing."
     },
     {
-        "instruction": "Jelaskan definisi dari Siapa yang diberi tugas melaksanakan putusan TAP MPRS No. I/MPRS/1960 menurut Pasal 4.",
+        "instruction": "Siapa yang diberi tugas melaksanakan putusan TAP MPRS No. I/MPRS/1960 menurut Pasal 4?",
         "context": "Konteks hukum Indonesia.",
         "response": "MPRS melimpahkan kekuasaan eksekusi secara absolut kepada Presiden Republik Indonesia, yang pada masa itu juga menyandang status sebagai Panglima Tertinggi sekaligus Pemimpin Besar Revolusi. Sebagai mandataris, ia wajib merealisasikan haluan ini dan mempertanggungjawabkannya kembali ke MPRS."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa hubungan antara TAP MPRS No. I/MPRS/1960 dan TAP MPRS No. II/MPRS/1960 dalam kerangka pembangunan nasional.",
+        "instruction": "Apa hubungan antara TAP MPRS No. I/MPRS/1960 dan TAP MPRS No. II/MPRS/1960 dalam kerangka pembangunan nasional?",
         "context": "Konteks hukum Indonesia.",
         "response": "TAP No. I berfungsi sebagai landasan nilai dan kompas ideologis (Manifesto Politik), yang menetapkan 'mengapa' dan 'apa' visi negara ini. Sementara TAP No. II bertindak sebagai cetak biru teknis atau manual operasional (Pola Pembangunan Semesta Berencana 1961-1969) yang merincikan 'bagaimana' visi tersebut dieksekusi menjadi program-program nyata di lapangan."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa isi dari Ketetapan MPRS Nomor II/MPRS/1960 dan latar belakangnya.",
+        "instruction": "Apa isi dari Ketetapan MPRS Nomor II/MPRS/1960 dan latar belakangnya?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ketetapan ini mengesahkan rancangan 'Garis-Garis Besar Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama' untuk jangka waktu 1961 hingga 1969, sebuah mahakarya dari Dewan Perancang Nasional (Depernas). Latar belakangnya didorong oleh urgensi negara untuk memiliki blue-print pembangunan yang tak hanya menyentuh ekonomi, tetapi juga sosial, budaya, dan mental bangsa."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa tujuan dari Pembangunan Nasional Semesta Berencana menurut bagian 'Menimbang' dalam TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa tujuan dari Pembangunan Nasional Semesta Berencana menurut bagian 'Menimbang' dalam TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Tujuan akhirnya adalah mewujudkan suatu tatanan 'Masyarakat Sosialis Indonesia' yang berlandaskan Pancasila—sebuah masyarakat di mana kesejahteraan dan keadilan merata, serta terbebas dari sistem eksploitasi antarmanusia (penghisapan kelas). Pembangunan ini dirancang terstruktur sebagai pemenuhan janji atas Amanat Penderitaan Rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa keputusan Pasal 1 dalam TAP MPRS No. II/MPRS/1960 mengenai Rancangan Depernas.",
+        "instruction": "Apa keputusan Pasal 1 dalam TAP MPRS No. II/MPRS/1960 mengenai Rancangan Depernas?",
         "context": "Konteks hukum Indonesia.",
         "response": "Pasal 1 secara resmi menerima dan mengesahkan seluruh kerangka perencanaan dari Depernas (yang termuat dalam Buku I, II, dan III) untuk diadopsi menjadi cetak biru negara yang sah, yakni Pola Pembangunan Nasional Semesta Berencana Tahapan Pertama periode 1961-1969."
     },
     {
-        "instruction": "Jelaskan definisi dari Bagaimana struktur dan sistematika GBHN dalam Pola Pembangunan Nasional Semesta Berencana 1961-1969.",
+        "instruction": "Bagaimana struktur dan sistematika GBHN dalam Pola Pembangunan Nasional Semesta Berencana 1961-1969?",
         "context": "Konteks hukum Indonesia.",
         "response": "Dokumen GBHN ini dirajut secara sistematis, dimulai dari: (1) Bab Pendahuluan (asas filosofis konstitusional); (2) Pola Dasar Pembangunan Nasional; (3) Pola Umum Pembangunan Jangka Panjang; (4) Penjabaran rinci Program Pembangunan Tahap Pertama; (5) Penentuan kebijakan lintas sektor; serta diakhiri dengan (6) Bab Penutup yang menjabarkan aturan eksekusi di lapangan."
     },
@@ -1960,17 +1960,17 @@
         "response": "Pasal ini memfokuskan pembangunan pada pembentukan karakter (character building) demi menangkal infiltrasi budaya asing. Kebijakan intinya meliputi: kewajiban mengajarkan Pancasila dan Manipol di seluruh jenjang pendidikan; menjadikan agama sebagai pelajaran wajib; sokongan penuh negara terhadap pembangunan sarana ibadah; serta dorongan untuk memajukan kesenian lokal yang mencerminkan jati diri Pancasila."
     },
     {
-        "instruction": "Jelaskan definisi dari Bagaimana kebijakan pendidikan nasional diatur dalam Pasal 2 Ayat 5 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Bagaimana kebijakan pendidikan nasional diatur dalam Pasal 2 Ayat 5 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Ayat ini menginstruksikan agar sistem pendidikan nasional difokuskan untuk melahirkan sumber daya manusia dan tenaga ahli yang tak hanya cakap secara teknis, tetapi juga memiliki mentalitas revolusioner, berjiwa luhur, dan seutuhnya mencerminkan karakter 'Manusia Sosialis Indonesia' yang siap terjun dalam pembangunan semesta."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa fokus pembangunan Bidang Kesejahteraan menurut Pasal 3 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa fokus pembangunan Bidang Kesejahteraan menurut Pasal 3 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Titik beratnya adalah pada penciptaan distribusi kesejahteraan yang berkeadilan, menjamin tiap warga negara memperoleh pekerjaan dengan upah memadai, memberantas pengangguran sistemik, dan membongkar sisa-sisa penindasan ekonomi yang diwariskan oleh praktik feodalisme serta kolonialisme."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa peran Landreform dalam pembangunan menurut Pasal 4 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa peran Landreform dalam pembangunan menurut Pasal 4 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Landreform diposisikan sebagai pilar krusial dalam revolusi Indonesia. Perannya adalah mengakhiri sistem tanah sebagai alat monopoli dan eksploitasi, dengan cara meredistribusikan lahan kepada petani penggarap, menghapus feodalisme agraria, mendongkrak panen, dan membangun basis ekonomi perdesaan yang kuat guna menyokong industrialisasi."
     },
@@ -1980,22 +1980,22 @@
         "response": "Pelaksanaan landreform berpegang pada prinsip: (1) Tanah mutlak harus dikuasai dan dikerjakan oleh rakyat kecil yang bertani; (2) Praktik penghisapan tenaga kerja tani harus dihentikan; (3) Negara menjadi aktor sentral yang mengatur distribusi; (4) Eksekusi dilakukan bertahap tapi tegas; (5) Pemberian lahan wajib diiringi dengan fasilitasi kredit serta teknologi bagi petani."
     },
     {
-        "instruction": "Jelaskan definisi dari Bagaimana sifat pertahanan negara menurut Pasal 4 Ayat 5 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Bagaimana sifat pertahanan negara menurut Pasal 4 Ayat 5 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Doktrin pertahanan digariskan bersumber pada prinsip 'defensif-aktif' yang sangat menentang imperialisme, bertumpu pada Sistem Pertahanan Rakyat Semesta. Artinya, Indonesia tidak akan memicu agresi terhadap negara lain, namun akan merespons ancaman secara militer dengan mengintegrasikan kekuatan tentara profesional beserta seluruh komponen rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa kebijakan utama Bidang Produksi dalam Pasal 5 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa kebijakan utama Bidang Produksi dalam Pasal 5 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Arah utamanya difokuskan pada: (1) Prioritas swasembada kebutuhan primer seperti beras, jagung, dan garam; (2) Nasionalisasi dan penguasaan mutlak oleh negara atas urat nadi produksi seperti tambang dan energi dasar; (3) Pengembangan industri lokal untuk memotong impor; (4) Suntikan modal dan manajemen bagi sektor hulu; serta (5) Pelibatan koperasi sebagai pilar usaha rakyat."
     },
     {
-        "instruction": "Jelaskan definisi dari Bagaimana peran pemerintah dalam Bidang Distribusi menurut Pasal 6 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Bagaimana peran pemerintah dalam Bidang Distribusi menurut Pasal 6 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Negara diamanatkan untuk campur tangan secara langsung guna memastikan kebutuhan pokok tiba di tangan rakyat secara merata dan murah. Pemerintah juga wajib memegang kendali atas keran ekspor-impor yang vital, memutus mata rantai monopoli swasta yang mencekik konsumen, dan membangun sistem rantai pasok hingga ke pelosok."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa ketentuan mengenai transportasi dan telekomunikasi dalam Pasal 6 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa ketentuan mengenai transportasi dan telekomunikasi dalam Pasal 6 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Semua infrastruktur perhubungan—baik jalur laut, udara, darat—dan jaringan telekomunikasi yang berdampak luas wajib dikuasai dan diselenggarakan langsung oleh negara. Hal ini bertujuan untuk menekan tarif agar ramah di kantong rakyat, sekaligus menjadikan transportasi sebagai alat pemersatu bangsa yang memfasilitasi logistik dengan aman."
     },
@@ -2005,7 +2005,7 @@
         "response": "Pembiayaan diprioritaskan bersumber dari kemandirian domestik (swadaya), mencakup: optimalisasi setoran pajak, dividen BUMN, penarikan tabungan publik via bank dan koperasi, serta pemanfaatan kekayaan alam. Bantuan, kredit, atau investasi dari entitas asing diizinkan secara selektif, asalkan tidak mensyaratkan ikatan politik yang menggadaikan kedaulatan bangsa."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa syarat kerja sama ekonomi luar negeri menurut Pasal 7 Ayat 2 TAP MPRS No. II/MPRS/1960.",
+        "instruction": "Apa syarat kerja sama ekonomi luar negeri menurut Pasal 7 Ayat 2 TAP MPRS No. II/MPRS/1960?",
         "context": "Konteks hukum Indonesia.",
         "response": "Kemitraan asing baru boleh dijalankan jika memenuhi kualifikasi ketat: tidak boleh mengkhianati semangat revolusi Manipol, harus menguntungkan rakyat Indonesia, mengharamkan kondisi yang membuat RI bergantung (neo-kolonialisme), transparan tanpa klausul jebakan utang jangka panjang, dan wajib dilegitimasi melalui undang-undang bersama DPR."
     },
@@ -2145,12 +2145,12 @@
         "response": "Jargon Latin yang bermakna 'dengan alasan yang lebih kuat'. Digunakan dalam argumen silogisme: bila sebuah premis yang lebih sulit/berat saja terbukti benar, maka premis yang lebih ringan sudah dipastikan valid (misal: jika ia mampu mengangkat 50kg, a fortiori ia mampu mengangkat 10kg)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi dari 'a priori assumption'.",
+        "instruction": "Apa definisi dari 'a priori assumption'?",
         "context": "Konteks hukum Indonesia.",
         "response": "Konsep dari bahasa Latin untuk sebuah dalil atau asumsi awal yang diterima akal sebagai suatu kebenaran tanpa perlu pembuktian eksperimental (contoh: bola itu bundar). Dalam ranah hukum, mengandalkan asumsi a priori tanpa analisis fakta sering dianggap sebagai kecacatan nalar."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa kepanjangan dan arti dari 'a.k.a.'.",
+        "instruction": "Apa kepanjangan dan arti dari 'a.k.a.'?",
         "context": "Konteks hukum Indonesia.",
         "response": "Merupakan singkatan dari 'also known as' (dikenal juga sebagai). Label ini lazim digunakan pada berkas hukum atau laporan investigasi untuk mengidentifikasi seseorang yang memiliki nama alias, nama panggung, atau inisial ganda."
     },
@@ -2165,12 +2165,12 @@
         "response": "Aksi memutus segala ikatan tanggung jawab, penguasaan, maupun hak milik secara permanen dan disengaja. Contoh penerapannya mencakup melepaskan kepemilikan apartemen, menelantarkan hak asuh, atau melarikan diri dari kewajiban keluarga."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Properti yang Ditinggalkan (Abandoned Property).",
+        "instruction": "Apa itu Properti yang Ditinggalkan (Abandoned Property)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Segala wujud aset fisik (seperti kendaraan yang dibiarkan mangkrak di jalan atau perabotan yang ditinggal penyewa) yang secara nyata telah dilepaskan penguasaannya oleh pemilik asal, dengan indikasi bahwa mereka tak akan pernah kembali untuk mengklaimnya."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Penelantaran (Abandonment).",
+        "instruction": "Apa definisi Penelantaran (Abandonment)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Tindakan melepaskan, menyerahkan, atau memutus hak kepemilikan dan kewajiban secara absolut. Dalam ranah keluarga, ini bermakna meninggalkan pasangan tanpa intensi kembali, atau membiarkan anak tanpa memberikan nafkah dan komunikasi."
     },
@@ -2195,12 +2195,12 @@
         "response": "Turut serta menyokong, mendorong, atau memfasilitasi seseorang untuk melancarkan niat jahat kejahatannya, seperti menyediakan rute pelarian, menyembunyikan alat bukti, atau mendanai rencana kriminal tersebut."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Penundaan Kepemilikan (Abeyance).",
+        "instruction": "Apa itu Penundaan Kepemilikan (Abeyance)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Suatu jeda atau kondisi vakum di mana hak kepemilikan atas sebuah properti sedang dalam posisi ditangguhkan atau belum ada kejelasan hukumnya (misalnya, menanti putusan pengadilan mengenai siapa pewaris sah dari aset orang yang meninggal)."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa definisi Sehat Jasmani (Able-bodied).",
+        "instruction": "Apa definisi Sehat Jasmani (Able-bodied)?",
         "context": "Konteks hukum Indonesia.",
         "response": "Deskripsi bagi seseorang yang secara medis memiliki fisik yang bugar dan kompeten untuk mencari nafkah. Dalam sidang perceraian, status ini sering dipakai hakim untuk mewajibkan orang tersebut membayar tunjangan anak atau mantan pasangan."
     },
@@ -2215,7 +2215,7 @@
         "response": "Langkah resmi untuk membatalkan, menganulir, atau mencabut kekuatan berlakunya sebuah aturan hukum lama dengan menerbitkan perundang-undangan baru, atau tindakan menghapus daya ikat dari sebuah klausul dalam kontrak perjanjian."
     },
     {
-        "instruction": "Jelaskan definisi dari Apa itu Melarikan Diri (Abscond).",
+        "instruction": "Apa itu Melarikan Diri (Abscond)?",
         "context": "Konteks hukum Indonesia.",
         "response": "(1) Tindakan menghilang secara diam-diam dan keluar dari jangkauan yurisdiksi penegak hukum guna mengelak dari surat perintah pengadilan, panggilan sidang, atau proses penangkapa(2) Melarikan diri bersama aset atau uang hasil kejahatan."
     },
@@ -2625,9 +2625,9 @@
         "response": "Cacat sebagian; cedera yang secara permanen mengurangi kemampuan seseorang untuk berfungsi tetapi masih memungkinkan beberapa pekerjaan."
     },
     {
-        "instruction": "Coba jelaskan makna dari Implied Covenant of Good Faith and Fair Dealing?",
+        "instruction": "Jelaskan makna dari asas itikad baik yang tersirat dalam perjanjian.",
         "context": "Asumsi umum bahwa semua pihak kontrak akan jujur.",
-        "response": "Janji tersirat itikad baik; asumsi umum dalam hukum kontrak bahwa orang akan bertindak jujur dan adil tanpa melanggar janji atau menggunakan cara licik."
+        "response": "Asas itikad baik yang tersirat dalam perjanjian adalah prinsip hukum yang mengharuskan setiap pihak dalam suatu kontrak untuk bertindak secara jujur, wajar, dan tidak merugikan pihak lain dalam pelaksanaan hak dan kewajiban yang timbul dari perjanjian tersebut. Dalam hukum Indonesia, asas ini tercermin dalam Pasal 1338 ayat (3) KUHPerdata yang menyatakan bahwa perjanjian harus dilaksanakan dengan itikad baik."
     },
     {
         "instruction": "Sebutkan peranan dan fungsi dari Dewan Direksi (Board of Directors)?",
@@ -2660,9 +2660,9 @@
         "response": "1) Hak-hak (jamak). 2) Slang untuk pembacaan hak Miranda kepada tersangka."
     },
     {
-        "instruction": "Coba jelaskan makna dari Paid into Court?",
+        "instruction": "Jelaskan makna dari mekanisme pembayaran ke kas pengadilan dalam sengketa perdata.",
         "context": "Menyetorkan uang sengketa ke pengadilan.",
-        "response": "Dibayarkan ke pengadilan (Konsinyasi); merujuk pada uang yang disetorkan ke panitera pengadilan oleh pihak yang tahu bahwa uang itu terutang tetapi tidak tahu kepada siapa harus membayarnya sampai hasil gugatan diputuskan."
+        "response": "Pembayaran ke kas pengadilan adalah mekanisme dalam hukum acara perdata di mana pihak yang berhutang membayarkan sejumlah uang atau menyerahkan benda tertentu kepada pengadilan untuk disimpan secara resmi ketika kreditor menolak menerima pembayaran atau keberadaannya tidak diketahui. Mekanisme ini diatur dalam KUHPerdata sebagai cara pelunasan utang yang sah meskipun tanpa persetujuan langsung dari kreditor."
     },
     {
         "instruction": "Mohon jelaskan: Apa arti Quasi?",
@@ -2680,9 +2680,9 @@
         "response": "Janji ilusi; kesepakatan yang begitu tidak pasti atau opsional sehingga sebenarnya bukan perjanjian sejati, sehingga pihak lain tidak wajib memenuhinya."
     },
     {
-        "instruction": "Mohon jelaskan: Apa arti Court?",
+        "instruction": "Jelaskan definisi dari istilah pengadilan dalam sistem hukum Indonesia.",
         "context": "Pengadilan atau hakim itu sendiri.",
-        "response": "1) Hakim. 2) Pengadilan resmi mana pun yang dipimpin oleh hakim."
+        "response": "Pengadilan adalah lembaga peradilan yang berwenang memeriksa, mengadili, dan memutus perkara berdasarkan hukum yang berlaku. Dalam sistem hukum Indonesia, pengadilan dibagi menjadi empat lingkungan peradilan yaitu peradilan umum, peradilan agama, peradilan militer, dan peradilan tata usaha negara, yang semuanya bermuara pada Mahkamah Agung sebagai puncak peradilan negara sebagaimana diatur dalam UUD 1945 dan UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman."
     },
     {
         "instruction": "Coba jelaskan makna dari Aturan Orang Samaria yang Baik (Good Samaritan Rule)?",
